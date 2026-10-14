@@ -1,20 +1,29 @@
 {
  "run_date_et": "2026-10-14",
- "started_et": "2026-10-14T12:52:32-04:00",
+ "started_et": "2026-10-14T17:14:09-04:00",
  "modules": [
-  "feeds"
+  "etf",
+  "feeds",
+  "sec"
  ],
  "sec_days": {},
- "skipped_done": [],
+ "skipped_done": [
+  "2026-10-08",
+  "2026-10-09",
+  "2026-10-12",
+  "2026-10-13"
+ ],
  "no_index": [],
- "pending": [],
+ "pending": [
+  "2026-10-14: index not published yet"
+ ],
  "universe_tickers": 774,
  "universe_ciks": 522,
  "feeds": {
   "prn-all": {
    "status": 200,
    "items": 20,
-   "new": 20
+   "new": 19
   },
   "prn-technology": {
    "status": 200,
@@ -24,27 +33,27 @@
   "prn-energy": {
    "status": 200,
    "items": 20,
-   "new": 3
+   "new": 17
   },
   "prn-finserv": {
    "status": 200,
    "items": 20,
-   "new": 4
+   "new": 13
   },
   "prn-acquisitions": {
    "status": 200,
    "items": 20,
-   "new": 0
+   "new": 5
   },
   "nvidia-newsroom": {
    "status": 200,
    "items": 20,
-   "new": 1
+   "new": 0
   },
   "techcrunch": {
    "status": 200,
    "items": 20,
-   "new": 2
+   "new": 9
   },
   "techcrunch-venture": {
    "status": 200,
@@ -59,17 +68,17 @@
   "dcd": {
    "status": 200,
    "items": 20,
-   "new": 2
+   "new": 1
   },
   "hpcwire": {
    "status": 200,
    "items": 10,
-   "new": 0
+   "new": 7
   },
   "siliconangle": {
    "status": 200,
    "items": 30,
-   "new": 0
+   "new": 2
   },
   "wnn": {
    "status": 200,
@@ -79,27 +88,27 @@
   "utilitydive": {
    "status": 200,
    "items": 10,
-   "new": 1
+   "new": 0
   },
   "breakingdefense": {
    "status": 200,
    "items": 15,
-   "new": 1
+   "new": 4
   },
   "cnbc-top": {
    "status": 200,
    "items": 30,
-   "new": 5
+   "new": 13
   },
   "cnbc-tech": {
    "status": 200,
    "items": 30,
-   "new": 0
+   "new": 1
   },
   "techmeme": {
    "status": 200,
    "items": 15,
-   "new": 4
+   "new": 6
   },
   "sec-press": {
    "status": 200,
@@ -113,22 +122,22 @@
   },
   "gn-investors-01": {
    "status": 200,
-   "items": 9,
-   "new": 0
+   "items": 8,
+   "new": 2
   },
   "gn-investors-02": {
    "status": 200,
-   "items": 5,
-   "new": 0
+   "items": 6,
+   "new": 3
   },
   "gn-investors-03": {
    "status": 200,
-   "items": 34,
-   "new": 7
+   "items": 39,
+   "new": 16
   },
   "gn-investors-04": {
    "status": 200,
-   "items": 1,
+   "items": 0,
    "new": 0
   },
   "gn-investors-05": {
@@ -138,23 +147,23 @@
   },
   "gn-investors-06": {
    "status": 200,
-   "items": 15,
-   "new": 1
+   "items": 16,
+   "new": 5
   },
   "gn-investors-07": {
    "status": 200,
-   "items": 22,
-   "new": 4
+   "items": 24,
+   "new": 3
   },
   "gn-investors-08": {
    "status": 200,
-   "items": 12,
-   "new": 0
+   "items": 14,
+   "new": 5
   },
   "gn-investors-09": {
    "status": 200,
-   "items": 22,
-   "new": 2
+   "items": 20,
+   "new": 3
   },
   "gn-investors-10": {
    "status": 200,
@@ -163,28 +172,28 @@
   },
   "gn-investors-11": {
    "status": 200,
-   "items": 22,
-   "new": 3
+   "items": 25,
+   "new": 8
   },
   "gn-investors-12": {
    "status": 200,
-   "items": 11,
-   "new": 0
+   "items": 13,
+   "new": 4
   },
   "gn-corp-nvidia": {
    "status": 200,
-   "items": 40,
-   "new": 2
+   "items": 29,
+   "new": 6
   },
   "gn-corp-others": {
    "status": 200,
    "items": 19,
-   "new": 1
+   "new": 5
   },
   "gn-gov-commerce": {
    "status": 200,
-   "items": 5,
-   "new": 1
+   "items": 7,
+   "new": 3
   },
   "gn-gov-war": {
    "status": 200,
@@ -193,151 +202,292 @@
   },
   "gn-gov-doe": {
    "status": 200,
-   "items": 13,
-   "new": 0
+   "items": 16,
+   "new": 4
   },
   "gn-filings": {
    "status": 200,
-   "items": 38,
-   "new": 4
+   "items": 31,
+   "new": 10
   },
   "gn-politicians": {
    "status": 200,
-   "items": 43,
-   "new": 1
+   "items": 45,
+   "new": 5
   },
   "gn-rounds-ai-chips": {
    "status": 200,
-   "items": 56,
-   "new": 8
+   "items": 54,
+   "new": 7
   },
   "gn-rounds-ai-infrastructure": {
    "status": 200,
-   "items": 51,
-   "new": 8
+   "items": 55,
+   "new": 10
   },
   "gn-rounds-ai-model-frameworks": {
    "status": 200,
-   "items": 14,
-   "new": 0
+   "items": 15,
+   "new": 4
   },
   "gn-rounds-advanced-packaging-chiplets": {
    "status": 200,
-   "items": 8,
-   "new": 0
+   "items": 11,
+   "new": 2
   },
   "gn-rounds-bitcoin-mining": {
    "status": 200,
-   "items": 56,
-   "new": 8
+   "items": 49,
+   "new": 13
   },
   "gn-rounds-cloud-computing-infrastructure": {
    "status": 200,
-   "items": 7,
-   "new": 0
+   "items": 10,
+   "new": 4
   },
   "gn-rounds-cooling": {
    "status": 200,
-   "items": 5,
-   "new": 1
+   "items": 6,
+   "new": 2
   },
   "gn-rounds-cpu-chip-design": {
    "status": 200,
-   "items": 18,
-   "new": 1
+   "items": 17,
+   "new": 3
   },
   "gn-rounds-critical-minerals": {
    "status": 200,
-   "items": 51,
-   "new": 3
+   "items": 53,
+   "new": 8
   },
   "gn-rounds-cybersecurity": {
    "status": 200,
-   "items": 56,
-   "new": 6
+   "items": 58,
+   "new": 19
   },
   "gn-rounds-data-center-construction-real-estate": {
    "status": 200,
    "items": 50,
-   "new": 1
+   "new": 12
   },
   "gn-rounds-defense": {
    "status": 200,
-   "items": 52,
-   "new": 2
+   "items": 48,
+   "new": 10
   },
   "gn-rounds-grid-electrical-infrastructure": {
    "status": 200,
    "items": 58,
-   "new": 2
+   "new": 8
   },
   "gn-rounds-memory": {
    "status": 200,
-   "items": 35,
-   "new": 0
+   "items": 22,
+   "new": 1
   },
   "gn-rounds-networking-optics": {
    "status": 200,
    "items": 3,
-   "new": 0
+   "new": 1
   },
   "gn-rounds-power-energy": {
    "status": 200,
-   "items": 57,
-   "new": 7
+   "items": 60,
+   "new": 15
   },
   "gn-rounds-quantum-computing": {
    "status": 200,
-   "items": 61,
-   "new": 6
+   "items": 59,
+   "new": 7
   },
   "gn-rounds-robotics-industrial-automation": {
    "status": 200,
-   "items": 61,
-   "new": 5
+   "items": 58,
+   "new": 10
   },
   "gn-rounds-semiconductor-capital-equipment": {
    "status": 200,
-   "items": 30,
-   "new": 2
+   "items": 27,
+   "new": 6
   },
   "gn-rounds-semiconductor-foundries-fabrication": {
    "status": 200,
-   "items": 48,
-   "new": 4
+   "items": 45,
+   "new": 3
   },
   "gn-rounds-semiconductors": {
    "status": 200,
-   "items": 54,
-   "new": 5
+   "items": 44,
+   "new": 3
   },
   "gn-rounds-server-level-system-architecture-datacenters": {
    "status": 200,
-   "items": 30,
-   "new": 2
+   "items": 28,
+   "new": 5
   },
   "gn-rounds-silicon-photonics": {
    "status": 200,
-   "items": 20,
-   "new": 1
+   "items": 25,
+   "new": 3
   },
   "gn-rounds-software-eda": {
    "status": 200,
-   "items": 1,
-   "new": 0
+   "items": 3,
+   "new": 2
   },
   "gn-rounds-space": {
    "status": 200,
-   "items": 38,
-   "new": 6
+   "items": 40,
+   "new": 9
   },
   "gn-rounds-testing-inspection-metrology": {
    "status": 200,
-   "items": 24,
-   "new": 2
+   "items": 31,
+   "new": 7
   }
  },
- "feed_items_today": 1611,
- "finished_et": "2026-10-14T12:56:12-04:00",
- "elapsed_min": 3.7
+ "feed_items_today": 1965,
+ "etf": {
+  "ARKK": {
+   "status": "already captured"
+  },
+  "ARKW": {
+   "status": "already captured"
+  },
+  "ARKQ": {
+   "status": "already captured"
+  },
+  "ARKX": {
+   "status": "already captured"
+  },
+  "BOTZ": {
+   "status": "already captured"
+  },
+  "AIQ": {
+   "status": "already captured"
+  },
+  "SHLD": {
+   "status": "already captured"
+  },
+  "URA": {
+   "status": "already captured"
+  },
+  "CLOU": {
+   "status": "already captured"
+  },
+  "BUG": {
+   "status": "already captured"
+  },
+  "DTCR": {
+   "status": "already captured"
+  },
+  "LIT": {
+   "status": "already captured"
+  },
+  "COPX": {
+   "status": "already captured"
+  },
+  "PAVE": {
+   "status": "already captured"
+  },
+  "ROKT": {
+   "status": "already captured"
+  },
+  "XSD": {
+   "status": "already captured"
+  },
+  "XAR": {
+   "status": "already captured"
+  },
+  "XLU": {
+   "status": "already captured"
+  },
+  "XLK": {
+   "status": "already captured"
+  },
+  "XITK": {
+   "status": "already captured"
+  },
+  "XME": {
+   "status": "already captured"
+  },
+  "FTXL": {
+   "status": "already captured"
+  },
+  "GRID": {
+   "status": "already captured"
+  },
+  "QCLN": {
+   "status": "already captured"
+  },
+  "CIBR": {
+   "status": "already captured"
+  },
+  "SKYY": {
+   "status": "already captured"
+  },
+  "SMH": {
+   "status": "already captured"
+  },
+  "SOXX": {
+   "status": "already captured"
+  },
+  "SOXQ": {
+   "status": "already captured"
+  },
+  "ITA": {
+   "status": "already captured"
+  },
+  "DFEN": {
+   "status": "already captured"
+  },
+  "UFO": {
+   "status": "already captured"
+  },
+  "QTUM": {
+   "status": "already captured"
+  },
+  "WQTM": {
+   "status": "already captured"
+  },
+  "NLR": {
+   "status": "already captured"
+  },
+  "USAI": {
+   "status": "already captured"
+  },
+  "WGMI": {
+   "status": "already captured"
+  },
+  "NCLD": {
+   "status": "already captured"
+  },
+  "LYTE": {
+   "status": "already captured"
+  },
+  "KOID": {
+   "status": "already captured"
+  },
+  "HBMX": {
+   "status": "already captured"
+  },
+  "IGV": {
+   "status": "already captured"
+  },
+  "REMX": {
+   "status": "already captured"
+  },
+  "CHAT": {
+   "status": "already captured"
+  },
+  "SRVR": {
+   "status": "already captured"
+  },
+  "HACK": {
+   "status": "already captured"
+  }
+ },
+ "etf_diff_rows": 0,
+ "finished_et": "2026-10-14T17:18:06-04:00",
+ "elapsed_min": 4.0
 }
