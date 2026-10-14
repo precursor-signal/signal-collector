@@ -2,4 +2,3 @@
 __pycache__/
 *.pyc
 **/*.PENDING-*
-layer4-signal-collector/config/private-watchlist.csv
