@@ -1,0 +1,190 @@
+{
+ "period": "2026-06-30",
+ "accession": "0002077718-26-000003",
+ "holdings": [
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL A",
+   "cusip": "02079K305",
+   "value_usd": 249827.0,
+   "shares": 699.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMAZON COM INC",
+   "class": "COM",
+   "cusip": "023135106",
+   "value_usd": 3456645.0,
+   "shares": 14503.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLE INC",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 1307328.0,
+   "shares": 4518.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHIPOTLE MEXICAN GRILL INC",
+   "class": "COM",
+   "cusip": "169656105",
+   "value_usd": 2457928.0,
+   "shares": 72292.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ENERGY TRANSFER L P",
+   "class": "COM UT LTD PTN",
+   "cusip": "29273V100",
+   "value_usd": 1510021.0,
+   "shares": 78976.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GALAXY DIGITAL INC.",
+   "class": "CL A",
+   "cusip": "36317J209",
+   "value_usd": 38405646.0,
+   "shares": 1404742.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 233884.0,
+   "shares": 627.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NU HLDGS LTD",
+   "class": "ORD SHS CL A",
+   "cusip": "G6683N103",
+   "value_usd": 1620167.0,
+   "shares": 121270.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SOFI TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "83406F102",
+   "value_usd": 4489582.0,
+   "shares": 250395.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AGNC INVT CORP",
+   "class": "COM",
+   "cusip": "00123Q104",
+   "value_usd": 1320578.0,
+   "shares": 119900.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ANNALY CAPITAL MANAGEMENT IN",
+   "class": "COM NEW",
+   "cusip": "035710839",
+   "value_usd": 1524602.0,
+   "shares": 66150.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RITHM CAPITAL CORP",
+   "class": "COM NEW",
+   "cusip": "64828T201",
+   "value_usd": 1747601.0,
+   "shares": 186113.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL C",
+   "cusip": "02079K107",
+   "value_usd": 4541704.0,
+   "shares": 12854.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CELSIUS HLDGS INC",
+   "class": "COM NEW",
+   "cusip": "15118V207",
+   "value_usd": 2164378.0,
+   "shares": 73920.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHARGEPOINT HOLDINGS INC",
+   "class": "COM SHS",
+   "cusip": "15961R303",
+   "value_usd": 103425.0,
+   "shares": 17500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DHT HOLDINGS INC",
+   "class": "SHS NEW",
+   "cusip": "Y2065G121",
+   "value_usd": 592601.0,
+   "shares": 35850.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIGI PWR X INC",
+   "class": "COM SUB VTG",
+   "cusip": "25380B102",
+   "value_usd": 1764111.0,
+   "shares": 323690.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UBER TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "90353T100",
+   "value_usd": 1119562.0,
+   "shares": 15515.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNITEDHEALTH GROUP INC",
+   "class": "COM",
+   "cusip": "91324P102",
+   "value_usd": 2850806.0,
+   "shares": 6859.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CANOPY GROWTH CORPORATION",
+   "class": "COM NEW",
+   "cusip": "138035704",
+   "value_usd": 656056.0,
+   "shares": 690585.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COMPUGEN LTD",
+   "class": "ORD",
+   "cusip": "M25722105",
+   "value_usd": 74900.0,
+   "shares": 35000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STRATEGY INC",
+   "class": "CL A NEW",
+   "cusip": "594972408",
+   "value_usd": 608510.0,
+   "shares": 7000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FORWARD INDUSTRIES INC",
+   "class": "COM NEW",
+   "cusip": "349932103",
+   "value_usd": 227880.0,
+   "shares": 54000.0,
+   "put_call": ""
+  }
+ ]
+}

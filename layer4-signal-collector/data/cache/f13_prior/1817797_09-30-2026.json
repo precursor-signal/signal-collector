@@ -1,0 +1,198 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001817797-26-000004",
+ "holdings": [
+  {
+   "issuer": "ACCENTURE PLC IRELAND",
+   "class": "SHS CLASS A",
+   "cusip": "G1151C101",
+   "value_usd": 20363610.0,
+   "shares": 163642.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ADOBE INC",
+   "class": "COM",
+   "cusip": "00724F101",
+   "value_usd": 36882278.0,
+   "shares": 179896.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL A",
+   "cusip": "02079K305",
+   "value_usd": 43394010.0,
+   "shares": 121426.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AUTODESK INC",
+   "class": "COM",
+   "cusip": "052769106",
+   "value_usd": 44264574.0,
+   "shares": 227675.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AUTOMATIC DATA PROCESSING IN",
+   "class": "COM",
+   "cusip": "053015103",
+   "value_usd": 1882972.0,
+   "shares": 8408.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BOOKING HOLDINGS INC",
+   "class": "COM",
+   "cusip": "09857L108",
+   "value_usd": 2202690.0,
+   "shares": 12358.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CADENCE DESIGN SYSTEM INC",
+   "class": "COM",
+   "cusip": "127387108",
+   "value_usd": 42906958.0,
+   "shares": 114321.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CME GROUP INC",
+   "class": "COM",
+   "cusip": "12572Q105",
+   "value_usd": 839154.0,
+   "shares": 3800.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COPART INC",
+   "class": "COM",
+   "cusip": "217204106",
+   "value_usd": 29675528.0,
+   "shares": 1052697.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EDWARDS LIFESCIENCES CORP",
+   "class": "COM",
+   "cusip": "28176E108",
+   "value_usd": 54296896.0,
+   "shares": 600231.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GRACO INC",
+   "class": "COM",
+   "cusip": "384109104",
+   "value_usd": 1269341.0,
+   "shares": 16788.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "IDEXX LABS INC",
+   "class": "COM",
+   "cusip": "45168D104",
+   "value_usd": 51359486.0,
+   "shares": 97560.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INTUITIVE SURGICAL INC",
+   "class": "COM NEW",
+   "cusip": "46120E602",
+   "value_usd": 46009588.0,
+   "shares": 115695.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MASTERCARD INCORPORATED",
+   "class": "CL A",
+   "cusip": "57636Q104",
+   "value_usd": 87008976.0,
+   "shares": 169410.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "METTLER TOLEDO INTERNATIONAL",
+   "class": "COM",
+   "cusip": "592688105",
+   "value_usd": 26900528.0,
+   "shares": 21057.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 42944674.0,
+   "shares": 115127.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MOODYS CORP",
+   "class": "COM",
+   "cusip": "615369105",
+   "value_usd": 1644100.0,
+   "shares": 3630.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TRADEWEB MKTS INC",
+   "class": "CL A",
+   "cusip": "892672106",
+   "value_usd": 1942174.0,
+   "shares": 19488.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TYLER TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "902252105",
+   "value_usd": 50645883.0,
+   "shares": 173172.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNITEDHEALTH GROUP INC",
+   "class": "COM",
+   "cusip": "91324P102",
+   "value_usd": 66510359.0,
+   "shares": 160023.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VEEVA SYS INC",
+   "class": "CL A COM",
+   "cusip": "922475108",
+   "value_usd": 56263669.0,
+   "shares": 317032.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VISA INC",
+   "class": "COM CL A",
+   "cusip": "92826C839",
+   "value_usd": 1928509.0,
+   "shares": 5621.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WEST PHARMACEUTICAL SVSC INC",
+   "class": "COM",
+   "cusip": "955306105",
+   "value_usd": 49624570.0,
+   "shares": 138230.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ZOETIS INC",
+   "class": "CL A",
+   "cusip": "98978V103",
+   "value_usd": 33056031.0,
+   "shares": 460006.0,
+   "put_call": ""
+  }
+ ]
+}

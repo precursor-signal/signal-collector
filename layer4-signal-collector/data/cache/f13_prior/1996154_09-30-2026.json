@@ -1,0 +1,318 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001996154-26-000011",
+ "holdings": [
+  {
+   "issuer": "ALAPHABET INC",
+   "class": "CAP STK CL A",
+   "cusip": "02079K305",
+   "value_usd": 11078470.0,
+   "shares": 31000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLIED OPTOELECTRONICS INC",
+   "class": "COM",
+   "cusip": "03823U102",
+   "value_usd": 22591881.0,
+   "shares": 152483.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLOVIN CORP",
+   "class": "COM CL A",
+   "cusip": "03831W108",
+   "value_usd": 16435837.0,
+   "shares": 31900.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARM HOLDINGS PLC",
+   "class": "SPONSORED ADS",
+   "cusip": "042068205",
+   "value_usd": 31556730.0,
+   "shares": 89000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ASML HOLDING N V",
+   "class": "N Y REGISTRY SHS",
+   "cusip": "N07059210",
+   "value_usd": 57693760.0,
+   "shares": 29000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AST SPACEMOBILE INC",
+   "class": "COM CL A",
+   "cusip": "00217D100",
+   "value_usd": 4531860.0,
+   "shares": 51000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BLOOM ENERGY CORP",
+   "class": "COM CL A",
+   "cusip": "093712107",
+   "value_usd": 22399800.0,
+   "shares": 74000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BROADCOM INC",
+   "class": "COM",
+   "cusip": "11135F101",
+   "value_usd": 122882075.0,
+   "shares": 325300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CELSIUS HLDGS INC",
+   "class": "COM NEW",
+   "cusip": "15118V207",
+   "value_usd": 3220800.0,
+   "shares": 110000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CIENA CORP",
+   "class": "COM NEW",
+   "cusip": "171779309",
+   "value_usd": 17282919.0,
+   "shares": 35231.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COHERENT CORP",
+   "class": "COM",
+   "cusip": "19247G107",
+   "value_usd": 5522580.0,
+   "shares": 14000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CORNING INC",
+   "class": "COM",
+   "cusip": "219350105",
+   "value_usd": 13614419.0,
+   "shares": 53300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "D-WAVE QUANTUM INC",
+   "class": "COM",
+   "cusip": "26740W109",
+   "value_usd": 74881091.0,
+   "shares": 3121346.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EVERPURE INC",
+   "class": "CL A",
+   "cusip": "74624M102",
+   "value_usd": 38171155.0,
+   "shares": 484467.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "IONQ INC",
+   "class": "COM",
+   "cusip": "46222L108",
+   "value_usd": 40951614.0,
+   "shares": 768900.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LUMENTUM HLDGS INC",
+   "class": "COM",
+   "cusip": "55024U109",
+   "value_usd": 16989588.0,
+   "shares": 19800.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MARVELL TECHNOLOGY INC",
+   "class": "COM",
+   "cusip": "573874104",
+   "value_usd": 10247416.0,
+   "shares": 34400.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MAXLINEAR INC",
+   "class": "COM",
+   "cusip": "57776J100",
+   "value_usd": 14710647.0,
+   "shares": 114900.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "META PLATFORMS INC",
+   "class": "CL A",
+   "cusip": "30303M102",
+   "value_usd": 17453541.0,
+   "shares": 30985.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICRON TECHNOLOGY INC",
+   "class": "COM",
+   "cusip": "595112103",
+   "value_usd": 58637932.0,
+   "shares": 50800.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MONGODB INC",
+   "class": "CL A",
+   "cusip": "60937P106",
+   "value_usd": 15283450.0,
+   "shares": 45500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NETAPP INC",
+   "class": "COM",
+   "cusip": "64110D104",
+   "value_usd": 23755660.0,
+   "shares": 153500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NVIDIA CORPORATION",
+   "class": "COM",
+   "cusip": "67066G104",
+   "value_usd": 151487739.0,
+   "shares": 757098.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ORACLE CORP",
+   "class": "COM",
+   "cusip": "68389X105",
+   "value_usd": 5862000.0,
+   "shares": 40000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PALANTIR TECHNOLOGIES INC",
+   "class": "CL A",
+   "cusip": "69608A108",
+   "value_usd": 97885197.0,
+   "shares": 838992.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PALO ALTO NETWORKS INC",
+   "class": "COM",
+   "cusip": "697435105",
+   "value_usd": 10060090.0,
+   "shares": 29500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PINTEREST INC",
+   "class": "CL A",
+   "cusip": "72352l106",
+   "value_usd": 7886250.0,
+   "shares": 375000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "QUANTUM COMPUTING INC",
+   "class": "COM",
+   "cusip": "74766W108",
+   "value_usd": 3514106.0,
+   "shares": 362279.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RIGETTI COMPUTING INC",
+   "class": "COMMON STOCK",
+   "cusip": "76655K103",
+   "value_usd": 68043784.0,
+   "shares": 3521935.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ROCKET LAB USA INC",
+   "class": "COM",
+   "cusip": "773122106",
+   "value_usd": 71422847.0,
+   "shares": 702635.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SANDISK CORP",
+   "class": "COM",
+   "cusip": "80004C200",
+   "value_usd": 133013205.0,
+   "shares": 58500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SEGATE TECHNOLOGY HLDNGS PL",
+   "class": "ORD SHS",
+   "cusip": "G7997R103",
+   "value_usd": 41977500.0,
+   "shares": 43500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SILICON MOTION TECHNOLOGY CO",
+   "class": "SPONSORED ADR",
+   "cusip": "82706C108",
+   "value_usd": 13733196.0,
+   "shares": 41200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SYMBOTIC INC",
+   "class": "CLASS A COM",
+   "cusip": "87151X101",
+   "value_usd": 1220258.0,
+   "shares": 27147.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TESLA INC",
+   "class": "COM",
+   "cusip": "88160R101",
+   "value_usd": 188706817.0,
+   "shares": 448661.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TTM TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "87305R109",
+   "value_usd": 5909832.0,
+   "shares": 31600.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNITEDHEALTH GROUP INC",
+   "class": "COM",
+   "cusip": "91324P102",
+   "value_usd": 17221213.0,
+   "shares": 41434.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "USA RARE EARTH INC",
+   "class": "COM",
+   "cusip": "91733P107",
+   "value_usd": 9913291.0,
+   "shares": 459374.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WESTERN DIGITAL CORP",
+   "class": "COM",
+   "cusip": "958102105",
+   "value_usd": 64893952.0,
+   "shares": 101600.0,
+   "put_call": ""
+  }
+ ]
+}

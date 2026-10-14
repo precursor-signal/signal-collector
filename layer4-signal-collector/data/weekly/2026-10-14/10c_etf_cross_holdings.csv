@@ -1,0 +1,323 @@
+﻿ticker,etf_count,etfs,sectors
+NVDA,17,SMH 19.8%; SOXQ 11.8%; BOTZ 8.1%; SOXX 7.6%; FTXL 7.6%; CHAT 7.0%; ARKQ 6.0%; ARKX 5.5%; ARKW 4.4%; WQTM 3.3%; WGMI 3.1%; ARKK 3.1%; AIQ 2.9%; DTCR 2.2%; KOID 2.1%; GRID 2.0%; QTUM 1.3%,AI chips; AI infrastructure; CPU / chip design
+AMD,12,SOXX 9.4%; SMH 5.6%; SOXQ 4.9%; FTXL 4.7%; ARKX 4.5%; ARKQ 4.3%; CHAT 3.3%; ARKW 3.1%; AIQ 3.0%; DTCR 2.4%; ARKK 1.9%; QTUM 1.5%,AI chips; CPU / chip design; AI infrastructure; Semiconductors
+AVGO,12,SOXQ 9.1%; CIBR 7.2%; SOXX 7.1%; FTXL 7.0%; HACK 6.3%; SMH 5.4%; ARKW 2.6%; CHAT 2.5%; AIQ 2.4%; ARKQ 2.3%; ARKK 1.9%; DTCR 1.9%,AI chips; CPU / chip design; Networking & optics; Silicon photonics; AI infrastructure; Semiconductors
+TSM,10,SMH 9.3%; SOXQ 4.0%; ARKQ 3.8%; SOXX 3.0%; AIQ 2.9%; ARKW 2.3%; ARKX 1.9%; QTUM 1.3%; ARKK 1.0%; WGMI 1.0%,Semiconductor foundries & fabrication; AI chips; Semiconductors; Advanced Packaging & Chiplets; AI infrastructure; CPU / chip design
+AMZN,9,ARKX 4.7%; ARKW 3.7%; ARKQ 3.6%; WQTM 3.6%; CHAT 3.5%; SKYY 3.3%; AIQ 3.0%; ARKK 2.4%; CLOU 1.4%,Cloud computing infrastructure; AI infrastructure; AI model frameworks; AI chips
+MU,9,HBMX 9.4%; SOXX 7.7%; SOXQ 7.5%; FTXL 7.3%; SMH 4.7%; CHAT 3.0%; AIQ 2.6%; DTCR 2.2%; QTUM 1.3%,Memory; AI infrastructure; Semiconductors; AI chips
+TER,9,ARKQ 4.8%; FTXL 3.2%; ARKX 3.1%; SOXX 3.1%; SOXQ 2.5%; KOID 2.1%; QTUM 1.3%; SMH 1.2%; ARKK 1.0%,"Testing, Inspection & Metrology; Robotics & Industrial Automation; Semiconductor capital equipment; Memory; Advanced Packaging & Chiplets; AI chips"
+PLTR,8,SHLD 13.3%; IGV 9.6%; ARKQ 5.3%; AIQ 4.5%; ARKX 4.2%; ARKK 3.1%; ARKW 2.7%; QTUM 1.8%,AI infrastructure; AI model frameworks; Defense; Software & EDA; Space
+MSFT,8,IGV 8.6%; CHAT 4.0%; AIQ 3.8%; WQTM 3.7%; SKYY 3.5%; CIBR 2.0%; CLOU 1.8%; QTUM 1.6%,Cloud computing infrastructure; AI infrastructure; AI model frameworks; Software & EDA
+NET,8,HACK 5.4%; CLOU 4.7%; CIBR 4.2%; SKYY 2.5%; ARKW 2.3%; CHAT 2.3%; QTUM 1.9%; ARKK 1.3%,Cybersecurity; Cloud computing infrastructure
+GOOGL,7,CHAT 5.7%; SKYY 3.5%; WQTM 3.1%; AIQ 3.0%; BOTZ 2.1%; CIBR 1.9%; CLOU 1.3%,Cloud computing infrastructure; AI model frameworks; AI infrastructure; AI chips; Space
+INTC,7,SOXX 8.4%; FTXL 8.4%; SOXQ 4.3%; SMH 4.2%; AIQ 2.7%; WQTM 2.2%; DTCR 2.1%,CPU / chip design; Semiconductor foundries & fabrication; AI chips; Advanced Packaging & Chiplets; AI infrastructure; Silicon photonics; Semiconductors
+SNPS,7,IGV 3.2%; SMH 2.1%; WQTM 2.0%; QTUM 1.3%; ARKX 1.2%; ARKQ 1.1%; AIQ 0.7%,Software & EDA; AI model frameworks; CPU / chip design
+ZS,7,BUG 5.8%; CLOU 4.8%; HACK 4.7%; CIBR 4.0%; IGV 0.8%; SKYY 0.7%; AIQ 0.4%,Cybersecurity
+CRWV,7,NCLD 8.0%; WGMI 7.8%; ARKW 3.8%; ARKK 2.7%; SKYY 2.5%; CHAT 2.2%; AIQ 0.3%,AI infrastructure; Cloud computing infrastructure; Server-level system architecture & datacenters
+SPCX,6,UFO 17.0%; ARKX 11.4%; ARKQ 8.8%; ARKK 6.6%; ARKW 4.9%; AIQ 3.5%,Space; AI infrastructure; Defense; AI model frameworks
+CSCO,6,CIBR 7.7%; HACK 5.8%; AIQ 2.7%; SKYY 2.3%; GRID 1.9%; WQTM 1.7%,Networking & optics; Cybersecurity; Silicon photonics; AI infrastructure; Server-level system architecture & datacenters
+MRVL,6,SOXQ 4.8%; SOXX 4.7%; FTXL 4.6%; SMH 4.6%; DTCR 2.7%; AIQ 1.8%,AI chips; Networking & optics; Silicon photonics; CPU / chip design; Semiconductors; Server-level system architecture & datacenters; Memory; AI infrastructure; Advanced Packaging & Chiplets
+IBM,6,WQTM 5.5%; SKYY 3.3%; CIBR 1.8%; AIQ 1.7%; GRID 0.9%; CLOU 0.2%,Software & EDA
+SNOW,6,CLOU 7.3%; CHAT 2.1%; QTUM 1.8%; AIQ 1.0%; ARKW 0.9%; SKYY 0.6%,Cloud computing infrastructure; AI model frameworks; Software & EDA
+DDOG,6,CLOU 5.9%; IGV 3.2%; ARKW 2.4%; CIBR 2.2%; AIQ 0.7%; SKYY 0.7%,Software & EDA; AI model frameworks; Cloud computing infrastructure
+NXPI,6,FTXL 3.7%; SOXX 2.9%; SOXQ 2.5%; SMH 1.0%; AIQ 0.4%; GRID 0.2%,Semiconductors; CPU / chip design
+BWXT,6,NLR 6.5%; SHLD 2.0%; ARKQ 1.5%; ARKX 1.5%; ARKK 1.0%; ITA 1.0%,Defense; Power & energy; Space
+LHX,6,ARKX 6.2%; SHLD 3.7%; ITA 3.5%; ARKQ 2.7%; DFEN 2.5%; UFO 2.4%,Defense; Space
+RBRK,6,BUG 5.6%; HACK 4.9%; CIBR 2.7%; SKYY 2.1%; ARKW 2.1%; IGV 0.6%,Cybersecurity; Cloud computing infrastructure
+ADI,6,SOXQ 4.3%; SMH 4.3%; FTXL 4.2%; SOXX 4.2%; KOID 2.1%; GRID 0.8%,Semiconductors; AI infrastructure
+TXN,6,SMH 4.7%; SOXQ 4.2%; FTXL 4.0%; SOXX 4.0%; KOID 2.1%; GRID 1.1%,Semiconductors; CPU / chip design
+MPWR,6,QCLN 8.6%; SOXX 3.2%; SOXQ 2.8%; KOID 2.1%; FTXL 1.9%; SMH 1.2%,Semiconductors; AI chips; AI infrastructure; CPU / chip design
+ORCL,5,IGV 6.6%; SKYY 3.2%; AIQ 3.2%; GRID 1.2%; CLOU 0.3%,Cloud computing infrastructure; AI infrastructure; Software & EDA; AI model frameworks
+QCOM,5,FTXL 7.6%; SOXQ 3.9%; SOXX 3.8%; SMH 3.6%; AIQ 1.4%,CPU / chip design; AI chips; Semiconductors; AI infrastructure
+KTOS,5,ARKX 5.3%; ARKQ 4.8%; SHLD 1.2%; ARKK 1.0%; ITA 0.6%,Defense; Space
+XE,5,NLR 4.2%; URA 2.5%; ARKX 1.0%; ARKQ 1.0%; ARKK 0.9%,Power & energy
+LMT,5,SHLD 8.3%; ITA 4.7%; DFEN 3.3%; UFO 2.4%; ARKX 0.9%,Defense
+PANW,5,IGV 9.4%; CIBR 7.7%; BUG 7.4%; HACK 5.7%; SKYY 0.6%,Cybersecurity
+ASML,5,HBMX 5.1%; SMH 4.5%; SOXQ 3.8%; CHAT 3.4%; SOXX 1.5%,Semiconductor capital equipment; AI chips; Semiconductors
+ALAB,5,CHAT 3.0%; SOXQ 2.4%; SOXX 2.4%; SMH 1.1%; FTXL 0.6%,Networking & optics; AI chips; Memory; AI infrastructure; CPU / chip design; Semiconductors; Advanced Packaging & Chiplets; Server-level system architecture & datacenters
+NOC,5,SHLD 7.6%; ITA 4.5%; HACK 3.9%; DFEN 3.2%; UFO 2.3%,Defense; Space
+MCHP,5,FTXL 2.9%; SOXX 2.0%; DTCR 1.8%; SOXQ 1.7%; SMH 0.8%,Semiconductors; CPU / chip design; Defense; AI chips
+KLAC,5,SMH 4.6%; SOXX 4.0%; SOXQ 4.0%; HBMX 3.9%; FTXL 3.8%,"Semiconductor capital equipment; Testing, Inspection & Metrology; AI infrastructure; Semiconductors"
+ON,5,QCLN 8.6%; FTXL 3.8%; SOXX 1.5%; SOXQ 1.3%; SMH 0.5%,Semiconductors; AI chips; AI infrastructure; Power & energy
+AMAT,5,SMH 4.7%; HBMX 4.1%; SOXX 4.0%; SOXQ 3.8%; FTXL 3.7%,Semiconductor capital equipment; Semiconductors; AI chips; AI infrastructure; Advanced Packaging & Chiplets
+LRCX,5,HBMX 4.5%; SMH 4.3%; SOXX 3.8%; SOXQ 3.8%; FTXL 3.6%,Semiconductor capital equipment; AI chips; Semiconductors; AI infrastructure; Memory
+META,4,ARKW 4.2%; AIQ 3.4%; CHAT 2.6%; ARKK 2.2%,AI infrastructure; AI model frameworks; AI chips; Cloud computing infrastructure
+CRM,4,IGV 4.0%; CLOU 3.7%; SKYY 1.5%; AIQ 1.5%,AI model frameworks; Cloud computing infrastructure; Software & EDA
+HPE,4,DTCR 3.0%; SKYY 2.2%; QTUM 1.9%; AIQ 0.7%,Server-level system architecture & datacenters; AI infrastructure; Cloud computing infrastructure; Networking & optics
+OKLO,4,URA 5.3%; NLR 4.8%; ARKQ 0.8%; SRVR 0.7%,Power & energy; AI infrastructure
+HONA,4,ITA 3.9%; DFEN 2.8%; UFO 2.5%; ARKX 0.4%,Defense
+NTSK,4,BUG 5.3%; HACK 4.1%; SKYY 2.3%; CIBR 0.7%,Cybersecurity
+S,4,BUG 4.2%; HACK 3.9%; SKYY 1.8%; CIBR 1.2%,Cybersecurity
+AKAM,4,BUG 3.2%; CLOU 2.7%; SKYY 2.0%; CIBR 1.8%,Cloud computing infrastructure; Cybersecurity
+COHR,4,LYTE 13.1%; SOXQ 2.4%; CHAT 2.3%; FTXL 0.5%,Silicon photonics; Networking & optics; AI chips
+FSLY,4,HACK 3.8%; CLOU 2.5%; SKYY 2.0%; CIBR 0.5%,Cloud computing infrastructure
+RTX,4,ITA 16.4%; DFEN 11.7%; SHLD 9.1%; UFO 2.3%,Defense
+GD,4,SHLD 8.5%; ITA 4.5%; HACK 4.0%; DFEN 3.2%,Defense
+CDNS,3,IGV 3.2%; SMH 2.1%; AIQ 0.7%,Software & EDA; AI infrastructure; CPU / chip design; Robotics & Industrial Automation
+BIDU,3,ARKQ 0.9%; BOTZ 0.5%; AIQ 0.2%,AI model frameworks; Cloud computing infrastructure; AI infrastructure
+PONY,3,ARKQ 0.9%; BOTZ 0.5%; AIQ 0.2%,Robotics & Industrial Automation
+HUT,3,WGMI 7.1%; NCLD 5.9%; AIQ 0.2%,Bitcoin mining; AI infrastructure; Cloud computing infrastructure; Data-Center Construction & Real Estate; Server-level system architecture & datacenters
+ACHR,3,ARKX 3.0%; ARKQ 2.3%; ARKK 1.1%,Defense
+AVAV,3,ARKX 4.7%; ARKQ 2.5%; SHLD 0.8%,Defense; Space; Robotics & Industrial Automation
+LUNR,3,ARKX 2.1%; ARKQ 1.7%; UFO 1.3%,Space
+CCJ,3,NLR 8.3%; ARKQ 1.5%; SRVR 0.7%,Power & energy
+VRNS,3,BUG 4.6%; HACK 3.6%; CIBR 0.8%,Cybersecurity
+ATEN,3,HACK 3.2%; BUG 2.4%; CIBR 0.3%,Cybersecurity; Networking & optics; CPU / chip design
+NBIS,3,NCLD 10.1%; WGMI 8.3%; CHAT 2.8%,AI infrastructure; Cloud computing infrastructure; AI model frameworks; Server-level system architecture & datacenters
+ARM,3,CHAT 2.4%; SOXQ 1.6%; SMH 1.0%,CPU / chip design; AI chips; AI infrastructure
+ESTC,3,QTUM 1.9%; CIBR 1.4%; SKYY 0.5%,Software & EDA
+ZM,3,CLOU 2.8%; IGV 0.9%; SKYY 0.6%,Software & EDA; AI model frameworks
+DLR,3,SRVR 15.2%; DTCR 12.6%; CLOU 2.5%,Data-Center Construction & Real Estate; AI infrastructure; Cloud computing infrastructure; Server-level system architecture & datacenters
+BA,3,ITA 7.7%; DFEN 5.5%; UFO 2.3%,Defense; Space
+HWM,3,ITA 4.5%; DFEN 3.2%; PAVE 2.4%,Defense; Semiconductor capital equipment
+RKLB,3,UFO 5.2%; ITA 2.8%; DFEN 2.0%,Space; Defense
+ATI,3,ITA 2.0%; PAVE 1.6%; DFEN 1.4%,Defense
+WWD,3,ITA 1.5%; PAVE 1.2%; DFEN 1.1%,Defense; Power & energy
+CRS,3,ITA 1.5%; PAVE 1.1%; DFEN 1.0%,Defense
+APLD,3,WGMI 3.8%; DTCR 3.6%; NCLD 3.5%,AI infrastructure; Data-Center Construction & Real Estate; Bitcoin mining; Cloud computing infrastructure; Server-level system architecture & datacenters
+WYFI,3,WGMI 3.9%; NCLD 0.3%; DTCR 0.2%,AI infrastructure; Cloud computing infrastructure; Bitcoin mining; Server-level system architecture & datacenters
+CRDO,3,SOXX 1.8%; SOXQ 1.6%; FTXL 0.8%,Networking & optics; AI chips; Silicon photonics; AI infrastructure; Data-Center Construction & Real Estate
+AEIS,3,QCLN 3.8%; FTXL 0.5%; GRID 0.1%,Semiconductor capital equipment; Semiconductors; AI chips
+ENS,3,QCLN 2.2%; LIT 2.2%; GRID 0.0%,Grid & Electrical Infrastructure; Power & energy; Data-Center Construction & Real Estate
+SKHY,3,HBMX 4.9%; SMH 4.0%; SOXX 2.8%,Memory; AI chips; CPU / chip design; Semiconductors; Advanced Packaging & Chiplets
+NTNX,3,SKYY 3.5%; QTUM 1.7%; IGV 0.7%,Cloud computing infrastructure; Server-level system architecture & datacenters
+ALB,3,REMX 8.1%; LIT 3.9%; QCLN 3.0%,Critical Minerals
+LEU,3,NLR 3.9%; URA 2.8%; SRVR 0.8%,Power & energy
+SMR,3,NLR 3.5%; URA 2.5%; SRVR 0.9%,Power & energy; Grid & Electrical Infrastructure
+NNE,3,NLR 1.3%; SRVR 0.8%; URA 0.7%,Power & energy
+SAP,2,AIQ 2.1%; SKYY 1.1%,Software & EDA
+BABA,2,AIQ 2.1%; CLOU 0.2%,Cloud computing infrastructure; AI model frameworks; AI chips
+STX,2,AIQ 1.3%; HBMX 0.9%,Memory; AI infrastructure
+DT,2,CIBR 2.2%; AIQ 0.4%,AI model frameworks; Cloud computing infrastructure; Software & EDA
+SMCI,2,DTCR 3.0%; AIQ 0.3%,AI infrastructure; Server-level system architecture & datacenters
+QUBT,2,WQTM 1.8%; AIQ 0.2%,Quantum computing; Silicon photonics; AI infrastructure; Networking & optics
+CBRS,2,ARKW 2.6%; ARKK 2.1%,AI chips; AI infrastructure; AI model frameworks; CPU / chip design
+AUR,2,BOTZ 2.3%; ARKQ 1.6%,Robotics & Industrial Automation
+ISRG,2,BOTZ 9.0%; ARKQ 1.5%,Robotics & Industrial Automation
+JOBY,2,ARKX 1.7%; ARKQ 1.1%,Defense
+ESLT,2,ARKX 1.2%; ARKQ 1.0%,Defense
+WRD,2,ARKQ 1.0%; BOTZ 0.4%,Robotics & Industrial Automation
+KDK,2,ARKQ 0.5%; BOTZ 0.1%,Robotics & Industrial Automation
+P,2,SKYY 5.6%; ARKW 1.9%,Server-level system architecture & datacenters
+GTLB,2,SKYY 1.9%; ARKW 1.7%,Software & EDA; Cloud computing infrastructure
+TOST,2,ARKW 1.1%; SKYY 0.5%,Software & EDA
+HEI,2,ARKX 1.5%; ITA 0.9%,Defense
+TDY,2,KOID 2.0%; ARKX 1.1%,"Defense; Testing, Inspection & Metrology; Robotics & Industrial Automation"
+CGNX,2,BOTZ 2.6%; KOID 2.2%,"Robotics & Industrial Automation; Testing, Inspection & Metrology"
+ROK,2,PAVE 3.0%; BOTZ 1.1%,Robotics & Industrial Automation
+CVLT,2,BUG 4.0%; CIBR 0.9%,Cybersecurity
+ARQQ,2,QTUM 1.5%; BUG 0.2%,Quantum computing; Cybersecurity; Defense; Software & EDA
+LITE,2,LYTE 17.6%; CHAT 2.5%,Silicon photonics; Networking & optics; AI chips; AI infrastructure; Semiconductors
+ANET,2,SKYY 3.5%; CIBR 1.9%,Networking & optics; AI infrastructure
+LDOS,2,SHLD 2.4%; CIBR 1.6%,Defense; Cybersecurity; Space
+DOCN,2,SKYY 3.8%; CLOU 3.7%,Cloud computing infrastructure; AI model frameworks
+BOX,2,CLOU 3.0%; SKYY 0.6%,Cloud computing infrastructure
+WK,2,CLOU 2.2%; SKYY 1.5%,Software & EDA
+VNET,2,DTCR 2.3%; CLOU 0.9%,Cloud computing infrastructure; Data-Center Construction & Real Estate; AI infrastructure; Server-level system architecture & datacenters
+GE,2,ITA 20.8%; DFEN 14.8%,Defense; Semiconductors
+TDG,2,ITA 4.7%; DFEN 3.4%,Defense
+AXON,2,ITA 2.6%; DFEN 1.9%,Defense
+CW,2,ITA 1.4%; DFEN 1.0%,Defense; Power & energy
+FTAI,2,ITA 1.3%; DFEN 0.9%,Defense
+AMT,2,SRVR 16.3%; DTCR 13.2%,Data-Center Construction & Real Estate
+EQIX,2,SRVR 15.8%; DTCR 12.4%,Data-Center Construction & Real Estate; Cloud computing infrastructure; AI infrastructure; Server-level system architecture & datacenters
+GDS,2,DTCR 4.1%; SRVR 1.5%,Data-Center Construction & Real Estate; AI infrastructure; Cloud computing infrastructure; Server-level system architecture & datacenters
+AMKR,2,HBMX 3.6%; FTXL 3.4%,Advanced Packaging & Chiplets; AI chips; Semiconductor foundries & fabrication; Semiconductor capital equipment; AI infrastructure; Memory
+ENTG,2,FTXL 2.5%; SOXX 1.2%,Semiconductor capital equipment; Semiconductors
+RMBS,2,HBMX 4.2%; FTXL 0.9%,Memory; CPU / chip design; AI chips; Semiconductors; Advanced Packaging & Chiplets; Networking & optics
+MTSI,2,SOXX 1.1%; FTXL 0.7%,Semiconductors; Silicon photonics; Networking & optics; AI chips; AI infrastructure; CPU / chip design; Defense
+ONTO,2,HBMX 5.7%; FTXL 0.7%,"Testing, Inspection & Metrology; Semiconductor capital equipment; Advanced Packaging & Chiplets; AI chips"
+FORM,2,HBMX 2.1%; FTXL 0.6%,"Semiconductor capital equipment; Testing, Inspection & Metrology; Memory; Advanced Packaging & Chiplets; Semiconductors"
+AXTI,2,LYTE 0.9%; FTXL 0.5%,Networking & optics; Silicon photonics
+PWR,2,GRID 9.0%; PAVE 3.4%,Grid & Electrical Infrastructure; Data-Center Construction & Real Estate; Power & energy
+ETN,2,GRID 8.4%; PAVE 3.3%,Grid & Electrical Infrastructure; Cooling; Power & energy; Server-level system architecture & datacenters; AI infrastructure
+HUBB,2,GRID 2.6%; PAVE 1.5%,Grid & Electrical Infrastructure; Power & energy; Data-Center Construction & Real Estate
+FPS,2,GRID 0.9%; PAVE 0.6%,Grid & Electrical Infrastructure
+MYRG,2,GRID 0.5%; PAVE 0.3%,Grid & Electrical Infrastructure; Data-Center Construction & Real Estate; Power & energy
+ENPH,2,QCLN 1.5%; GRID 0.4%,Power & energy
+ITRI,2,QCLN 1.3%; GRID 0.4%,Grid & Electrical Infrastructure
+AMSC,2,QCLN 0.5%; GRID 0.2%,Grid & Electrical Infrastructure; Defense
+WLDN,2,QCLN 0.4%; GRID 0.1%,Data-Center Construction & Real Estate
+FLNC,2,QCLN 0.3%; GRID 0.1%,Power & energy; Grid & Electrical Infrastructure
+PLPC,2,PAVE 0.4%; GRID 0.1%,Grid & Electrical Infrastructure
+WCC,2,PAVE 1.1%; GRID 0.1%,Grid & Electrical Infrastructure
+MTZ,2,PAVE 1.0%; GRID 0.1%,Data-Center Construction & Real Estate; Grid & Electrical Infrastructure
+NRGV,2,QCLN 0.2%; GRID 0.1%,Power & energy
+STM,2,SMH 0.9%; GRID 0.1%,Semiconductors; CPU / chip design; AI infrastructure; AI chips; Cloud computing infrastructure; Silicon photonics
+PRIM,2,PAVE 0.3%; GRID 0.0%,Data-Center Construction & Real Estate; Grid & Electrical Infrastructure
+INTU,2,IGV 2.8%; SKYY 0.5%,Software & EDA
+TEAM,2,SKYY 1.8%; IGV 1.1%,Software & EDA
+HII,2,SHLD 1.6%; ITA 0.8%,Defense; Robotics & Industrial Automation
+RRX,2,KOID 2.2%; PAVE 0.7%,Robotics & Industrial Automation; Data-Center Construction & Real Estate
+SGML,2,QCLN 0.3%; LIT 0.2%,Critical Minerals
+IREN,2,NCLD 7.5%; WGMI 4.6%,AI infrastructure; Bitcoin mining; Cloud computing infrastructure; Server-level system architecture & datacenters; Data-Center Construction & Real Estate; Cooling
+GLXY,2,NCLD 4.3%; WGMI 1.2%,Bitcoin mining; AI infrastructure
+WULF,2,WGMI 4.2%; NCLD 3.6%,Bitcoin mining; AI infrastructure; Cloud computing infrastructure; Data-Center Construction & Real Estate; Server-level system architecture & datacenters
+RIOT,2,WGMI 4.3%; NCLD 3.2%,Bitcoin mining; AI infrastructure; Cloud computing infrastructure; Cooling; Data-Center Construction & Real Estate
+CIFR,2,WGMI 11.4%; NCLD 2.7%,Bitcoin mining; AI infrastructure; Data-Center Construction & Real Estate; Cloud computing infrastructure; Cooling
+CORZ,2,WGMI 3.9%; NCLD 2.7%,Bitcoin mining; AI infrastructure; Data-Center Construction & Real Estate; Cloud computing infrastructure; Server-level system architecture & datacenters
+CLSK,2,WGMI 4.1%; NCLD 1.4%,Bitcoin mining; AI infrastructure; Data-Center Construction & Real Estate
+KEEL,2,WGMI 6.0%; NCLD 0.9%,Bitcoin mining; AI infrastructure; Data-Center Construction & Real Estate; Server-level system architecture & datacenters
+SHAZ,2,WGMI 1.2%; NCLD 0.7%,AI infrastructure; Cloud computing infrastructure; Server-level system architecture & datacenters
+UEC,2,URA 4.4%; NLR 4.2%,Power & energy
+AYI,2,QCLN 3.1%; PAVE 0.5%,Grid & Electrical Infrastructure
+MP,2,REMX 6.7%; QCLN 2.6%,Critical Minerals; Defense
+MDB,2,SKYY 2.3%; QTUM 1.3%,Cloud computing infrastructure; Software & EDA; AI model frameworks
+PL,2,UFO 3.3%; SHLD 0.7%,Space; Defense
+VOYG,2,UFO 1.1%; SHLD 0.2%,Space; Defense
+GFS,2,WQTM 3.7%; SOXQ 1.1%,Semiconductor foundries & fabrication; Silicon photonics; AI chips; Semiconductors; AI infrastructure; CPU / chip design; Quantum computing; Advanced Packaging & Chiplets
+NOK,1,AIQ 0.4%,Networking & optics; Silicon photonics
+ZBRA,1,AIQ 0.4%,Robotics & Industrial Automation
+PEGA,1,AIQ 0.3%,AI model frameworks; Software & EDA
+PATH,1,AIQ 0.3%,AI model frameworks; Robotics & Industrial Automation; Software & EDA
+CLS,1,AIQ 0.3%,Server-level system architecture & datacenters; Networking & optics; AI infrastructure
+AMBA,1,AIQ 0.2%,AI chips; CPU / chip design; Semiconductors
+SOUN,1,AIQ 0.2%,AI model frameworks
+CAT,1,ARKQ 1.3%,Power & energy
+SYM,1,BOTZ 1.4%,Robotics & Industrial Automation
+OUST,1,BOTZ 0.7%,Robotics & Industrial Automation
+HSAI,1,BOTZ 0.5%,Robotics & Industrial Automation
+ALNT,1,BOTZ 0.5%,Robotics & Industrial Automation
+OMCL,1,BOTZ 0.4%,Robotics & Industrial Automation
+UMAC,1,BOTZ 0.2%,Defense
+AVEX,1,BOTZ 0.2%,Defense
+XPEV,1,BOTZ 0.2%,Robotics & Industrial Automation
+NOVT,1,BOTZ 0.1%,Robotics & Industrial Automation
+SERV,1,BOTZ 0.1%,Robotics & Industrial Automation
+SAIL,1,BUG 4.2%,Cybersecurity
+TLS,1,BUG 0.4%,Cybersecurity; Defense
+GRRR,1,BUG 0.3%,Cybersecurity; AI infrastructure
+VRT,1,CHAT 2.0%,Cooling; Server-level system architecture & datacenters; AI infrastructure; Grid & Electrical Infrastructure; Data-Center Construction & Real Estate; Power & energy; Cloud computing infrastructure
+FROG,1,CIBR 1.8%,Cybersecurity; Software & EDA; AI model frameworks
+BAH,1,CIBR 1.1%,Defense; Cybersecurity
+BB,1,CIBR 0.8%,Cybersecurity
+NTCT,1,CIBR 0.4%,Cybersecurity
+PCOR,1,CLOU 2.8%,Software & EDA; Data-Center Construction & Real Estate
+FRSH,1,CLOU 2.0%,Software & EDA; AI model frameworks
+KC,1,CLOU 0.1%,Cloud computing infrastructure
+CRUS,1,FTXL 1.5%,Semiconductors; AI chips; CPU / chip design
+VSH,1,FTXL 1.0%,Semiconductors; AI infrastructure
+DIOD,1,FTXL 0.7%,Semiconductors; AI infrastructure; Memory
+SMTC,1,FTXL 0.6%,Networking & optics; Semiconductors; AI infrastructure
+LSCC,1,FTXL 0.5%,Semiconductors; AI chips; CPU / chip design; AI infrastructure
+ADEA,1,FTXL 0.4%,Semiconductors
+ACMR,1,FTXL 0.4%,Semiconductor capital equipment; Semiconductor foundries & fabrication; Advanced Packaging & Chiplets
+UCTT,1,FTXL 0.4%,Semiconductor capital equipment; Semiconductor foundries & fabrication; Advanced Packaging & Chiplets
+JCI,1,GRID 8.7%,Cooling
+NVT,1,GRID 2.9%,Cooling; Grid & Electrical Infrastructure; AI infrastructure; Server-level system architecture & datacenters; Power & energy; Data-Center Construction & Real Estate
+GEV,1,GRID 1.1%,Power & energy; Grid & Electrical Infrastructure; AI infrastructure
+267260.KS,1,GRID 1.1%,Grid & Electrical Infrastructure
+010120.KS,1,GRID 1.0%,Grid & Electrical Infrastructure
+HON,1,GRID 0.3%,Robotics & Industrial Automation; Quantum computing
+103590.KS,1,GRID 0.2%,Grid & Electrical Infrastructure
+GNRC,1,GRID 0.1%,Power & energy; AI infrastructure; Data-Center Construction & Real Estate; Grid & Electrical Infrastructure
+LFUS,1,GRID 0.0%,Semiconductors; Grid & Electrical Infrastructure
+ESE,1,GRID 0.0%,Grid & Electrical Infrastructure; Defense
+298040.KS,1,GRID 0.0%,Grid & Electrical Infrastructure
+AZZ,1,GRID 0.0%,Grid & Electrical Infrastructure; Power & energy
+BDC,1,GRID 0.0%,Networking & optics
+DGII,1,GRID 0.0%,Networking & optics
+PENG,1,HBMX 8.5%,Server-level system architecture & datacenters; Memory; AI infrastructure; Data-Center Construction & Real Estate
+ATEYY,1,HBMX 8.2%,"Semiconductor capital equipment; Testing, Inspection & Metrology; Advanced Packaging & Chiplets"
+CAMT,1,HBMX 5.3%,"Semiconductor capital equipment; Testing, Inspection & Metrology; Advanced Packaging & Chiplets; Silicon photonics"
+SNDK,1,HBMX 4.3%,Memory
+SIMO,1,HBMX 3.7%,Memory; AI chips; CPU / chip design; Semiconductors
+KXIAY,1,HBMX 3.5%,Memory; AI infrastructure
+NVMI,1,HBMX 3.1%,"Testing, Inspection & Metrology; Semiconductor capital equipment; Advanced Packaging & Chiplets"
+DSCSY,1,HBMX 2.8%,Semiconductor capital equipment; Advanced Packaging & Chiplets
+VECO,1,HBMX 2.6%,Semiconductor capital equipment; Silicon photonics; Advanced Packaging & Chiplets
+WDC,1,HBMX 1.4%,Memory; AI infrastructure; Cloud computing infrastructure
+ADSK,1,IGV 1.6%,Software & EDA
+PTC,1,IGV 0.7%,Software & EDA
+TXT,1,ITA 1.0%,Defense
+HXL,1,ITA 0.5%,Defense; Advanced Packaging & Chiplets
+APH,1,KOID 2.2%,Networking & optics; Server-level system architecture & datacenters; Silicon photonics
+TEL,1,KOID 2.1%,Networking & optics; Grid & Electrical Infrastructure; Server-level system architecture & datacenters
+JBL,1,KOID 2.0%,Server-level system architecture & datacenters
+CIEN,1,LYTE 13.1%,Networking & optics; Silicon photonics; AI chips
+FN,1,LYTE 3.8%,Networking & optics; Silicon photonics
+AAOI,1,LYTE 2.0%,Networking & optics; Silicon photonics; AI infrastructure
+RUM,1,NCLD 1.4%,AI infrastructure; Cloud computing infrastructure
+BRUN,1,NCLD 0.5%,AI infrastructure
+CEG,1,NLR 9.6%,Power & energy; AI infrastructure
+PEG,1,NLR 8.2%,Power & energy
+UUUU,1,NLR 3.6%,Critical Minerals; Power & energy
+TT,1,PAVE 3.2%,Cooling; Data-Center Construction & Real Estate
+PH,1,PAVE 3.1%,Robotics & Industrial Automation; Cooling
+EME,1,PAVE 2.1%,Data-Center Construction & Real Estate; Cooling; Grid & Electrical Infrastructure
+J,1,PAVE 1.0%,Data-Center Construction & Real Estate
+STRL,1,PAVE 0.9%,Data-Center Construction & Real Estate
+LECO,1,PAVE 0.9%,Robotics & Industrial Automation
+GGG,1,PAVE 0.8%,Robotics & Industrial Automation
+SPXC,1,PAVE 0.5%,Grid & Electrical Infrastructure; Cooling
+PNR,1,PAVE 0.5%,Cooling
+DY,1,PAVE 0.5%,Data-Center Construction & Real Estate
+ACM,1,PAVE 0.5%,Data-Center Construction & Real Estate
+POWL,1,PAVE 0.4%,Grid & Electrical Infrastructure; Power & energy; Server-level system architecture & datacenters; Data-Center Construction & Real Estate
+AGX,1,PAVE 0.3%,Data-Center Construction & Real Estate; Power & energy; Grid & Electrical Infrastructure
+CALX,1,PAVE 0.3%,Networking & optics; Grid & Electrical Infrastructure
+TPC,1,PAVE 0.3%,Data-Center Construction & Real Estate
+GVA,1,PAVE 0.3%,Data-Center Construction & Real Estate
+BE,1,QCLN 10.6%,Power & energy; AI infrastructure
+NXT,1,QCLN 4.5%,Power & energy
+FSLR,1,QCLN 3.8%,Power & energy
+VICR,1,QCLN 3.2%,Semiconductors; AI infrastructure; Power & energy
+ALGM,1,QCLN 2.2%,Semiconductors; CPU / chip design; Robotics & Industrial Automation; Critical Minerals
+ORA,1,QCLN 1.9%,Power & energy
+HASI,1,QCLN 1.6%,Power & energy
+CWEN,1,QCLN 1.3%,Power & energy
+NVTS,1,QCLN 0.9%,Semiconductors; AI chips; AI infrastructure; CPU / chip design
+POWI,1,QCLN 0.9%,Semiconductors
+PLUG,1,QCLN 0.8%,Power & energy
+WOLF,1,QCLN 0.5%,Semiconductors
+FCEL,1,QCLN 0.4%,Power & energy
+TE,1,QCLN 0.3%,Power & energy
+EOSE,1,QCLN 0.3%,Power & energy; Grid & Electrical Infrastructure
+AMRC,1,QCLN 0.2%,Grid & Electrical Infrastructure
+ARRY,1,QCLN 0.2%,Power & energy
+HQ,1,QTUM 1.9%,Quantum computing; Software & EDA
+ALM,1,REMX 3.9%,Critical Minerals
+LAC,1,REMX 1.8%,Critical Minerals
+LAR,1,REMX 1.7%,Critical Minerals
+PSN,1,SHLD 0.8%,Defense
+MRCY,1,SHLD 0.7%,Defense
+AMTM,1,SHLD 0.6%,Defense
+OSIS,1,SHLD 0.5%,"Testing, Inspection & Metrology; Defense"
+KRMN,1,SHLD 0.5%,Defense; Space
+BBAI,1,SHLD 0.2%,AI model frameworks; Defense; AI infrastructure
+YSS,1,SHLD 0.1%,Space
+RCAT,1,SHLD 0.1%,Defense
+BKSY,1,SHLD 0.1%,Space; Defense
+LUMN,1,SKYY 2.2%,Networking & optics; Cloud computing infrastructure
+DELL,1,SKYY 2.1%,AI infrastructure; Server-level system architecture & datacenters; Data-Center Construction & Real Estate
+QTWO,1,SKYY 0.5%,Software & EDA
+KVYO,1,SKYY 0.5%,Software & EDA
+RXT,1,SKYY 0.3%,Cloud computing infrastructure
+Q,1,SOXQ 1.1%,Semiconductor capital equipment; Semiconductors; Advanced Packaging & Chiplets
+TSEM,1,SOXX 1.2%,Semiconductor foundries & fabrication; Silicon photonics; AI chips; Semiconductors
+IRM,1,SRVR 4.8%,Data-Center Construction & Real Estate; AI infrastructure; Server-level system architecture & datacenters
+ECHO,1,UFO 5.1%,Space
+VSAT,1,UFO 4.5%,Space; Defense
+ASTS,1,UFO 4.2%,Space; Defense
+RDW,1,UFO 1.6%,Space; Defense
+FLY,1,UFO 1.6%,Space; Defense
+URG,1,URA 0.4%,Power & energy
+IMSR,1,URA 0.2%,Power & energy
+NKLR,1,URA 0.1%,Power & energy
+WMB,1,USAI 7.4%,Power & energy
+ET,1,USAI 7.2%,Power & energy
+EQT,1,USAI 4.4%,Power & energy
+AROC,1,USAI 1.3%,Power & energy
+KGS,1,USAI 1.3%,Power & energy
+MARA,1,WGMI 4.4%,Bitcoin mining; AI infrastructure; Cooling
+BTDR,1,WGMI 3.8%,Bitcoin mining; AI infrastructure; Cloud computing infrastructure; Data-Center Construction & Real Estate
+SLNH,1,WGMI 1.7%,Bitcoin mining; AI infrastructure; Power & energy
+AIRJ,1,WGMI 0.8%,Cooling
+CAN,1,WGMI 0.4%,Bitcoin mining
+IONQ,1,WQTM 5.7%,Quantum computing
+QNT,1,WQTM 5.5%,Quantum computing; AI infrastructure
+RGTI,1,WQTM 5.0%,Quantum computing; Semiconductors
+QBTS,1,WQTM 4.6%,Quantum computing
+INFQ,1,WQTM 4.0%,Quantum computing; Defense
+IQMX,1,WQTM 2.4%,Quantum computing
+KEYS,1,WQTM 1.9%,"Testing, Inspection & Metrology; Software & EDA"

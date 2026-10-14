@@ -1,0 +1,110 @@
+{
+ "period": "2026-06-30",
+ "accession": "0002055875-26-000009",
+ "holdings": [
+  {
+   "issuer": "ALPHABET INC",
+   "class": "COM",
+   "cusip": "02079K305",
+   "value_usd": 5360550.0,
+   "shares": 15000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMAZON COM INC",
+   "class": "COM",
+   "cusip": "023135106",
+   "value_usd": 21748525.0,
+   "shares": 91250.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CONOCOPHILLIPS",
+   "class": "COM",
+   "cusip": "20825C104",
+   "value_usd": 3222760.0,
+   "shares": 31000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DELL TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "24703L202",
+   "value_usd": 30008906.0,
+   "shares": 69552.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DEVON ENERGY CORP NEW",
+   "class": "COM",
+   "cusip": "25179M103",
+   "value_usd": 7333928.0,
+   "shares": 177491.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FREEPORT MCMORAN INC",
+   "class": "COM",
+   "cusip": "35671D857",
+   "value_usd": 33190512.0,
+   "shares": 527755.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICRON TECHNOLOGY INC",
+   "class": "COM",
+   "cusip": "595112103",
+   "value_usd": 167372050.0,
+   "shares": 145000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MOSAIC CO",
+   "class": "COM",
+   "cusip": "61945C103",
+   "value_usd": 423800.0,
+   "shares": 20000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NEUROCRINE BIOSCIENCES INC",
+   "class": "COM",
+   "cusip": "64125C109",
+   "value_usd": 28786115.0,
+   "shares": 170802.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NEWMONT CORP",
+   "class": "COM",
+   "cusip": "651639106",
+   "value_usd": 4670000.0,
+   "shares": 50000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROPETRO HLDG CORP",
+   "class": "COM",
+   "cusip": "74347M108",
+   "value_usd": 12482755.0,
+   "shares": 870485.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SALESFORCE INC",
+   "class": "COM",
+   "cusip": "79466L302",
+   "value_usd": 5639760.0,
+   "shares": 36000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UBER TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "90353T100",
+   "value_usd": 29697448.0,
+   "shares": 411550.0,
+   "put_call": ""
+  }
+ ]
+}

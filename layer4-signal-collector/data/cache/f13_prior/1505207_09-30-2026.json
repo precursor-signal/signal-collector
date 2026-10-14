@@ -1,0 +1,430 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001505207-26-000003",
+ "holdings": [
+  {
+   "issuer": "JOHNSON & JOHNSON COM",
+   "class": "Stock",
+   "cusip": "478160104",
+   "value_usd": 15890649.0,
+   "shares": 62569.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WILLIAMS SONOMA INC COM",
+   "class": "Stock",
+   "cusip": "969904101",
+   "value_usd": 17999749.0,
+   "shares": 77219.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COSTCO WHOLESALE CORPORATION COM",
+   "class": "Stock",
+   "cusip": "22160K105",
+   "value_usd": 16183865.0,
+   "shares": 17300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROCTER & GAMBLE CO COM",
+   "class": "Stock",
+   "cusip": "742718109",
+   "value_usd": 9401127.0,
+   "shares": 64110.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COCA COLA CO COM",
+   "class": "Stock",
+   "cusip": "191216100",
+   "value_usd": 4316575.0,
+   "shares": 53114.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ENTERPRISE PRODS PARTNERS L P COM",
+   "class": "Stock",
+   "cusip": "293792107",
+   "value_usd": 223317.0,
+   "shares": 6075.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PAYCHEX INC COM",
+   "class": "Stock",
+   "cusip": "704326107",
+   "value_usd": 1302381.0,
+   "shares": 13245.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MERCK & CO INC COM",
+   "class": "Stock",
+   "cusip": "58933Y105",
+   "value_usd": 10365067.0,
+   "shares": 80662.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STATE STREET SPDR S&P 500 ETF",
+   "class": "ETF",
+   "cusip": "78462F103",
+   "value_usd": 205362.0,
+   "shares": 275.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MCKESSON CORP COM",
+   "class": "Stock",
+   "cusip": "58155Q103",
+   "value_usd": 1016282.0,
+   "shares": 1345.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ILLINOIS TOOL WKS INC COM",
+   "class": "Stock",
+   "cusip": "452308109",
+   "value_usd": 5693258.0,
+   "shares": 21050.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PARSONS CORP DEL COM",
+   "class": "Stock",
+   "cusip": "70202L102",
+   "value_usd": 674521.0,
+   "shares": 12875.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES S&P 100 ETF",
+   "class": "ETF",
+   "cusip": "464287101",
+   "value_usd": 256109.0,
+   "shares": 700.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HOME DEPOT INC COM",
+   "class": "Stock",
+   "cusip": "437076102",
+   "value_usd": 273327.0,
+   "shares": 775.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SOUTHERN CO COM",
+   "class": "Stock",
+   "cusip": "842587107",
+   "value_usd": 445052.0,
+   "shares": 4650.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BERKSHIRE HATHAWAY INC DEL CL B NEW",
+   "class": "Stock",
+   "cusip": "084670702",
+   "value_usd": 6874358.0,
+   "shares": 13738.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC CAP STK CL A",
+   "class": "Stock",
+   "cusip": "02079K305",
+   "value_usd": 13657252.0,
+   "shares": 38216.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "OREILLY AUTOMOTIVE INC COM",
+   "class": "Stock",
+   "cusip": "67103H107",
+   "value_usd": 13339467.0,
+   "shares": 144853.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP COM",
+   "class": "Stock",
+   "cusip": "594918104",
+   "value_usd": 744175.0,
+   "shares": 1995.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NEXTERA ENERGY INC COM",
+   "class": "Stock",
+   "cusip": "65339F101",
+   "value_usd": 357224.0,
+   "shares": 4070.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BERKSHIRE HATHAWAY INC DEL CL A",
+   "class": "Stock",
+   "cusip": "084670108",
+   "value_usd": 1497700.0,
+   "shares": 2.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SHORT-TERM TREASURY ETF",
+   "class": "ETF",
+   "cusip": "92206C102",
+   "value_usd": 4592142.0,
+   "shares": 78903.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LINDE PLC SHS",
+   "class": "Stock",
+   "cusip": "G54950103",
+   "value_usd": 1297350.0,
+   "shares": 2500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ELI LILLY & CO COM",
+   "class": "Stock",
+   "cusip": "532457108",
+   "value_usd": 3184487.0,
+   "shares": 2655.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LEIDOS HOLDINGS INC COM",
+   "class": "Stock",
+   "cusip": "525327102",
+   "value_usd": 4953681.0,
+   "shares": 48108.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN ELEC PWR CO INC COM",
+   "class": "Stock",
+   "cusip": "025537101",
+   "value_usd": 225737.0,
+   "shares": 1650.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TRACTOR SUPPLY CO COM",
+   "class": "Stock",
+   "cusip": "892356106",
+   "value_usd": 8233836.0,
+   "shares": 260482.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VISA INC COM CL A",
+   "class": "Stock",
+   "cusip": "92826C839",
+   "value_usd": 17105953.0,
+   "shares": 49858.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ASML HLDG NV N Y REGISTRY SHS",
+   "class": "ADR",
+   "cusip": "N07059210",
+   "value_usd": 9412041.0,
+   "shares": 4731.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ACCENTURE PLC IRELAND SHS CLASS A",
+   "class": "Stock",
+   "cusip": "G1151C101",
+   "value_usd": 4034718.0,
+   "shares": 32423.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NVIDIA CORPORATION COM",
+   "class": "Stock",
+   "cusip": "67066G104",
+   "value_usd": 1852233.0,
+   "shares": 9257.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WW GRAINGER INC COM",
+   "class": "Stock",
+   "cusip": "384802104",
+   "value_usd": 1432501.0,
+   "shares": 1053.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FASTENAL CO COM",
+   "class": "Stock",
+   "cusip": "311900104",
+   "value_usd": 7523900.0,
+   "shares": 156650.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GENERAL DYNAMICS CORP COM",
+   "class": "Stock",
+   "cusip": "369550108",
+   "value_usd": 13818814.0,
+   "shares": 39010.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ADVANCED MICRO DEVICES INC COM",
+   "class": "Stock",
+   "cusip": "007903107",
+   "value_usd": 26524670.0,
+   "shares": 45661.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNION PAC CORP COM",
+   "class": "Stock",
+   "cusip": "907818108",
+   "value_usd": 795600.0,
+   "shares": 2925.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JPMORGAN CHASE & CO COM",
+   "class": "Stock",
+   "cusip": "46625H100",
+   "value_usd": 1404246.0,
+   "shares": 4290.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHEVRON CORPORATION COM",
+   "class": "Stock",
+   "cusip": "166764100",
+   "value_usd": 8705301.0,
+   "shares": 52518.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CATERPILLAR INC COM",
+   "class": "Stock",
+   "cusip": "149123101",
+   "value_usd": 1437615.0,
+   "shares": 1350.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC CAP STK CL C",
+   "class": "Stock",
+   "cusip": "02079K107",
+   "value_usd": 303864.0,
+   "shares": 860.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMGEN INC COM",
+   "class": "Stock",
+   "cusip": "031162100",
+   "value_usd": 470756.0,
+   "shares": 1300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TRIMBLE INC COM",
+   "class": "Stock",
+   "cusip": "896239100",
+   "value_usd": 984831.0,
+   "shares": 19243.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "C H ROBINSON WORLDWIDE IN COM NEW",
+   "class": "Stock",
+   "cusip": "12541W209",
+   "value_usd": 4248009.0,
+   "shares": 22555.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "IDACORP INC COM",
+   "class": "Stock",
+   "cusip": "451107106",
+   "value_usd": 6690675.0,
+   "shares": 44221.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PHILIP MORRIS INTL INC COM",
+   "class": "Stock",
+   "cusip": "718172109",
+   "value_usd": 205152.0,
+   "shares": 1134.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SERVICE CORP INTL COM",
+   "class": "Stock",
+   "cusip": "817565104",
+   "value_usd": 243072.0,
+   "shares": 3200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SYNOPSYS INC COM",
+   "class": "Stock",
+   "cusip": "871607107",
+   "value_usd": 315371.0,
+   "shares": 707.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TRAVELERS COMPANIES INC COM",
+   "class": "Stock",
+   "cusip": "89417E109",
+   "value_usd": 214578.0,
+   "shares": 650.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DEVON ENERGY CORP NEW COM",
+   "class": "Stock",
+   "cusip": "25179M103",
+   "value_usd": 635171.0,
+   "shares": 15372.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COMMERCE BANCSHARES INC COM",
+   "class": "Stock",
+   "cusip": "200525103",
+   "value_usd": 403615.0,
+   "shares": 6989.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLE INC COM",
+   "class": "Stock",
+   "cusip": "037833100",
+   "value_usd": 13730060.0,
+   "shares": 47450.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WEC ENERGY GROUP INC COM",
+   "class": "Stock",
+   "cusip": "92939U106",
+   "value_usd": 10732924.0,
+   "shares": 91915.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ABBOTT LABORATORIES COM",
+   "class": "Stock",
+   "cusip": "002824100",
+   "value_usd": 6402569.0,
+   "shares": 70560.0,
+   "put_call": ""
+  }
+ ]
+}

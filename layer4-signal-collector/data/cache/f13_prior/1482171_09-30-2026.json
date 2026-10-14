@@ -1,0 +1,366 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001193125-26-331710",
+ "holdings": [
+  {
+   "issuer": "BERKSHIRE HATHAWAY INC",
+   "class": "CL B",
+   "cusip": "084670702",
+   "value_usd": 488881.0,
+   "shares": 977.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CATERPILLAR INC",
+   "class": "COM",
+   "cusip": "149123101",
+   "value_usd": 250252.0,
+   "shares": 235.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CINTAS CORP",
+   "class": "COM",
+   "cusip": "172908105",
+   "value_usd": 3641753.0,
+   "shares": 21412.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CORNING INC",
+   "class": "COM",
+   "cusip": "219350105",
+   "value_usd": 817376.0,
+   "shares": 3200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WALT DISNEY CO",
+   "class": "COM",
+   "cusip": "254687106",
+   "value_usd": 3770584.0,
+   "shares": 38872.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIGMA INC",
+   "class": "CLASS A",
+   "cusip": "316841105",
+   "value_usd": 3618000.0,
+   "shares": 200000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HOME DEPOT INC",
+   "class": "COM",
+   "cusip": "437076102",
+   "value_usd": 5258459.0,
+   "shares": 14910.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "iShares 1-3 Year Treasury Bond ETF",
+   "class": "1 3 YR TREAS BD",
+   "cusip": "464287457",
+   "value_usd": 770602.0,
+   "shares": 9385.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JOHNSON & JOHNSON",
+   "class": "COM",
+   "cusip": "478160104",
+   "value_usd": 5642959.0,
+   "shares": 22219.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MCDONALD'S CORP",
+   "class": "COM",
+   "cusip": "580135101",
+   "value_usd": 6053863.0,
+   "shares": 22396.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 23431251.0,
+   "shares": 62815.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NEWMONT CORP",
+   "class": "COM",
+   "cusip": "651639106",
+   "value_usd": 286645.0,
+   "shares": 3069.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PNC FINANCIAL SERVICES GROUP",
+   "class": "COM",
+   "cusip": "693475105",
+   "value_usd": 15791320.0,
+   "shares": 64135.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ROCKWELL AUTOMATION INC",
+   "class": "COM",
+   "cusip": "773903109",
+   "value_usd": 2774428.0,
+   "shares": 5604.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ROPER TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "776696106",
+   "value_usd": 1029044.0,
+   "shares": 3041.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STRYKER CORP",
+   "class": "COM",
+   "cusip": "863667101",
+   "value_usd": 13288310.0,
+   "shares": 42090.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SYNOPSYS INC",
+   "class": "COM",
+   "cusip": "871607107",
+   "value_usd": 12656344.0,
+   "shares": 28373.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "THERMO FISHER SCIENTIFIC INC",
+   "class": "COM",
+   "cusip": "883556102",
+   "value_usd": 16840392.0,
+   "shares": 33558.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "THOMSON REUTERS CORP",
+   "class": "COM",
+   "cusip": "884903881",
+   "value_usd": 10128060.0,
+   "shares": 124012.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNILEVER PLC",
+   "class": "SPON ADR NEW",
+   "cusip": "904767803",
+   "value_usd": 3664915.0,
+   "shares": 60960.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WELLS FARGO & CO",
+   "class": "COM",
+   "cusip": "949746101",
+   "value_usd": 4958400.0,
+   "shares": 60000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ABBOTT LABORATORIES",
+   "class": "COM",
+   "cusip": "002824100",
+   "value_usd": 3947371.0,
+   "shares": 43502.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL C",
+   "cusip": "02079K107",
+   "value_usd": 661434.0,
+   "shares": 1872.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL A",
+   "cusip": "02079K305",
+   "value_usd": 31636894.0,
+   "shares": 88527.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMAZON.COM INC",
+   "class": "COM",
+   "cusip": "023135106",
+   "value_usd": 21574775.0,
+   "shares": 90521.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLE INC",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 7585283.0,
+   "shares": 26214.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BANK OF AMERICA CORP",
+   "class": "COM",
+   "cusip": "060505104",
+   "value_usd": 14152180.0,
+   "shares": 248371.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHARTER COMMUNICATIONS INC",
+   "class": "CL A",
+   "cusip": "16119P108",
+   "value_usd": 7663412.0,
+   "shares": 53888.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CLOUDFLARE INC",
+   "class": "CL A COM",
+   "cusip": "18915M107",
+   "value_usd": 17999628.0,
+   "shares": 73384.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "META PLATFORMS INC",
+   "class": "CL A",
+   "cusip": "30303M102",
+   "value_usd": 22548499.0,
+   "shares": 40030.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JPMORGAN CHASE & CO",
+   "class": "COM",
+   "cusip": "46625H100",
+   "value_usd": 29296362.0,
+   "shares": 89501.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NETFLIX INC",
+   "class": "COM",
+   "cusip": "64110L106",
+   "value_usd": 7351058.0,
+   "shares": 102956.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "OTIS WORLDWIDE CORP",
+   "class": "COM",
+   "cusip": "68902V107",
+   "value_usd": 3975733.0,
+   "shares": 55527.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PAYPAL HOLDINGS INC",
+   "class": "COM",
+   "cusip": "70450Y103",
+   "value_usd": 4318000.0,
+   "shares": 100000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RTX CORPORATION",
+   "class": "COM",
+   "cusip": "75513E101",
+   "value_usd": 5442215.0,
+   "shares": 28684.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "S&P GLOBAL INC",
+   "class": "COM",
+   "cusip": "78409V104",
+   "value_usd": 4180931.0,
+   "shares": 10266.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR S&P 500 ETF TRUST",
+   "class": "TR UNIT",
+   "cusip": "78462F103",
+   "value_usd": 273266.0,
+   "shares": 365.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SHOPIFY INC",
+   "class": "CL A SUB VTG SHS",
+   "cusip": "82509L107",
+   "value_usd": 7992600.0,
+   "shares": 70000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VISA INC",
+   "class": "COM CL A",
+   "cusip": "92826C839",
+   "value_usd": 6184540.0,
+   "shares": 18026.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "XYLEM INC",
+   "class": "COM",
+   "cusip": "98419M100",
+   "value_usd": 4068197.0,
+   "shares": 34415.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ZOETIS INC.",
+   "class": "CL A",
+   "cusip": "98978V103",
+   "value_usd": 226287.0,
+   "shares": 3149.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ACCENTURE PLC",
+   "class": "SHS CLASS A",
+   "cusip": "G1151C101",
+   "value_usd": 2756595.0,
+   "shares": 22152.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CRH PLC",
+   "class": "ORD",
+   "cusip": "G25508105",
+   "value_usd": 538745.0,
+   "shares": 5035.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LINDE PLC",
+   "class": "SHS",
+   "cusip": "G54950103",
+   "value_usd": 5631018.0,
+   "shares": 10851.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHUBB LTD",
+   "class": "COM",
+   "cusip": "H1467J104",
+   "value_usd": 5517208.0,
+   "shares": 16144.0,
+   "put_call": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001580642-26-004440",
+ "holdings": [
+  {
+   "issuer": "ISHARES INC",
+   "class": "CORE MSCI EMKT",
+   "cusip": "46434G103",
+   "value_usd": 21729016.0,
+   "shares": 262301.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE MSCI EAFE",
+   "cusip": "46432F842",
+   "value_usd": 16011513.0,
+   "shares": 165785.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 1000 VAL ETF",
+   "cusip": "464287598",
+   "value_usd": 103792288.0,
+   "shares": 428133.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 1000 GRW ETF",
+   "cusip": "464287614",
+   "value_usd": 91112320.0,
+   "shares": 733771.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 2000 VAL ETF",
+   "cusip": "464287630",
+   "value_usd": 51731213.0,
+   "shares": 233866.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 2000 GRW ETF",
+   "cusip": "464287648",
+   "value_usd": 29395377.0,
+   "shares": 74615.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS MD CP GR ETF",
+   "cusip": "464287481",
+   "value_usd": 82431383.0,
+   "shares": 563017.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS MDCP VAL ETF",
+   "cusip": "464287473",
+   "value_usd": 116862056.0,
+   "shares": 709976.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "1 3 YR TREAS BD",
+   "cusip": "464287457",
+   "value_usd": 508097.0,
+   "shares": 6188.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "ISHS 1-5YR INVS",
+   "cusip": "464288646",
+   "value_usd": 16203656.0,
+   "shares": 309171.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "3 7 YR TREAS BD",
+   "cusip": "464288661",
+   "value_usd": 455471.0,
+   "shares": 3878.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "FLTG RATE NT ETF",
+   "cusip": "46429B655",
+   "value_usd": 713934.0,
+   "shares": 13985.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "SHT TM US TRES",
+   "cusip": "808524862",
+   "value_usd": 38930031.0,
+   "shares": 1612677.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US TIPS ETF",
+   "cusip": "808524870",
+   "value_usd": 39756311.0,
+   "shares": 1500238.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST SHOR CORP ETF",
+   "cusip": "78464A474",
+   "value_usd": 374855.0,
+   "shares": 12491.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST INTER ETF",
+   "cusip": "78464A672",
+   "value_usd": 75229841.0,
+   "shares": 2649871.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST INTER BD ETF",
+   "cusip": "78464A375",
+   "value_usd": 44261121.0,
+   "shares": 1322807.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "VALUE ETF",
+   "cusip": "922908744",
+   "value_usd": 213936651.0,
+   "shares": 981676.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "SM CP VAL ETF",
+   "cusip": "922908611",
+   "value_usd": 112538875.0,
+   "shares": 463142.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "GROWTH ETF",
+   "cusip": "922908736",
+   "value_usd": 211978911.0,
+   "shares": 2460865.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "SML CP GRW ETF",
+   "cusip": "922908595",
+   "value_usd": 54543789.0,
+   "shares": 149149.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "MCAP GR IDXVIP",
+   "cusip": "922908538",
+   "value_usd": 204095960.0,
+   "shares": 666327.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "MCAP VL IDXVIP",
+   "cusip": "922908512",
+   "value_usd": 241696218.0,
+   "shares": 1223159.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "INT-TERM CORP",
+   "cusip": "92206C870",
+   "value_usd": 265141.0,
+   "shares": 3208.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "SHRT TRM CORP BD",
+   "cusip": "92206C409",
+   "value_usd": 282690.0,
+   "shares": 3577.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "INTER TERM TREAS",
+   "cusip": "92206C706",
+   "value_usd": 489829.0,
+   "shares": 8305.0,
+   "put_call": ""
+  }
+ ]
+}

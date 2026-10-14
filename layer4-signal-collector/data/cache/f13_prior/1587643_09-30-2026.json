@@ -1,0 +1,230 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001587643-26-000004",
+ "holdings": [
+  {
+   "issuer": "ADVANCED MICRO DEVICES INC",
+   "class": "COM",
+   "cusip": "007903107",
+   "value_usd": 17484810.0,
+   "shares": 30099.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN INTL GROUP INC",
+   "class": "COM NEW",
+   "cusip": "026874784",
+   "value_usd": 11091513.0,
+   "shares": 148819.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMGEN INC",
+   "class": "COM",
+   "cusip": "031162100",
+   "value_usd": 16991757.0,
+   "shares": 46923.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARISTA NETWORKS INC",
+   "class": "COM SHS",
+   "cusip": "040413205",
+   "value_usd": 13718320.0,
+   "shares": 80753.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BLACKROCK DEBT STRATEGIES FD",
+   "class": "COM NEW",
+   "cusip": "09255R202",
+   "value_usd": 287566.0,
+   "shares": 29646.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BRISTOL-MYERS SQUIBB CO",
+   "class": "COM",
+   "cusip": "110122108",
+   "value_usd": 14895346.0,
+   "shares": 258510.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHUBB LIMITED",
+   "class": "COM",
+   "cusip": "H1467J104",
+   "value_usd": 15400205.0,
+   "shares": 45196.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DEVON ENERGY CORP NEW",
+   "class": "COM",
+   "cusip": "25179M103",
+   "value_usd": 15254375.0,
+   "shares": 369177.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DUKE ENERGY CORP NEW",
+   "class": "COM NEW",
+   "cusip": "26441C204",
+   "value_usd": 1089980.0,
+   "shares": 8611.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HEALTH CATALYST INC",
+   "class": "COM",
+   "cusip": "42225T107",
+   "value_usd": 5922612.0,
+   "shares": 2976187.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "IRON MTN INC DEL",
+   "class": "COM",
+   "cusip": "46284V101",
+   "value_usd": 2782862.0,
+   "shares": 22032.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "J P MORGAN EXCHANGE TRADED F",
+   "class": "ULTRA SHRT ETF",
+   "cusip": "46641Q837",
+   "value_usd": 782845.0,
+   "shares": 15480.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MASTERCARD INCORPORATED",
+   "class": "CL A",
+   "cusip": "57636Q104",
+   "value_usd": 12168360.0,
+   "shares": 23692.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MEDTRONIC PLC",
+   "class": "SHS",
+   "cusip": "G5960L103",
+   "value_usd": 11260896.0,
+   "shares": 143946.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NATIONAL HEALTH INVS INC",
+   "class": "COM",
+   "cusip": "63633D104",
+   "value_usd": 3109044.0,
+   "shares": 40769.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PIEDMONT REALTY TRUST INC",
+   "class": "COM CL A",
+   "cusip": "720190206",
+   "value_usd": 4422341.0,
+   "shares": 483316.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "REDDIT INC",
+   "class": "CL A",
+   "cusip": "75734B100",
+   "value_usd": 12346572.0,
+   "shares": 71129.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RENAISSANCERE HLDGS LTD",
+   "class": "COM",
+   "cusip": "G7496G103",
+   "value_usd": 15527889.0,
+   "shares": 48999.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RLI CORP",
+   "class": "COM",
+   "cusip": "749607107",
+   "value_usd": 16692532.0,
+   "shares": 282589.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SERVICENOW INC",
+   "class": "COM",
+   "cusip": "81762P102",
+   "value_usd": 13933551.0,
+   "shares": 140346.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SHOPIFY INC",
+   "class": "CL A SUB VTG SHS",
+   "cusip": "82509L107",
+   "value_usd": 12220457.0,
+   "shares": 107028.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SNOWFLAKE INC",
+   "class": "COM SHS",
+   "cusip": "833445109",
+   "value_usd": 16573804.0,
+   "shares": 65123.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SOUTHERN CO",
+   "class": "COM",
+   "cusip": "842587107",
+   "value_usd": 2382700.0,
+   "shares": 24895.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SUPER MICRO COMPUTER INC",
+   "class": "COM NEW",
+   "cusip": "86800U302",
+   "value_usd": 11412215.0,
+   "shares": 389097.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UBER TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "90353T100",
+   "value_usd": 12205287.0,
+   "shares": 169142.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNITED THERAPEUTICS CORP DEL",
+   "class": "COM",
+   "cusip": "91307C102",
+   "value_usd": 14777330.0,
+   "shares": 27273.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VISA INC",
+   "class": "COM CL A",
+   "cusip": "92826C839",
+   "value_usd": 13291930.0,
+   "shares": 38742.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "X-ENERGY INC",
+   "class": "COM CL A",
+   "cusip": "98386P102",
+   "value_usd": 6797092.0,
+   "shares": 370212.0,
+   "put_call": ""
+  }
+ ]
+}

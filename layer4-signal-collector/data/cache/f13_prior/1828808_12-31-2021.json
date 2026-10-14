@@ -1,0 +1,134 @@
+{
+ "period": "2021-09-30",
+ "accession": "0001828808-26-000050",
+ "holdings": [
+  {
+   "issuer": "Allstate Corp",
+   "class": "COM",
+   "cusip": "020002101",
+   "value_usd": 52935498.0,
+   "shares": 415800.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Amazon.com, Inc.",
+   "class": "COM",
+   "cusip": "023135106",
+   "value_usd": 31207880.0,
+   "shares": 9500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AstraZeneca Plc",
+   "class": "COM",
+   "cusip": "G0593M107",
+   "value_usd": 39825127.0,
+   "shares": 330000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Berkshire Hathaway Inc",
+   "class": "COM",
+   "cusip": "084670108",
+   "value_usd": 51010996.0,
+   "shares": 124.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CBRE Group Inc",
+   "class": "COM",
+   "cusip": "12504L109",
+   "value_usd": 46538080.0,
+   "shares": 478000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CVS Health Corporation",
+   "class": "COM",
+   "cusip": "126650100",
+   "value_usd": 49643100.0,
+   "shares": 585000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Danaher Corp",
+   "class": "COM",
+   "cusip": "235851102",
+   "value_usd": 41099400.0,
+   "shares": 135000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Alphabet Inc.",
+   "class": "COM",
+   "cusip": "02079K305",
+   "value_usd": 48123360.0,
+   "shares": 18000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HP Inc.",
+   "class": "COM",
+   "cusip": "40434L105",
+   "value_usd": 58632480.0,
+   "shares": 2143000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "International Business Machines Corp",
+   "class": "COM",
+   "cusip": "459200101",
+   "value_usd": 44665995.0,
+   "shares": 321500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ICON PLC",
+   "class": "COM",
+   "cusip": "G4705A100",
+   "value_usd": 46115520.0,
+   "shares": 176000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Microsoft Corporation",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 94161280.0,
+   "shares": 334000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NVent Electric PLC",
+   "class": "COM",
+   "cusip": "G6700G107",
+   "value_usd": 42029000.0,
+   "shares": 1300000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PayPal Holdings, Inc.",
+   "class": "COM",
+   "cusip": "70450Y103",
+   "value_usd": 30704780.0,
+   "shares": 118000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VISA Inc.",
+   "class": "COM",
+   "cusip": "92826C839",
+   "value_usd": 31185000.0,
+   "shares": 140000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Whirlpool Corp",
+   "class": "COM",
+   "cusip": "963320106",
+   "value_usd": 42810600.0,
+   "shares": 210000.0,
+   "put_call": ""
+  }
+ ]
+}

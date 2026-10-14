@@ -1,0 +1,230 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001934657-26-000004",
+ "holdings": [
+  {
+   "issuer": "INVESCO EXCHANGE TRADED FD T",
+   "class": "S&P500 EQL WGT",
+   "cusip": "46137V357",
+   "value_usd": 278303.0,
+   "shares": 1308.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES INC",
+   "class": "MSCI CHILE ETF",
+   "cusip": "464286640",
+   "value_usd": 1191000.0,
+   "shares": 30000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "BROAD USD HIGH",
+   "cusip": "46435U853",
+   "value_usd": 59419802.0,
+   "shares": 1605073.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE MSCI TOTAL",
+   "cusip": "46432F834",
+   "value_usd": 49060360.0,
+   "shares": 514044.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P MCP ETF",
+   "cusip": "464287507",
+   "value_usd": 4932727.0,
+   "shares": 63970.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P500 ETF",
+   "cusip": "464287200",
+   "value_usd": 117459651.0,
+   "shares": 156845.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE US AGGBD ET",
+   "cusip": "464287226",
+   "value_usd": 55104839.0,
+   "shares": 556727.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "EXPANDED TECH",
+   "cusip": "464287515",
+   "value_usd": 5707801.0,
+   "shares": 63000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "MSCI ACWI ETF",
+   "cusip": "464288257",
+   "value_usd": 25439814.0,
+   "shares": 162068.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 2000 VAL ETF",
+   "cusip": "464287630",
+   "value_usd": 970183.0,
+   "shares": 4386.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS MID CAP ETF",
+   "cusip": "464287499",
+   "value_usd": 17219628.0,
+   "shares": 156088.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUSSELL 2000 ETF",
+   "cusip": "464287655",
+   "value_usd": 2287025.0,
+   "shares": 7612.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUSSELL 3000 ETF",
+   "cusip": "464287689",
+   "value_usd": 79798202.0,
+   "shares": 187144.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "S&P 100 ETF",
+   "cusip": "464287101",
+   "value_usd": 473436.0,
+   "shares": 1294.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR CARE ETF",
+   "cusip": "81369Y209",
+   "value_usd": 564512.0,
+   "shares": 3558.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR ENERG ETF",
+   "cusip": "81369Y506",
+   "value_usd": 1062199.0,
+   "shares": 20000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR INDL ETF",
+   "cusip": "81369Y704",
+   "value_usd": 913739.0,
+   "shares": 4933.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR MATER ETF",
+   "cusip": "81369Y100",
+   "value_usd": 658045.0,
+   "shares": 12946.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR STAPL ETF",
+   "cusip": "81369Y308",
+   "value_usd": 706760.0,
+   "shares": 8508.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR BLO 1 ETF",
+   "cusip": "78468R663",
+   "value_usd": 2061533.0,
+   "shares": 22496.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR P500ETF",
+   "cusip": "78464A854",
+   "value_usd": 51262338.0,
+   "shares": 583322.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR SP HOME",
+   "cusip": "78464A888",
+   "value_usd": 3355169.0,
+   "shares": 29034.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STATE STR SPDR S&P 500 ETF T",
+   "class": "TR UNIT",
+   "cusip": "78462F103",
+   "value_usd": 14263307.0,
+   "shares": 19100.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD BD INDEX FDS",
+   "class": "TOTAL BND MRKT",
+   "cusip": "921937835",
+   "value_usd": 5111905.0,
+   "shares": 69635.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "TOTAL STK MKT",
+   "cusip": "922908769",
+   "value_usd": 32711536.0,
+   "shares": 88400.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INTL EQUITY INDEX F",
+   "class": "FTSE EMR MKT ETF",
+   "cusip": "922042858",
+   "value_usd": 4691813.0,
+   "shares": 78603.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD STAR FDS",
+   "class": "VG TL INTL STK F",
+   "cusip": "921909768",
+   "value_usd": 4495321.0,
+   "shares": 52583.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD TAX-MANAGED FDS",
+   "class": "VAN FTSE DEV MKT",
+   "cusip": "921943858",
+   "value_usd": 12273810.0,
+   "shares": 172264.0,
+   "put_call": ""
+  }
+ ]
+}

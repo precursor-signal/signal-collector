@@ -1,0 +1,398 @@
+{
+ "period": "2026-06-30",
+ "accession": "0002085853-26-000686",
+ "holdings": [
+  {
+   "issuer": "3M CO",
+   "class": "COM",
+   "cusip": "88579Y101",
+   "value_usd": 3036496.0,
+   "shares": 18754.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AB ACTIVE ETFS INC",
+   "class": "TAX AW INTER ETF",
+   "cusip": "00039J889",
+   "value_usd": 1929030.0,
+   "shares": 75118.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "API GROUP CORP",
+   "class": "COM STK",
+   "cusip": "00187Y100",
+   "value_usd": 200781.0,
+   "shares": 4741.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLE INC",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 570055.0,
+   "shares": 1970.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAPITAL GRP FIXED INCM ETF T",
+   "class": "MUN INM ETF",
+   "cusip": "14020Y201",
+   "value_usd": 4601307.0,
+   "shares": 167503.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAPITAL GRP FIXED INCM ETF T",
+   "class": "CORE BOND ETF",
+   "cusip": "14020Y508",
+   "value_usd": 42537418.0,
+   "shares": 1624806.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CATERPILLAR INC",
+   "class": "COM",
+   "cusip": "149123101",
+   "value_usd": 713020.0,
+   "shares": 670.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CEMEX SA EURO MTN BE 144A",
+   "class": "SPON ADR NEW",
+   "cusip": "151290889",
+   "value_usd": 120000.0,
+   "shares": 10000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ECOLAB INC",
+   "class": "COM",
+   "cusip": "278865100",
+   "value_usd": 2116329.0,
+   "shares": 7596.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EXXON MOBIL CORP",
+   "class": "COM",
+   "cusip": "30231G102",
+   "value_usd": 229778.0,
+   "shares": 1681.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GABELLI UTIL TR",
+   "class": "COM",
+   "cusip": "36240A101",
+   "value_usd": 206050.0,
+   "shares": 31267.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HOME DEPOT INC",
+   "class": "COM",
+   "cusip": "437076102",
+   "value_usd": 208369.0,
+   "shares": 591.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO QQQ TR",
+   "class": "UNIT SER 1",
+   "cusip": "46090E103",
+   "value_usd": 313706.0,
+   "shares": 426.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES BITCOIN TRUST ETF",
+   "class": "SHS BEN INT",
+   "cusip": "46438F101",
+   "value_usd": 253170.0,
+   "shares": 7605.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES INC",
+   "class": "ESG AWR MSCI EM",
+   "cusip": "46434G863",
+   "value_usd": 240253.0,
+   "shares": 4393.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES INC",
+   "class": "CORE MSCI EMKT",
+   "cusip": "46434G103",
+   "value_usd": 36241496.0,
+   "shares": 437488.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P MCP ETF",
+   "cusip": "464287507",
+   "value_usd": 39496338.0,
+   "shares": 512208.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "ESG AWR MSCI USA",
+   "cusip": "46435G425",
+   "value_usd": 361547.0,
+   "shares": 2209.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "MSCI EAFE ETF",
+   "cusip": "464287465",
+   "value_usd": 4879244.0,
+   "shares": 46970.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE MSCI EAFE",
+   "cusip": "46432F842",
+   "value_usd": 61197274.0,
+   "shares": 633643.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P SCP ETF",
+   "cusip": "464287804",
+   "value_usd": 1832773.0,
+   "shares": 12358.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 1000 GRW ETF",
+   "cusip": "464287614",
+   "value_usd": 243870.0,
+   "shares": 1964.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "ESG AW MSCI EAFE",
+   "cusip": "46435G516",
+   "value_usd": 389444.0,
+   "shares": 3788.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P500 ETF",
+   "cusip": "464287200",
+   "value_usd": 193332972.0,
+   "shares": 258159.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "J P MORGAN EXCHANGE TRADED F",
+   "class": "ULTRA SHT MUNCPL",
+   "cusip": "46641Q654",
+   "value_usd": 5048254.0,
+   "shares": 98985.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "J P MORGAN EXCHANGE TRADED F",
+   "class": "EQUITY FOCUS ETF",
+   "cusip": "46654Q781",
+   "value_usd": 27763939.0,
+   "shares": 345623.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "J P MORGAN EXCHANGE TRADED F",
+   "class": "INCOME ETF",
+   "cusip": "46641Q159",
+   "value_usd": 10330118.0,
+   "shares": 224324.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "J P MORGAN EXCHANGE TRADED F",
+   "class": "ULTRA SHRT ETF",
+   "cusip": "46641Q837",
+   "value_usd": 25508625.0,
+   "shares": 504422.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "J P MORGAN EXCHANGE TRADED F",
+   "class": "MUNICIPAL ETF",
+   "cusip": "46641Q647",
+   "value_usd": 11361302.0,
+   "shares": 224288.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 318303.0,
+   "shares": 853.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NUSHARES ETF TR",
+   "class": "NUVEEN ESG INTL",
+   "cusip": "67092P805",
+   "value_usd": 413126.0,
+   "shares": 10323.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NVIDIA CORPORATION",
+   "class": "COM",
+   "cusip": "67066G104",
+   "value_usd": 215897.0,
+   "shares": 1079.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ROCKY MTN CHOCOLATE FACTORY",
+   "class": "COM",
+   "cusip": "77467X101",
+   "value_usd": 35918.0,
+   "shares": 40371.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US LRG CAP ETF",
+   "cusip": "808524201",
+   "value_usd": 16967765.0,
+   "shares": 576547.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "INTL EQTY ETF",
+   "cusip": "808524805",
+   "value_usd": 8436924.0,
+   "shares": 304582.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US MID-CAP ETF",
+   "cusip": "808524508",
+   "value_usd": 794180.0,
+   "shares": 21540.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US SML CAP ETF",
+   "cusip": "808524607",
+   "value_usd": 617733.0,
+   "shares": 17098.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SHERWIN WILLIAMS CO",
+   "class": "COM",
+   "cusip": "824348106",
+   "value_usd": 407675.0,
+   "shares": 1184.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SOLVENTUM CORP",
+   "class": "COM SHS",
+   "cusip": "83444M101",
+   "value_usd": 410296.0,
+   "shares": 5318.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR INDEX SHS FDS",
+   "class": "ST STR PO EX ETF",
+   "cusip": "78463X889",
+   "value_usd": 882732.0,
+   "shares": 17518.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR P500ETF",
+   "cusip": "78464A854",
+   "value_usd": 462776.0,
+   "shares": 5266.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STATE STR SPDR S&P 500 ETF T",
+   "class": "TR UNIT",
+   "cusip": "78462F103",
+   "value_usd": 6228062.0,
+   "shares": 8340.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+   "class": "SPONSORED ADS",
+   "cusip": "874039100",
+   "value_usd": 222548.0,
+   "shares": 466.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TESLA INC",
+   "class": "COM",
+   "cusip": "88160R101",
+   "value_usd": 631741.0,
+   "shares": 1502.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD BD INDEX FDS",
+   "class": "INTERMED TERM",
+   "cusip": "921937819",
+   "value_usd": 334259.0,
+   "shares": 4358.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD MUN BD FDS",
+   "class": "TAX EXEMPT BD",
+   "cusip": "922907746",
+   "value_usd": 302165.0,
+   "shares": 5974.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD TAX-MANAGED FDS",
+   "class": "VAN FTSE DEV MKT",
+   "cusip": "921943858",
+   "value_usd": 203276.0,
+   "shares": 2853.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VICTORY PORTFOLIOS II",
+   "class": "VICT WES U S ETF",
+   "cusip": "92647P126",
+   "value_usd": 669032.0,
+   "shares": 13126.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "XCEL ENERGY INC",
+   "class": "COM",
+   "cusip": "98389B100",
+   "value_usd": 325888.0,
+   "shares": 4058.0,
+   "put_call": ""
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "window": "2026-10-08 .. 2026-10-14",
+ "sec": {
+  "weekdays_in_window": 5,
+  "stored_days": 3,
+  "holiday_or_no_index": [
+   "2026-10-12"
+  ],
+  "missing_days": [
+   "2026-10-14"
+  ],
+  "form4_lookback_days_with_data": 6,
+  "form4_cluster_lookback_target": 30,
+  "form13f_filers": 580,
+  "form13f_holdings_fetched": 73,
+  "form13f_skipped_large_books": 507
+ },
+ "house": {
+  "ptr_filings_in_window": 5,
+  "pdf_parsed": 5,
+  "pdf_no_text": 0,
+  "pdf_failed": 0,
+  "trade_rows": 84,
+  "years": [
+   2026
+  ]
+ },
+ "oge": {
+  "records_total": 33964,
+  "new_or_recent_rows": 896,
+  "first_run_window_days": null
+ },
+ "federal_register": {
+  "documents": 0,
+  "dropped_fulltext_only": 0,
+  "errors": []
+ },
+ "feeds": {
+  "items_captured": 1611,
+  "kept_for_agents": 395,
+  "days_with_data": 1,
+  "failed_feeds": {},
+  "disabled_feeds": [
+   "gnw-public (403 from scripted client 2026-10-14; agents cover manually)",
+   "bw-all (feed id returned empty channel; needs valid ids; agents cover manually)",
+   "quantum-insider (Cloudflare challenge 2026-10-14; agents cover manually)",
+   "govconwire (Cloudflare challenge 2026-10-14; agents cover manually)",
+   "commerce-gov (Cloudflare challenge 2026-10-14; agents cover manually)"
+  ]
+ },
+ "etf": {
+  "failed": {},
+  "stale_source": [],
+  "partial_top25_only": []
+ },
+ "status_checks": {
+  "companies_checked": 127,
+  "flagged": 10,
+  "sec_search_calls": 60,
+  "budget_exhausted": true
+ },
+ "not_collected_by_script": [
+  "Senate periodic transaction reports (efdsearch.senate.gov needs a session/terms form) -> agent",
+  "USAspending / SAM.gov awards (structured but not wired) -> agent",
+  "Private rounds with investors named only in article text / paywalled pages -> agent",
+  "Corporate strategic investments announced by the TARGET rather than the investor -> agent",
+  "Sources blocked for scripted access: gnw-public (403 from scripted client 2026-10-14; agents cover manually); bw-all (feed id returned empty channel; needs valid ids; agents cover manually); quantum-insider (Cloudflare challenge 2026-10-14; agents cover manually); govconwire (Cloudflare challenge 2026-10-14; agents cover manually); commerce-gov (Cloudflare challenge 2026-10-14; agents cover manually) -> agent",
+  "13F books skipped as large/diversified (holdings not parsed) -> universe-wide reverse check not done",
+  "Statements, interviews, endorsements (Stream 4) -> agent",
+  "Non-US filings of foreign-listed tracked names -> agent"
+ ],
+ "dataset_rows": {
+  "01_fund_positions": 146,
+  "02_ownership_crossings": 256,
+  "03_insider_transactions": 864,
+  "03b_insider_clusters": 18,
+  "03c_planned_insider_sales": 185,
+  "04_event_8k_candidates": 254,
+  "05_private_raises_form_d": 1037,
+  "06_ipo_registrations": 46,
+  "07_politician_trades": 84,
+  "08_executive_branch_trades": 896,
+  "09_government_items": 0,
+  "10_etf_changes": 0,
+  "10b_etf_overlap": 46,
+  "10c_etf_cross_holdings": 322,
+  "11_feed_hits": 395,
+  "12_status_flags": 127,
+  "13_unknown_entities": 47,
+  "14_periodic_reports_tracked": 26
+ }
+}

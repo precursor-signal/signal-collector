@@ -1,0 +1,358 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001599390-26-000003",
+ "holdings": [
+  {
+   "issuer": "ADVANCED MICRO DEVIC",
+   "class": "COM",
+   "cusip": "007903107",
+   "value_usd": 3434340.0,
+   "shares": 5912.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC. CLASS A",
+   "class": "COM",
+   "cusip": "02079K305",
+   "value_usd": 37892656.0,
+   "shares": 106032.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMAZON.COM INC",
+   "class": "COM",
+   "cusip": "023135106",
+   "value_usd": 20876677.0,
+   "shares": 87592.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMPHENOL CORP CLA",
+   "class": "COM",
+   "cusip": "032095101",
+   "value_usd": 4868548.0,
+   "shares": 27612.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLE INC",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 12987056.0,
+   "shares": 44882.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARGAN INC COM",
+   "class": "COM",
+   "cusip": "04010E109",
+   "value_usd": 5232898.0,
+   "shares": 6553.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BERKSHIRE HATHAWAY INC DEL CL",
+   "class": "COM",
+   "cusip": "084670702",
+   "value_usd": 551930.0,
+   "shares": 1103.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BROADCOM INC",
+   "class": "COM",
+   "cusip": "11135F101",
+   "value_usd": 15069203.0,
+   "shares": 39892.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CATERPILLAR INC",
+   "class": "COM",
+   "cusip": "149123101",
+   "value_usd": 10637286.0,
+   "shares": 9989.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHEVRON CORP",
+   "class": "COM",
+   "cusip": "166764100",
+   "value_usd": 549660.0,
+   "shares": 3316.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COSTCO WHOLESALE CO",
+   "class": "COM",
+   "cusip": "22160K105",
+   "value_usd": 5136666.0,
+   "shares": 5491.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CURTISS WRIGHT CORP",
+   "class": "COM",
+   "cusip": "231561101",
+   "value_usd": 32662487.0,
+   "shares": 43104.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL US EQUITY ETF",
+   "class": "COM",
+   "cusip": "25434V401",
+   "value_usd": 312929.0,
+   "shares": 3819.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL US MARKETWIDE VALU",
+   "class": "COM",
+   "cusip": "25434V724",
+   "value_usd": 237803.0,
+   "shares": 4323.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ELBIT SYSTEMS LTD",
+   "class": "COM",
+   "cusip": "M3760D101",
+   "value_usd": 2679799.0,
+   "shares": 3532.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ENERGY TRANSFER LP COM UT LTD",
+   "class": "COM",
+   "cusip": "29273V100",
+   "value_usd": 1790435.0,
+   "shares": 93642.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ENTERPRISE PRODS PART LP",
+   "class": "COM",
+   "cusip": "293792107",
+   "value_usd": 2593675.0,
+   "shares": 70557.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIDELITY NASDAQ COMPOSITE IND",
+   "class": "COM",
+   "cusip": "315912808",
+   "value_usd": 2517949.0,
+   "shares": 24394.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TRUST EUROZONE ALPHADEX",
+   "class": "COM",
+   "cusip": "33737J505",
+   "value_usd": 3737877.0,
+   "shares": 56336.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GE VERNOVA",
+   "class": "COM",
+   "cusip": "36828A101",
+   "value_usd": 3435291.0,
+   "shares": 2924.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GENERAL ELECTRIC CO",
+   "class": "COM",
+   "cusip": "369604301",
+   "value_usd": 3778037.0,
+   "shares": 10109.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GOLDMAN SACHS GROUP",
+   "class": "COM",
+   "cusip": "38141G104",
+   "value_usd": 8636088.0,
+   "shares": 8539.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HOWMET AEROSPACE INC",
+   "class": "COM",
+   "cusip": "443201108",
+   "value_usd": 5898520.0,
+   "shares": 21939.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVSC QQQ TRUST SRS 1 ETF",
+   "class": "COM",
+   "cusip": "46090E103",
+   "value_usd": 22590619.0,
+   "shares": 30677.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES CORE S&P 500 ETF",
+   "class": "COM",
+   "cusip": "464287200",
+   "value_usd": 76330064.0,
+   "shares": 101924.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES CORE S&P MID CAP ETF",
+   "class": "COM",
+   "cusip": "464287507",
+   "value_usd": 6083285.0,
+   "shares": 78891.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES CORE S&P SMALL CAP ETF",
+   "class": "COM",
+   "cusip": "464287804",
+   "value_usd": 244712.0,
+   "shares": 1650.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES MSCI EMERGING MARKETS",
+   "class": "COM",
+   "cusip": "464287234",
+   "value_usd": 38175516.0,
+   "shares": 558040.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JPMORGAN CHASE & CO",
+   "class": "COM",
+   "cusip": "46625H100",
+   "value_usd": 16993992.0,
+   "shares": 51917.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "KLA CORP",
+   "class": "COM",
+   "cusip": "482480100",
+   "value_usd": 12812719.0,
+   "shares": 42467.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "KODIAK GAS SERVICES, INC",
+   "class": "COM",
+   "cusip": "50012A108",
+   "value_usd": 9407478.0,
+   "shares": 125216.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MERCURY SYSTEMS INC",
+   "class": "COM",
+   "cusip": "589378108",
+   "value_usd": 4477890.0,
+   "shares": 36605.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 10976684.0,
+   "shares": 29427.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MUELLER INDS INC",
+   "class": "COM",
+   "cusip": "624756102",
+   "value_usd": 4552221.0,
+   "shares": 37031.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NVIDIA CORP",
+   "class": "COM",
+   "cusip": "67066G104",
+   "value_usd": 29604316.0,
+   "shares": 147955.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR PORTFOLIO S&P 500 ETF",
+   "class": "COM",
+   "cusip": "78464A854",
+   "value_usd": 3865753.0,
+   "shares": 43989.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STATE STREET SPDR S&P 500 ETF",
+   "class": "COM",
+   "cusip": "78462F103",
+   "value_usd": 536181.0,
+   "shares": 718.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TEREX CORP",
+   "class": "COM",
+   "cusip": "880779103",
+   "value_usd": 4255157.0,
+   "shares": 58781.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNITEDHEALTH GRP INC",
+   "class": "COM",
+   "cusip": "91324P102",
+   "value_usd": 5796792.0,
+   "shares": 13947.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD TOTAL STOCK MARKET ET",
+   "class": "COM",
+   "cusip": "922908769",
+   "value_usd": 1879335.0,
+   "shares": 5079.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WATTS WATER TECH INC CLASS A",
+   "class": "COM",
+   "cusip": "942749102",
+   "value_usd": 4352141.0,
+   "shares": 11118.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CALL (MSFT) MICROSOFT $500 EXP",
+   "class": "CALL",
+   "cusip": "44G99IVX8",
+   "value_usd": 2133890.0,
+   "shares": 2042.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CALL (NFLX) NETFLIX INC $125 E",
+   "class": "CALL",
+   "cusip": "5FI995343",
+   "value_usd": 139032.0,
+   "shares": 11586.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TAIWAN SEMICONDUCTOR ADR",
+   "class": "ADR",
+   "cusip": "874039100",
+   "value_usd": 1474736.0,
+   "shares": 3088.0,
+   "put_call": ""
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001398344-26-014600",
+ "holdings": [
+  {
+   "issuer": "ANTERO MIDSTREAM CORP",
+   "class": "COM",
+   "cusip": "03676B102",
+   "value_usd": 12667883.0,
+   "shares": 556830.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CANADIAN SOLAR INC",
+   "class": "COM",
+   "cusip": "136635109",
+   "value_usd": 14797930.0,
+   "shares": 923716.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHINA YUCHAI INTL LTD",
+   "class": "COM",
+   "cusip": "G21082105",
+   "value_usd": 63579512.0,
+   "shares": 1341057.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DOLE PLC",
+   "class": "ORD SHS",
+   "cusip": "G27907107",
+   "value_usd": 6048133.0,
+   "shares": 440826.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NEW ORIENTAL ED & TECHNOLOGY",
+   "class": "SPON ADR",
+   "cusip": "647581206",
+   "value_usd": 13537298.0,
+   "shares": 294866.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NOVAVAX INC",
+   "class": "COM NEW",
+   "cusip": "670002401",
+   "value_usd": 133439735.0,
+   "shares": 14165577.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TRONOX HOLDINGS PLC",
+   "class": "SHS",
+   "cusip": "G9087Q102",
+   "value_usd": 16196128.0,
+   "shares": 2570814.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "SHORT TERM TREAS",
+   "cusip": "92206C102",
+   "value_usd": 22251257.0,
+   "shares": 382324.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VEON LTD",
+   "class": "SPONSORED ADS",
+   "cusip": "91822M502",
+   "value_usd": 243694247.0,
+   "shares": 4667578.0,
+   "put_call": ""
+  }
+ ]
+}

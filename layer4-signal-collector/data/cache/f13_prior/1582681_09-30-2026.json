@@ -1,0 +1,78 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001582681-26-000008",
+ "holdings": [
+  {
+   "issuer": "INVESCO QQQ TR",
+   "class": "UNIT SER 1",
+   "cusip": "46090E103",
+   "value_usd": 241950259.0,
+   "shares": 351677.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P500 ETF",
+   "cusip": "464287200",
+   "value_usd": 991671683.0,
+   "shares": 1321665.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "IBOXX HI YD ETF",
+   "cusip": "464288513",
+   "value_usd": 338903.0,
+   "shares": 4264.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "BROAD USD HIGH",
+   "cusip": "46435U853",
+   "value_usd": 21208047.0,
+   "shares": 576619.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES GOLD TRUST MICRO",
+   "class": "SHS REPSTG UN TR",
+   "cusip": "46436F103",
+   "value_usd": 128215120.0,
+   "shares": 3176000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES GOLD TRUST MICRO",
+   "class": "SHS REPSTG UN TR",
+   "cusip": "46436F103",
+   "value_usd": 16511330.0,
+   "shares": 409000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR R1K LOWV",
+   "cusip": "78468R754",
+   "value_usd": 23364770.0,
+   "shares": 158073.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR R1K MOM",
+   "cusip": "78468R762",
+   "value_usd": 5362408.0,
+   "shares": 35053.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR R1K YLD",
+   "cusip": "78468R770",
+   "value_usd": 14781401.0,
+   "shares": 111642.0,
+   "put_call": ""
+  }
+ ]
+}

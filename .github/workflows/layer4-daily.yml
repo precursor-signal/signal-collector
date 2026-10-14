@@ -1,0 +1,84 @@
+name: Layer 4 - daily collector (11:00 PM ET daily)
+
+on:
+  schedule:
+    - cron: "7 3 * * *"    # 11:07 PM EDT (US daylight time) - backup if the claude.ai kick-off routine does not fire
+    - cron: "7 4 * * *"    # 11:07 PM EST (US standard time) - the gate step lets either run between 11:00 PM and 12:59 AM New York time, and only once per day
+  push:
+    branches: [main]
+    paths: ["layer4-signal-collector/triggers/daily.txt"]   # kick-off from the claude.ai routine "Layer 4 - daily collector kickoff" (same gates apply)
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "Extra script arguments, e.g. --only feeds  or  --lookback 10  or  --force"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: layer4-collector
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Gate - only run 11:00 PM to 12:59 AM New York time, once per day
+        id: gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          H=$(TZ=America/New_York date +%H)
+          D=$(TZ=America/New_York date -d '-2 hours' +%F)   # the collection date: 11 PM and 12 AM both belong to the same evening
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif [ "$H" != "23" ] && [ "$H" != "00" ]; then
+            echo "New York hour is $H - outside 11 PM - 12:59 AM, skipping this trigger"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            SINCE=$(TZ=America/New_York date -d "$D 22:59" -u +%Y-%m-%dT%H:%M:%SZ)
+            MSGS=$(gh api "repos/${{ github.repository }}/commits?since=$SINCE&per_page=50" --jq '.[].commit.message' 2>/dev/null || true)
+            if echo "$MSGS" | grep -q "^Layer 4 daily $D"; then
+              echo "Layer 4 daily for $D already collected - skipping this trigger"
+              echo "run=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "run=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: pip install openpyxl pypdf pyyaml
+
+      - name: Run Layer 4 daily collector
+        if: steps.gate.outputs.run == 'true'
+        working-directory: layer4-signal-collector
+        run: python layer4_daily.py ${{ github.event.inputs.args }}
+
+      - name: Commit results
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          D=$(TZ=America/New_York date -d '-2 hours' +%F)
+          git config user.name "layer4-bot"
+          git config user.email "layer4-bot@users.noreply.github.com"
+          git add -A layer4-signal-collector/data layer4-signal-collector/config/cache/cusip.json
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "Layer 4 daily $D"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              echo "push attempt $i failed, retrying"; sleep 15
+            done
+          fi

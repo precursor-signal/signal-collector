@@ -1,0 +1,86 @@
+{
+ "period": "2017-06-30",
+ "accession": "0001828808-26-000067",
+ "holdings": [
+  {
+   "issuer": "Amazon.com, Inc.",
+   "class": "COM",
+   "cusip": "023135106",
+   "value_usd": 24200000.0,
+   "shares": 25000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AstraZeneca Plc",
+   "class": "COM",
+   "cusip": "G0593M107",
+   "value_usd": 23050014.0,
+   "shares": 340000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Berkshire Hathaway Inc",
+   "class": "COM",
+   "cusip": "084670108",
+   "value_usd": 22923000.0,
+   "shares": 90.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CVS Health Corporation",
+   "class": "COM",
+   "cusip": "126650100",
+   "value_usd": 20919600.0,
+   "shares": 260000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Goodyear Tire & Rubber Co/The",
+   "class": "COM",
+   "cusip": "382550101",
+   "value_usd": 23947600.0,
+   "shares": 685000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "International Business Machines Corp",
+   "class": "COM",
+   "cusip": "459200101",
+   "value_usd": 22613010.0,
+   "shares": 147000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Microsoft Corporation",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 21644020.0,
+   "shares": 314000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Vipshop Holdings Ltd",
+   "class": "COM",
+   "cusip": "92763W103",
+   "value_usd": 20150500.0,
+   "shares": 1910000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Whirlpool Corp",
+   "class": "COM",
+   "cusip": "963320106",
+   "value_usd": 22898590.0,
+   "shares": 119500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Apple Inc.",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 23475260.0,
+   "shares": 163000.0,
+   "put_call": ""
+  }
+ ]
+}

@@ -1,0 +1,470 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001951757-26-000949",
+ "holdings": [
+  {
+   "issuer": "ABBVIE INC",
+   "class": "COM",
+   "cusip": "00287Y109",
+   "value_usd": 4664147.0,
+   "shares": 18535.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ADVANCED MICRO DEVICES INC",
+   "class": "COM",
+   "cusip": "007903107",
+   "value_usd": 22948850.0,
+   "shares": 39505.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL A",
+   "cusip": "02079K305",
+   "value_usd": 4244126.0,
+   "shares": 11876.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMAZON COM INC",
+   "class": "COM",
+   "cusip": "023135106",
+   "value_usd": 1655271.0,
+   "shares": 6945.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN TOWER CORP",
+   "class": "COM",
+   "cusip": "03027X100",
+   "value_usd": 1804995.0,
+   "shares": 11035.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLE INC",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 4218869.0,
+   "shares": 14580.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARES CAPITAL CORP",
+   "class": "COM",
+   "cusip": "04010L103",
+   "value_usd": 720446.0,
+   "shares": 38880.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARISTA NETWORKS INC",
+   "class": "COM SHS",
+   "cusip": "040413205",
+   "value_usd": 2407200.0,
+   "shares": 14170.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ASML HLDG NV",
+   "class": "N Y REGISTRY SHS",
+   "cusip": "N07059210",
+   "value_usd": 3899302.0,
+   "shares": 1960.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AST SPACEMOBILE INC",
+   "class": "COM CL A",
+   "cusip": "00217D100",
+   "value_usd": 786411.0,
+   "shares": 8850.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AUTOMATIC DATA PROCESSING IN",
+   "class": "COM",
+   "cusip": "053015103",
+   "value_usd": 3004513.0,
+   "shares": 13416.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BLACKSTONE INC",
+   "class": "COM",
+   "cusip": "09260D107",
+   "value_usd": 4394033.0,
+   "shares": 37342.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CATERPILLAR INC",
+   "class": "COM",
+   "cusip": "149123101",
+   "value_usd": 4490683.0,
+   "shares": 4217.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CONSTELLATION ENERGY CORP",
+   "class": "COM",
+   "cusip": "21037T109",
+   "value_usd": 1385905.0,
+   "shares": 5580.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CORNING INC",
+   "class": "COM",
+   "cusip": "219350105",
+   "value_usd": 18104878.0,
+   "shares": 70880.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COSTCO WHOLESALE CORPORATION",
+   "class": "COM",
+   "cusip": "22160K105",
+   "value_usd": 3390143.0,
+   "shares": 3624.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CROWDSTRIKE HLDGS INC",
+   "class": "CL A",
+   "cusip": "22788C105",
+   "value_usd": 2054373.0,
+   "shares": 2692.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CSX CORP",
+   "class": "COM",
+   "cusip": "126408103",
+   "value_usd": 1189486.0,
+   "shares": 25026.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DELL TECHNOLOGIES INC",
+   "class": "CL C",
+   "cusip": "24703L202",
+   "value_usd": 9618538.0,
+   "shares": 22293.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIGITAL RLTY TR INC",
+   "class": "COM",
+   "cusip": "253868103",
+   "value_usd": 1929587.0,
+   "shares": 10745.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EMERSON ELEC CO",
+   "class": "COM",
+   "cusip": "291011104",
+   "value_usd": 786037.0,
+   "shares": 5491.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIGURE TECHNOLOGY SOLUTIO",
+   "class": "COM CL A",
+   "cusip": "349381103",
+   "value_usd": 459114.0,
+   "shares": 14950.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIREFLY AEROSPACE INC",
+   "class": "COM",
+   "cusip": "31816X106",
+   "value_usd": 593057.0,
+   "shares": 20172.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GENERAL DYNAMICS CORP",
+   "class": "COM",
+   "cusip": "369550108",
+   "value_usd": 2010312.0,
+   "shares": 5675.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HOME DEPOT INC",
+   "class": "COM",
+   "cusip": "437076102",
+   "value_usd": 869004.0,
+   "shares": 2464.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HONEYWELL AEROSPACE INC",
+   "class": "COM",
+   "cusip": "43849R105",
+   "value_usd": 1478141.0,
+   "shares": 6686.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HONEYWELL INTL INC",
+   "class": "COM",
+   "cusip": "438516205",
+   "value_usd": 1496995.0,
+   "shares": 6686.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HUBBELL INC",
+   "class": "COM",
+   "cusip": "443510607",
+   "value_usd": 12129869.0,
+   "shares": 23184.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HUNTINGTON INGALLS INDS INC",
+   "class": "COM",
+   "cusip": "446413106",
+   "value_usd": 905444.0,
+   "shares": 3235.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "IRON MTN INC DEL",
+   "class": "COM",
+   "cusip": "46284V101",
+   "value_usd": 6565822.0,
+   "shares": 51982.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JACOBS SOLUTIONS INC",
+   "class": "COM",
+   "cusip": "46982L108",
+   "value_usd": 1652490.0,
+   "shares": 13115.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JOHNSON & JOHNSON",
+   "class": "COM",
+   "cusip": "478160104",
+   "value_usd": 3870503.0,
+   "shares": 15240.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JPMORGAN CHASE & CO",
+   "class": "COM",
+   "cusip": "46625H100",
+   "value_usd": 11541656.0,
+   "shares": 35260.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "KRATOS DEFENSE & SEC SOLUTIO",
+   "class": "COM NEW",
+   "cusip": "50077B207",
+   "value_usd": 866218.0,
+   "shares": 17373.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "L3HARRIS TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "502431109",
+   "value_usd": 555027.0,
+   "shares": 1910.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LOCKHEED MARTIN CORP",
+   "class": "COM",
+   "cusip": "539830109",
+   "value_usd": 7764170.0,
+   "shares": 15240.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MASTERCARD INCORPORATED",
+   "class": "CL A",
+   "cusip": "57636Q104",
+   "value_usd": 887501.0,
+   "shares": 1728.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MERCK & CO INC",
+   "class": "COM",
+   "cusip": "58933Y105",
+   "value_usd": 3705298.0,
+   "shares": 28835.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICRON TECHNOLOGY INC",
+   "class": "COM",
+   "cusip": "595112103",
+   "value_usd": 12235474.0,
+   "shares": 10600.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 5457283.0,
+   "shares": 14630.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MORGAN STANLEY",
+   "class": "COM NEW",
+   "cusip": "617446448",
+   "value_usd": 4201704.0,
+   "shares": 20100.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NETFLIX INC.",
+   "class": "COM",
+   "cusip": "64110L106",
+   "value_usd": 2438310.0,
+   "shares": 34150.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NORFOLK SOUTHN CORP",
+   "class": "COM",
+   "cusip": "655844108",
+   "value_usd": 1284786.0,
+   "shares": 4084.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NORTHROP GRUMMAN CORP",
+   "class": "COM",
+   "cusip": "666807102",
+   "value_usd": 3589617.0,
+   "shares": 7048.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NVIDIA CORPORATION",
+   "class": "COM",
+   "cusip": "67066G104",
+   "value_usd": 41132501.0,
+   "shares": 205570.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PALO ALTO NETWORKS INC",
+   "class": "COM",
+   "cusip": "697435105",
+   "value_usd": 3280271.0,
+   "shares": 9619.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PFIZER INC",
+   "class": "COM",
+   "cusip": "717081103",
+   "value_usd": 2220176.0,
+   "shares": 92200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PUBLIC STORAGE",
+   "class": "COM",
+   "cusip": "74460D109",
+   "value_usd": 2104666.0,
+   "shares": 6612.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "QUEST DIAGNOSTICS INC",
+   "class": "COM",
+   "cusip": "74834L100",
+   "value_usd": 652806.0,
+   "shares": 3080.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RED CAT HLDGS INC",
+   "class": "COM",
+   "cusip": "75644T100",
+   "value_usd": 242128.0,
+   "shares": 22735.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "REDWIRE CORPORATION",
+   "class": "COM",
+   "cusip": "75776W103",
+   "value_usd": 652470.0,
+   "shares": 53350.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RTX CORPORATION",
+   "class": "COM",
+   "cusip": "75513E101",
+   "value_usd": 4916663.0,
+   "shares": 25914.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SEMPRA",
+   "class": "COM",
+   "cusip": "816851109",
+   "value_usd": 4431538.0,
+   "shares": 47800.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SOLSTICE ADVANCED MATLS INC",
+   "class": "COM SHS",
+   "cusip": "83443Q103",
+   "value_usd": 830625.0,
+   "shares": 9375.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SYMBOTIC INC",
+   "class": "CLASS A COM",
+   "cusip": "87151X101",
+   "value_usd": 364455.0,
+   "shares": 8108.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNION PAC CORP",
+   "class": "COM",
+   "cusip": "907818108",
+   "value_usd": 10073520.0,
+   "shares": 37035.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VERTIV HOLDINGS CO",
+   "class": "COM CL A",
+   "cusip": "92537N108",
+   "value_usd": 4607189.0,
+   "shares": 13760.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WASTE MGMT INC DEL",
+   "class": "COM",
+   "cusip": "94106L109",
+   "value_usd": 1909636.0,
+   "shares": 8568.0,
+   "put_call": ""
+  }
+ ]
+}

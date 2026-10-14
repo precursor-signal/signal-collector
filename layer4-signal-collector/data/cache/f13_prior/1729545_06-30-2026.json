@@ -1,0 +1,86 @@
+{
+ "period": "2026-03-31",
+ "accession": "0001062993-26-005289",
+ "holdings": [
+  {
+   "issuer": "ALAMOS GOLD INC",
+   "class": "COM CL A",
+   "cusip": "011532108",
+   "value_usd": 9552450.0,
+   "shares": 215000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARIS MINING CORPORATION",
+   "class": "COM",
+   "cusip": "04040Y109",
+   "value_usd": 12618241.0,
+   "shares": 679496.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CREDICORP LTD",
+   "class": "COM",
+   "cusip": "G2519Y108",
+   "value_usd": 746196.0,
+   "shares": 2200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EQUINOX GOLD CORP",
+   "class": "COM",
+   "cusip": "29446Y502",
+   "value_usd": 4444469.0,
+   "shares": 307363.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GLOBAL X FDS",
+   "class": "GLOBAL X SILVER",
+   "cusip": "37954Y848",
+   "value_usd": 997816.0,
+   "shares": 11077.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GRUPO CIBEST SA",
+   "class": "SPON ADS",
+   "cusip": "40090E106",
+   "value_usd": 2454279.0,
+   "shares": 33708.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PAN AMERN SILVER CORP",
+   "class": "COM",
+   "cusip": "697900108",
+   "value_usd": 7565763.0,
+   "shares": 138491.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPROTT ASSET MANAGEMENT LP",
+   "class": "PHYSICAL GOLD TR",
+   "cusip": "85207H104",
+   "value_usd": 408340.0,
+   "shares": 11522.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPROTT ASSET MANAGEMENT LP",
+   "class": "PHYSICAL SILVER",
+   "cusip": "85207K107",
+   "value_usd": 8548475.0,
+   "shares": 350491.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANECK ETF TRUST",
+   "class": "JUNIOR GOLD MINE",
+   "cusip": "92189F791",
+   "value_usd": 12334590.0,
+   "shares": 102754.0,
+   "put_call": ""
+  }
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "period": "2026-06-30",
+ "accession": "0002085853-26-000908",
+ "holdings": [
+  {
+   "issuer": "ABRDN PRECIOUS METALS BASKET",
+   "class": "PHYSCL PRECS MET",
+   "cusip": "003263100",
+   "value_usd": 8807344.0,
+   "shares": 48619.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN CENTY ETF TR",
+   "class": "US SML CP VALU",
+   "cusip": "025072877",
+   "value_usd": 11172831.0,
+   "shares": 89555.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BANK OF N T BUTTERFIELD & SO",
+   "class": "SHS NEW",
+   "cusip": "G0772R208",
+   "value_usd": 1615723.0,
+   "shares": 27155.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BERKSHIRE HATHAWAY INC DEL",
+   "class": "CL B NEW",
+   "cusip": "084670702",
+   "value_usd": 360281.0,
+   "shares": 720.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAPITAL GROUP CORE EQUITY ET",
+   "class": "SHS CREAT UNIT",
+   "cusip": "14020V108",
+   "value_usd": 311360.0,
+   "shares": 7000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "INTERNATIONAL",
+   "cusip": "25434V690",
+   "value_usd": 224209.0,
+   "shares": 4971.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "EMGR CRE EQT MNG",
+   "cusip": "25434V302",
+   "value_usd": 10505611.0,
+   "shares": 261269.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "INTERNATNAL VAL",
+   "cusip": "25434V807",
+   "value_usd": 239833.0,
+   "shares": 4440.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "US TARGETED VLU",
+   "cusip": "25434V609",
+   "value_usd": 368772.0,
+   "shares": 5276.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "US MKTWIDE VALUE",
+   "cusip": "25434V724",
+   "value_usd": 556739.0,
+   "shares": 10121.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "US EQUI MARK ETF",
+   "cusip": "25434V401",
+   "value_usd": 818853.0,
+   "shares": 9993.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "US SMALL CAP ETF",
+   "cusip": "25434V500",
+   "value_usd": 334592.0,
+   "shares": 4064.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "US SUSTAINABILTY",
+   "cusip": "25434V716",
+   "value_usd": 412468.0,
+   "shares": 8846.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ETFS GOLD TR",
+   "class": "PHYSCL GOLD SHS",
+   "cusip": "00326A104",
+   "value_usd": 19044465.0,
+   "shares": 498155.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "NASDAQ CYB ETF",
+   "cusip": "33734X846",
+   "value_usd": 269550.0,
+   "shares": 3000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GLOBAL SELF STORAGE INC",
+   "class": "COM",
+   "cusip": "37955N106",
+   "value_usd": 257008.0,
+   "shares": 49047.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HARBOR ETF TRUST",
+   "class": "LONG TERM GROWER",
+   "cusip": "41151J406",
+   "value_usd": 37214322.0,
+   "shares": 1146114.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES GOLD TR",
+   "class": "ISHARES NEW",
+   "cusip": "464285204",
+   "value_usd": 8412596.0,
+   "shares": 111410.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P500 ETF",
+   "cusip": "464287200",
+   "value_usd": 1114482.0,
+   "shares": 1488.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE US AGGBD ET",
+   "cusip": "464287226",
+   "value_usd": 204493.0,
+   "shares": 2066.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 1000 ETF",
+   "cusip": "464287622",
+   "value_usd": 858312.0,
+   "shares": 2096.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JANUS DETROIT STR TR",
+   "class": "HENDERSON MTG",
+   "cusip": "47103U852",
+   "value_usd": 28110419.0,
+   "shares": 624815.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NUSHARES ETF TR",
+   "class": "ESG LARGE CAP",
+   "cusip": "67092P862",
+   "value_usd": 222515.0,
+   "shares": 4110.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PIMCO ETF TR",
+   "class": "ENHAN SHRT MA AC",
+   "cusip": "72201R833",
+   "value_usd": 1390145.0,
+   "shares": 13790.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PUTNAM ETF TRUST",
+   "class": "FOCUSED LAR CAP",
+   "cusip": "746729300",
+   "value_usd": 21859875.0,
+   "shares": 429046.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "SHT TM US TRES",
+   "cusip": "808524862",
+   "value_usd": 13448862.0,
+   "shares": 557119.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR GOLD TR",
+   "class": "GOLD SHS",
+   "cusip": "78463V107",
+   "value_usd": 3912196.0,
+   "shares": 10620.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR INDEX SHS FDS",
+   "class": "ST STR ACWI ETF",
+   "cusip": "78463X848",
+   "value_usd": 590289.0,
+   "shares": 14514.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPROTT ASSET MANAGEMENT LP",
+   "class": "PHYSICAL GOLD TR",
+   "cusip": "85207H104",
+   "value_usd": 226577.0,
+   "shares": 7510.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANECK ETF TRUST",
+   "class": "FALLEN ANGEL HG",
+   "cusip": "92189F437",
+   "value_usd": 4067847.0,
+   "shares": 139119.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD BD INDEX FDS",
+   "class": "TOTAL BND MRKT",
+   "cusip": "921937835",
+   "value_usd": 294255.0,
+   "shares": 4008.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "GROWTH ETF",
+   "cusip": "922908736",
+   "value_usd": 617336.0,
+   "shares": 7167.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "TOTAL STK MKT",
+   "cusip": "922908769",
+   "value_usd": 169429715.0,
+   "shares": 457869.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "MID CAP ETF",
+   "cusip": "922908629",
+   "value_usd": 249661.0,
+   "shares": 3099.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "S&P 500 ETF SHS",
+   "cusip": "922908363",
+   "value_usd": 526914.0,
+   "shares": 767.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "VALUE ETF",
+   "cusip": "922908744",
+   "value_usd": 400108.0,
+   "shares": 1836.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INTL EQUITY INDEX F",
+   "class": "ALLWRLD EX US",
+   "cusip": "922042775",
+   "value_usd": 305163.0,
+   "shares": 3644.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INTL EQUITY INDEX F",
+   "class": "TT WRLD ST ETF",
+   "cusip": "922042742",
+   "value_usd": 1594455.0,
+   "shares": 10159.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD MALVERN FDS",
+   "class": "STRM INFPROIDX",
+   "cusip": "922020805",
+   "value_usd": 261959.0,
+   "shares": 5215.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD MUN BD FDS",
+   "class": "TAX EXEMPT BD",
+   "cusip": "922907746",
+   "value_usd": 18824054.0,
+   "shares": 372164.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "LONG TERM TREAS",
+   "cusip": "92206C847",
+   "value_usd": 7865986.0,
+   "shares": 142551.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "INTER TERM TREAS",
+   "cusip": "92206C706",
+   "value_usd": 35813674.0,
+   "shares": 607217.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "SHORT TERM TREAS",
+   "cusip": "92206C102",
+   "value_usd": 679810.0,
+   "shares": 11681.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "SHRT TRM CORP BD",
+   "cusip": "92206C409",
+   "value_usd": 26381818.0,
+   "shares": 333820.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD STAR FDS",
+   "class": "VG TL INTL STK F",
+   "cusip": "921909768",
+   "value_usd": 69093148.0,
+   "shares": 808202.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD WORLD FD",
+   "class": "ESG INTL STK ETF",
+   "cusip": "921910725",
+   "value_usd": 221552.0,
+   "shares": 2691.0,
+   "put_call": ""
+  }
+ ]
+}

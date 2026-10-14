@@ -1,0 +1,246 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001172661-26-002510",
+ "holdings": [
+  {
+   "issuer": "ABBVIE INC",
+   "class": "COM",
+   "cusip": "00287Y109",
+   "value_usd": 185858788.0,
+   "shares": 738590.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARES MANAGEMENT CORPORATION",
+   "class": "CL A COM STK",
+   "cusip": "03990B101",
+   "value_usd": 106816861.0,
+   "shares": 959634.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BROADCOM INC",
+   "class": "COM",
+   "cusip": "11135F101",
+   "value_usd": 208112674.0,
+   "shares": 550927.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CME GROUP INC",
+   "class": "COM",
+   "cusip": "12572Q105",
+   "value_usd": 118597635.0,
+   "shares": 537054.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CONOCOPHILLIPS",
+   "class": "COM",
+   "cusip": "20825C104",
+   "value_usd": 150879435.0,
+   "shares": 1451322.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CUMMINS INC",
+   "class": "COM",
+   "cusip": "231021106",
+   "value_usd": 274132962.0,
+   "shares": 384365.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CVS HEALTH CORP",
+   "class": "COM",
+   "cusip": "126650100",
+   "value_usd": 177686548.0,
+   "shares": 1717608.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DARDEN RESTAURANTS INC",
+   "class": "COM",
+   "cusip": "237194105",
+   "value_usd": 169460736.0,
+   "shares": 822585.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DICKS SPORTING GOODS INC",
+   "class": "COM",
+   "cusip": "253393102",
+   "value_usd": 146206035.0,
+   "shares": 644619.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ENTERPRISE PRODS PARTNERS L",
+   "class": "COM",
+   "cusip": "293792107",
+   "value_usd": 176167043.0,
+   "shares": 4792357.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HOME DEPOT INC",
+   "class": "COM",
+   "cusip": "437076102",
+   "value_usd": 143796453.0,
+   "shares": 407725.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INTERNATIONAL BUSINESS MACHS",
+   "class": "COM",
+   "cusip": "459200101",
+   "value_usd": 54484156.0,
+   "shares": 193749.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "7-10 YR TRSY BD",
+   "cusip": "464287440",
+   "value_usd": 1017167.0,
+   "shares": 10756.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JOHNSON & JOHNSON",
+   "class": "COM",
+   "cusip": "478160104",
+   "value_usd": 181542835.0,
+   "shares": 714820.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LAMAR ADVERTISING CO",
+   "class": "CL A",
+   "cusip": "512816109",
+   "value_usd": 209046424.0,
+   "shares": 1340213.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MORGAN STANLEY",
+   "class": "COM NEW",
+   "cusip": "617446448",
+   "value_usd": 246311832.0,
+   "shares": 1178300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "OLD REP INTL CORP",
+   "class": "COM",
+   "cusip": "680223104",
+   "value_usd": 190893641.0,
+   "shares": 4665045.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PAYCHEX INC",
+   "class": "COM",
+   "cusip": "704326107",
+   "value_usd": 117678492.0,
+   "shares": 1196771.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PENSKE AUTOMOTIVE GRP INC",
+   "class": "COM",
+   "cusip": "70959W103",
+   "value_usd": 23250079.0,
+   "shares": 129925.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PHILIP MORRIS INTL INC",
+   "class": "COM",
+   "cusip": "718172109",
+   "value_usd": 114817064.0,
+   "shares": 634664.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROCTER & GAMBLE CO",
+   "class": "COM",
+   "cusip": "742718109",
+   "value_usd": 155345577.0,
+   "shares": 1059367.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PUBLIC SVC ENTERPRISE GROUP",
+   "class": "COM",
+   "cusip": "744573106",
+   "value_usd": 182304351.0,
+   "shares": 2246234.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RYMAN HOSPITALITY PPTYS INC",
+   "class": "COM",
+   "cusip": "78377T107",
+   "value_usd": 126521224.0,
+   "shares": 984218.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SIMON PPTY GROUP INC NEW",
+   "class": "COM",
+   "cusip": "828806109",
+   "value_usd": 193810617.0,
+   "shares": 866580.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SLB LIMITED",
+   "class": "COM STK",
+   "cusip": "806857108",
+   "value_usd": 76430769.0,
+   "shares": 1644026.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SNAP ON INC",
+   "class": "COM",
+   "cusip": "833034101",
+   "value_usd": 184069832.0,
+   "shares": 457430.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TEXAS INSTRS INC",
+   "class": "COM",
+   "cusip": "882508104",
+   "value_usd": 150091956.0,
+   "shares": 503546.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UGI CORP NEW",
+   "class": "COM",
+   "cusip": "902681105",
+   "value_usd": 91753058.0,
+   "shares": 2656429.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNILEVER PLC",
+   "class": "SPON ADR NEW",
+   "cusip": "904767803",
+   "value_usd": 163689987.0,
+   "shares": 2722721.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WATSCO INC",
+   "class": "COM",
+   "cusip": "942622200",
+   "value_usd": 126820941.0,
+   "shares": 304324.0,
+   "put_call": ""
+  }
+ ]
+}

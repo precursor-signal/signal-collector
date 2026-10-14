@@ -1,0 +1,48 @@
+﻿etf,ticker,name,weight_pct,shares,cusip
+CIBR,CRWD,"CrowdStrike Holdings, Inc. (Class A)",8.41,,22788C105
+CIBR,FTNT,"Fortinet, Inc.",8.3,,34959E109
+CIBR,CSCO,"Cisco Systems, Inc.",7.74,,17275R102
+CIBR,PANW,"Palo Alto Networks, Inc.",7.73,,697435105
+CIBR,AVGO,Broadcom Inc.,7.17,,11135F101
+CIBR,OKTA,"Okta, Inc.",4.59,,679295105
+CIBR,NET,"Cloudflare, Inc. (Class A)",4.24,,18915M107
+CIBR,ZS,"Zscaler, Inc.",3.95,,98980G102
+CIBR,FFIV,"F5, Inc.",3.7,,315616102
+CIBR,RBRK,"Rubrik, Inc. (Class A)",2.66,,781154109
+CIBR,NTAP,"NetApp, Inc.",2.4,,64110D104
+CIBR,DDOG,"Datadog, Inc. (Class A)",2.22,,23804L103
+CIBR,DT,"Dynatrace, Inc.",2.2,,268150109
+CIBR,ACN,Accenture plc,2.09,,G1151C101
+CIBR,MSFT,Microsoft Corporation,1.99,,594918104
+CIBR,GOOGL,Alphabet Inc. (Class A),1.94,,02079K305
+CIBR,ANET,"Arista Networks, Inc.",1.94,,040413205
+CIBR,FROG,JFrog Ltd.,1.84,,M6191J100
+CIBR,IBM,International Business Machines Corporation,1.83,,459200101
+CIBR,AKAM,"Akamai Technologies, Inc.",1.8,,00971T101
+CIBR,INFY,Infosys Limited (ADR),1.76,,456788108
+CIBR,CHKP,Check Point Software Technologies Ltd.,1.75,,M22465104
+CIBR,HO.FP,Thales S.A.,1.62,,F9156M108
+CIBR,GEN,Gen Digital Inc.,1.61,,668771108
+CIBR,LDOS,"Leidos Holdings, Inc.",1.59,,525327102
+CIBR,ESTC,Elastic N.V.,1.37,,N14506104
+CIBR,S,"SentinelOne, Inc. (Class A)",1.22,,81730H109
+CIBR,BAH,Booz Allen Hamilton Holding Corporation,1.15,,099502106
+CIBR,4704.JP,Trend Micro Incorporated,1.0,,J9298Q104
+CIBR,QLYS,"Qualys, Inc.",0.89,,74758T303
+CIBR,CVLT,"Commvault Systems, Inc.",0.87,,204166102
+CIBR,BB,BlackBerry Ltd.,0.83,,09228F103
+CIBR,SAIC,Science Applications International Corporation,0.79,,808625107
+CIBR,VRNS,"Varonis Systems, Inc.",0.79,,922280102
+CIBR,OTEX.CN,Open Text Corporation,0.69,,683715106
+CIBR,NTSK,"Netskope, Inc. (Class A)",0.66,,64119N608
+CIBR,TENB,"Tenable Holdings, Inc.",0.62,,88025T102
+CIBR,FSLY,"Fastly, Inc. (Class A)",0.53,,31188V100
+CIBR,NTCT,"NetScout Systems, Inc.",0.38,,64115T104
+CIBR,ATEN,"A10 Networks, Inc.",0.29,,002121101
+CIBR,ZD,"Ziff Davis, Inc.",0.24,,48123V102
+CIBR,$USD,US Dollar,0.2,,
+CIBR,RDWR,Radware Ltd.,0.13,,M81873107
+CIBR,RPD,"Rapid7, Inc.",0.11,,753422104
+CIBR,OSPN,OneSpan Inc.,0.1,,68287N100
+CIBR,ATO.FP,Atos Group,0.08,,F04805275
+CIBR,$CAD,Canadian Dollar,0.0,,

@@ -1,0 +1,326 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001411268-26-000004",
+ "holdings": [
+  {
+   "issuer": "APPLE INC",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 740102.0,
+   "shares": 2558.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES INC",
+   "class": "CORE MSCI EMKT",
+   "cusip": "46434G103",
+   "value_usd": 17022875.0,
+   "shares": 205491.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "1 3 YR TREAS BD",
+   "cusip": "464287457",
+   "value_usd": 439782.0,
+   "shares": 5356.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "20 YR TR BD ETF",
+   "cusip": "464287432",
+   "value_usd": 208359.0,
+   "shares": 2411.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "3 7 YR TREAS BD",
+   "cusip": "464288661",
+   "value_usd": 1938043.0,
+   "shares": 16501.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "7-10 YR TRSY BD",
+   "cusip": "464287440",
+   "value_usd": 51255144.0,
+   "shares": 541981.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "BROAD USD HIGH",
+   "cusip": "46435U853",
+   "value_usd": 6861991.0,
+   "shares": 185359.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE MSCI EAFE",
+   "cusip": "46432F842",
+   "value_usd": 29468104.0,
+   "shares": 305116.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P MCP ETF",
+   "cusip": "464287507",
+   "value_usd": 29218255.0,
+   "shares": 378917.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P SCP ETF",
+   "cusip": "464287804",
+   "value_usd": 24609191.0,
+   "shares": 165931.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P500 ETF",
+   "cusip": "464287200",
+   "value_usd": 69714258.0,
+   "shares": 93090.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE US AGGBD ET",
+   "cusip": "464287226",
+   "value_usd": 51030129.0,
+   "shares": 515560.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "IBOXX HI YD ETF",
+   "cusip": "464288513",
+   "value_usd": 19369134.0,
+   "shares": 242205.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "IBOXX INV CP ETF",
+   "cusip": "464287242",
+   "value_usd": 12840375.0,
+   "shares": 117726.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "MSCI EAFE ETF",
+   "cusip": "464287465",
+   "value_usd": 1961359.0,
+   "shares": 18881.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "NATIONAL MUN ETF",
+   "cusip": "464288414",
+   "value_usd": 1789016.0,
+   "shares": 16623.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 1000 GRW ETF",
+   "cusip": "464287614",
+   "value_usd": 769358.0,
+   "shares": 6196.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "SELECT DIVID ETF",
+   "cusip": "464287168",
+   "value_usd": 350738.0,
+   "shares": 2244.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "US TREAS BD ETF",
+   "cusip": "46429B267",
+   "value_usd": 4266808.0,
+   "shares": 187305.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NVIDIA CORPORATION",
+   "class": "COM",
+   "cusip": "67066G104",
+   "value_usd": 299369.0,
+   "shares": 1496.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "EMRG MKTEQ ETF",
+   "cusip": "808524706",
+   "value_usd": 357002.0,
+   "shares": 9846.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "INTL EQTY ETF",
+   "cusip": "808524805",
+   "value_usd": 965542.0,
+   "shares": 34857.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "INT-TRM U.S TRES",
+   "cusip": "808524854",
+   "value_usd": 569178.0,
+   "shares": 23081.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "SHT TM US TRES",
+   "cusip": "808524862",
+   "value_usd": 1085649.0,
+   "shares": 44973.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US AGGREGATE B",
+   "cusip": "808524839",
+   "value_usd": 1386974.0,
+   "shares": 59964.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US BRD MKT ETF",
+   "cusip": "808524102",
+   "value_usd": 790000.0,
+   "shares": 27279.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US LRG CAP ETF",
+   "cusip": "808524201",
+   "value_usd": 1129052.0,
+   "shares": 38364.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US MID-CAP ETF",
+   "cusip": "808524508",
+   "value_usd": 670334.0,
+   "shares": 18181.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US SML CAP ETF",
+   "cusip": "808524607",
+   "value_usd": 1088678.0,
+   "shares": 30132.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD BD INDEX FDS",
+   "class": "TOTAL BND MRKT",
+   "cusip": "921937835",
+   "value_usd": 59212800.0,
+   "shares": 806604.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "GROWTH ETF",
+   "cusip": "922908736",
+   "value_usd": 567232.0,
+   "shares": 6585.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "MID CAP ETF",
+   "cusip": "922908629",
+   "value_usd": 22630744.0,
+   "shares": 280883.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "S&P 500 ETF SHS",
+   "cusip": "922908363",
+   "value_usd": 65810135.0,
+   "shares": 95820.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "SMALL CP ETF",
+   "cusip": "922908751",
+   "value_usd": 23170190.0,
+   "shares": 76439.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INTL EQUITY INDEX F",
+   "class": "FTSE EMR MKT ETF",
+   "cusip": "922042858",
+   "value_usd": 15128192.0,
+   "shares": 253446.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD MUN BD FDS",
+   "class": "TAX EXEMPT BD",
+   "cusip": "922907746",
+   "value_usd": 1296315.0,
+   "shares": 25629.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "INT-TERM CORP",
+   "cusip": "92206C870",
+   "value_usd": 1268265.0,
+   "shares": 15345.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "SHRT TRM CORP BD",
+   "cusip": "92206C409",
+   "value_usd": 15837533.0,
+   "shares": 200399.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD TAX-MANAGED FDS",
+   "class": "VAN FTSE DEV MKT",
+   "cusip": "921943858",
+   "value_usd": 28824544.0,
+   "shares": 404555.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD WHITEHALL FDS",
+   "class": "HIGH DIV YLD",
+   "cusip": "921946406",
+   "value_usd": 46315275.0,
+   "shares": 293079.0,
+   "put_call": ""
+  }
+ ]
+}

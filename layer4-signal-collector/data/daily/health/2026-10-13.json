@@ -1,0 +1,78 @@
+{
+ "run_date_et": "2026-10-13",
+ "started_et": "2026-10-14T12:33:21-04:00",
+ "modules": [
+  "sec"
+ ],
+ "sec_days": {
+  "2026-10-06": {
+   "index_rows_all": 3501,
+   "relevant_unique": 1266,
+   "forms": {
+    "events8k": 113
+   },
+   "fetch_errors": 0,
+   "refreshed_forms": [
+    "8-K",
+    "8-K/A"
+   ]
+  },
+  "2026-10-07": {
+   "index_rows_all": 3159,
+   "relevant_unique": 1175,
+   "forms": {
+    "events8k": 66
+   },
+   "fetch_errors": 0,
+   "refreshed_forms": [
+    "8-K",
+    "8-K/A"
+   ]
+  },
+  "2026-10-08": {
+   "index_rows_all": 3193,
+   "relevant_unique": 1134,
+   "forms": {
+    "events8k": 72
+   },
+   "fetch_errors": 0,
+   "refreshed_forms": [
+    "8-K",
+    "8-K/A"
+   ]
+  },
+  "2026-10-09": {
+   "index_rows_all": 3216,
+   "relevant_unique": 1209,
+   "forms": {
+    "events8k": 72
+   },
+   "fetch_errors": 0,
+   "refreshed_forms": [
+    "8-K",
+    "8-K/A"
+   ]
+  },
+  "2026-10-13": {
+   "index_rows_all": 4534,
+   "relevant_unique": 1873,
+   "forms": {
+    "events8k": 110
+   },
+   "fetch_errors": 0,
+   "refreshed_forms": [
+    "8-K",
+    "8-K/A"
+   ]
+  }
+ },
+ "skipped_done": [],
+ "no_index": [
+  "2026-10-12 (HTTP 403; weekend/holiday)"
+ ],
+ "pending": [],
+ "universe_tickers": 774,
+ "universe_ciks": 522,
+ "finished_et": "2026-10-14T12:48:33-04:00",
+ "elapsed_min": 15.2
+}

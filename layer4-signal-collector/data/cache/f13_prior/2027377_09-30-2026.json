@@ -1,0 +1,86 @@
+{
+ "period": "2026-06-30",
+ "accession": "0002085853-26-000708",
+ "holdings": [
+  {
+   "issuer": "AMERICAN CENTY ETF TR",
+   "class": "US EQT ETF",
+   "cusip": "025072885",
+   "value_usd": 372193948.0,
+   "shares": 2905949.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN CENTY ETF TR",
+   "class": "AVANTIS US LARG",
+   "cusip": "025072158",
+   "value_usd": 180704901.0,
+   "shares": 2008725.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN CENTY ETF TR",
+   "class": "AVANTIS EMGMKT",
+   "cusip": "025072604",
+   "value_usd": 103771714.0,
+   "shares": 1075466.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN CENTY ETF TR",
+   "class": "INTL EQT ETF",
+   "cusip": "025072703",
+   "value_usd": 127294466.0,
+   "shares": 1427068.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES INC",
+   "class": "CORE MSCI EMKT",
+   "cusip": "46434G103",
+   "value_usd": 12182368.0,
+   "shares": 147059.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE MSCI INTL",
+   "cusip": "46435G326",
+   "value_usd": 15249015.0,
+   "shares": 171318.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "EXTEND MKT ETF",
+   "cusip": "922908652",
+   "value_usd": 1620800.0,
+   "shares": 6583.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "GROWTH ETF",
+   "cusip": "922908736",
+   "value_usd": 28468581.0,
+   "shares": 330492.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "VALUE ETF",
+   "cusip": "922908744",
+   "value_usd": 27336267.0,
+   "shares": 125436.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "S&P 500 ETF SHS",
+   "cusip": "922908363",
+   "value_usd": 37444194.0,
+   "shares": 54519.0,
+   "put_call": ""
+  }
+ ]
+}

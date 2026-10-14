@@ -1,0 +1,238 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001984180-26-000004",
+ "holdings": [
+  {
+   "issuer": "ACCENTURE PLC IRELAND",
+   "class": "SHS CLASS A",
+   "cusip": "G1151C101",
+   "value_usd": 6978595.0,
+   "shares": 56080.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL A",
+   "cusip": "02079K305",
+   "value_usd": 26549017.0,
+   "shares": 74290.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL C",
+   "cusip": "02079K107",
+   "value_usd": 430356.0,
+   "shares": 1218.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ASML HLDG NV",
+   "class": "N Y REGISTRY SHS",
+   "cusip": "N07059210",
+   "value_usd": 27478145.0,
+   "shares": 13812.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BANK NOVA SCOTIA B C",
+   "class": "COM",
+   "cusip": "064149107",
+   "value_usd": 17823215.0,
+   "shares": 205242.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BERKSHIRE HATHAWAY INC DEL",
+   "class": "CL B NEW",
+   "cusip": "084670702",
+   "value_usd": 15343459.0,
+   "shares": 30663.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAL MAINE FOODS INC",
+   "class": "COM NEW",
+   "cusip": "128030202",
+   "value_usd": 10670091.0,
+   "shares": 132449.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAPITAL ONE FINL CORP",
+   "class": "COM",
+   "cusip": "14040H105",
+   "value_usd": 12623211.0,
+   "shares": 62921.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CUMMINS INC",
+   "class": "COM",
+   "cusip": "231021106",
+   "value_usd": 19101190.0,
+   "shares": 26782.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DEERE & CO",
+   "class": "COM",
+   "cusip": "244199105",
+   "value_usd": 19401617.0,
+   "shares": 30586.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EMERSON ELEC CO",
+   "class": "COM",
+   "cusip": "291011104",
+   "value_usd": 14823326.0,
+   "shares": 103551.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HUNT J B TRANS SVCS INC",
+   "class": "COM",
+   "cusip": "445658107",
+   "value_usd": 24575501.0,
+   "shares": 84910.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ICON PUB LTD CO",
+   "class": "SHS",
+   "cusip": "G4705A100",
+   "value_usd": 23320220.0,
+   "shares": 134248.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INTERNATIONAL BANCSHARES COR",
+   "class": "COM",
+   "cusip": "459044103",
+   "value_usd": 9680587.0,
+   "shares": 127460.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LAM RESEARCH CORP",
+   "class": "COM NEW",
+   "cusip": "512807306",
+   "value_usd": 30875196.0,
+   "shares": 71251.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MERCK & CO INC",
+   "class": "COM",
+   "cusip": "58933Y105",
+   "value_usd": 14959071.0,
+   "shares": 116413.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NOVARTIS AG",
+   "class": "SPONSORED ADR",
+   "cusip": "66987V109",
+   "value_usd": 12635863.0,
+   "shares": 80627.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NOVO-NORDISK A S",
+   "class": "ADR",
+   "cusip": "670100205",
+   "value_usd": 7845908.0,
+   "shares": 163661.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PEPSICO INC",
+   "class": "COM",
+   "cusip": "713448108",
+   "value_usd": 13134477.0,
+   "shares": 97005.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PHILLIPS 66",
+   "class": "COM",
+   "cusip": "718546104",
+   "value_usd": 16539345.0,
+   "shares": 97837.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "POOL CORP",
+   "class": "COM",
+   "cusip": "73278L105",
+   "value_usd": 19029825.0,
+   "shares": 88552.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SHELL PLC",
+   "class": "SPON ADS",
+   "cusip": "780259305",
+   "value_usd": 12656932.0,
+   "shares": 163231.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+   "class": "SPONSORED ADS",
+   "cusip": "874039100",
+   "value_usd": 26219548.0,
+   "shares": 54902.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TEXAS INSTRS INC",
+   "class": "COM",
+   "cusip": "882508104",
+   "value_usd": 19642515.0,
+   "shares": 65899.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "THERMO FISHER SCIENTIFIC INC",
+   "class": "COM",
+   "cusip": "883556102",
+   "value_usd": 15251371.0,
+   "shares": 30420.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNILEVER PLC",
+   "class": "SPON ADR NEW",
+   "cusip": "904767803",
+   "value_usd": 10991619.0,
+   "shares": 182828.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VAIL RESORTS INC",
+   "class": "COM",
+   "cusip": "91879Q109",
+   "value_usd": 11940627.0,
+   "shares": 87702.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VONTIER CORPORATION",
+   "class": "COM",
+   "cusip": "928881101",
+   "value_usd": 13322774.0,
+   "shares": 459406.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WELLS FARGO & CO",
+   "class": "COM",
+   "cusip": "949746101",
+   "value_usd": 11257717.0,
+   "shares": 136226.0,
+   "put_call": ""
+  }
+ ]
+}

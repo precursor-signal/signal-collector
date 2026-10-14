@@ -1,0 +1,79 @@
+{
+ "window_start": "2026-10-08",
+ "window_end": "2026-10-14",
+ "started_et": "2026-10-14T15:58:30-04:00",
+ "sec_days_expected": 5,
+ "sec_days_missing_before_fill": [
+  "2026-10-14"
+ ],
+ "sec_days_no_index_holiday": [
+  "2026-10-12"
+ ],
+ "sec_days_still_missing": [
+  "2026-10-14"
+ ],
+ "f13": {
+  "filers_in_window": 580,
+  "holdings_fetched_filers": 73,
+  "prior_quarter_fetches": 0,
+  "openfigi_calls": 0
+ },
+ "committees": "531 members mapped",
+ "house": {
+  "ptr_filings_in_window": 5,
+  "pdf_parsed": 5,
+  "pdf_no_text": 0,
+  "pdf_failed": 0,
+  "trade_rows": 84,
+  "years": [
+   2026
+  ]
+ },
+ "oge": {
+  "records_total": 33964,
+  "new_or_recent_rows": 896,
+  "first_run_window_days": null
+ },
+ "fedreg": {
+  "documents": 0,
+  "dropped_fulltext_only": 0,
+  "errors": []
+ },
+ "feeds": {
+  "items_captured": 1611,
+  "kept_for_agents": 395,
+  "days_with_data": 1
+ },
+ "etf": {
+  "change_rows": 0,
+  "etfs_with_snapshot": 46
+ },
+ "status_checks": {
+  "companies_checked": 127,
+  "flagged": 10,
+  "sec_search_calls": 60,
+  "budget_exhausted": true
+ },
+ "xlsx_error": "\u0000\u0000 ID Owner Asset Transaction Type Date Notification Date Amount Cap. Gains > $200? SP NVIDIA Corporation - Common Stock cannot be used in worksheets.",
+ "elapsed_min": 0.7,
+ "dataset_rows": {
+  "01_fund_positions": 146,
+  "02_ownership_crossings": 256,
+  "03_insider_transactions": 864,
+  "03b_insider_clusters": 18,
+  "03c_planned_insider_sales": 185,
+  "04_event_8k_candidates": 254,
+  "05_private_raises_form_d": 1037,
+  "06_ipo_registrations": 46,
+  "07_politician_trades": 84,
+  "08_executive_branch_trades": 896,
+  "09_government_items": 0,
+  "10_etf_changes": 0,
+  "10b_etf_overlap": 46,
+  "10c_etf_cross_holdings": 322,
+  "11_feed_hits": 395,
+  "12_status_flags": 127,
+  "13_unknown_entities": 47,
+  "14_periodic_reports_tracked": 26
+ }
+}

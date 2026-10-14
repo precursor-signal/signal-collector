@@ -1,0 +1,454 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001420506-26-001212",
+ "holdings": [
+  {
+   "issuer": "ABBOTT LABORATORIES",
+   "class": "COM",
+   "cusip": "002824100",
+   "value_usd": 2214056.0,
+   "shares": 24400.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ABBOTT LABORATORIES",
+   "class": "COM",
+   "cusip": "002824100",
+   "value_usd": 753142.0,
+   "shares": 8300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ABBVIE INC",
+   "class": "COM",
+   "cusip": "00287Y109",
+   "value_usd": 7196904.0,
+   "shares": 28600.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ABBVIE INC",
+   "class": "COM",
+   "cusip": "00287Y109",
+   "value_usd": 2088612.0,
+   "shares": 8300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AGILENT TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "00846U101",
+   "value_usd": 2377657.0,
+   "shares": 17900.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLE INC",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 14198895.0,
+   "shares": 49070.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLIED MATLS INC",
+   "class": "COM",
+   "cusip": "038222105",
+   "value_usd": 15744048.0,
+   "shares": 21776.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AT&T INC",
+   "class": "COM",
+   "cusip": "00206R102",
+   "value_usd": 1846440.0,
+   "shares": 89200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BERKSHIRE HATHAWAY INC DEL",
+   "class": "CL B NEW",
+   "cusip": "084670702",
+   "value_usd": 675526.0,
+   "shares": 1350.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BRISTOL-MYERS SQUIBB CO",
+   "class": "COM",
+   "cusip": "110122108",
+   "value_usd": 3128766.0,
+   "shares": 54300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CISCO SYS INC",
+   "class": "COM",
+   "cusip": "17275R102",
+   "value_usd": 10207274.0,
+   "shares": 86900.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CISCO SYS INC",
+   "class": "COM",
+   "cusip": "17275R102",
+   "value_usd": 176190.0,
+   "shares": 1500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COCA COLA CO",
+   "class": "COM",
+   "cusip": "191216100",
+   "value_usd": 2218671.0,
+   "shares": 27300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COCA COLA CO",
+   "class": "COM",
+   "cusip": "191216100",
+   "value_usd": 65016.0,
+   "shares": 800.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CORNING INC",
+   "class": "COM",
+   "cusip": "219350105",
+   "value_usd": 13486704.0,
+   "shares": 52800.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EMERSON ELEC CO",
+   "class": "COM",
+   "cusip": "291011104",
+   "value_usd": 5940725.0,
+   "shares": 41500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EMERSON ELEC CO",
+   "class": "COM",
+   "cusip": "291011104",
+   "value_usd": 214725.0,
+   "shares": 1500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EXXON MOBIL CORP",
+   "class": "COM",
+   "cusip": "30231G102",
+   "value_usd": 150939.0,
+   "shares": 1104.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EXXON MOBIL CORP",
+   "class": "COM",
+   "cusip": "30231G102",
+   "value_usd": 1788434.0,
+   "shares": 13081.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GE AEROSPACE",
+   "class": "COM NEW",
+   "cusip": "369604301",
+   "value_usd": 928345.0,
+   "shares": 2484.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GE VERNOVA INC",
+   "class": "COM",
+   "cusip": "36828A101",
+   "value_usd": 728413.0,
+   "shares": 620.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GEN DIGITAL INC",
+   "class": "COM",
+   "cusip": "668771108",
+   "value_usd": 1555625.0,
+   "shares": 62500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GSK PLC",
+   "class": "SPONSORED ADR",
+   "cusip": "37733W204",
+   "value_usd": 2174382.0,
+   "shares": 41480.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HEWLETT PACKARD ENTERPRISE C",
+   "class": "COM",
+   "cusip": "42824C109",
+   "value_usd": 2575781.0,
+   "shares": 57100.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HP INC",
+   "class": "COM",
+   "cusip": "40434L105",
+   "value_usd": 1263744.0,
+   "shares": 57600.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ING GROEP N.V.",
+   "class": "SPONSORED ADR",
+   "cusip": "456837103",
+   "value_usd": 2573160.0,
+   "shares": 82000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INTEL CORP",
+   "class": "COM",
+   "cusip": "458140100",
+   "value_usd": 11016807.0,
+   "shares": 78900.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INTEL CORP",
+   "class": "COM",
+   "cusip": "458140100",
+   "value_usd": 411908.0,
+   "shares": 2950.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INTERNATIONAL BUSINESS MACHS",
+   "class": "COM",
+   "cusip": "459200101",
+   "value_usd": 8014485.0,
+   "shares": 28500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INTERNATIONAL BUSINESS MACHS",
+   "class": "COM",
+   "cusip": "459200101",
+   "value_usd": 299207.0,
+   "shares": 1064.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JOHNSON & JOHNSON",
+   "class": "COM",
+   "cusip": "478160104",
+   "value_usd": 9701654.0,
+   "shares": 38200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JOHNSON & JOHNSON",
+   "class": "COM",
+   "cusip": "478160104",
+   "value_usd": 85842.0,
+   "shares": 338.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "KONINKLIJKE PHILIPS N V",
+   "class": "NY REGIS SHS NEW",
+   "cusip": "500472303",
+   "value_usd": 2337579.0,
+   "shares": 85972.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "KONINKLIJKE PHILIPS N V",
+   "class": "NY REGIS SHS NEW",
+   "cusip": "500472303",
+   "value_usd": 26891.0,
+   "shares": 989.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MARSH & MCLENNAN COS INC",
+   "class": "COM",
+   "cusip": "571748102",
+   "value_usd": 4216751.0,
+   "shares": 25300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MERCK & CO INC",
+   "class": "COM",
+   "cusip": "58933Y105",
+   "value_usd": 8545250.0,
+   "shares": 66500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MERCK & CO INC",
+   "class": "COM",
+   "cusip": "58933Y105",
+   "value_usd": 385500.0,
+   "shares": 3000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 12977366.0,
+   "shares": 34790.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 1193664.0,
+   "shares": 3200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NORTHERN TR CORP",
+   "class": "COM",
+   "cusip": "665859104",
+   "value_usd": 2207768.0,
+   "shares": 12700.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NUCOR CORP",
+   "class": "COM",
+   "cusip": "670346105",
+   "value_usd": 4945050.0,
+   "shares": 22200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NUCOR CORP",
+   "class": "COM",
+   "cusip": "670346105",
+   "value_usd": 275096.0,
+   "shares": 1235.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ORACLE CORP",
+   "class": "COM",
+   "cusip": "68389X105",
+   "value_usd": 407409.0,
+   "shares": 2780.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PFIZER INC",
+   "class": "COM",
+   "cusip": "717081103",
+   "value_usd": 4151344.0,
+   "shares": 172398.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PFIZER INC",
+   "class": "COM",
+   "cusip": "717081103",
+   "value_usd": 142313.0,
+   "shares": 5910.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROCTER & GAMBLE CO",
+   "class": "COM",
+   "cusip": "742718109",
+   "value_usd": 2346240.0,
+   "shares": 16000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROCTER & GAMBLE CO",
+   "class": "COM",
+   "cusip": "742718109",
+   "value_usd": 58656.0,
+   "shares": 400.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROGRESSIVE CORP",
+   "class": "COM",
+   "cusip": "743315103",
+   "value_usd": 11179397.0,
+   "shares": 51176.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROGRESSIVE CORP",
+   "class": "COM",
+   "cusip": "743315103",
+   "value_usd": 100548384.0,
+   "shares": 460281.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STRYKER CORPORATION",
+   "class": "COM",
+   "cusip": "863667101",
+   "value_usd": 16702262.0,
+   "shares": 53050.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STRYKER CORPORATION",
+   "class": "COM",
+   "cusip": "863667101",
+   "value_usd": 2546741.0,
+   "shares": 8089.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "THERMO FISHER SCIENTIFIC INC",
+   "class": "COM",
+   "cusip": "883556102",
+   "value_usd": 4449570.0,
+   "shares": 8875.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNITED PARCEL SVCS INC",
+   "class": "CL B",
+   "cusip": "911312106",
+   "value_usd": 2424125.0,
+   "shares": 22550.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNITED PARCEL SVCS INC",
+   "class": "CL B",
+   "cusip": "911312106",
+   "value_usd": 86000.0,
+   "shares": 800.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VERIZON COMMUNICATIONS INC",
+   "class": "COM",
+   "cusip": "92343V104",
+   "value_usd": 2052643.0,
+   "shares": 48480.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VERIZON COMMUNICATIONS INC",
+   "class": "COM",
+   "cusip": "92343V104",
+   "value_usd": 82605.0,
+   "shares": 1951.0,
+   "put_call": ""
+  }
+ ]
+}

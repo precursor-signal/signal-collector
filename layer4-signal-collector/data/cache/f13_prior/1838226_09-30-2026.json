@@ -1,0 +1,2446 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001838226-26-000004",
+ "holdings": [
+  {
+   "issuer": "3M CO",
+   "class": "COM",
+   "cusip": "88579Y101",
+   "value_usd": 228458.0,
+   "shares": 1411.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ABBOTT LABORATORIES",
+   "class": "COM",
+   "cusip": "002824100",
+   "value_usd": 222258.0,
+   "shares": 2449.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ABBVIE INC",
+   "class": "COM",
+   "cusip": "00287Y109",
+   "value_usd": 1348239.0,
+   "shares": 5358.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ADVANCED MICRO DEVICES INC",
+   "class": "COM",
+   "cusip": "007903107",
+   "value_usd": 3120893.0,
+   "shares": 5372.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AEGON LTD",
+   "class": "AMER REG 1 CERT",
+   "cusip": "0076CA104",
+   "value_usd": 132373.0,
+   "shares": 15684.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALLIANT ENERGY CORP",
+   "class": "COM",
+   "cusip": "018802108",
+   "value_usd": 684478.0,
+   "shares": 8972.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL A",
+   "cusip": "02079K305",
+   "value_usd": 5476503.0,
+   "shares": 15324.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ALPHABET INC",
+   "class": "CAP STK CL C",
+   "cusip": "02079K107",
+   "value_usd": 1501676.0,
+   "shares": 4250.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMAZON COM INC",
+   "class": "COM",
+   "cusip": "023135106",
+   "value_usd": 7634984.0,
+   "shares": 32034.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN CENTY ETF TR",
+   "class": "INTL EQT ETF",
+   "cusip": "025072703",
+   "value_usd": 212564.0,
+   "shares": 2383.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN CENTY ETF TR",
+   "class": "INTL SMCP VLU",
+   "cusip": "025072802",
+   "value_usd": 214344.0,
+   "shares": 2080.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN ELEC PWR CO INC",
+   "class": "COM",
+   "cusip": "025537101",
+   "value_usd": 316479.0,
+   "shares": 2313.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN EXPRESS CO",
+   "class": "COM",
+   "cusip": "025816109",
+   "value_usd": 341216.0,
+   "shares": 1009.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERICAN HEALTHCARE REIT INC",
+   "class": "COM SHS",
+   "cusip": "398182303",
+   "value_usd": 806075.0,
+   "shares": 15457.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AMERIPRISE FINL INC",
+   "class": "COM",
+   "cusip": "03076C106",
+   "value_usd": 722186.0,
+   "shares": 1574.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ANALOG DEVICES INC",
+   "class": "COM",
+   "cusip": "032654105",
+   "value_usd": 251727.0,
+   "shares": 634.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ANNALY CAPITAL MANAGEMENT IN",
+   "class": "COM NEW",
+   "cusip": "035710839",
+   "value_usd": 493843.0,
+   "shares": 22086.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLE INC",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 8065986.0,
+   "shares": 27875.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "APPLIED MATLS INC",
+   "class": "COM",
+   "cusip": "038222105",
+   "value_usd": 401988.0,
+   "shares": 556.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARCHER DANIELS MIDLAND CO",
+   "class": "COM",
+   "cusip": "039483102",
+   "value_usd": 694155.0,
+   "shares": 9086.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARES CAPITAL CORP",
+   "class": "COM",
+   "cusip": "04010L103",
+   "value_usd": 1054271.0,
+   "shares": 56895.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARISTA NETWORKS INC",
+   "class": "COM SHS",
+   "cusip": "040413205",
+   "value_usd": 371188.0,
+   "shares": 2185.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ARM HOLDINGS PLC",
+   "class": "SPONSORED ADS",
+   "cusip": "042068205",
+   "value_usd": 924009.0,
+   "shares": 2606.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ASTERA LABS INC",
+   "class": "COM",
+   "cusip": "04626A103",
+   "value_usd": 316861.0,
+   "shares": 656.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ATI INC",
+   "class": "COM",
+   "cusip": "01741R102",
+   "value_usd": 531973.0,
+   "shares": 2699.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BANK OF AMER CORP",
+   "class": "COM",
+   "cusip": "060505104",
+   "value_usd": 1047910.0,
+   "shares": 18391.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BERKSHIRE HATHAWAY INC DEL",
+   "class": "CL B NEW",
+   "cusip": "084670702",
+   "value_usd": 803126.0,
+   "shares": 1605.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BLACKROCK CORE BD TR",
+   "class": "SHS BEN INT",
+   "cusip": "09249E101",
+   "value_usd": 306464.0,
+   "shares": 33420.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BLACKROCK TCP CAPITAL CORP",
+   "class": "COM",
+   "cusip": "09259E108",
+   "value_usd": 40320.0,
+   "shares": 12000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BLACKSTONE INC",
+   "class": "COM",
+   "cusip": "09260D107",
+   "value_usd": 1408384.0,
+   "shares": 11969.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BOEING CO",
+   "class": "COM",
+   "cusip": "097023105",
+   "value_usd": 404358.0,
+   "shares": 1868.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BOOST RUN INC",
+   "class": "ORD SHS CL A",
+   "cusip": "09940T100",
+   "value_usd": 221450.0,
+   "shares": 5706.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BP PLC",
+   "class": "SPONSORED ADR",
+   "cusip": "055622104",
+   "value_usd": 281876.0,
+   "shares": 7629.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BRISTOL-MYERS SQUIBB CO",
+   "class": "COM",
+   "cusip": "110122108",
+   "value_usd": 206253.0,
+   "shares": 3580.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "BROADCOM INC",
+   "class": "COM",
+   "cusip": "11135F101",
+   "value_usd": 2519749.0,
+   "shares": 6670.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAPITAL GROUP CORE BALANCED",
+   "class": "SHS",
+   "cusip": "14021D107",
+   "value_usd": 2294803.0,
+   "shares": 60453.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAPITAL GROUP DIVIDEND VALUE",
+   "class": "SHS CREAT UNIT",
+   "cusip": "14020W106",
+   "value_usd": 7814191.0,
+   "shares": 158567.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAPITAL GROUP GROWTH ETF",
+   "class": "SHS CREAT UNIT",
+   "cusip": "14020G101",
+   "value_usd": 5594034.0,
+   "shares": 118518.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAPITAL ONE FINL CORP",
+   "class": "COM",
+   "cusip": "14040H105",
+   "value_usd": 308685.0,
+   "shares": 1539.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CAPITAL SOUTHWEST CORP",
+   "class": "COM",
+   "cusip": "140501107",
+   "value_usd": 297615.0,
+   "shares": 12521.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CASEYS GEN STORES INC",
+   "class": "COM",
+   "cusip": "147528103",
+   "value_usd": 395995.0,
+   "shares": 498.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CATERPILLAR INC",
+   "class": "COM",
+   "cusip": "149123101",
+   "value_usd": 1816086.0,
+   "shares": 1705.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CENTRAL SECS CORP",
+   "class": "COM",
+   "cusip": "155123102",
+   "value_usd": 458819.0,
+   "shares": 8748.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHENIERE ENERGY INC",
+   "class": "COM NEW",
+   "cusip": "16411R208",
+   "value_usd": 277980.0,
+   "shares": 1163.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CHEVRON CORPORATION",
+   "class": "COM",
+   "cusip": "166764100",
+   "value_usd": 1084966.0,
+   "shares": 6545.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CINCINNATI FINL CORP",
+   "class": "COM",
+   "cusip": "172062101",
+   "value_usd": 208856.0,
+   "shares": 1128.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CISCO SYS INC",
+   "class": "COM",
+   "cusip": "17275R102",
+   "value_usd": 1048814.0,
+   "shares": 8929.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CITIGROUP INC",
+   "class": "COM NEW",
+   "cusip": "172967424",
+   "value_usd": 753083.0,
+   "shares": 5381.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CLOROX CO DEL",
+   "class": "COM",
+   "cusip": "189054109",
+   "value_usd": 272624.0,
+   "shares": 2856.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COCA COLA CO",
+   "class": "COM",
+   "cusip": "191216100",
+   "value_usd": 315780.0,
+   "shares": 3886.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COCA COLA CONS INC",
+   "class": "COM",
+   "cusip": "191098102",
+   "value_usd": 472718.0,
+   "shares": 2476.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COHEN & STEERS INFRASTRUCTUR",
+   "class": "COM",
+   "cusip": "19248A109",
+   "value_usd": 1823633.0,
+   "shares": 66098.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COMMUNITY HEALTHCARE TR INC",
+   "class": "COM",
+   "cusip": "20369C106",
+   "value_usd": 219360.0,
+   "shares": 12000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CONOCOPHILLIPS",
+   "class": "COM",
+   "cusip": "20825C104",
+   "value_usd": 354567.0,
+   "shares": 3411.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CONSTELLATION ENERGY CORP",
+   "class": "COM",
+   "cusip": "21037T109",
+   "value_usd": 579098.0,
+   "shares": 2332.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CORNING INC",
+   "class": "COM",
+   "cusip": "219350105",
+   "value_usd": 724700.0,
+   "shares": 2837.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "COSTCO WHOLESALE CORPORATION",
+   "class": "COM",
+   "cusip": "22160K105",
+   "value_usd": 552964.0,
+   "shares": 591.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CREDO TECHNOLOGY GROUP HOLDI",
+   "class": "ORDINARY SHARES",
+   "cusip": "G25457105",
+   "value_usd": 382634.0,
+   "shares": 1407.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CROWDSTRIKE HLDGS INC",
+   "class": "CL A",
+   "cusip": "22788C105",
+   "value_usd": 433464.0,
+   "shares": 568.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DEERE & CO",
+   "class": "COM",
+   "cusip": "244199105",
+   "value_usd": 4490877.0,
+   "shares": 7080.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DELL TECHNOLOGIES INC",
+   "class": "CL C",
+   "cusip": "24703L202",
+   "value_usd": 613189.0,
+   "shares": 1421.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DELTA AIR LINES INC",
+   "class": "COM NEW",
+   "cusip": "247361702",
+   "value_usd": 203944.0,
+   "shares": 2177.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DEVON ENERGY CORP NEW",
+   "class": "COM",
+   "cusip": "25179M103",
+   "value_usd": 398892.0,
+   "shares": 9654.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "US COR EQU 2 ETF",
+   "cusip": "25434V708",
+   "value_usd": 268008.0,
+   "shares": 6042.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "US EQUI MARK ETF",
+   "cusip": "25434V401",
+   "value_usd": 240822.0,
+   "shares": 2939.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "INTERNATNAL VAL",
+   "cusip": "25434V807",
+   "value_usd": 7514190.0,
+   "shares": 139100.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "EMGR CRE EQT MNG",
+   "cusip": "25434V302",
+   "value_usd": 537648.0,
+   "shares": 13371.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DIMENSIONAL ETF TRUST",
+   "class": "US SMALL CAP ETF",
+   "cusip": "25434V815",
+   "value_usd": 216138.0,
+   "shares": 5572.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DISNEY WALT CO",
+   "class": "COM",
+   "cusip": "254687106",
+   "value_usd": 270546.0,
+   "shares": 2811.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DUKE ENERGY CORP NEW",
+   "class": "COM NEW",
+   "cusip": "26441C204",
+   "value_usd": 418067.0,
+   "shares": 3303.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EA SERIES TRUST",
+   "class": "BRIDGEWAY BLUE",
+   "cusip": "02072L714",
+   "value_usd": 235422.0,
+   "shares": 14268.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EATON CORP PLC",
+   "class": "SHS",
+   "cusip": "G29183103",
+   "value_usd": 452464.0,
+   "shares": 1062.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EATON VANCE TAX ADVT DIV INC",
+   "class": "COM",
+   "cusip": "27828G107",
+   "value_usd": 2066414.0,
+   "shares": 74654.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EATON VANCE TX ADV GLBL DIV",
+   "class": "COM",
+   "cusip": "27828S101",
+   "value_usd": 262646.0,
+   "shares": 11157.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ECHOSTAR CORP",
+   "class": "CL A",
+   "cusip": "278768106",
+   "value_usd": 229796.0,
+   "shares": 2264.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ELI LILLY & CO",
+   "class": "COM",
+   "cusip": "532457108",
+   "value_usd": 1495074.0,
+   "shares": 1246.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EMERSON ELEC CO",
+   "class": "COM",
+   "cusip": "291011104",
+   "value_usd": 459134.0,
+   "shares": 3207.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ENERGY FUELS INC",
+   "class": "COM NEW",
+   "cusip": "292671708",
+   "value_usd": 502556.0,
+   "shares": 34659.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EXCHANGE TRADED CONCEPTS TRU",
+   "class": "RANG NUCL RE ETF",
+   "cusip": "301505475",
+   "value_usd": 1380785.0,
+   "shares": 20258.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "EXXON MOBIL CORP",
+   "class": "COM",
+   "cusip": "30231G102",
+   "value_usd": 990951.0,
+   "shares": 7248.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIDELITY COVINGTON TRUST",
+   "class": "MSCI UTILS INDEX",
+   "cusip": "316092865",
+   "value_usd": 312390.0,
+   "shares": 5347.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCH TRADED FD III",
+   "class": "PFD SECS INC ETF",
+   "cusip": "33739E108",
+   "value_usd": 670017.0,
+   "shares": 37473.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCH TRADED FD III",
+   "class": "INSTL PFD SECS",
+   "cusip": "33739P855",
+   "value_usd": 234431.0,
+   "shares": 12153.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE TRAD FD VI",
+   "class": "FST TR GLB FD",
+   "cusip": "33739H101",
+   "value_usd": 300348.0,
+   "shares": 11103.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE TRADED FD",
+   "class": "SMID RISNG ETF",
+   "cusip": "33741X102",
+   "value_usd": 2943920.0,
+   "shares": 68241.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE TRADED FD",
+   "class": "NASDQ ARTFCIAL",
+   "cusip": "33738R720",
+   "value_usd": 298957.0,
+   "shares": 5314.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE TRADED FD",
+   "class": "DORSEY WRT 5 ETF",
+   "cusip": "33738R605",
+   "value_usd": 1821011.0,
+   "shares": 23999.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE TRADED FD",
+   "class": "DORSY WRGH VLU",
+   "cusip": "33741L207",
+   "value_usd": 485671.0,
+   "shares": 12247.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE TRADED FD",
+   "class": "BUYWRIT INCM ETF",
+   "cusip": "33738R308",
+   "value_usd": 1120974.0,
+   "shares": 47001.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE TRADED FD",
+   "class": "RISNG DIVD ACHIV",
+   "cusip": "33738R506",
+   "value_usd": 10255310.0,
+   "shares": 126515.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE TRADED FD",
+   "class": "RBA INDL ETF",
+   "cusip": "33738R704",
+   "value_usd": 2091549.0,
+   "shares": 15696.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "FT VEST RIS",
+   "cusip": "33738D879",
+   "value_usd": 4146293.0,
+   "shares": 141030.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "VEST LADDERED",
+   "cusip": "33733E690",
+   "value_usd": 6668953.0,
+   "shares": 320777.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "US EQTY OPPT ETF",
+   "cusip": "336920103",
+   "value_usd": 203021.0,
+   "shares": 985.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "INTL EQUITY OPP",
+   "cusip": "33734X853",
+   "value_usd": 391939.0,
+   "shares": 4680.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "LNG DUR OPRTUN",
+   "cusip": "33738D606",
+   "value_usd": 1077309.0,
+   "shares": 50342.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "SENIOR LN FD",
+   "cusip": "33738D309",
+   "value_usd": 746332.0,
+   "shares": 16678.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "WTR ETF",
+   "cusip": "33733B100",
+   "value_usd": 244230.0,
+   "shares": 2230.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "SHS",
+   "cusip": "336917109",
+   "value_usd": 680948.0,
+   "shares": 13994.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "SHS",
+   "cusip": "337345102",
+   "value_usd": 655610.0,
+   "shares": 1959.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "SHS",
+   "cusip": "33734H106",
+   "value_usd": 1925266.0,
+   "shares": 39960.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "FT VEST TEC",
+   "cusip": "33738D812",
+   "value_usd": 643647.0,
+   "shares": 20266.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHANGE-TRADED FD",
+   "class": "INDX CRI MET ETF",
+   "cusip": "33734X713",
+   "value_usd": 696102.0,
+   "shares": 21363.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740F680",
+   "value_usd": 527438.0,
+   "shares": 11118.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740F623",
+   "value_usd": 473113.0,
+   "shares": 8588.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST U.S",
+   "cusip": "33740F326",
+   "value_usd": 1455099.0,
+   "shares": 47889.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740F599",
+   "value_usd": 469504.0,
+   "shares": 8984.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VE U.S. EQ BU",
+   "cusip": "33740F375",
+   "value_usd": 572478.0,
+   "shares": 18785.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740U208",
+   "value_usd": 1106908.0,
+   "shares": 18591.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740F664",
+   "value_usd": 366030.0,
+   "shares": 7000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740F763",
+   "value_usd": 1313082.0,
+   "shares": 21533.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "VEST US EQUITY B",
+   "cusip": "33740U620",
+   "value_usd": 384314.0,
+   "shares": 12208.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740F748",
+   "value_usd": 1243706.0,
+   "shares": 22130.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT LADD BUFF ETF",
+   "cusip": "33740F755",
+   "value_usd": 4274412.0,
+   "shares": 117011.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740F847",
+   "value_usd": 345968.0,
+   "shares": 5915.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740F862",
+   "value_usd": 1671927.0,
+   "shares": 29589.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST NASD ETF",
+   "cusip": "33740U752",
+   "value_usd": 6142378.0,
+   "shares": 156414.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FIRST TR EXCHNG TRADED FD VI",
+   "class": "FT VEST US EQT",
+   "cusip": "33740U307",
+   "value_usd": 1194740.0,
+   "shares": 21691.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FORD MTR CO",
+   "class": "COM",
+   "cusip": "345370860",
+   "value_usd": 291801.0,
+   "shares": 20993.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FREEPORT MCMORAN INC",
+   "class": "CL B",
+   "cusip": "35671D857",
+   "value_usd": 399281.0,
+   "shares": 6349.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "FS KKR CAP CORP",
+   "class": "COM",
+   "cusip": "302635206",
+   "value_usd": 106839.0,
+   "shares": 10175.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GABELLI EQUITY TR INC",
+   "class": "COM",
+   "cusip": "362397101",
+   "value_usd": 1831234.0,
+   "shares": 323540.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GE AEROSPACE",
+   "class": "COM NEW",
+   "cusip": "369604301",
+   "value_usd": 286942.0,
+   "shares": 768.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GE VERNOVA INC",
+   "class": "COM",
+   "cusip": "36828A101",
+   "value_usd": 334923.0,
+   "shares": 285.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GENERAL DYNAMICS CORP",
+   "class": "COM",
+   "cusip": "369550108",
+   "value_usd": 487434.0,
+   "shares": 1376.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GENERAL MTRS CO",
+   "class": "COM",
+   "cusip": "37045V100",
+   "value_usd": 287997.0,
+   "shares": 3736.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GLOBAL X FDS",
+   "class": "US PFD ETF",
+   "cusip": "37954Y657",
+   "value_usd": 216291.0,
+   "shares": 11573.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GLOBAL X FDS",
+   "class": "DEFENSE TECH ETF",
+   "cusip": "37960A529",
+   "value_usd": 2065791.0,
+   "shares": 34597.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GLOBAL X FDS",
+   "class": "NASDAQ 100 COVER",
+   "cusip": "37954Y483",
+   "value_usd": 296091.0,
+   "shares": 16066.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GLOBAL X FDS",
+   "class": "RUSSELL 2000",
+   "cusip": "37954Y459",
+   "value_usd": 201838.0,
+   "shares": 12623.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GLOBAL X FDS",
+   "class": "US INFR DEV ETF",
+   "cusip": "37954Y673",
+   "value_usd": 1099629.0,
+   "shares": 18663.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GLOBAL X FDS",
+   "class": "CYBRSCURTY ETF",
+   "cusip": "37954Y384",
+   "value_usd": 871061.0,
+   "shares": 22809.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GOLDMAN SACHS BDC INC",
+   "class": "SHS",
+   "cusip": "38147U107",
+   "value_usd": 113760.0,
+   "shares": 12000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "GOLDMAN SACHS GROUP INC",
+   "class": "COM",
+   "cusip": "38141G104",
+   "value_usd": 672468.0,
+   "shares": 665.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HERCULES CAPITAL INC",
+   "class": "COM",
+   "cusip": "427096508",
+   "value_usd": 686245.0,
+   "shares": 43516.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HONEYWELL AEROSPACE INC",
+   "class": "COM",
+   "cusip": "43849R105",
+   "value_usd": 370751.0,
+   "shares": 1677.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "HONEYWELL INTL INC",
+   "class": "COM",
+   "cusip": "438516205",
+   "value_usd": 375480.0,
+   "shares": 1677.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INTEL CORP",
+   "class": "COM",
+   "cusip": "458140100",
+   "value_usd": 6692105.0,
+   "shares": 47927.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INTERNATIONAL BUSINESS MACHS",
+   "class": "COM",
+   "cusip": "459200101",
+   "value_usd": 1636988.0,
+   "shares": 5821.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCH TRADED FD TR II",
+   "class": "PFD ETF",
+   "cusip": "46138E511",
+   "value_usd": 268389.0,
+   "shares": 24759.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCH TRADED FD TR II",
+   "class": "RAFI EMRGNG MRKT",
+   "cusip": "46138E727",
+   "value_usd": 914804.0,
+   "shares": 32812.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCH TRADED FD TR II",
+   "class": "VAR RATE PFD",
+   "cusip": "46138G870",
+   "value_usd": 3477408.0,
+   "shares": 143044.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCH TRADED FD TR II",
+   "class": "S&P MIDCP LOW",
+   "cusip": "46138E198",
+   "value_usd": 413979.0,
+   "shares": 6241.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCHANGE TRADED FD T",
+   "class": "BLDG CONSTR ETF",
+   "cusip": "46137V779",
+   "value_usd": 846487.0,
+   "shares": 7554.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCHANGE TRADED FD T",
+   "class": "INTL DIVI ACHI",
+   "cusip": "46137V548",
+   "value_usd": 794149.0,
+   "shares": 35772.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCHANGE TRADED FD T",
+   "class": "S&P500 EQL WGT",
+   "cusip": "46137V357",
+   "value_usd": 512147.0,
+   "shares": 2407.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCHANGE TRADED FD T",
+   "class": "S&P MDCP MOMNTUM",
+   "cusip": "46137V464",
+   "value_usd": 5345156.0,
+   "shares": 31416.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCHANGE TRADED FD T",
+   "class": "FINL PFD ETF",
+   "cusip": "46137V621",
+   "value_usd": 333163.0,
+   "shares": 24301.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO EXCHANGE TRADED FD T",
+   "class": "S&P SMLCP MOMENT",
+   "cusip": "46137V498",
+   "value_usd": 2102400.0,
+   "shares": 22454.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "INVESCO QQQ TR",
+   "class": "UNIT SER 1",
+   "cusip": "46090E103",
+   "value_usd": 7554762.0,
+   "shares": 10259.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES BITCOIN TRUST ETF",
+   "class": "SHS BEN INT",
+   "cusip": "46438F101",
+   "value_usd": 670760.0,
+   "shares": 20149.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES INC",
+   "class": "MSCI EMRG CHN",
+   "cusip": "46434G764",
+   "value_usd": 357232.0,
+   "shares": 3492.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES SILVER TR",
+   "class": "ISHARES",
+   "cusip": "46428Q109",
+   "value_usd": 235428.0,
+   "shares": 4403.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "SHRT NAT MUN ETF",
+   "cusip": "464288158",
+   "value_usd": 208912.0,
+   "shares": 1962.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "ESG MSCI USA ETF",
+   "cusip": "46436E767",
+   "value_usd": 201251.0,
+   "shares": 2898.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "MORNINGSTAR GRWT",
+   "cusip": "464287119",
+   "value_usd": 476583.0,
+   "shares": 4073.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "US CONSM STAPLES",
+   "cusip": "464287812",
+   "value_usd": 413932.0,
+   "shares": 5697.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 2000 VAL ETF",
+   "cusip": "464287630",
+   "value_usd": 228999.0,
+   "shares": 1035.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "U.S. TECH ETF",
+   "cusip": "464287721",
+   "value_usd": 968630.0,
+   "shares": 3840.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P US VLU",
+   "cusip": "464287663",
+   "value_usd": 248168.0,
+   "shares": 2253.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "PFD AND INCM SEC",
+   "cusip": "464288687",
+   "value_usd": 970409.0,
+   "shares": 31827.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUS 1000 ETF",
+   "cusip": "464287622",
+   "value_usd": 293820.0,
+   "shares": 718.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "RUSSELL 2000 ETF",
+   "cusip": "464287655",
+   "value_usd": 932662.0,
+   "shares": 3104.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P500 ETF",
+   "cusip": "464287200",
+   "value_usd": 1514624.0,
+   "shares": 2022.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "INVT GRAD SY ETF",
+   "cusip": "46435G219",
+   "value_usd": 3970089.0,
+   "shares": 88009.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "MSCI EAFE ETF",
+   "cusip": "464287465",
+   "value_usd": 342596.0,
+   "shares": 3298.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "S&P 500 GRWT ETF",
+   "cusip": "464287309",
+   "value_usd": 219851.0,
+   "shares": 1599.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE MSCI INTL",
+   "cusip": "46435G326",
+   "value_usd": 201519.0,
+   "shares": 2264.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE US AGGBD ET",
+   "cusip": "464287226",
+   "value_usd": 4906625.0,
+   "shares": 49572.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "US AER DEF ETF",
+   "cusip": "464288760",
+   "value_usd": 7318712.0,
+   "shares": 30190.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "MRGSTR MD CP GRW",
+   "cusip": "464288307",
+   "value_usd": 3276562.0,
+   "shares": 33332.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "ISHARES SEMICDTR",
+   "cusip": "464287523",
+   "value_usd": 363311.0,
+   "shares": 567.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE DIV GRWTH",
+   "cusip": "46434V621",
+   "value_usd": 19628734.0,
+   "shares": 258988.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P TTL STK",
+   "cusip": "464287150",
+   "value_usd": 283366.0,
+   "shares": 1725.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "MSCI USA MMENTM",
+   "cusip": "46432F396",
+   "value_usd": 303510.0,
+   "shares": 885.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE HIGH DV ETF",
+   "cusip": "46429B663",
+   "value_usd": 245759.0,
+   "shares": 8966.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "J P MORGAN EXCHANGE TRADED F",
+   "class": "DIV RTN EM EQT",
+   "cusip": "46641Q308",
+   "value_usd": 1402281.0,
+   "shares": 22336.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JANUS DETROIT STR TR",
+   "class": "HENDRSON AAA CL",
+   "cusip": "47103U845",
+   "value_usd": 4365002.0,
+   "shares": 86453.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JANUS DETROIT STR TR",
+   "class": "HENDRSN SHRT ETF",
+   "cusip": "47103U886",
+   "value_usd": 16807213.0,
+   "shares": 343952.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JOHNSON & JOHNSON",
+   "class": "COM",
+   "cusip": "478160104",
+   "value_usd": 1365081.0,
+   "shares": 5375.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "JPMORGAN CHASE & CO",
+   "class": "COM",
+   "cusip": "46625H100",
+   "value_usd": 2608250.0,
+   "shares": 7968.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "KENVUE INC",
+   "class": "COM",
+   "cusip": "49177J102",
+   "value_usd": 274970.0,
+   "shares": 14389.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "KIMBELL RTY PARTNERS LP",
+   "class": "UNIT",
+   "cusip": "49435R102",
+   "value_usd": 174360.0,
+   "shares": 12000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "KINDER MORGAN INC DEL",
+   "class": "COM",
+   "cusip": "49456B101",
+   "value_usd": 2775913.0,
+   "shares": 86829.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LAM RESEARCH CORP",
+   "class": "COM NEW",
+   "cusip": "512807306",
+   "value_usd": 345387.0,
+   "shares": 797.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LANTRONIX INC",
+   "class": "COM NEW",
+   "cusip": "516548203",
+   "value_usd": 141120.0,
+   "shares": 24000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "LOCKHEED MARTIN CORP",
+   "class": "COM",
+   "cusip": "539830109",
+   "value_usd": 601379.0,
+   "shares": 1180.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MARATHON PETE CORP",
+   "class": "COM",
+   "cusip": "56585A102",
+   "value_usd": 319911.0,
+   "shares": 1251.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MARVELL TECHNOLOGY INC",
+   "class": "COM",
+   "cusip": "573874104",
+   "value_usd": 1224182.0,
+   "shares": 4110.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MASTERCARD INCORPORATED",
+   "class": "CL A",
+   "cusip": "57636Q104",
+   "value_usd": 327732.0,
+   "shares": 638.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MCDONALDS CORP",
+   "class": "COM",
+   "cusip": "580135101",
+   "value_usd": 303277.0,
+   "shares": 1122.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MERCK & CO INC",
+   "class": "COM",
+   "cusip": "58933Y105",
+   "value_usd": 624811.0,
+   "shares": 4862.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "META PLATFORMS INC",
+   "class": "CL A",
+   "cusip": "30303M102",
+   "value_usd": 524495.0,
+   "shares": 931.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROCHIP TECHNOLOGY INC.",
+   "class": "COM",
+   "cusip": "595017104",
+   "value_usd": 347070.0,
+   "shares": 3806.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICRON TECHNOLOGY INC",
+   "class": "COM",
+   "cusip": "595112103",
+   "value_usd": 4204431.0,
+   "shares": 3642.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MICROSOFT CORP",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 3504226.0,
+   "shares": 9394.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MYOMO INC",
+   "class": "COM NEW",
+   "cusip": "62857J201",
+   "value_usd": 40645.0,
+   "shares": 39082.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NEOS ETF TRUST",
+   "class": "NEOS S&P 500 HI",
+   "cusip": "78433H303",
+   "value_usd": 571725.0,
+   "shares": 10769.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NETFLIX INC.",
+   "class": "COM",
+   "cusip": "64110L106",
+   "value_usd": 231193.0,
+   "shares": 3238.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NEWMONT CORP",
+   "class": "COM",
+   "cusip": "651639106",
+   "value_usd": 1377097.0,
+   "shares": 14744.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NEXTERA ENERGY INC",
+   "class": "COM",
+   "cusip": "65339F101",
+   "value_usd": 798446.0,
+   "shares": 9097.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NORTHROP GRUMMAN CORP",
+   "class": "COM",
+   "cusip": "666807102",
+   "value_usd": 580428.0,
+   "shares": 1140.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NRG ENERGY INC",
+   "class": "COM NEW",
+   "cusip": "629377508",
+   "value_usd": 456062.0,
+   "shares": 3122.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NUCOR CORP",
+   "class": "COM",
+   "cusip": "670346105",
+   "value_usd": 246723.0,
+   "shares": 1108.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NUVEEN PFD & INCOME OPPORTUN",
+   "class": "COM",
+   "cusip": "67073B106",
+   "value_usd": 487124.0,
+   "shares": 61818.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "NVIDIA CORPORATION",
+   "class": "COM",
+   "cusip": "67066G104",
+   "value_usd": 6612815.0,
+   "shares": 33049.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "OGE ENERGY CORP",
+   "class": "COM",
+   "cusip": "670837103",
+   "value_usd": 274053.0,
+   "shares": 5632.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ONEOK INC NEW",
+   "class": "COM",
+   "cusip": "682680103",
+   "value_usd": 451719.0,
+   "shares": 5196.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PACER FDS TR",
+   "class": "US CASH COWS 100",
+   "cusip": "69374H881",
+   "value_usd": 209863.0,
+   "shares": 3374.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PALANTIR TECHNOLOGIES INC",
+   "class": "CL A",
+   "cusip": "69608A108",
+   "value_usd": 1560578.0,
+   "shares": 13376.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PARK HOTELS & RESORTS INC",
+   "class": "COM",
+   "cusip": "700517105",
+   "value_usd": 171000.0,
+   "shares": 12000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PEPSICO INC",
+   "class": "COM",
+   "cusip": "713448108",
+   "value_usd": 1880805.0,
+   "shares": 13891.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PFIZER INC",
+   "class": "COM",
+   "cusip": "717081103",
+   "value_usd": 247189.0,
+   "shares": 10265.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PHILIP MORRIS INTL INC",
+   "class": "COM",
+   "cusip": "718172109",
+   "value_usd": 560067.0,
+   "shares": 3096.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PHILLIPS EDISON & CO INC",
+   "class": "COMMON STOCK",
+   "cusip": "71844V201",
+   "value_usd": 1031584.0,
+   "shares": 24786.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PIMCO CORPORATE & INCOME OPP",
+   "class": "COM",
+   "cusip": "72201B101",
+   "value_usd": 5398189.0,
+   "shares": 448727.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PRICE T ROWE GROUP INC",
+   "class": "COM",
+   "cusip": "74144T108",
+   "value_usd": 292399.0,
+   "shares": 2572.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROCTER & GAMBLE CO",
+   "class": "COM",
+   "cusip": "742718109",
+   "value_usd": 1318452.0,
+   "shares": 8991.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROCURE ETF TRUST II",
+   "class": "SPACE ETF",
+   "cusip": "74280R205",
+   "value_usd": 324130.0,
+   "shares": 6397.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PROSHARES TR",
+   "class": "S&P 500 HIGH ETF",
+   "cusip": "74347G242",
+   "value_usd": 1794114.0,
+   "shares": 37230.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PRUDENTIAL FINL INC",
+   "class": "COM",
+   "cusip": "744320102",
+   "value_usd": 1131761.0,
+   "shares": 10486.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "QUALCOMM INC",
+   "class": "COM",
+   "cusip": "747525103",
+   "value_usd": 435905.0,
+   "shares": 2359.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RECURSION PHARMACEUTICALS IN",
+   "class": "CL A",
+   "cusip": "75629V104",
+   "value_usd": 132854.0,
+   "shares": 36200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ROCKET LAB CORP",
+   "class": "COM",
+   "cusip": "773121108",
+   "value_usd": 892080.0,
+   "shares": 8776.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ROCKWELL AUTOMATION INC",
+   "class": "COM",
+   "cusip": "773903109",
+   "value_usd": 300120.0,
+   "shares": 606.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ROYAL BK CDA",
+   "class": "COM",
+   "cusip": "780087102",
+   "value_usd": 301754.0,
+   "shares": 1458.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ROYCE SMALL CAP TRUST INC",
+   "class": "COM",
+   "cusip": "780910105",
+   "value_usd": 1209941.0,
+   "shares": 65508.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "RTX CORPORATION",
+   "class": "COM",
+   "cusip": "75513E101",
+   "value_usd": 2581700.0,
+   "shares": 13607.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SALESFORCE INC",
+   "class": "COM",
+   "cusip": "79466L302",
+   "value_usd": 283812.0,
+   "shares": 1812.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "INTL EQTY ETF",
+   "cusip": "808524805",
+   "value_usd": 827676.0,
+   "shares": 29880.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US LCAP GR ETF",
+   "cusip": "808524300",
+   "value_usd": 14403859.0,
+   "shares": 425646.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SCHWAB STRATEGIC TR",
+   "class": "US LRG CAP ETF",
+   "cusip": "808524201",
+   "value_usd": 329238.0,
+   "shares": 11187.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR CARE ETF",
+   "cusip": "81369Y209",
+   "value_usd": 243319.0,
+   "shares": 1534.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR TECHN ETF",
+   "cusip": "81369Y803",
+   "value_usd": 551322.0,
+   "shares": 2894.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR SVC ETF",
+   "cusip": "81369Y852",
+   "value_usd": 292465.0,
+   "shares": 2730.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR FINL ETF",
+   "cusip": "81369Y605",
+   "value_usd": 1992900.0,
+   "shares": 37174.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR INDL ETF",
+   "cusip": "81369Y704",
+   "value_usd": 2028503.0,
+   "shares": 10951.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR UTIL ETF",
+   "cusip": "81369Y886",
+   "value_usd": 1407934.0,
+   "shares": 31053.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SELECT SECTOR SPDR TR",
+   "class": "ST STR STAPL ETF",
+   "cusip": "81369Y308",
+   "value_usd": 319987.0,
+   "shares": 3852.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SERIES PORTFOLIOS TR",
+   "class": "ADAPTIV SELECT",
+   "cusip": "81752T536",
+   "value_usd": 491572.0,
+   "shares": 10174.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SOUNDHOUND AI INC",
+   "class": "CLASS A COM",
+   "cusip": "836100107",
+   "value_usd": 295174.0,
+   "shares": 45622.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SOUTHERN CO",
+   "class": "COM",
+   "cusip": "842587107",
+   "value_usd": 240620.0,
+   "shares": 2514.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPACE EXPLORATION TECHN CORP",
+   "class": "CLASS A COM STK",
+   "cusip": "84615Q103",
+   "value_usd": 202640.0,
+   "shares": 1186.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR GOLD TR",
+   "class": "GOLD SHS",
+   "cusip": "78463V107",
+   "value_usd": 3757108.0,
+   "shares": 10199.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR INDEX SHS FDS",
+   "class": "ST STR PO EX ETF",
+   "cusip": "78463X889",
+   "value_usd": 387046.0,
+   "shares": 7681.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR INDEX SHS FDS",
+   "class": "ST STR EUROP ETF",
+   "cusip": "78463X103",
+   "value_usd": 976415.0,
+   "shares": 17792.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR SP BANK",
+   "cusip": "78464A797",
+   "value_usd": 281470.0,
+   "shares": 4126.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR P500VAL",
+   "cusip": "78464A508",
+   "value_usd": 252562.0,
+   "shares": 4155.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR P500GRW",
+   "cusip": "78464A409",
+   "value_usd": 488278.0,
+   "shares": 4104.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR SP600SM C",
+   "cusip": "78464A300",
+   "value_usd": 202617.0,
+   "shares": 1857.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR SP HOME",
+   "cusip": "78464A888",
+   "value_usd": 690572.0,
+   "shares": 5976.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR P500ETF",
+   "cusip": "78464A854",
+   "value_usd": 283561.0,
+   "shares": 3227.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR SP CAPMKT",
+   "cusip": "78464A771",
+   "value_usd": 4092865.0,
+   "shares": 27798.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SPDR SERIES TRUST",
+   "class": "ST STR SP500DIV",
+   "cusip": "78468R788",
+   "value_usd": 233965.0,
+   "shares": 4904.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "SSGA ACTIVE ETF TR",
+   "class": "ST STR BL LN ETF",
+   "cusip": "78467V608",
+   "value_usd": 290070.0,
+   "shares": 7200.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STARWOOD PPTY TR INC",
+   "class": "COM",
+   "cusip": "85571B105",
+   "value_usd": 644473.0,
+   "shares": 39345.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STATE STR SPDR DOW JONES IND",
+   "class": "UT SER 1",
+   "cusip": "78467X109",
+   "value_usd": 222925.0,
+   "shares": 427.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STONECO LTD",
+   "class": "COM CL A",
+   "cusip": "G85158106",
+   "value_usd": 255390.0,
+   "shares": 23560.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "STRATEGY SHS",
+   "class": "NS 7HANDL IDX",
+   "cusip": "86280R506",
+   "value_usd": 441747.0,
+   "shares": 19339.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "T-MOBILE US INC",
+   "class": "COM",
+   "cusip": "872590104",
+   "value_usd": 244710.0,
+   "shares": 1459.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+   "class": "SPONSORED ADS",
+   "cusip": "874039100",
+   "value_usd": 1004002.0,
+   "shares": 2102.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TESLA INC",
+   "class": "COM",
+   "cusip": "88160R101",
+   "value_usd": 979157.0,
+   "shares": 2328.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TRINITY CAP INC",
+   "class": "COM",
+   "cusip": "896442308",
+   "value_usd": 237053.0,
+   "shares": 13251.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "TTM TECHNOLOGIES INC",
+   "class": "COM",
+   "cusip": "87305R109",
+   "value_usd": 201421.0,
+   "shares": 1077.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "UNION PAC CORP",
+   "class": "COM",
+   "cusip": "907818108",
+   "value_usd": 268137.0,
+   "shares": 986.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "US BANCORP",
+   "class": "COM NEW",
+   "cusip": "902973304",
+   "value_usd": 426378.0,
+   "shares": 7059.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VALE S A",
+   "class": "SPONSORED ADS",
+   "cusip": "91912E105",
+   "value_usd": 209628.0,
+   "shares": 13938.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VALERO ENERGY CORP",
+   "class": "COM",
+   "cusip": "91913Y100",
+   "value_usd": 629686.0,
+   "shares": 2418.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANECK ETF TRUST",
+   "class": "ROBOTICS ETF",
+   "cusip": "92189Y402",
+   "value_usd": 1008673.0,
+   "shares": 14667.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANECK ETF TRUST",
+   "class": "SEMICONDUCTR ETF",
+   "cusip": "92189F676",
+   "value_usd": 3567277.0,
+   "shares": 5439.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANECK ETF TRUST",
+   "class": "PREFERRED SECURT",
+   "cusip": "92189F429",
+   "value_usd": 220379.0,
+   "shares": 12353.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANECK ETF TRUST",
+   "class": "URANI NUCLE ETF",
+   "cusip": "92189F601",
+   "value_usd": 736853.0,
+   "shares": 6353.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANECK ETF TRUST",
+   "class": "FALLEN ANGEL HG",
+   "cusip": "92189F437",
+   "value_usd": 3380276.0,
+   "shares": 115605.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD ADMIRAL FDS INC",
+   "class": "SMLLCP 600 IDX",
+   "cusip": "921932828",
+   "value_usd": 413697.0,
+   "shares": 3008.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "SMALL CP ETF",
+   "cusip": "922908751",
+   "value_usd": 643032.0,
+   "shares": 2121.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "SML CP GRW ETF",
+   "cusip": "922908595",
+   "value_usd": 5536343.0,
+   "shares": 15139.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "TOTAL STK MKT",
+   "cusip": "922908769",
+   "value_usd": 10853127.0,
+   "shares": 29330.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "MCAP VL IDXVIP",
+   "cusip": "922908512",
+   "value_usd": 7795511.0,
+   "shares": 39451.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "S&P 500 ETF SHS",
+   "cusip": "922908363",
+   "value_usd": 4107532.0,
+   "shares": 5981.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "MID CAP ETF",
+   "cusip": "922908629",
+   "value_usd": 657763.0,
+   "shares": 8164.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "VALUE ETF",
+   "cusip": "922908744",
+   "value_usd": 10739547.0,
+   "shares": 49280.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "GROWTH ETF",
+   "cusip": "922908736",
+   "value_usd": 2316815.0,
+   "shares": 26896.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "SM CP VAL ETF",
+   "cusip": "922908611",
+   "value_usd": 266177.0,
+   "shares": 1095.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INDEX FDS",
+   "class": "MCAP GR IDXVIP",
+   "cusip": "922908538",
+   "value_usd": 1458907.0,
+   "shares": 4763.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD INTL EQUITY INDEX F",
+   "class": "FTSE EMR MKT ETF",
+   "cusip": "922042858",
+   "value_usd": 399925.0,
+   "shares": 6700.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "SHRT TRM CORP BD",
+   "cusip": "92206C409",
+   "value_usd": 278092.0,
+   "shares": 3519.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SCOTTSDALE FDS",
+   "class": "MTG-BKD SECS ETF",
+   "cusip": "92206C771",
+   "value_usd": 1401161.0,
+   "shares": 29933.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD SPECIALIZED FUNDS",
+   "class": "DIV APP ETF",
+   "cusip": "921908844",
+   "value_usd": 3684837.0,
+   "shares": 15573.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD TAX-MANAGED FDS",
+   "class": "VAN FTSE DEV MKT",
+   "cusip": "921943858",
+   "value_usd": 1700580.0,
+   "shares": 23868.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD WHITEHALL FDS",
+   "class": "HIGH DIV YLD",
+   "cusip": "921946406",
+   "value_usd": 6222041.0,
+   "shares": 39373.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD WORLD FD",
+   "class": "MEGA GRWTH IND",
+   "cusip": "921910816",
+   "value_usd": 869472.0,
+   "shares": 9890.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD WORLD FD",
+   "class": "ENERGY ETF",
+   "cusip": "92204A306",
+   "value_usd": 1827884.0,
+   "shares": 12175.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD WORLD FD",
+   "class": "UTILITIES ETF",
+   "cusip": "92204A876",
+   "value_usd": 2106894.0,
+   "shares": 10764.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD WORLD FD",
+   "class": "INF TECH ETF",
+   "cusip": "92204A702",
+   "value_usd": 729432.0,
+   "shares": 6103.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD WORLD FD",
+   "class": "CONSUM STP ETF",
+   "cusip": "92204A207",
+   "value_usd": 2073306.0,
+   "shares": 9195.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VANGUARD WORLD FD",
+   "class": "HEALTH CAR ETF",
+   "cusip": "92204A504",
+   "value_usd": 1653171.0,
+   "shares": 5529.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VERIZON COMMUNICATIONS INC",
+   "class": "COM",
+   "cusip": "92343V104",
+   "value_usd": 229081.0,
+   "shares": 5411.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VICTORY PORTFOLIOS II",
+   "class": "VCSHS US SMCP HG",
+   "cusip": "92647N873",
+   "value_usd": 768259.0,
+   "shares": 11713.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VISA INC",
+   "class": "COM CL A",
+   "cusip": "92826C839",
+   "value_usd": 428759.0,
+   "shares": 1250.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WALMART INC",
+   "class": "COM",
+   "cusip": "931142103",
+   "value_usd": 952524.0,
+   "shares": 8410.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WESTERN UN CO",
+   "class": "COM",
+   "cusip": "959802109",
+   "value_usd": 143253.0,
+   "shares": 18604.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WILLIAMS COS INC",
+   "class": "COM",
+   "cusip": "969457100",
+   "value_usd": 234991.0,
+   "shares": 3161.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WOODWARD INC",
+   "class": "COM",
+   "cusip": "980745103",
+   "value_usd": 409785.0,
+   "shares": 963.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "WP CAREY INC",
+   "class": "COM",
+   "cusip": "92936U109",
+   "value_usd": 702903.0,
+   "shares": 9831.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "XCEL ENERGY INC",
+   "class": "COM",
+   "cusip": "98389B100",
+   "value_usd": 236935.0,
+   "shares": 2951.0,
+   "put_call": ""
+  }
+ ]
+}

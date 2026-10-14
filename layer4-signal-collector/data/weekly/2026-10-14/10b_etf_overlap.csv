@@ -1,0 +1,47 @@
+﻿etf,name,snapshot,holdings,holdings_in_universe,weight_in_universe_pct,partial_source,sector_hint
+AIQ,Global X Artificial Intelligence & Technology ETF,2026-10-14,95,42,64.3,False,AI infrastructure; AI model frameworks
+GRID,First Trust Nasdaq Clean Edge Smart Grid Infrastructure,2026-10-14,130,39,46.6,False,Grid & Electrical Infrastructure
+SKYY,First Trust Cloud Computing ETF,2026-10-14,66,38,73.7,False,Cloud computing infrastructure
+FTXL,First Trust Nasdaq Semiconductor ETF,2026-10-14,38,36,99.3,False,Semiconductors
+PAVE,Global X US Infrastructure Development ETF,2026-10-14,102,32,38.1,False,Grid & Electrical Infrastructure
+QCLN,First Trust NASDAQ Clean Edge Green Energy,2026-10-14,58,31,70.2,False,Power & energy
+ARKQ,ARK Autonomous Tech & Robotics ETF,2026-10-14,37,27,68.6,False,Robotics & Industrial Automation
+CIBR,First Trust NASDAQ Cybersecurity ETF,2026-10-14,47,25,58.9,False,Cybersecurity
+SMH,VanEck Semiconductor ETF,2026-10-14,25,25,99.9,True,Semiconductors; AI chips
+SOXQ,Invesco PHLX Semiconductor ETF,2026-10-14,25,25,95.3,True,Semiconductors
+SOXX,iShares Semiconductor ETF,2026-10-14,25,25,96.6,True,Semiconductors
+ITA,iShares U.S. Aerospace & Defense ETF,2026-10-14,25,23,93.2,True,Defense; Space
+CLOU,Global X Cloud Computing ETF,2026-10-14,40,22,56.8,False,Cloud computing infrastructure
+SHLD,Global X Defense Tech ETF,2026-10-14,56,22,62.9,False,Defense
+ARKX,ARK Space & Defense Innovation ETF,2026-10-14,33,21,67.2,False,Space; Defense
+HBMX,Memory-focused ETF (HBM),2026-10-14,25,21,91.9,True,Memory
+WGMI,CoinShares Bitcoin Mining ETF,2026-10-14,25,21,87.0,True,Bitcoin mining
+BOTZ,Global X Robotics & AI ETF,2026-10-14,87,20,30.8,False,Robotics & Industrial Automation; AI infrastructure
+CHAT,Roundhill Generative AI & Technology ETF,2026-10-14,25,18,56.7,True,AI model frameworks
+ARKW,ARK Next Generation Internet ETF,2026-10-14,43,17,46.8,False,Cloud computing infrastructure; AI infrastructure
+DFEN,Direxion Daily Aerospace & Defense Bull 3X,2026-10-14,25,17,62.9,True,Defense
+WQTM,WisdomTree Quantum Computing Fund,2026-10-14,25,17,59.7,True,Quantum computing
+ARKK,ARK Innovation ETF,2026-10-14,46,16,33.2,False,AI infrastructure; Robotics & Industrial Automation
+DTCR,Global X Data Center & Digital Infrastructure ETF,2026-10-14,28,16,69.6,False,Data-Center Construction & Real Estate
+IGV,iShares Expanded Tech-Software ETF,2026-10-14,25,16,56.8,True,Software & EDA
+NCLD,Roundhill Neocloud ETF,2026-10-14,21,16,56.6,True,AI infrastructure; Cloud computing infrastructure
+QTUM,Defiance Quantum ETF,2026-10-14,25,16,25.2,True,Quantum computing
+UFO,Procure Space ETF,2026-10-14,25,16,59.1,True,Space
+BUG,Global X Cybersecurity ETF,2026-10-14,33,13,47.7,False,Cybersecurity
+HACK,Amplify Cybersecurity ETF,2026-10-14,25,13,59.4,True,Cybersecurity
+KOID,KraneShares Humanoid Robotics ETF,2026-10-14,25,11,23.2,True,Robotics & Industrial Automation
+NLR,VanEck Uranium and Nuclear ETF,2026-10-14,25,11,58.1,True,Power & energy
+SRVR,Pacer Benchmark Data & Infrastructure Real Estate ETF,2026-10-14,25,10,57.4,True,Data-Center Construction & Real Estate
+URA,Global X Uranium ETF,2026-10-14,65,9,18.8,False,Power & energy; Critical Minerals
+LYTE,Roundhill Photonics & Optics ETF,2026-10-14,20,6,50.6,True,Silicon photonics; Networking & optics
+REMX,VanEck Rare Earth/Strategic Metals ETF,2026-10-14,25,5,22.2,True,Critical Minerals
+USAI,Pacer American Energy Independence ETF,2026-10-14,25,5,21.7,True,Power & energy
+LIT,Global X Lithium & Battery Tech ETF,2026-10-14,46,3,6.3,False,Critical Minerals
+COPX,Global X Copper Miners ETF,2026-10-14,46,0,0,False,Critical Minerals
+ROKT,SPDR S&P Kensho Final Frontiers ETF,2026-10-14,39,0,0,False,Space; Defense
+XAR,SPDR S&P Aerospace & Defense ETF,2026-10-14,52,0,0,False,Defense; Space
+XITK,SPDR FactSet Innovative Technology ETF,2026-10-14,98,0,0,False,AI infrastructure; Cybersecurity
+XLK,Technology Select Sector SPDR,2026-10-14,78,0,0,False,Semiconductors; Software & EDA
+XLU,Utilities Select Sector SPDR,2026-10-14,34,0,0,False,Power & energy; Grid & Electrical Infrastructure
+XME,SPDR S&P Metals & Mining ETF,2026-10-14,40,0,0,False,Critical Minerals
+XSD,SPDR S&P Semiconductor ETF,2026-10-14,48,0,0,False,Semiconductors

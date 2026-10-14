@@ -1,0 +1,126 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001193125-26-306735",
+ "holdings": [
+  {
+   "issuer": "Alibaba Group Holding Ltd",
+   "class": "SPONSORED ADS",
+   "cusip": "01609W102",
+   "value_usd": 26685220.0,
+   "shares": 278000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Charles Schwab Corp",
+   "class": "COMMON",
+   "cusip": "808513105",
+   "value_usd": 61866200.0,
+   "shares": 671000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Charter Communications Inc",
+   "class": "CL A",
+   "cusip": "16119P108",
+   "value_usd": 24110976.0,
+   "shares": 169700.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Cintas Corp",
+   "class": "COMMON",
+   "cusip": "172908105",
+   "value_usd": 40641950.0,
+   "shares": 239000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Fastenal Co",
+   "class": "COMMON",
+   "cusip": "311900104",
+   "value_usd": 66513078.0,
+   "shares": 1385112.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Fortis Inc",
+   "class": "COMMON",
+   "cusip": "349553107",
+   "value_usd": 23459897.0,
+   "shares": 410000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Microsoft Corp",
+   "class": "COMMON",
+   "cusip": "594918104",
+   "value_usd": 74299398.0,
+   "shares": 199317.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Moody's Corp",
+   "class": "COMMON",
+   "cusip": "615369105",
+   "value_usd": 61732996.0,
+   "shares": 136300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Oracle Corp",
+   "class": "COMMON",
+   "cusip": "68389X105",
+   "value_usd": 54718846.0,
+   "shares": 373100.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Paychex Inc",
+   "class": "COMMON",
+   "cusip": "704326107",
+   "value_usd": 13073900.0,
+   "shares": 133000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Philip Morris International Inc",
+   "class": "COMMON",
+   "cusip": "718172109",
+   "value_usd": 127044467.0,
+   "shares": 702563.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Pool Corp",
+   "class": "COMMON",
+   "cusip": "73278L105",
+   "value_usd": 37796357.0,
+   "shares": 175887.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Texas Instruments Inc",
+   "class": "COMMON",
+   "cusip": "882508104",
+   "value_usd": 118278210.0,
+   "shares": 397000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Thermo Fisher Scientific Inc",
+   "class": "COMMON",
+   "cusip": "883556102",
+   "value_usd": 55967325.0,
+   "shares": 111767.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Watsco Inc",
+   "class": "COMMON",
+   "cusip": "942622200",
+   "value_usd": 97067669.0,
+   "shares": 232927.0,
+   "put_call": ""
+  }
+ ]
+}

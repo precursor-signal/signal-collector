@@ -1,0 +1,343 @@
+{
+ "run_date_et": "2026-10-14",
+ "started_et": "2026-10-14T12:52:32-04:00",
+ "modules": [
+  "feeds"
+ ],
+ "sec_days": {},
+ "skipped_done": [],
+ "no_index": [],
+ "pending": [],
+ "universe_tickers": 774,
+ "universe_ciks": 522,
+ "feeds": {
+  "prn-all": {
+   "status": 200,
+   "items": 20,
+   "new": 20
+  },
+  "prn-technology": {
+   "status": 200,
+   "items": 20,
+   "new": 1
+  },
+  "prn-energy": {
+   "status": 200,
+   "items": 20,
+   "new": 3
+  },
+  "prn-finserv": {
+   "status": 200,
+   "items": 20,
+   "new": 4
+  },
+  "prn-acquisitions": {
+   "status": 200,
+   "items": 20,
+   "new": 0
+  },
+  "nvidia-newsroom": {
+   "status": 200,
+   "items": 20,
+   "new": 1
+  },
+  "techcrunch": {
+   "status": 200,
+   "items": 20,
+   "new": 2
+  },
+  "techcrunch-venture": {
+   "status": 200,
+   "items": 20,
+   "new": 0
+  },
+  "spacenews": {
+   "status": 200,
+   "items": 14,
+   "new": 0
+  },
+  "dcd": {
+   "status": 200,
+   "items": 20,
+   "new": 2
+  },
+  "hpcwire": {
+   "status": 200,
+   "items": 10,
+   "new": 0
+  },
+  "siliconangle": {
+   "status": 200,
+   "items": 30,
+   "new": 0
+  },
+  "wnn": {
+   "status": 200,
+   "items": 49,
+   "new": 0
+  },
+  "utilitydive": {
+   "status": 200,
+   "items": 10,
+   "new": 1
+  },
+  "breakingdefense": {
+   "status": 200,
+   "items": 15,
+   "new": 1
+  },
+  "cnbc-top": {
+   "status": 200,
+   "items": 30,
+   "new": 5
+  },
+  "cnbc-tech": {
+   "status": 200,
+   "items": 30,
+   "new": 0
+  },
+  "techmeme": {
+   "status": 200,
+   "items": 15,
+   "new": 4
+  },
+  "sec-press": {
+   "status": 200,
+   "items": 25,
+   "new": 0
+  },
+  "war-gov": {
+   "status": 200,
+   "items": 10,
+   "new": 0
+  },
+  "gn-investors-01": {
+   "status": 200,
+   "items": 9,
+   "new": 0
+  },
+  "gn-investors-02": {
+   "status": 200,
+   "items": 5,
+   "new": 0
+  },
+  "gn-investors-03": {
+   "status": 200,
+   "items": 34,
+   "new": 7
+  },
+  "gn-investors-04": {
+   "status": 200,
+   "items": 1,
+   "new": 0
+  },
+  "gn-investors-05": {
+   "status": 200,
+   "items": 0,
+   "new": 0
+  },
+  "gn-investors-06": {
+   "status": 200,
+   "items": 15,
+   "new": 1
+  },
+  "gn-investors-07": {
+   "status": 200,
+   "items": 22,
+   "new": 4
+  },
+  "gn-investors-08": {
+   "status": 200,
+   "items": 12,
+   "new": 0
+  },
+  "gn-investors-09": {
+   "status": 200,
+   "items": 22,
+   "new": 2
+  },
+  "gn-investors-10": {
+   "status": 200,
+   "items": 2,
+   "new": 0
+  },
+  "gn-investors-11": {
+   "status": 200,
+   "items": 22,
+   "new": 3
+  },
+  "gn-investors-12": {
+   "status": 200,
+   "items": 11,
+   "new": 0
+  },
+  "gn-corp-nvidia": {
+   "status": 200,
+   "items": 40,
+   "new": 2
+  },
+  "gn-corp-others": {
+   "status": 200,
+   "items": 19,
+   "new": 1
+  },
+  "gn-gov-commerce": {
+   "status": 200,
+   "items": 5,
+   "new": 1
+  },
+  "gn-gov-war": {
+   "status": 200,
+   "items": 0,
+   "new": 0
+  },
+  "gn-gov-doe": {
+   "status": 200,
+   "items": 13,
+   "new": 0
+  },
+  "gn-filings": {
+   "status": 200,
+   "items": 38,
+   "new": 4
+  },
+  "gn-politicians": {
+   "status": 200,
+   "items": 43,
+   "new": 1
+  },
+  "gn-rounds-ai-chips": {
+   "status": 200,
+   "items": 56,
+   "new": 8
+  },
+  "gn-rounds-ai-infrastructure": {
+   "status": 200,
+   "items": 51,
+   "new": 8
+  },
+  "gn-rounds-ai-model-frameworks": {
+   "status": 200,
+   "items": 14,
+   "new": 0
+  },
+  "gn-rounds-advanced-packaging-chiplets": {
+   "status": 200,
+   "items": 8,
+   "new": 0
+  },
+  "gn-rounds-bitcoin-mining": {
+   "status": 200,
+   "items": 56,
+   "new": 8
+  },
+  "gn-rounds-cloud-computing-infrastructure": {
+   "status": 200,
+   "items": 7,
+   "new": 0
+  },
+  "gn-rounds-cooling": {
+   "status": 200,
+   "items": 5,
+   "new": 1
+  },
+  "gn-rounds-cpu-chip-design": {
+   "status": 200,
+   "items": 18,
+   "new": 1
+  },
+  "gn-rounds-critical-minerals": {
+   "status": 200,
+   "items": 51,
+   "new": 3
+  },
+  "gn-rounds-cybersecurity": {
+   "status": 200,
+   "items": 56,
+   "new": 6
+  },
+  "gn-rounds-data-center-construction-real-estate": {
+   "status": 200,
+   "items": 50,
+   "new": 1
+  },
+  "gn-rounds-defense": {
+   "status": 200,
+   "items": 52,
+   "new": 2
+  },
+  "gn-rounds-grid-electrical-infrastructure": {
+   "status": 200,
+   "items": 58,
+   "new": 2
+  },
+  "gn-rounds-memory": {
+   "status": 200,
+   "items": 35,
+   "new": 0
+  },
+  "gn-rounds-networking-optics": {
+   "status": 200,
+   "items": 3,
+   "new": 0
+  },
+  "gn-rounds-power-energy": {
+   "status": 200,
+   "items": 57,
+   "new": 7
+  },
+  "gn-rounds-quantum-computing": {
+   "status": 200,
+   "items": 61,
+   "new": 6
+  },
+  "gn-rounds-robotics-industrial-automation": {
+   "status": 200,
+   "items": 61,
+   "new": 5
+  },
+  "gn-rounds-semiconductor-capital-equipment": {
+   "status": 200,
+   "items": 30,
+   "new": 2
+  },
+  "gn-rounds-semiconductor-foundries-fabrication": {
+   "status": 200,
+   "items": 48,
+   "new": 4
+  },
+  "gn-rounds-semiconductors": {
+   "status": 200,
+   "items": 54,
+   "new": 5
+  },
+  "gn-rounds-server-level-system-architecture-datacenters": {
+   "status": 200,
+   "items": 30,
+   "new": 2
+  },
+  "gn-rounds-silicon-photonics": {
+   "status": 200,
+   "items": 20,
+   "new": 1
+  },
+  "gn-rounds-software-eda": {
+   "status": 200,
+   "items": 1,
+   "new": 0
+  },
+  "gn-rounds-space": {
+   "status": 200,
+   "items": 38,
+   "new": 6
+  },
+  "gn-rounds-testing-inspection-metrology": {
+   "status": 200,
+   "items": 24,
+   "new": 2
+  }
+ },
+ "feed_items_today": 1611,
+ "finished_et": "2026-10-14T12:56:12-04:00",
+ "elapsed_min": 3.7
+}

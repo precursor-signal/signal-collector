@@ -1,0 +1,38 @@
+{
+ "period": "2026-06-30",
+ "accession": "0001844891-26-000003",
+ "holdings": [
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE MSCI INTL",
+   "cusip": "46435G326",
+   "value_usd": 293949650.0,
+   "shares": 3302434.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "CORE S&P500 ETF",
+   "cusip": "464287200",
+   "value_usd": 393134299.0,
+   "shares": 524956.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "ISHARES TR",
+   "class": "PARIS ALIGNED CL",
+   "cusip": "46436E411",
+   "value_usd": 380384325.0,
+   "shares": 4992641.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "DBX ETF TR",
+   "class": "XTRACKERS MSCI",
+   "cusip": "23306X605",
+   "value_usd": 475787422.0,
+   "shares": 10853558.0,
+   "put_call": ""
+  }
+ ]
+}

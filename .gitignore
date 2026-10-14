@@ -1,23 +1,5 @@
-# whitelist: code and config only
-*
-!.gitignore
-!README.md
-!*/
-!*.py
+# raw-data repo: everything is tracked except bytecode and the private watchlist
 __pycache__/
-**/*.PENDING-*
-!.github/**
-
-# layer 4 (scripts and config; data/ and caches stay local)
-!layer4-signal-collector/config/*.csv
-!layer4-signal-collector/config/*.json
-layer4-signal-collector/config/private-watchlist.csv
-!layer4-signal-collector/tools/**
-
-# layer 5 (scripts, workbooks, method doc, kick-off triggers)
-!layer5-signal-collector/market signals/**
-!layer5-signal-collector/triggers/**
-
-# never track bytecode (must come last)
-**/__pycache__/
 *.pyc
+**/*.PENDING-*
+layer4-signal-collector/config/private-watchlist.csv

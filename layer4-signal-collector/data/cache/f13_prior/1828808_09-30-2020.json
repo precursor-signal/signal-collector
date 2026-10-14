@@ -1,0 +1,126 @@
+{
+ "period": "2020-06-30",
+ "accession": "0001828808-26-000055",
+ "holdings": [
+  {
+   "issuer": "Amazon.com, Inc.",
+   "class": "COM",
+   "cusip": "023135106",
+   "value_usd": 55176400.0,
+   "shares": 20000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "AstraZeneca Plc",
+   "class": "COM",
+   "cusip": "G0593M107",
+   "value_usd": 41999701.0,
+   "shares": 400000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Berkshire Hathaway Inc",
+   "class": "COM",
+   "cusip": "084670108",
+   "value_usd": 27531900.0,
+   "shares": 103.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CBRE Group Inc",
+   "class": "COM",
+   "cusip": "12504L109",
+   "value_usd": 29483440.0,
+   "shares": 652000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "CVS Health Corporation",
+   "class": "COM",
+   "cusip": "126650100",
+   "value_usd": 30211050.0,
+   "shares": 465000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Danaher Corp",
+   "class": "COM",
+   "cusip": "235851102",
+   "value_usd": 42969690.0,
+   "shares": 243000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Alphabet Inc.",
+   "class": "COM",
+   "cusip": "02079K305",
+   "value_usd": 38712765.0,
+   "shares": 27300.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "International Business Machines Corp",
+   "class": "COM",
+   "cusip": "459200101",
+   "value_usd": 27354405.0,
+   "shares": 226500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "MSCI Inc",
+   "class": "COM",
+   "cusip": "55354G100",
+   "value_usd": 38723120.0,
+   "shares": 116000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Microsoft Corporation",
+   "class": "COM",
+   "cusip": "594918104",
+   "value_usd": 66751280.0,
+   "shares": 328000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "PayPal Holdings, Inc.",
+   "class": "COM",
+   "cusip": "70450Y103",
+   "value_usd": 58367050.0,
+   "shares": 335000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Vipshop Holdings Ltd",
+   "class": "COM",
+   "cusip": "92763W103",
+   "value_usd": 28869500.0,
+   "shares": 1450000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "VISA Inc.",
+   "class": "COM",
+   "cusip": "92826C839",
+   "value_usd": 38634000.0,
+   "shares": 200000.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Whirlpool Corp",
+   "class": "COM",
+   "cusip": "963320106",
+   "value_usd": 25452645.0,
+   "shares": 196500.0,
+   "put_call": ""
+  },
+  {
+   "issuer": "Apple Inc.",
+   "class": "COM",
+   "cusip": "037833100",
+   "value_usd": 60556800.0,
+   "shares": 166000.0,
+   "put_call": ""
+  }
+ ]
+}

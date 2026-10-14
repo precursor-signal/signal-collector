@@ -1,0 +1,23 @@
+{
+ "run_date_et": "2026-10-14",
+ "started_et": "2026-10-14T11:52:37-04:00",
+ "modules": [
+  "sec"
+ ],
+ "skipped_done": [],
+ "no_index": [
+  "2026-10-12 (HTTP 403; weekend/holiday)"
+ ],
+ "pending": [
+  "2026-10-14: index not published yet"
+ ],
+ "universe_tickers": 774,
+ "universe_ciks": 522,
+ "finished_et": "2026-10-14T12:27:03-04:00",
+ "elapsed_min": 34.4
+}
+2026-10-06 3501 rows; 1266 relevant; {'form4': 983, 'ownership13dg': 71, 'f13_filers': 35, 'f13_holdings': 196, 'events8k': 148, 'form_d': 320, 'form144': 75, 'registrations': 11, 'periodic': 3} errors: 0
+2026-10-07 3159 rows; 1175 relevant; {'form4': 917, 'ownership13dg': 165, 'f13_filers': 86, 'f13_holdings': 170, 'events8k': 79, 'form_d': 301, 'form144': 29, 'registrations': 7, 'periodic': 10} errors: 0
+2026-10-08 3193 rows; 1134 relevant; {'form4': 727, 'ownership13dg': 122, 'f13_filers': 86, 'f13_holdings': 377, 'events8k': 89, 'form_d': 293, 'form144': 35, 'registrations': 10, 'periodic': 9} errors: 0
+2026-10-09 3216 rows; 1209 relevant; {'form4': 571, 'ownership13dg': 64, 'f13_filers': 157, 'f13_holdings': 339, 'events8k': 87, 'form_d': 365, 'form144': 44, 'registrations': 24, 'periodic': 4} errors: 0
+2026-10-13 4534 rows; 1873 relevant; {'form4': 1038, 'ownership13dg': 70, 'f13_filers': 337, 'f13_holdings': 1567, 'events8k': 140, 'form_d': 379, 'form144': 106, 'registrations': 12, 'periodic': 13} errors: 0
