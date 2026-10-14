@@ -1,11 +1,18 @@
 {
  "window_start": "2026-10-08",
  "window_end": "2026-10-14",
- "started_et": "2026-10-14T15:58:30-04:00",
+ "started_et": "2026-10-14T17:18:26-04:00",
  "sec_days_expected": 5,
  "sec_days_missing_before_fill": [
   "2026-10-14"
  ],
+ "filled_by_weekly": {
+  "days": [],
+  "no_index": [],
+  "pending": [
+   "2026-10-14: index not published yet"
+  ]
+ },
  "sec_days_no_index_holiday": [
   "2026-10-12"
  ],
@@ -40,8 +47,8 @@
   "errors": []
  },
  "feeds": {
-  "items_captured": 1611,
-  "kept_for_agents": 395,
+  "items_captured": 1965,
+  "kept_for_agents": 465,
   "days_with_data": 1
  },
  "etf": {
@@ -55,7 +62,7 @@
   "budget_exhausted": true
  },
  "xlsx_error": "\u0000\u0000 ID Owner Asset Transaction Type Date Notification Date Amount Cap. Gains > $200? SP NVIDIA Corporation - Common Stock cannot be used in worksheets.",
- "elapsed_min": 0.7,
+ "elapsed_min": 0.5,
  "dataset_rows": {
   "01_fund_positions": 146,
   "02_ownership_crossings": 256,
@@ -71,9 +78,9 @@
   "10_etf_changes": 0,
   "10b_etf_overlap": 46,
   "10c_etf_cross_holdings": 322,
-  "11_feed_hits": 395,
+  "11_feed_hits": 465,
   "12_status_flags": 127,
-  "13_unknown_entities": 47,
+  "13_unknown_entities": 49,
   "14_periodic_reports_tracked": 26
  }
 }

@@ -1,6 +1,6 @@
 # Layer 4 weekly signal packet - window 2026-10-08 to 2026-10-14
 
-Generated 2026-10-14T15:59:10-04:00 ET by layer4_weekly.py. Discovery only - nothing here is scored or tiered.
+Generated 2026-10-14T17:18:57-04:00 ET by layer4_weekly.py. Discovery only - nothing here is scored or tiered.
 
 ## Dataset sizes
 
@@ -18,9 +18,9 @@ Generated 2026-10-14T15:59:10-04:00 ET by layer4_weekly.py. Discovery only - not
 - 10_etf_changes: 0 rows
 - 10b_etf_overlap: 46 rows
 - 10c_etf_cross_holdings: 322 rows
-- 11_feed_hits: 395 rows
+- 11_feed_hits: 465 rows
 - 12_status_flags: 127 rows
-- 13_unknown_entities: 47 rows
+- 13_unknown_entities: 49 rows
 - 14_periodic_reports_tracked: 26 rows
 
 ## Highest-signal items (script-ranked)

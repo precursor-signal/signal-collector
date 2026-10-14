@@ -36,8 +36,8 @@
   "errors": []
  },
  "feeds": {
-  "items_captured": 1611,
-  "kept_for_agents": 395,
+  "items_captured": 1965,
+  "kept_for_agents": 465,
   "days_with_data": 1,
   "failed_feeds": {},
   "disabled_feeds": [
@@ -84,9 +84,9 @@
   "10_etf_changes": 0,
   "10b_etf_overlap": 46,
   "10c_etf_cross_holdings": 322,
-  "11_feed_hits": 395,
+  "11_feed_hits": 465,
   "12_status_flags": 127,
-  "13_unknown_entities": 47,
+  "13_unknown_entities": 49,
   "14_periodic_reports_tracked": 26
  }
 }
