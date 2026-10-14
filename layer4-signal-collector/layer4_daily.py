@@ -514,7 +514,7 @@ def run_feeds(universe, matcher, tagger, kw, deadline, google_window, health, da
         stale_dropped = 0
         if ftype == "gnews":
             # Google silently ignores `when:` for some queries; verify the window and drop old items.
-            hours = {"1d": 24, "2d": 48, "7d": 168, "14d": 336, "30d": 720}.get(google_window, 24) + 6
+            hours = {"1d": 24, "2d": 48, "3d": 72, "7d": 168, "14d": 336, "30d": 720}.get(google_window, 24) + 6
             cutoff = L.now_et() - dt.timedelta(hours=hours)
             kept = []
             for it in items:
