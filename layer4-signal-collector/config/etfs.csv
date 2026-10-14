@@ -1,0 +1,48 @@
+ticker,name,issuer,method,url,sector_hint,enabled,notes
+ARKK,ARK Innovation ETF,ARK,ark_csv,https://assets.ark-funds.com/fund-documents/funds-etf-csv/ARK_INNOVATION_ETF_ARKK_HOLDINGS.csv,AI infrastructure; Robotics & Industrial Automation,yes,daily file
+ARKW,ARK Next Generation Internet ETF,ARK,ark_csv,https://assets.ark-funds.com/fund-documents/funds-etf-csv/ARK_NEXT_GENERATION_INTERNET_ETF_ARKW_HOLDINGS.csv,Cloud computing infrastructure; AI infrastructure,yes,daily file
+ARKQ,ARK Autonomous Tech & Robotics ETF,ARK,ark_csv,https://assets.ark-funds.com/fund-documents/funds-etf-csv/ARK_AUTONOMOUS_TECH._%26_ROBOTICS_ETF_ARKQ_HOLDINGS.csv,Robotics & Industrial Automation,yes,daily file
+ARKX,ARK Space & Defense Innovation ETF,ARK,ark_csv,https://assets.ark-funds.com/fund-documents/funds-etf-csv/ARK_SPACE_%26_DEFENSE_INNOVATION_ETF_ARKX_HOLDINGS.csv,Space; Defense,yes,daily file
+ARKG,ARK Genomic Revolution ETF,ARK,ark_csv,https://assets.ark-funds.com/fund-documents/funds-etf-csv/ARK_GENOMIC_REVOLUTION_ETF_ARKG_HOLDINGS.csv,,no,out of sector scope; enable if needed
+BOTZ,Global X Robotics & AI ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,Robotics & Industrial Automation; AI infrastructure,yes,
+AIQ,Global X Artificial Intelligence & Technology ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,AI infrastructure; AI model frameworks,yes,
+SHLD,Global X Defense Tech ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,Defense,yes,
+URA,Global X Uranium ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,Power & energy; Critical Minerals,yes,
+CLOU,Global X Cloud Computing ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,Cloud computing infrastructure,yes,
+BUG,Global X Cybersecurity ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,Cybersecurity,yes,
+DTCR,Global X Data Center & Digital Infrastructure ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,Data-Center Construction & Real Estate,yes,
+LIT,Global X Lithium & Battery Tech ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,Critical Minerals,yes,
+COPX,Global X Copper Miners ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,Critical Minerals,yes,
+PAVE,Global X US Infrastructure Development ETF,Global X,globalx_csv,https://assets.globalxetfs.com/funds/holdings/{t}_full-holdings_{d}.csv,Grid & Electrical Infrastructure,yes,
+ROKT,SPDR S&P Kensho Final Frontiers ETF,SSGA,ssga_xlsx,https://www.ssga.com/library-content/products/fund-data/etfs/us/holdings-daily-us-en-{t}.xlsx,Space; Defense,yes,
+XSD,SPDR S&P Semiconductor ETF,SSGA,ssga_xlsx,https://www.ssga.com/library-content/products/fund-data/etfs/us/holdings-daily-us-en-{t}.xlsx,Semiconductors,yes,
+XAR,SPDR S&P Aerospace & Defense ETF,SSGA,ssga_xlsx,https://www.ssga.com/library-content/products/fund-data/etfs/us/holdings-daily-us-en-{t}.xlsx,Defense; Space,yes,
+XLU,Utilities Select Sector SPDR,SSGA,ssga_xlsx,https://www.ssga.com/library-content/products/fund-data/etfs/us/holdings-daily-us-en-{t}.xlsx,Power & energy; Grid & Electrical Infrastructure,yes,
+XLK,Technology Select Sector SPDR,SSGA,ssga_xlsx,https://www.ssga.com/library-content/products/fund-data/etfs/us/holdings-daily-us-en-{t}.xlsx,Semiconductors; Software & EDA,yes,
+XITK,SPDR FactSet Innovative Technology ETF,SSGA,ssga_xlsx,https://www.ssga.com/library-content/products/fund-data/etfs/us/holdings-daily-us-en-{t}.xlsx,AI infrastructure; Cybersecurity,yes,
+XME,SPDR S&P Metals & Mining ETF,SSGA,ssga_xlsx,https://www.ssga.com/library-content/products/fund-data/etfs/us/holdings-daily-us-en-{t}.xlsx,Critical Minerals,yes,
+FTXL,First Trust Nasdaq Semiconductor ETF,First Trust,firsttrust_html,https://www.ftportfolios.com/Retail/Etf/EtfHoldings.aspx?Ticker={T},Semiconductors,yes,
+GRID,First Trust Nasdaq Clean Edge Smart Grid Infrastructure,First Trust,firsttrust_html,https://www.ftportfolios.com/Retail/Etf/EtfHoldings.aspx?Ticker={T},Grid & Electrical Infrastructure,yes,
+QCLN,First Trust NASDAQ Clean Edge Green Energy,First Trust,firsttrust_html,https://www.ftportfolios.com/Retail/Etf/EtfHoldings.aspx?Ticker={T},Power & energy,yes,
+CIBR,First Trust NASDAQ Cybersecurity ETF,First Trust,firsttrust_html,https://www.ftportfolios.com/Retail/Etf/EtfHoldings.aspx?Ticker={T},Cybersecurity,yes,
+SKYY,First Trust Cloud Computing ETF,First Trust,firsttrust_html,https://www.ftportfolios.com/Retail/Etf/EtfHoldings.aspx?Ticker={T},Cloud computing infrastructure,yes,
+SMH,VanEck Semiconductor ETF,VanEck,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Semiconductors; AI chips,yes,issuer site blocked; third-party page
+SOXX,iShares Semiconductor ETF,iShares,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Semiconductors,yes,issuer CSV returns an interstitial page
+SOXQ,Invesco PHLX Semiconductor ETF,Invesco,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Semiconductors,yes,
+ITA,iShares U.S. Aerospace & Defense ETF,iShares,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Defense; Space,yes,
+DFEN,Direxion Daily Aerospace & Defense Bull 3X,Direxion,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Defense,yes,swap notional; weights unreliable
+UFO,Procure Space ETF,Procure,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Space,yes,
+QTUM,Defiance Quantum ETF,Defiance,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Quantum computing,yes,
+WQTM,WisdomTree Quantum Computing Fund,WisdomTree,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Quantum computing,yes,
+NLR,VanEck Uranium and Nuclear ETF,VanEck,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Power & energy,yes,
+USAI,Pacer American Energy Independence ETF,Pacer,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Power & energy,yes,
+WGMI,CoinShares Bitcoin Mining ETF,CoinShares,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Bitcoin mining,yes,
+NCLD,Roundhill Neocloud ETF,Roundhill,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,AI infrastructure; Cloud computing infrastructure,yes,
+LYTE,Roundhill Photonics & Optics ETF,Roundhill,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Silicon photonics; Networking & optics,yes,
+KOID,KraneShares Humanoid Robotics ETF,KraneShares,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Robotics & Industrial Automation,yes,
+HBMX,Memory-focused ETF (HBM),,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Memory,yes,confirm ticker and issuer
+IGV,iShares Expanded Tech-Software ETF,iShares,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Software & EDA,yes,
+REMX,VanEck Rare Earth/Strategic Metals ETF,VanEck,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Critical Minerals,yes,
+CHAT,Roundhill Generative AI & Technology ETF,Roundhill,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,AI model frameworks,yes,
+SRVR,Pacer Benchmark Data & Infrastructure Real Estate ETF,Pacer,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Data-Center Construction & Real Estate,yes,
+HACK,Amplify Cybersecurity ETF,Amplify,stockanalysis_html,https://stockanalysis.com/etf/{t}/holdings/,Cybersecurity,yes,

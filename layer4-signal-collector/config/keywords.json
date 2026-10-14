@@ -1,0 +1,64 @@
+{
+  "_note": "Phrase groups derived from the Layer 4 research history (word counts from 1,590 reports). Used to TAG and RANK items, never to discard unknown entities.",
+  "investment_verbs": [
+    "led by", "co-led", "leads", "led the round", "participated", "participation from", "backed by", "backing from",
+    "invests in", "invested in", "investment in", "strategic investment", "strategic stake", "equity investment",
+    "equity stake", "takes stake", "acquires stake", "new position", "opened a position", "increased its stake",
+    "warrant", "warrants", "private placement", "securities purchase agreement", "convertible", "at-the-market"
+  ],
+  "round_vocabulary": [
+    "series a", "series b", "series c", "series d", "series e", "series f", "seed round", "pre-seed", "funding round",
+    "raises", "raised", "raising", "post-money", "pre-money", "valuation", "valued at", "oversubscribed", "extension round",
+    "tender offer", "secondary sale", "pre-ipo", "growth equity"
+  ],
+  "government_vocabulary": [
+    "equity stake", "letter of intent", "non-binding", "definitive agreement", "chips act", "department of commerce",
+    "department of war", "department of defense", "department of energy", "office of strategic capital", "darpa",
+    "golden dome", "loan guarantee", "cooperative agreement", "other transaction agreement", "ota award"
+  ],
+  "status_change_vocabulary": [
+    "ipo", "initial public offering", "files for ipo", "filed confidentially", "went public", "direct listing", "spac",
+    "business combination", "to be acquired", "agreed to acquire", "acquisition of", "merger", "rebrand", "renamed"
+  ],
+  "commitment_vocabulary": [
+    "take-or-pay", "capacity reservation", "compute agreement", "offtake", "power purchase agreement", "ppa",
+    "memorandum of understanding", "mou", "binding", "executed", "master services agreement", "supply agreement"
+  ],
+  "exclude_noise": [
+    "stock price, news, quote", "price prediction", "option chain", "dividend declared", "quarterly dividend",
+    "securitization", "trust certificates", "asset-backed"
+  ],
+  "item_codes_8k": {
+    "gate": ["1.01", "1.02", "2.01", "3.02", "5.01", "7.01", "8.01"],
+    "names": {
+      "1.01": "Entry into a Material Definitive Agreement",
+      "1.02": "Termination of a Material Definitive Agreement",
+      "2.01": "Completion of Acquisition or Disposition of Assets",
+      "3.02": "Unregistered Sales of Equity Securities",
+      "5.01": "Changes in Control of Registrant",
+      "7.01": "Regulation FD Disclosure",
+      "8.01": "Other Events"
+    }
+  },
+  "sec_forms_collected": [
+    "4", "4/A", "144", "SCHEDULE 13D", "SCHEDULE 13D/A", "SCHEDULE 13G", "SCHEDULE 13G/A", "SC 13D", "SC 13D/A", "SC 13G", "SC 13G/A",
+    "13F-HR", "13F-HR/A", "8-K", "8-K/A", "D", "D/A", "S-1", "S-1/A", "F-1", "F-1/A", "424B4",
+    "6-K", "10-Q", "10-K", "20-F", "40-F"
+  ],
+  "feed_params": {
+    "google_news_query_max_chars": 180,
+    "google_news_window": "1d",
+    "gap_seconds_min": 3,
+    "gap_seconds_max": 7
+  },
+  "thresholds": {
+    "form4_cluster_min_insiders": 2,
+    "form4_cluster_lookback_days": 30,
+    "form4_cluster_min_value_usd": 25000,
+    "form4_cluster_min_per_insider_usd": 5000,
+    "f13_unknown_max_entries": 60,
+    "f13_unknown_min_value_usd": 250000000,
+    "etf_weight_change_pp": 0.25,
+    "feed_hit_min_keyword_groups": 1
+  }
+}

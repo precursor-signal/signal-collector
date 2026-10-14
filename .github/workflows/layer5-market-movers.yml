@@ -1,0 +1,91 @@
+name: Layer 5 - market movers (4:00 PM ET, Mon-Fri)
+
+on:
+  schedule:
+    - cron: "7 20 * * 1-5"   # 4:07 PM EDT (US daylight time), off the top of the hour, Mon-Fri
+    - cron: "7 21 * * 1-5"   # 4:07 PM EST (US standard time), Mon-Fri - the gate step lets either run between 4:00 and 5:59 PM New York time, and only once per day
+  push:
+    branches: [main]
+    paths: ["layer5-signal-collector/triggers/movers.txt"]   # kick-off from the claude.ai routine "Layer 5 - collector kickoff" (same gates apply)
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "Extra script arguments, e.g. --dry-run or --top 50"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: layer5-market-movers
+  cancel-in-progress: false
+
+jobs:
+  movers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Gate - only run between 4:00 PM and 5:59 PM New York time on trading days, once per day
+        id: gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          H=$(TZ=America/New_York date +%H)
+          D=$(TZ=America/New_York date +%u)
+          T=$(TZ=America/New_York date +%F)
+          # NYSE full-day closures (refresh this list each December for the following years)
+          HOLIDAYS="2026-11-26 2026-12-25                     2027-01-01 2027-01-18 2027-02-15 2027-03-26 2027-05-31 2027-06-18 2027-07-05 2027-09-06 2027-11-25 2027-12-24                     2028-01-17 2028-02-21 2028-04-14 2028-05-29 2028-06-19 2028-07-04 2028-09-04 2028-11-23 2028-12-25"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif echo " $HOLIDAYS " | grep -q " $T "; then
+            echo "$T is an NYSE market holiday - skipping"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          elif { [ "$H" != "16" ] && [ "$H" != "17" ]; } || [ "$D" -gt 5 ]; then
+            echo "New York hour is $H, weekday $D - outside 4:00-5:59 PM on a weekday, skipping this trigger"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            # Two crons exist (daylight and standard time) and a run may arrive late.
+            # Skip if today's 4 PM collection already committed.
+            SINCE=$(TZ=America/New_York date -d "$T 15:59" -u +%Y-%m-%dT%H:%M:%SZ)
+            MSGS=$(gh api "repos/${{ github.repository }}/commits?since=$SINCE&per_page=50" --jq '.[].commit.message' 2>/dev/null || true)
+            if echo "$MSGS" | grep -q "^Layer 5 market movers $T"; then
+              echo "Movers for $T already collected after 4 PM - skipping this trigger"
+              echo "run=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "run=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: pip install openpyxl
+
+      - name: Run market movers
+        if: steps.gate.outputs.run == 'true'
+        working-directory: layer5-signal-collector/market signals/movers
+        run: python layer5_market_movers.py ${{ github.event.inputs.args }}
+
+      - name: Commit results
+        if: steps.gate.outputs.run == 'true' && !contains(github.event.inputs.args, '--dry-run')
+        run: |
+          git config user.name "layer5-bot"
+          git config user.email "layer5-bot@users.noreply.github.com"
+          git add -A "layer5-signal-collector/market signals"
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "Layer 5 market movers $(TZ=America/New_York date +%F)"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              echo "push attempt $i failed, retrying"; sleep 15
+            done
+          fi

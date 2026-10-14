@@ -1,0 +1,85 @@
+name: Layer 5 - sector headlines (4:00 PM ET daily)
+
+on:
+  schedule:
+    - cron: "7 20 * * *"   # 4:07 PM EDT (US daylight time), off the top of the hour
+    - cron: "7 21 * * *"   # 4:07 PM EST (US standard time) - the gate step lets either run between 4:00 and 5:59 PM New York time, and only once per day
+  push:
+    branches: [main]
+    paths: ["layer5-signal-collector/triggers/headlines.txt"]   # kick-off from the claude.ai routine "Layer 5 - collector kickoff" (same gates apply)
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "Extra script arguments, e.g. --sector space  or  --dry-run"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: layer5-headlines
+  cancel-in-progress: false
+
+jobs:
+  headlines:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Gate - only run between 4:00 PM and 5:59 PM New York time, once per day
+        id: gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          H=$(TZ=America/New_York date +%H)
+          T=$(TZ=America/New_York date +%F)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif [ "$H" != "16" ] && [ "$H" != "17" ]; then
+            echo "New York hour is $H - outside 4:00-5:59 PM, skipping this trigger"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            # Two crons exist (daylight and standard time) and a run may arrive late.
+            # Skip if today's 4 PM collection already committed.
+            SINCE=$(TZ=America/New_York date -d "$T 15:59" -u +%Y-%m-%dT%H:%M:%SZ)
+            MSGS=$(gh api "repos/${{ github.repository }}/commits?since=$SINCE&per_page=50" --jq '.[].commit.message' 2>/dev/null || true)
+            if echo "$MSGS" | grep -q "^Layer 5 headlines $T"; then
+              echo "Headlines for $T already collected after 4 PM - skipping this trigger"
+              echo "run=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "run=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: pip install openpyxl
+
+      - name: Run sector headlines and resolve article links (8 feeds x 26 sectors, slow pacing)
+        if: steps.gate.outputs.run == 'true'
+        working-directory: layer5-signal-collector/market signals/news
+        run: python layer5_market_signals.py --gap-min 5 --gap-max 12 ${{ github.event.inputs.args }}
+
+      - name: Commit results
+        if: steps.gate.outputs.run == 'true' && !contains(github.event.inputs.args, '--dry-run')
+        run: |
+          git config user.name "layer5-bot"
+          git config user.email "layer5-bot@users.noreply.github.com"
+          git add -A "layer5-signal-collector/market signals"
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "Layer 5 headlines $(TZ=America/New_York date +%F)"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              echo "push attempt $i failed, retrying"; sleep 15
+            done
+          fi

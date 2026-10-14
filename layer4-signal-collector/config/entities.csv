@@ -1,0 +1,110 @@
+﻿entity_id,name,type,tier,ticker,aliases,cik,cik_status,related_vehicles,watch_sources,what_to_watch,status,evidence,notes
+coatue,Coatue Management,fund,tier1,,Coatue Management LLC;Coatue,1135730,auto-unverified,,sec_13f;sec_13dg;feeds,new/increased/exited positions; 13D/13G,active,methodology + 126 reports,
+altimeter,Altimeter Capital Management,fund,tier1,,Altimeter Capital;Altimeter Capital Management LP,1541617,auto-unverified,,sec_13f;sec_13dg;feeds,new/increased/exited positions; 13D/13G,active,methodology + 94 reports,
+tiger-global,Tiger Global Management,fund,tier1,,Tiger Global Management LLC;Tiger Global,1167483,auto-unverified,,sec_13f;sec_13dg;feeds,new/increased/exited positions; 13D/13G,active,methodology + 77 reports,
+light-street,Light Street Capital Management,fund,tier1,,Light Street Capital;Light Street,1569049,auto-unverified,,sec_13f;sec_13dg,new/increased/exited positions,active,methodology + 11 reports,
+whale-rock,Whale Rock Capital Management,fund,tier1,,Whale Rock Capital;Whale Rock,1387322,auto-unverified,,sec_13f;sec_13dg,new/increased/exited positions,active,methodology + 37 reports,
+situational-awareness,Situational Awareness LP,fund,tier1,,Situational Awareness;Leopold Aschenbrenner,2045724,auto-unverified,,sec_13f;sec_13dg;feeds,new/increased/exited positions; puts,monitor-only,public book liquidated 2026-07-30,do not use legacy positions as current signals
+lone-pine,Lone Pine Capital,fund,tier1,,Lone Pine Capital LLC;Lone Pine,1061165,auto-unverified,,sec_13f;sec_13dg,new/increased/exited positions,active,methodology + 37 reports,
+dragoneer,Dragoneer Investment Group,fund,tier1,,Dragoneer;Dragoneer Investment Group LLC,1602189,auto-unverified,,sec_13f;sec_13dg,new/increased/exited positions,active,methodology + 18 reports,
+pershing-square,Pershing Square Capital Management,fund,tier1,,Pershing Square;Bill Ackman;Pershing Square Holdings,1336528;2026053,auto-unverified,,sec_13f;sec_13dg;feeds,concentrated bets; 13D,active,methodology + 5 reports,added 2026-08-25; Pershing Square Capital Management LP (13F filer) + Pershing Square Inc (CIK 2026053)
+thiel-macro,Thiel Macro LLC,fund,tier1,,Thiel Macro;Peter Thiel,1562087,auto-unverified,Founders Fund;Thiel Capital,sec_13f;sec_form4,power/nuclear concentrated 13F,active,methodology + 22 reports,added 2026-09-06
+third-point,Third Point LLC,fund,tier1,,Third Point;Dan Loeb;Daniel Loeb,1040273,auto-unverified,,sec_13f;sec_13dg,concentrated single-name positions,active,methodology + 36 reports,added 2026-08-27
+viking-global,Viking Global Investors,fund,tier1,,Viking Global;Viking Global Investors LP,1103804,auto-unverified,,sec_13f,concentrated single-name positions,active,methodology + 5 reports,added 2026-08-27
+berkshire,Berkshire Hathaway,fund,tier1,,Berkshire Hathaway Inc;Warren Buffett,1067983,auto-unverified,,sec_13f;sec_13dg;sec_form4,single-name positions; 13G; confidential-treatment amendments,active,methodology + 11 reports,added 2026-08-27
+elliott,Elliott Investment Management,fund,tier1,,Elliott Management;Paul Singer;Elliott Associates,1791786,auto-unverified,,sec_13f;sec_13dg,activist campaigns; single-name equities only,active,methodology + 7 reports,exclude ETF hedge sleeve
+ark-invest,ARK Investment Management,fund,tier1,,ARK Invest;Cathie Wood;ARK Investment Management LLC,1697748,auto-unverified,ARK Venture Fund,sec_13f;etf,13F + daily ETF trades,active,methodology + 66 reports,
+xn-lp,XN LP,fund,tier1,,XN;Gaurav Kapadia,1756558,auto-unverified,,sec_13f,new positions (AUR example 2026-09),active,8 reports,found via research history
+atreides,Atreides Management,fund,candidate,,Atreides Management LP,1777813,auto-unverified,,sec_13f,new/increased positions,candidate,10 mentions in deal signals,found by discovery; needs review
+scion,Scion Asset Management,fund,tier4-inverse,,Scion;Michael Burry,1649339,auto-unverified,,sec_13f,new positions and PUTS as caution flag,deregistered,methodology,last 13F Q3 2025; re-check periodically
+tuttle-capital,Tuttle Capital Management,fund,candidate,,Tuttle Capital,1581641,auto-unverified,,sec_13f;etf,ETF sponsor / positions,candidate,10 mentions,found by discovery; needs review
+d1-capital,D1 Capital Partners,fund,candidate,,D1 Capital,1747057,auto-unverified,,sec_13f,new/increased positions,candidate,suggested not in history,verify filing status
+durable-capital,Durable Capital Partners,fund,candidate,,Durable Capital,1798849,auto-unverified,,sec_13f,new/increased positions,candidate,suggested not in history,verify filing status
+duquesne,Duquesne Family Office,fund,candidate,,Stanley Druckenmiller;Duquesne,1536411,auto-unverified,,sec_13f,new/increased positions,candidate,suggested not in history,verify filing status; Duquesne Family Office LLC
+baupost,Baupost Group,fund,candidate,,Baupost;Seth Klarman,1061768,auto-unverified,,sec_13f;sec_13dg,concentrated positions,candidate,suggested not in history,verify filing status
+appaloosa,Appaloosa LP,fund,candidate,,Appaloosa;David Tepper,1656456,auto-unverified,,sec_13f,new/increased positions,candidate,suggested not in history,verify filing status
+greenlight,Greenlight Capital,fund,candidate,,Greenlight;David Einhorn,1079114,auto-unverified,,sec_13f,concentrated positions,candidate,suggested not in history,verify filing status
+starboard,Starboard Value,fund,candidate,,Starboard Value LP,1517137,auto-unverified,,sec_13f;sec_13dg,activist 13D,candidate,suggested not in history,verify
+valueact,ValueAct Capital,fund,candidate,,ValueAct,1418814,auto-unverified,,sec_13f;sec_13dg,activist 13D,candidate,suggested not in history,verify
+trian,Trian Fund Management,fund,candidate,,Trian;Nelson Peltz,1345471,auto-unverified,,sec_13f;sec_13dg,activist 13D,candidate,suggested not in history,verify
+icahn,Icahn Enterprises,fund,candidate,,Carl Icahn;Icahn,1034563,auto-unverified,,sec_13f;sec_13dg,activist 13D,candidate,suggested not in history,verify
+a16z,Andreessen Horowitz,vc,tier2,,a16z;Andreessen Horowitz;AH Capital Management,1540358;2009275,auto-unverified,a16z crypto;a16z growth,sec_13f;sec_13dg;feeds,public stakes; private rounds led/joined,active,methodology + 94 reports,a16z Capital Management LLC; a16z Perennial Management LP
+sequoia,Sequoia Capital,vc,tier2,,Sequoia;Sequoia Capital Operations,1112239,needs-review,Sequoia Heritage;Sequoia Global Equities,sec_13f;feeds,public stakes; private rounds,active,methodology + 37 reports,Sequoia Capital X (fund vehicle); find Sequoia Capital Operations 13F filer if any
+founders-fund,Founders Fund,vc,tier2,,Founders Fund;The Founders Fund,1616081;1695329;1852758;1846021;1697733;1853382,auto-unverified,,sec_13f;feeds,public stakes; private rounds,active,methodology + 23 reports,Founders Fund I-VII management LLCs; verify which file 13F/13D
+lux-capital,Lux Capital,vc,tier2,,Lux Capital Management;Lux Capital,1592843,auto-unverified,,sec_13f;feeds,private rounds (deep tech/space/defense),active,methodology + 20 reports,
+bessemer,Bessemer Venture Partners,vc,tier2,,Bessemer;Bessemer Venture Partners,1768640,auto-unverified,,sec_13f;feeds,private rounds,active,methodology + 14 reports,
+lightspeed,Lightspeed Venture Partners,vc,history,,Lightspeed;Lightspeed Venture,1602573,auto-unverified,,feeds,private rounds led/joined,active,32 mentions,found by history
+thrive,Thrive Capital,vc,history,,Thrive Capital,1845943,auto-unverified,,feeds,private rounds led/joined,active,18 mentions,found by history
+valor,Valor Equity Partners,vc,history,,Valor Equity,1822427,auto-unverified,,feeds,private rounds led/joined,active,17 mentions,found by history
+greenoaks,Greenoaks Capital,vc,history,,Greenoaks,1840735,auto-unverified,,sec_13f;feeds,private rounds; public stakes,active,11 mentions,found by history
+insight,Insight Partners,vc,history,,Insight Partners,1305473,auto-unverified,,feeds,private rounds led/joined,active,14 mentions,found by history; Insight Holdings Group LLC
+khosla,Khosla Ventures,vc,history,,Khosla,1611146,auto-unverified,,feeds,private rounds led/joined,active,8 mentions,found by history
+kleiner,Kleiner Perkins,vc,history,,Kleiner Perkins;KPCB,1118829,needs-review,,feeds,private rounds led/joined,active,11 mentions,found by history; KPCB fund vehicle; verify
+general-atlantic,General Atlantic,vc,history,,General Atlantic,1017645,auto-unverified,,feeds,private rounds led/joined,active,9 mentions,found by history
+accel,Accel,vc,history,,Accel Partners;Accel,1419457,auto-unverified,,feeds,private rounds led/joined,active,9 mentions,found by history
+index-ventures,Index Ventures,vc,history,,Index Ventures,1611775,auto-unverified,,feeds,private rounds led/joined,active,3 mentions,found by history
+dst-global,DST Global,vc,history,,DST Global,1550172,auto-unverified,,feeds,private rounds led/joined,active,6 mentions,found by history
+8vc,8VC,vc,history,,8VC,1667766;2022694;1866724,auto-unverified,,feeds,private rounds led/joined,active,6 mentions,found by history; 8VC GP entities (Form D)
+eclipse,Eclipse Ventures,vc,history,,Eclipse Ventures;Eclipse,1908066,auto-unverified,,feeds,private rounds led/joined,active,suggested,
+playground,Playground Global,vc,history,,Playground Global,,no-match,,feeds,private rounds led/joined,active,4 mentions,
+breakthrough-energy,Breakthrough Energy Ventures,vc,history,,Breakthrough Energy,1888406,auto-unverified,,feeds,private rounds led/joined,active,4 mentions,
+energy-impact,Energy Impact Partners,vc,history,,Energy Impact Partners,2138137,auto-unverified,,feeds,private rounds led/joined,active,5 mentions,
+sutter-hill,Sutter Hill Ventures,vc,history,,Sutter Hill,879051,auto-unverified,,feeds,private rounds led/joined,active,7 mentions,
+vista,Vista Equity Partners,vc,history,,Vista Equity,1569532,auto-unverified,,feeds;sec_13dg,buyouts; stakes,active,7 mentions,
+stepstone,StepStone Group,vc,history,,StepStone,1502287,auto-unverified,,feeds,private rounds,active,4 mentions,
+y-combinator,Y Combinator,vc,history,,Y Combinator;YC,,no-match,,feeds,seed rounds,active,2 mentions,
+in-q-tel,In-Q-Tel,vc,government,,In-Q-Tel;IQT,,low-confidence,,feeds,rounds in defense/intel tech,active,5 mentions,
+qia,Qatar Investment Authority,sovereign,history,,QIA;Qatar Investment Authority,1441449,auto-unverified,,feeds;sec_13f,private rounds; public stakes,active,32 mentions,
+mubadala,Mubadala / MGX,sovereign,history,,Mubadala;MGX;Mubadala Capital,1704268,auto-unverified,,feeds;sec_13f,private rounds; AI infrastructure,active,29 mentions,Mubadala Investment Co PJSC
+temasek,Temasek,sovereign,history,,Temasek;Temasek Holdings,1021944,auto-unverified,,feeds,private rounds,active,23 mentions,
+gic,GIC,sovereign,history,,GIC;GIC Private Limited,936828,auto-unverified,,feeds;sec_13f,private rounds; public stakes,active,11 mentions,
+pif,Public Investment Fund (Saudi),sovereign,history,,PIF;Prosperity7;Aramco Ventures,,no-match,,feeds,private rounds,active,6 mentions,
+norges,Norges Bank Investment Management,sovereign,candidate,,NBIM;Norges Bank,1374170,auto-unverified,,sec_13f,public stakes,candidate,suggested,verify filing status
+softbank,SoftBank Group,corporate,history,SFTBY,SoftBank;SoftBank Vision Fund;SoftBank Group Corp,1065521,auto-unverified,,feeds;sec_13dg,strategic stakes,active,33 mentions,
+nvidia,NVIDIA,corporate,corporate,NVDA,NVIDIA Corporation;NVentures;Nvidia,1045810,sec-ticker,NVentures,sec_13f;feeds;gov_feeds,strategic stakes (public and private),active,313 mentions,largest current strategic investor
+microsoft,Microsoft,corporate,corporate,MSFT,Microsoft Corporation;M12,789019,sec-ticker,M12,sec_13f;feeds,strategic stakes (OpenAI etc),active,107 mentions,
+alphabet,Alphabet,corporate,corporate,GOOGL,Alphabet Inc;Google;GV;Google Ventures;CapitalG;Gradient Ventures,1652044,sec-ticker,GV;CapitalG;Gradient Ventures,sec_13f;feeds,strategic and venture stakes,active,144 mentions,
+amazon,Amazon,corporate,corporate,AMZN,Amazon.com;Amazon Industrial Innovation Fund;Alexa Fund,1018724,sec-ticker,Amazon Industrial Innovation Fund;Alexa Fund,feeds;sec_13f,strategic stakes; warrants,active,96 mentions,
+intel,Intel,corporate,corporate,INTC,Intel Corporation;Intel Capital,50863,sec-ticker,Intel Capital,feeds;sec_13f,strategic stakes,active,71 mentions,
+salesforce,Salesforce,corporate,corporate,CRM,Salesforce Ventures,1108524,sec-ticker,Salesforce Ventures,feeds,strategic stakes,active,32 mentions,
+qualcomm,Qualcomm,corporate,corporate,QCOM,Qualcomm Ventures,804328,sec-ticker,Qualcomm Ventures,feeds,strategic stakes,active,35 mentions,
+cisco,Cisco,corporate,corporate,CSCO,Cisco Investments,858877,sec-ticker,Cisco Investments,feeds,strategic stakes,active,36 mentions,
+samsung,Samsung,corporate,corporate,,Samsung Electronics;Samsung Catalyst Fund;Samsung Ventures,,needs-review,Samsung Catalyst Fund;Samsung Ventures,feeds,strategic stakes,active,48 mentions,Samsung Electronics does not appear as 13F filer; verify strategic-stake route
+micron,Micron Technology,corporate,corporate,MU,Micron Ventures,723125,sec-ticker,Micron Ventures,feeds,strategic stakes,active,90 mentions,
+amd,AMD,corporate,corporate,AMD,Advanced Micro Devices,2488,sec-ticker,AMD Ventures,feeds,strategic stakes; warrants,active,77 mentions,
+oracle,Oracle,corporate,corporate,ORCL,Oracle Corporation,1341439,sec-ticker,,feeds,strategic stakes,active,40 mentions,
+meta,Meta Platforms,corporate,corporate,META,Meta;Facebook,1326801,sec-ticker,,feeds,strategic stakes,active,60 mentions,
+openai-fund,OpenAI (investor),corporate,corporate,,OpenAI Startup Fund;OpenAI,,needs-review,OpenAI Startup Fund,feeds,investments in startups,active,7 mentions,no SEC filer expected; news-only
+doc,Department of Commerce (CHIPS),government,gov,,Commerce Department;CHIPS Act;U.S. Department of Commerce,,,,gov_feeds;feeds;sec_8k,equity stakes; CHIPS awards,active,57 mentions,
+dow,Department of War / Defense,government,gov,,Department of War;Department of Defense;Pentagon;DoD,,,Office of Strategic Capital,gov_feeds;feeds;sec_8k,equity stakes; awards; contracts,active,59 mentions,
+doe,Department of Energy,government,gov,,Department of Energy;DOE,,,,gov_feeds;feeds;sec_8k,equity; loans; awards,active,27 mentions,
+darpa,DARPA,government,gov,,DARPA,,,,gov_feeds;feeds,awards,active,13 mentions,
+nasa,NASA,government,gov,,NASA,,,,gov_feeds;feeds,awards,active,26 mentions,
+space-force,Space Force / Air Force,government,gov,,Space Force;U.S. Space Force;Air Force,,,,gov_feeds;feeds,awards,active,62 mentions,
+peter-thiel,Peter Thiel,individual,person,,Peter Thiel;Thiel,1211060,auto-unverified,Thiel Macro LLC;Founders Fund,sec_form4;sec_13f;feeds,Form 4 (PLTR; ABCL; META); private investments,active,29 mentions,
+jensen-huang,Jensen Huang,executive,person,,Jensen Huang;Jen-Hsun Huang,1197649,auto-unverified,,sec_form4;feeds,Form 4 in NVDA; private investments,active,methodology,HUANG JEN HSUN (Form 4 reporting owner)
+bill-ackman,Bill Ackman,individual,person,,Bill Ackman;William Ackman,1056513,auto-unverified,Pershing Square,sec_13f;sec_13dg,13D; concentrated bets,active,methodology,ACKMAN WILLIAM A (13D reporting person)
+michael-burry,Michael Burry,individual,person,,Michael Burry;Michael J. Burry,1342573,auto-unverified,Scion,sec_13f,puts as caution flag,deregistered,methodology,
+cathie-wood,Cathie Wood,individual,person,,Cathie Wood;Catherine Wood,,no-match,ARK Invest,etf;sec_13f,daily ETF trades,active,methodology,
+donald-trump,Donald J. Trump,politician,executive-branch,,President Trump;Donald Trump;Donald J. Trump,,,,oge,disclosed purchases; later public endorsements,active,54 mentions,via Open Cabinet / OGE 278-T
+elon-musk,Elon Musk,executive,candidate,,Elon Musk,1494730,auto-unverified,xAI;SpaceX,sec_form4;feeds,Form 4 in TSLA; private investments,candidate,suggested,verify
+masayoshi-son,Masayoshi Son,individual,candidate,,Masayoshi Son,,low-confidence,SoftBank,feeds,strategic stakes,candidate,suggested,verify
+sam-altman,Sam Altman,individual,candidate,,Sam Altman,,no-match,,feeds;sec_form4,personal investments,candidate,suggested,verify
+ro-khanna,Ro Khanna,politician,tier3,,Hon. Ro Khanna;Rohit Khanna,,,,house_ptr,trades; committee relevance (Armed Services; Strategic Competition),active,93 mentions,highest filing volume in Congress
+gil-cisneros,Gil Cisneros,politician,tier3,,Hon. Gilbert Ray Cisneros;Gilbert Cisneros;Gil Cisneros,,,,house_ptr,defense purchases (Armed Services),active,76 mentions,name appears in several variants
+alan-armstrong,Alan Armstrong,politician,tier3,,Hon. Alan Armstrong;Sen. Alan Armstrong,,,,senate_ptr,portfolio-formation trades 2026-03; do not treat as conviction,active,59 mentions,
+cleo-fields,Cleo Fields,politician,tier3,,Hon. Cleo Fields,,,,house_ptr,financial services; chip purchases,active,26 mentions,
+maria-salazar,Maria Elvira Salazar,politician,tier3,,Hon. Maria Elvira Salazar;Maria Salazar,,,,house_ptr,small-cap defense,active,23 mentions,
+nancy-pelosi,Nancy Pelosi,politician,tier3,,Hon. Nancy Pelosi;Paul Pelosi,,,,house_ptr,tech options and large positions,active,22 mentions,spouse trades filed under member
+markwayne-mullin,Markwayne Mullin,politician,history,,Markwayne Mullin;Sen. Markwayne Mullin,,,,senate_ptr,trades,active,16 mentions,found by history
+josh-gottheimer,Josh Gottheimer,politician,history,,Hon. Josh Gottheimer;Joshua Gottheimer,,,,house_ptr,trades,active,16 mentions,found by history
+april-mcclain-delaney,April McClain Delaney,politician,history,,Hon. April McClain Delaney,,,,house_ptr,trades,active,13 mentions,found by history
+jared-moskowitz,Jared Moskowitz,politician,history,,Hon. Jared Moskowitz,,,,house_ptr,trades,active,10 mentions,
+byron-donalds,Byron Donalds,politician,history,,Hon. Byron Donalds,,,,house_ptr,trades,active,10 mentions,
+john-fetterman,John Fetterman,politician,history,,Sen. John Fetterman,,,,senate_ptr,trades,active,9 mentions,
+michael-mccaul,Michael McCaul,politician,tier3,,Hon. Michael McCaul;Michael T. McCaul,,,,house_ptr,trades (Foreign Affairs/ Homeland),active,6 mentions,
+dan-crenshaw,Dan Crenshaw,politician,tier3,,Hon. Dan Crenshaw;Daniel Crenshaw,,,,house_ptr,defense/space/intelligence,active,methodology,
+mark-warner,Mark Warner,politician,tier3,,Sen. Mark Warner;Mark R. Warner,,,,senate_ptr,semiconductors; AI policy,active,methodology,
+tommy-tuberville,Tommy Tuberville,politician,tier3,,Sen. Tommy Tuberville,,,,senate_ptr,defense contractors,active,methodology,
+marjorie-taylor-greene,Marjorie Taylor Greene,politician,history,,Hon. Marjorie Taylor Greene,,,,house_ptr,historical only (resigned 2026-01-05),inactive,methodology,
+armed-services-senate,Senate Armed Services members,politician,committee,,Wicker;Reed;Fischer;Cotton;Sullivan;Young,,,,senate_ptr,defense/space/cyber purchases,active,methodology,
