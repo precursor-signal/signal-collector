@@ -14,3 +14,6 @@
 2026-10-12 17:17:34,2026-10-12,yahoo,gainers,200,55,
 2026-10-12 17:17:34,2026-10-12,yahoo,losers,200,100,
 2026-10-12 17:17:34,2026-10-12,yahoo,TOTAL,,100,100 rows written; sources used: yahoo
+2026-10-14 16:37:49,2026-10-14,yahoo,gainers,200,60,
+2026-10-14 16:37:49,2026-10-14,yahoo,losers,200,100,
+2026-10-14 16:37:49,2026-10-14,yahoo,TOTAL,,100,100 rows written; sources used: yahoo; catalyst hints for 98 of 100 movers (290 article URLs resolved)
