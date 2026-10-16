@@ -1,16 +1,16 @@
-name: Layer 4 - weekly packet (Monday 12:00 AM ET)
+name: Layer 4 - weekly packet (Tuesday 12:00 AM ET)
 
 on:
   schedule:
-    - cron: "7 4 * * 1"    # 12:07 AM EDT Monday (US daylight time) - backup if the claude.ai kick-off routine does not fire
-    - cron: "7 5 * * 1"    # 12:07 AM EST Monday (US standard time) - the gate step lets either run between 12:00 and 1:59 AM New York time on Monday, and only once per week
+    - cron: "7 4 * * 2"    # 12:07 AM EDT Tuesday (US daylight time) - backup if the claude.ai kick-off routine does not fire
+    - cron: "7 5 * * 2"    # 12:07 AM EST Tuesday (US standard time) - the gate step lets either run between 12:00 and 1:59 AM New York time on Tuesday, and only once per week
   push:
     branches: [main]
     paths: ["layer4-signal-collector/triggers/weekly.txt"]   # kick-off from the claude.ai routine "Layer 4 - weekly packet kickoff" (same gates apply)
   workflow_dispatch:
     inputs:
       args:
-        description: "Extra script arguments, e.g. --end-date 2026-10-18  or  --no-fill"
+        description: "Extra script arguments, e.g. --end-date 2026-10-19  or  --no-fill"
         required: false
         default: ""
 
@@ -26,18 +26,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 150
     steps:
-      - name: Gate - only run Monday 12:00 AM to 1:59 AM New York time, once per week
+      - name: Gate - only run Tuesday 12:00 AM to 1:59 AM New York time, once per week (the packet covers the 7 days Tuesday to Monday)
         id: gate
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           H=$(TZ=America/New_York date +%H)
           W=$(TZ=America/New_York date +%u)
-          END=$(TZ=America/New_York date -d yesterday +%F)   # the Sunday that closes the week; the packet folder is named for it
+          END=$(TZ=America/New_York date -d yesterday +%F)   # the Monday that closes the week (window = the 7 days Tuesday to Monday); the packet folder is named for it
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
-          elif [ "$W" != "1" ] || { [ "$H" != "00" ] && [ "$H" != "01" ]; }; then
-            echo "New York weekday $W hour $H - outside Monday 12:00-1:59 AM, skipping this trigger"
+          elif [ "$W" != "2" ] || { [ "$H" != "00" ] && [ "$H" != "01" ]; }; then
+            echo "New York weekday $W hour $H - outside Tuesday 12:00-1:59 AM, skipping this trigger"
             echo "run=false" >> "$GITHUB_OUTPUT"
           else
             SINCE=$(TZ=America/New_York date -d "yesterday 23:00" -u +%Y-%m-%dT%H:%M:%SZ)
