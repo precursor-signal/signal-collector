@@ -16,7 +16,7 @@ Steps
   9. coverage ledger (what was NOT collected) + SUMMARY.md + packet.xlsx
 
 Usage
-  python layer3_weekly.py                  # window = the 7 days Tuesday-Monday ending on the last Monday before yesterday
+  python layer3_weekly.py                  # window = the 7 days Wednesday-Tuesday ending yesterday
   python layer3_weekly.py --end 2026-10-11
   python layer3_weekly.py --skip-slow      # no USAspending / SAM / ERCOT network calls
 """
@@ -43,9 +43,9 @@ USA_EXTRA_KEYWORDS = ["semiconductor", "microelectronics", "data center", "satel
 
 
 def last_window_end(today):
-    """The Monday that closes the window: the latest Monday on or before yesterday (a Wednesday run gets the Monday two days back)."""
+    """The Tuesday that closes the window: the latest Tuesday on or before yesterday (a Wednesday run gets yesterday)."""
     d = today - dt.timedelta(days=1)
-    while d.weekday() != 0:
+    while d.weekday() != 1:
         d -= dt.timedelta(days=1)
     return d
 
@@ -451,7 +451,7 @@ def write_xlsx(outdir, datasets):
 
 def main():
     ap = argparse.ArgumentParser(description="Layer 3 weekly packet")
-    ap.add_argument("--end", "--end-date", dest="end", help="window end date (a Monday by default: the latest Monday on or before yesterday ET; the window is Tuesday-Monday)")
+    ap.add_argument("--end", "--end-date", dest="end", help="window end date (a Tuesday by default: the latest Tuesday on or before yesterday ET; the window is Wednesday-Tuesday)")
     ap.add_argument("--skip-slow", action="store_true")
     ap.add_argument("--usa-budget", type=int, default=160)
     a = ap.parse_args()

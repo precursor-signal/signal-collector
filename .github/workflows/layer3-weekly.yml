@@ -33,7 +33,7 @@ jobs:
         run: |
           H=$(TZ=America/New_York date +%H)
           W=$(TZ=America/New_York date +%u)
-          END=$(TZ=America/New_York date -d '2 days ago' +%F)   # the Monday that closes the Tuesday-Monday window; the packet folder is named for it
+          END=$(TZ=America/New_York date -d yesterday +%F)   # the Tuesday that closes the Wednesday-Tuesday window; the packet folder is named for it
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           elif [ "$W" != "3" ] || { [ "$H" != "00" ] && [ "$H" != "01" ]; }; then
@@ -68,7 +68,7 @@ jobs:
         env:
           SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
         run: |
-          END=$(TZ=America/New_York date -d '2 days ago' +%F)
+          END=$(TZ=America/New_York date -d yesterday +%F)
           ARGS="${{ github.event.inputs.args }}"
           case "$ARGS" in
             *--end-date*) python layer3_weekly.py $ARGS ;;
@@ -78,7 +78,7 @@ jobs:
       - name: Commit packet
         if: steps.gate.outputs.run == 'true'
         run: |
-          END=$(TZ=America/New_York date -d '2 days ago' +%F)
+          END=$(TZ=America/New_York date -d yesterday +%F)
           git config user.name "layer3-bot"
           git config user.email "layer3-bot@users.noreply.github.com"
           git add -A layer3-signal-collector/data
