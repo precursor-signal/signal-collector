@@ -1,0 +1,45 @@
+buyer_id,name,type,ticker,aliases,what_to_watch,status
+microsoft,Microsoft,hyperscaler,MSFT,Microsoft Corp;Microsoft Corporation;Azure;Microsoft Azure,datacenter leases; GPU and power purchase commitments; named suppliers,active
+amazon-aws,Amazon / AWS,hyperscaler,AMZN,Amazon Web Services;AWS;Amazon.com;Amazon,datacenter capacity; chips and power commitments; named suppliers,active
+google,Alphabet / Google,hyperscaler,GOOGL,Google;Alphabet;Google Cloud;GCP,datacenter and power procurement; TPU supply; named suppliers,active
+meta,Meta Platforms,hyperscaler,META,Meta;Facebook;Meta Platforms Inc,datacenter and power procurement; GPU and memory supply,active
+oracle,Oracle,hyperscaler,ORCL,Oracle Corp;Oracle Cloud;OCI,datacenter leases; GPU supply; power,active
+openai,OpenAI,ai_lab,,Open AI;Stargate,compute capacity commitments; datacenter partners; chip supply,active
+anthropic,Anthropic,ai_lab,,Anthropic PBC;Claude,compute capacity commitments; datacenter partners,active
+xai,xAI,ai_lab,,x.AI;xAI Corp,compute and datacenter build; power,active
+nvidia,NVIDIA,chipmaker_buyer,NVDA,Nvidia Corp;NVIDIA Corporation,foundry HBM packaging capacity commitments; named suppliers; datacenter partners,active
+amd,AMD,chipmaker_buyer,AMD,Advanced Micro Devices,foundry and HBM capacity; datacenter customers,active
+broadcom,Broadcom,chipmaker_buyer,AVGO,Broadcom Inc,custom silicon customers; foundry capacity,active
+intel,Intel,chipmaker_buyer,INTC,Intel Corp;Intel Foundry,foundry customers; equipment orders; CHIPS award,active
+tsmc,TSMC,foundry,TSM,Taiwan Semiconductor;Taiwan Semiconductor Manufacturing,capacity expansion; equipment orders; customers,active
+samsung,Samsung Electronics,foundry_memory,,Samsung;Samsung Foundry;Samsung Semiconductor,HBM and foundry capacity; customers; fabs,active
+sk-hynix,SK hynix,memory,,SK Hynix;SK하이닉스;Hynix,HBM supply agreements; capacity; customers,active
+micron,Micron,memory,MU,Micron Technology,HBM supply; fab expansion; CHIPS award,active
+spacex,SpaceX,space_buyer,SPCX,Space Exploration Technologies;Starlink,launch and satellite supply; contracts,active
+coreweave,CoreWeave,neocloud,CRWV,CoreWeave Inc,capacity contracts; datacenter leases; power,active
+nebius,Nebius,neocloud,NBIS,Nebius Group,capacity contracts; datacenter builds,active
+dell,Dell Technologies,server_oem,DELL,Dell;Dell Technologies Inc,AI server backlog; customers,active
+supermicro,Super Micro Computer,server_oem,SMCI,Supermicro;Super Micro,AI server orders; customers,active
+hpe,Hewlett Packard Enterprise,server_oem,HPE,HPE;Hewlett Packard Enterprise,AI systems orders; customers,active
+us-dod,US Department of Defense / War,government,,Department of Defense;Department of War;Pentagon;DoD;DOW,contract awards; task orders; programs,active
+us-army,US Army,government,,U.S. Army;Army Contracting Command,contract awards,active
+us-navy,US Navy,government,,U.S. Navy;Naval Sea Systems Command;NAVSEA,contract awards,active
+us-air-force,US Air Force / Space Force,government,,U.S. Air Force;Air Force;Space Force;USSF,contract awards,active
+darpa,DARPA,government,,Defense Advanced Research Projects Agency,program awards,active
+sda,Space Development Agency,government,,SDA,tranche awards,active
+nasa,NASA,government,,National Aeronautics and Space Administration,contract awards; CLPS; commercial programs,active
+us-doe,US Department of Energy,government,,Department of Energy;DOE;Loan Programs Office,awards; loans; programs,active
+us-commerce,US Department of Commerce,government,,Department of Commerce;CHIPS Program Office;CHIPS for America,CHIPS awards,active
+dla,Defense Logistics Agency,government,,DLA,stockpile and supply contracts,active
+ercot,ERCOT,grid_operator,,Electric Reliability Council of Texas,large-load interconnection; batch studies,active
+pjm,PJM Interconnection,grid_operator,,PJM,large-load interconnection; capacity auction,active
+dominion,Dominion Energy,utility,D,Dominion Energy Virginia,datacenter load; interconnection; generation,active
+aep,American Electric Power,utility,AEP,AEP,datacenter load; generation,active
+duke,Duke Energy,utility,DUK,Duke Energy Corp,datacenter load; generation,active
+southern,Southern Company,utility,SO,Georgia Power,datacenter load; generation,active
+constellation,Constellation Energy,power_producer,CEG,Constellation,PPAs with hyperscalers; nuclear,active
+vistra,Vistra,power_producer,VST,Vistra Corp,PPAs with hyperscalers; nuclear,active
+talen,Talen Energy,power_producer,TLN,Talen,PPAs with hyperscalers,active
+equinix,Equinix,datacenter_operator,EQIX,Equinix Inc,capacity leases; build-outs,active
+digital-realty,Digital Realty,datacenter_operator,DLR,Digital Realty Trust,leases; build-outs,active
+stargate,Stargate,datacenter_program,,Stargate LLC;Stargate project,sites; suppliers; power,active

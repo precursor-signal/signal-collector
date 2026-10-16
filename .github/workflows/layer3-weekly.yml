@@ -1,0 +1,93 @@
+name: Layer 3 - weekly packet (Monday 12:30 AM ET)
+
+on:
+  schedule:
+    - cron: "37 4 * * 1"    # 12:37 AM EDT Monday (US daylight time) - backup if the claude.ai kick-off routine does not fire
+    - cron: "37 5 * * 1"    # 12:37 AM EST Monday (US standard time) - the gate step lets either run between 12:00 and 1:59 AM New York time on Monday, and only once per week
+  push:
+    branches: [main]
+    paths: ["layer3-signal-collector/triggers/weekly.txt"]   # kick-off from the claude.ai routine "Layer 3 - weekly packet kickoff" (same gates apply)
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "Extra script arguments, e.g. --end-date 2026-10-18  or  --skip-slow"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: layer3-collector
+  cancel-in-progress: false
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Gate - only run Monday 12:00 AM to 1:59 AM New York time, once per week
+        id: gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          H=$(TZ=America/New_York date +%H)
+          W=$(TZ=America/New_York date +%u)
+          END=$(TZ=America/New_York date -d yesterday +%F)   # the Sunday that closes the week; the packet folder is named for it
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif [ "$W" != "1" ] || { [ "$H" != "00" ] && [ "$H" != "01" ]; }; then
+            echo "New York weekday $W hour $H - outside Monday 12:00-1:59 AM, skipping this trigger"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            SINCE=$(TZ=America/New_York date -d "yesterday 23:00" -u +%Y-%m-%dT%H:%M:%SZ)
+            MSGS=$(gh api "repos/${{ github.repository }}/commits?since=$SINCE&per_page=50" --jq '.[].commit.message' 2>/dev/null || true)
+            if echo "$MSGS" | grep -q "^Layer 3 weekly packet $END"; then
+              echo "Layer 3 weekly packet $END already built - skipping this trigger"
+              echo "run=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "run=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: pip install openpyxl
+
+      - name: Build the weekly packet
+        if: steps.gate.outputs.run == 'true'
+        working-directory: layer3-signal-collector
+        env:
+          SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
+        run: |
+          END=$(TZ=America/New_York date -d yesterday +%F)
+          ARGS="${{ github.event.inputs.args }}"
+          case "$ARGS" in
+            *--end-date*) python layer3_weekly.py $ARGS ;;
+            *) python layer3_weekly.py --end-date "$END" $ARGS ;;
+          esac
+
+      - name: Commit packet
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          END=$(TZ=America/New_York date -d yesterday +%F)
+          git config user.name "layer3-bot"
+          git config user.email "layer3-bot@users.noreply.github.com"
+          git add -A layer3-signal-collector/data
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "Layer 3 weekly packet $END"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              echo "push attempt $i failed, retrying"; sleep 15
+            done
+          fi
