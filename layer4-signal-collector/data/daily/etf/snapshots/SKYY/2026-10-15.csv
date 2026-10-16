@@ -1,0 +1,67 @@
+﻿etf,ticker,name,weight_pct,shares,cusip
+SKYY,P,"Everpure, Inc. (Class A)",5.28,,74624M102
+SKYY,MSFT,Microsoft Corporation,3.65,,594918104
+SKYY,GOOGL,Alphabet Inc. (Class A),3.55,,02079K305
+SKYY,NTNX,"Nutanix, Inc. (Class A)",3.53,,67059N108
+SKYY,ANET,"Arista Networks, Inc.",3.47,,040413205
+SKYY,DOCN,"DigitalOcean Holdings, Inc.",3.43,,25402D102
+SKYY,AMZN,"Amazon.com, Inc.",3.39,,023135106
+SKYY,IBM,International Business Machines Corporation,3.38,,459200101
+SKYY,ORCL,Oracle Corporation,3.04,,68389X105
+SKYY,NET,"Cloudflare, Inc. (Class A)",2.46,,18915M107
+SKYY,CSCO,"Cisco Systems, Inc.",2.38,,17275R102
+SKYY,MDB,"MongoDB, Inc.",2.27,,60937P106
+SKYY,NTSK,"Netskope, Inc. (Class A)",2.27,,64119N608
+SKYY,CRWV,"CoreWeave, Inc. (Class A)",2.24,,21873S108
+SKYY,RBRK,"Rubrik, Inc. (Class A)",2.12,,781154109
+SKYY,LUMN,"Lumen Technologies, Inc.",2.11,,550241103
+SKYY,HPE,Hewlett Packard Enterprise Company,2.1,,42824C109
+SKYY,NTAP,"NetApp, Inc.",2.08,,64110D104
+SKYY,SHOP,Shopify Inc. (Class A),2.03,,82509L107
+SKYY,TWLO,Twilio Inc. (Class A),2.0,,90138F102
+SKYY,GTLB,GitLab Inc. (Class A),1.98,,37637K108
+SKYY,AKAM,"Akamai Technologies, Inc.",1.95,,00971T101
+SKYY,DELL,Dell Technologies Inc. (Class C),1.93,,24703L202
+SKYY,FSLY,"Fastly, Inc. (Class A)",1.9,,31188V100
+SKYY,RNG,"RingCentral, Inc. (Class A)",1.87,,76680R206
+SKYY,TEAM,Atlassian Corporation (Class A),1.83,,049468101
+SKYY,S,"SentinelOne, Inc. (Class A)",1.79,,81730H109
+SKYY,NOW,"ServiceNow, Inc.",1.64,,81762P102
+SKYY,CRM,"Salesforce, Inc.",1.59,,79466L302
+SKYY,WK,Workiva Inc.,1.58,,98139A105
+SKYY,HUBS,"HubSpot, Inc.",1.5,,443573100
+SKYY,APP,Applovin Corp. (Class A),1.46,,03831W108
+SKYY,ADBE,Adobe Incorporated,1.43,,00724F101
+SKYY,FIVN,"Five9, Inc.",1.43,,338307101
+SKYY,TTAN,"ServiceTitan, Inc. (Class A)",1.29,,81764X103
+SKYY,SAP,SAP SE (ADR),1.15,,803054204
+SKYY,WIX,Wix.com Ltd.,0.97,,M98068105
+SKYY,APPN,Appian Corporation,0.83,,03782L101
+SKYY,ZS,"Zscaler, Inc.",0.68,,98980G102
+SKYY,DDOG,"Datadog, Inc. (Class A)",0.66,,23804L103
+SKYY,DOCU,"DocuSign, Inc.",0.66,,256163106
+SKYY,BOX,"Box, Inc. (Class A)",0.62,,10316T104
+SKYY,CRWD,"CrowdStrike Holdings, Inc. (Class A)",0.62,,22788C105
+SKYY,VEEV,Veeva Systems Inc. (Class A),0.6,,922475108
+SKYY,BLKB,"Blackbaud, Inc.",0.59,,09227Q100
+SKYY,DBX,"Dropbox, Inc. (Class A)",0.59,,26210C104
+SKYY,QLYS,"Qualys, Inc.",0.59,,74758T303
+SKYY,OTEX,Open Text Corporation,0.58,,683715106
+SKYY,PAYC,"Paycom Software, Inc.",0.58,,70432V102
+SKYY,SNOW,Snowflake Inc. (Class A),0.58,,833445109
+SKYY,PANW,"Palo Alto Networks, Inc.",0.57,,697435105
+SKYY,PCTY,Paylocity Holding Corporation,0.57,,70438V106
+SKYY,ZM,"Zoom Communications, Inc. (Class A)",0.57,,98980L101
+SKYY,ASAN,"Asana, Inc. (Class A)",0.55,,04342Y104
+SKYY,ESTC,Elastic N.V.,0.55,,N14506104
+SKYY,WDAY,"Workday, Inc. (Class A)",0.55,,98138H101
+SKYY,QTWO,"Q2 Holdings, Inc.",0.53,,74736L109
+SKYY,BL,"BlackLine, Inc.",0.51,,09239B109
+SKYY,TTD,"The Trade Desk, Inc. (Class A)",0.51,,88339J105
+SKYY,TOST,"Toast, Inc. (Class A)",0.51,,888787108
+SKYY,APPF,"AppFolio, Inc. (Class A)",0.5,,03783C100
+SKYY,INTU,Intuit Inc.,0.5,,461202103
+SKYY,KVYO,"Klaviyo, Inc. (Class A)",0.48,,49845K101
+SKYY,FIG,"Figma, Inc. (Class A)",0.45,,316841105
+SKYY,RXT,"Rackspace Technology, Inc.",0.28,,750102105
+SKYY,$USD,US Dollar,0.12,,

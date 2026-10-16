@@ -1,0 +1,39 @@
+﻿etf,ticker,name,weight_pct,shares,cusip
+FTXL,INTC,Intel Corporation,8.38,,458140100
+FTXL,QCOM,QUALCOMM Incorporated,7.74,,747525103
+FTXL,NVDA,NVIDIA Corporation,7.66,,67066G104
+FTXL,MU,"Micron Technology, Inc.",7.28,,595112103
+FTXL,AVGO,Broadcom Inc.,7.14,,11135F101
+FTXL,AMD,"Advanced Micro Devices, Inc.",4.63,,007903107
+FTXL,MRVL,"Marvell Technology, Inc.",4.43,,573874104
+FTXL,ADI,"Analog Devices, Inc.",4.26,,032654105
+FTXL,TXN,Texas Instruments Incorporated,4.11,,882508104
+FTXL,KLAC,KLA Corporation,3.89,,482480100
+FTXL,ON,ON Semiconductor Corporation,3.78,,682189105
+FTXL,NXPI,NXP Semiconductors N.V.,3.76,,N6596X109
+FTXL,AMAT,"Applied Materials, Inc.",3.72,,038222105
+FTXL,LRCX,Lam Research Corporation,3.64,,512807306
+FTXL,AMKR,"Amkor Technology, Inc.",3.37,,031652100
+FTXL,TER,"Teradyne, Inc.",3.16,,880770102
+FTXL,MCHP,Microchip Technology Incorporated,2.88,,595017104
+FTXL,ENTG,"Entegris, Inc.",2.48,,29362U104
+FTXL,MPWR,"Monolithic Power Systems, Inc.",1.83,,609839105
+FTXL,CRUS,"Cirrus Logic, Inc.",1.6,,172755100
+FTXL,RMBS,Rambus Inc.,0.93,,750917106
+FTXL,VSH,"Vishay Intertechnology, Inc.",0.93,,928298108
+FTXL,CRDO,Credo Technology Group Holding Ltd,0.77,,G25457105
+FTXL,MTSI,"MACOM Technology Solutions Holdings, Inc.",0.69,,55405Y100
+FTXL,ONTO,Onto Innovation Inc.,0.67,,683344105
+FTXL,DIOD,Diodes Incorporated,0.65,,254543101
+FTXL,SMTC,Semtech Corporation,0.59,,816850101
+FTXL,FORM,"FormFactor, Inc.",0.58,,346375108
+FTXL,ALAB,"Astera Labs, Inc.",0.56,,04626A103
+FTXL,AEIS,"Advanced Energy Industries, Inc.",0.53,,007973100
+FTXL,AVT,"Avnet, Inc.",0.53,,053807103
+FTXL,AXTI,"AXT, Inc.",0.5,,00246W103
+FTXL,LSCC,Lattice Semiconductor Corporation,0.49,,518415104
+FTXL,COHR,Coherent Corp.,0.47,,19247G107
+FTXL,ADEA,Adeia Inc.,0.42,,00676P107
+FTXL,ACMR,"ACM Research, Inc. (Class A)",0.41,,00108J109
+FTXL,UCTT,"Ultra Clean Holdings, Inc.",0.41,,90385V107
+FTXL,$USD,US Dollar,0.14,,

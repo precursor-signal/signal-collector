@@ -1,0 +1,131 @@
+﻿etf,ticker,name,weight_pct,shares,cusip
+GRID,PWR,"Quanta Services, Inc.",8.83,,74762E102
+GRID,JCI,Johnson Controls International Plc,8.67,,G51502105
+GRID,ETN,Eaton Corporation Plc,8.26,,G29183103
+GRID,ABBN.SW,ABB Ltd,7.83,,H0010V101
+GRID,SU.FP,Schneider Electric SE,7.02,,F86921107
+GRID,NG/.LN,National Grid Plc,4.01,,G6S9A7120
+GRID,EOAN.GY,E.ON SE,3.79,,D24914133
+GRID,PRY.IM,Prysmian SpA,3.66,,T7630L105
+GRID,NVT,nVent Electric plc,2.83,,G6700G107
+GRID,HUBB,Hubbell Incorporated,2.62,,443510607
+GRID,NVDA,NVIDIA Corporation,2.03,,67066G104
+GRID,TSLA,"Tesla, Inc.",2.02,,88160R101
+GRID,CSCO,"Cisco Systems, Inc.",1.95,,17275R102
+GRID,TRN.IM,TERNA - Rete Elettrica Nazionale SpA,1.84,,T9471R100
+GRID,H.CT,Hydro One Limited,1.47,,448811208
+GRID,EQTL3.BZ,Equatorial Energia SA,1.38,,P3773H104
+GRID,SAP.GY,SAP SE,1.17,,D66992104
+GRID,BEAN.SE,Belimo Holding AG,1.12,,H07171129
+GRID,ORCL,Oracle Corporation,1.11,,68389X105
+GRID,TXN,Texas Instruments Incorporated,1.11,,882508104
+GRID,SIE.GY,Siemens AG,1.05,,D69671218
+GRID,GEV,GE Vernova Inc.,1.03,,36828A101
+GRID,267260.KS,"HD Hyundai Electric Co., Ltd.",1.02,,Y3R1DD103
+GRID,010120.KS,"LS Electric Co., Ltd.",1.01,,Y5355Q105
+GRID,IBM,International Business Machines Corporation,0.93,,459200101
+GRID,SPIE.FP,SPIE S.A.,0.92,,F8691R101
+GRID,ELI.BB,Elia Group SA/NV,0.86,,B35656105
+GRID,RED.SM,Red Electrica Corporacion S.A.,0.85,,E42807110
+GRID,ADI,"Analog Devices, Inc.",0.84,,032654105
+GRID,CPLE3.BZ,Companhia Paranaense de Energia-Copel,0.83,,P30557105
+GRID,6501.JP,"Hitachi, Ltd.",0.81,,J20454112
+GRID,NKT.DC,NKT A/S,0.81,,K7037A107
+GRID,FPS,"Forgent Power Solutions, Inc. (Class A)",0.79,,34631F102
+GRID,1519.TT,"Fortune Electric Co., Ltd.",0.76,,Y26168107
+GRID,NEX.FP,Nexans S.A.,0.71,,F65277109
+GRID,IBE.SM,Iberdrola S.A.,0.69,,E6165F166
+GRID,ENGI11.BZ,Energisa SA (Units),0.64,,P3769S114
+GRID,MYRG,MYR Group Inc.,0.46,,55405W104
+GRID,EMR,Emerson Electric Co.,0.41,,291011104
+GRID,6508.JP,Meidensha Corporation,0.41,,J41594102
+GRID,TAEE11.BZ,Transmissora Alianca de Energia Electrica S.A. (Unit),0.4,,P9T5CD126
+GRID,ENPH,"Enphase Energy, Inc.",0.39,,29355A107
+GRID,ENEL.IM,Enel SpA,0.38,,T3679P115
+GRID,IFX.GY,Infineon Technologies AG,0.37,,D35415104
+GRID,ITRI,"Itron, Inc.",0.36,,465741106
+GRID,6503.JP,Mitsubishi Electric Corporation,0.33,,J43873116
+GRID,ALUP11.BZ,Alupar Investimento S.A (Unit),0.32,,P0R676126
+GRID,6752.JP,Panasonic Holdings Corporation,0.32,,J6354Y104
+GRID,HON,Honeywell International Inc.,0.3,,438516205
+GRID,6409.TT,Voltronic Power Technology Corp.,0.29,,Y937BE103
+GRID,5803.JP,Fujikura Ltd.,0.28,,J14784128
+GRID,062040.KS,"Sanil Electric Co., Ltd.",0.28,,Y7T0PL103
+GRID,6656.HK,"Sigenergy Technology Co., Ltd. (Class H)",0.28,,Y7T3Q2108
+GRID,6622.JP,Daihen Corporation,0.27,,J09114109
+GRID,ISAE4.BZ,Isa Energia Brasil SA (Preference),0.25,,P30576113
+GRID,1503.TT,Shihlin Electric & Engineering Corporation,0.25,,Y7745Q100
+GRID,001440.KS,"Taihan Cable & Solution Co., Ltd.",0.25,,Y8373R105
+GRID,NXPI,NXP Semiconductors N.V.,0.23,,N6596X109
+GRID,SJ.CT,Stella-Jones Inc.,0.23,,85853F105
+GRID,HPS/A.CT,Hammond Power Solutions Inc.,0.22,,408549103
+GRID,CENER.GA,Cenergy Holdings SA,0.21,,B1R3JD102
+GRID,ENGI.FP,Engie S.A.,0.21,,F7629A107
+GRID,SEDG,"SolarEdge Technologies, Inc.",0.21,,83417M104
+GRID,5802.JP,"Sumitomo Electric Industries, Ltd.",0.21,,J77411114
+GRID,LR.FP,Legrand S.A.,0.2,,F56196185
+GRID,SSE.LN,SSE Plc,0.19,,G8842P102
+GRID,LAND.SE,Landis+Gyr Group AG,0.18,,H893NZ107
+GRID,6723.JP,Renesas Electronics Corporation,0.18,,J4881V107
+GRID,ASTOR.TI,Astor Enerji A.S.,0.17,,M1505L115
+GRID,1211.HK,BYD Company Limited (Class H),0.17,,Y1023R104
+GRID,103590.KS,"Iljin Electric Co., Ltd.",0.16,,Y3878F102
+GRID,RENE.PL,"REN - Redes Energeticas Nacionais, SGPS, S.A.",0.16,,X70955103
+GRID,S92.GR,SMA Solar Technology AG,0.16,,D7008K108
+GRID,AMSC,American Superconductor Corporation,0.15,,030111207
+GRID,FTS.CN,Fortis Inc.,0.14,,349553107
+GRID,485A.JP,"PowerX, Inc.",0.14,,J6391R104
+GRID,006400.KS,"Samsung SDI Co., Ltd.",0.13,,Y74866107
+GRID,WLDN,"Willdan Group, Inc.",0.13,,96924N100
+GRID,1609.TT,"Ta Ya Electric Wire & Cable Co., Ltd.",0.12,,Y8548S103
+GRID,1514.TT,"Allis Electric Co., Ltd.",0.11,,Y0089Q109
+GRID,$USD,US Dollar,0.11,,
+GRID,AXIA3.BZ,AXIA Energia SA,0.1,,P22835113
+GRID,3393.HK,Wasion Holdings Limited,0.1,,G9463P108
+GRID,WEGE3.BZ,WEG S.A.,0.1,,P9832B129
+GRID,5801.JP,"Furukawa Electric Co., Ltd.",0.08,,J16464117
+GRID,RSGN.SE,R&S Group Holding AG,0.08,,H9232B116
+GRID,WCC,"WESCO International, Inc.",0.08,,95082P105
+GRID,EDP.PL,"EDP - Energias de Portugal, S.A.",0.07,,X67925119
+GRID,FLNC,"Fluence Energy, Inc. (Class A)",0.07,,34379V103
+GRID,6504.JP,"Fuji Electric Co., Ltd.",0.07,,J14112106
+GRID,PFS0.GY,PFISTERER Holding SE,0.07,,D6S83H113
+GRID,PLPC,Preformed Line Products Company,0.07,,740444104
+GRID,2395.TT,"Advantech Co., Ltd.",0.06,,Y0017P108
+GRID,3750.HK,"Contemporary Amperex Technology Co., Ltd. (Class H)",0.06,,Y1R48E113
+GRID,229640.KS,LS Eco Energy Ltd.,0.06,,Y5S4B9102
+GRID,MTZ,"MasTec, Inc.",0.06,,576323109
+GRID,6617.JP,"Takaoka Toko Co., Ltd.",0.06,,J80551104
+GRID,TRMB,Trimble Inc.,0.06,,896239100
+GRID,NRGV,"Energy Vault Holdings, Inc.",0.05,,29280W109
+GRID,GNRC,Generac Holdings Inc.,0.05,,368736104
+GRID,6644.JP,"Osaki Electric Co., Ltd.",0.05,,J62965116
+GRID,AES,The AES Corporation,0.05,,00130H105
+GRID,AEIS,"Advanced Energy Industries, Inc.",0.04,,007973100
+GRID,LFUS,"Littelfuse, Inc.",0.04,,537008104
+GRID,5333.JP,NGK Corp.,0.04,,J49076110
+GRID,STM,STMicroelectronics N.V.,0.04,,861012102
+GRID,VMI,"Valmont Industries, Inc.",0.04,,920253101
+GRID,VER.AV,Verbund AG,0.04,,A91460104
+GRID,ALFEN.NA,Alfen Beheer BV,0.03,,N0227W101
+GRID,ACA,"Arcosa, Inc.",0.03,,039653100
+GRID,ENS,EnerSys,0.03,,29275Y102
+GRID,ESE,ESCO Technologies Inc.,0.03,,296315104
+GRID,EUPWR.TI,Europower Enerji ve Otomasyon Teknolojileri Sanayi ve Ticaret AS,0.03,,M4117J114
+GRID,298040.KS,Hyosung Heavy Industries Corporation,0.03,,Y3R1E4102
+GRID,6845.JP,Azbil Corporation,0.02,,J0370G106
+GRID,AZZ,AZZ Inc.,0.02,,002474104
+GRID,6674.JP,GS Yuasa Corporation,0.02,,J1770L109
+GRID,PRIM,Primoris Services Corporation,0.02,,74164F103
+GRID,GRID.CT,Tantalus Systems Holding Inc.,0.02,,87601F106
+GRID,BDC,Belden Inc.,0.01,,077454106
+GRID,BKW.SW,BKW AG,0.01,,H10053108
+GRID,$BRL,Brazilian Real,0.01,,
+GRID,1513.TT,Chung-Hsin Electric and Machinery Manufacturing Corp.,0.01,,Y1612A108
+GRID,DGII,Digi International Inc.,0.01,,253798102
+GRID,2371.TT,"Tatung Co., Ltd.",0.01,,Y8548J103
+GRID,$EUR,Euro,0.0,,
+GRID,$TWD,New Taiwan Dollar,0.0,,
+GRID,$GBP,Pound Sterling,0.0,,
+GRID,$KRW,South Korean Won,0.0,,
+GRID,$CHF,Swiss Franc,0.0,,

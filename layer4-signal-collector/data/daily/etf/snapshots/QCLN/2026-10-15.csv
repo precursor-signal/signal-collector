@@ -1,0 +1,59 @@
+﻿etf,ticker,name,weight_pct,shares,cusip
+QCLN,BE,Bloom Energy Corporation (Class A),10.07,,093712107
+QCLN,TSLA,"Tesla, Inc.",8.66,,88160R101
+QCLN,ON,ON Semiconductor Corporation,8.59,,682189105
+QCLN,MPWR,"Monolithic Power Systems, Inc.",8.51,,609839105
+QCLN,RIVN,"Rivian Automotive, Inc. (Class A)",6.33,,76954A103
+QCLN,NXT,Nextpower Inc. (Class A),4.37,,65290E101
+QCLN,FSLR,"First Solar, Inc.",3.85,,336433107
+QCLN,AEIS,"Advanced Energy Industries, Inc.",3.82,,007973100
+QCLN,ENLT,Enlight Renewable Energy Ltd.,3.53,,M4056D110
+QCLN,AYI,Acuity Inc.,3.25,,00508Y102
+QCLN,ALB,Albemarle Corporation,3.15,,012653101
+QCLN,VICR,Vicor Corporation,3.08,,925815102
+QCLN,BEP,Brookfield Renewable Partners LP,3.06,,G16258108
+QCLN,MP,MP Materials Corp.,2.6,,553368101
+QCLN,ENS,EnerSys,2.29,,29275Y102
+QCLN,ALGM,"Allegro Microsystems, Inc.",2.19,,01749D105
+QCLN,ORA,"Ormat Technologies, Inc.",1.98,,686688102
+QCLN,HASI,"HA Sustainable Infrastructure Capital, Inc.",1.7,,41068X100
+QCLN,ENPH,"Enphase Energy, Inc.",1.42,,29355A107
+QCLN,ITRI,"Itron, Inc.",1.35,,465741106
+QCLN,CWEN,"Clearway Energy, Inc. (Class C)",1.31,,18539C204
+QCLN,OLED,Universal Display Corporation,1.26,,91347P105
+QCLN,MWH,"SOLV Energy, Inc. (Class A)",1.1,,78475V103
+QCLN,SQM,Sociedad Quimica y Minera de Chile S.A. (ADR),1.07,,833635105
+QCLN,POWI,"Power Integrations, Inc.",0.91,,739276103
+QCLN,NVTS,Navitas Semiconductor Corp. (Class A),0.89,,63942X106
+QCLN,PLUG,Plug Power Inc.,0.74,,72919P202
+QCLN,SEDG,"SolarEdge Technologies, Inc.",0.69,,83417M104
+QCLN,RUN,Sunrun Inc.,0.64,,86771W105
+QCLN,RNW,Renew Energy Global Plc (Class A),0.62,,G7500M104
+QCLN,SHLS,"Shoals Technologies Group, Inc. (Class A)",0.48,,82489W107
+QCLN,WOLF,"Wolfspeed, Inc.",0.48,,97785W106
+QCLN,LCID,"Lucid Group, Inc. (Class A)",0.47,,549498202
+QCLN,AMSC,American Superconductor Corporation,0.45,,030111207
+QCLN,AMPX,"Amprius Technologies, Inc.",0.43,,03214Q108
+QCLN,FCEL,"FuelCell Energy, Inc.",0.41,,35952H700
+QCLN,WLDN,"Willdan Group, Inc.",0.4,,96924N100
+QCLN,SGML,Sigma Lithium Corporation,0.35,,826599102
+QCLN,XIFR,XPLR Infrastructure LP,0.34,,65341B106
+QCLN,FLNC,"Fluence Energy, Inc. (Class A)",0.32,,34379V103
+QCLN,TE,T1 Energy Inc.,0.31,,35834F104
+QCLN,LYTS,LSI Industries Inc.,0.27,,50216C108
+QCLN,AMRC,"Ameresco, Inc. (Class A)",0.26,,02361E108
+QCLN,EOSE,"Eos Energy Enterprises, Inc.",0.26,,29415C101
+QCLN,ENVX,Enovix Corporation,0.2,,293594107
+QCLN,ARRY,"Array Technologies, Inc.",0.19,,04271T100
+QCLN,BLDP,Ballard Power Systems Inc.,0.19,,058586108
+QCLN,NRGV,"Energy Vault Holdings, Inc.",0.19,,29280W109
+QCLN,ASPN,"Aspen Aerogels, Inc.",0.16,,04523Y105
+QCLN,$USD,US Dollar,0.15,,
+QCLN,CLNE,Clean Energy Fuels Corp.,0.11,,184499101
+QCLN,GEVO,"Gevo, Inc.",0.11,,374396406
+QCLN,MNTK,"Montauk Renewables, Inc.",0.11,,61218C103
+QCLN,PSNY,Polestar Automotive Holding UK Plc (Class A) (ADR),0.1,,731105409
+QCLN,ELVA,Electrovaya Inc.,0.09,,28617B606
+QCLN,EVGO,EVgo Inc.,0.06,,30052F100
+QCLN,NEOV,"NeoVolta, Inc.",0.05,,640655106
+QCLN,ELVR,Elevra Lithium Limited (ADR),0.04,,805700101

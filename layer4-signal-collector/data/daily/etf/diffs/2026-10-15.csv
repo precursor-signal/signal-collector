@@ -1,0 +1,265 @@
+﻿etf,date,change,ticker,name,weight_old,weight_new,prev_snapshot
+ARKX,2026-10-15,weight_up,LHX,L3HARRIS TECHNOLOGIES INC,6.21,6.47,2026-10-14
+ARKX,2026-10-15,weight_down,RKLB UQ,ROCKET LAB,5.63,5.34,2026-10-14
+BOTZ,2026-10-15,weight_up,ISRG,INTUITIVE SURGICAL INC,8.99,9.5,2026-10-14
+BOTZ,2026-10-15,weight_up,6861 JP,KEYENCE CORP,8.14,8.42,2026-10-14
+BOTZ,2026-10-15,removed,,KOREAN WON,0.0,,2026-10-14
+BOTZ,2026-10-15,removed,,TAIWAN DOLLAR,0.0,,2026-10-14
+SHLD,2026-10-15,weight_down,PLTR,PALANTIR TECHNOLOGIES INC-A,13.35,12.57,2026-10-14
+SHLD,2026-10-15,weight_up,LMT,LOCKHEED MARTIN CORP,8.27,8.57,2026-10-14
+SHLD,2026-10-15,weight_up,ESLT IT,ELBIT SYSTEMS LTD,2.96,3.22,2026-10-14
+URA,2026-10-15,weight_up,NXE CN,NEXGEN ENERGY LTD,5.96,6.24,2026-10-14
+URA,2026-10-15,weight_up,KAP LI,NAC KAZATOMPROM JSC-GDR REGS,4.57,4.9,2026-10-14
+URA,2026-10-15,weight_down,PDN AU,PALADIN ENERGY LTD,2.81,2.5,2026-10-14
+URA,2026-10-15,removed,,KOREAN WON,0.05,,2026-10-14
+CLOU,2026-10-15,weight_down,SNOW,SNOWFLAKE INC,7.26,6.84,2026-10-14
+CLOU,2026-10-15,weight_down,DDOG,DATADOG INC - CLASS A,5.93,5.61,2026-10-14
+CLOU,2026-10-15,weight_up,PAYC,PAYCOM SOFTWARE INC,5.17,5.56,2026-10-14
+CLOU,2026-10-15,weight_up,NOW,SERVICENOW INC,4.35,4.69,2026-10-14
+CLOU,2026-10-15,weight_up,WDAY,WORKDAY INC-CLASS A,4.21,4.48,2026-10-14
+CLOU,2026-10-15,weight_down,NET,CLOUDFLARE INC - CLASS A,4.7,4.3,2026-10-14
+CLOU,2026-10-15,weight_down,DOCN,DIGITALOCEAN HOLDINGS INC,3.68,3.16,2026-10-14
+CLOU,2026-10-15,weight_up,WIX,WIX.COM LTD,2.3,2.62,2026-10-14
+BUG,2026-10-15,weight_down,OKTA,OKTA INC,10.23,9.79,2026-10-14
+BUG,2026-10-15,weight_up,SAIL,SAILPOINT INC,4.23,4.48,2026-10-14
+BUG,2026-10-15,weight_up,GEN,GEN DIGITAL INC,3.08,3.33,2026-10-14
+BUG,2026-10-15,removed,,KOREAN WON,0.01,,2026-10-14
+DTCR,2026-10-15,weight_up,AMT,AMERICAN TOWER CORP,13.22,13.92,2026-10-14
+DTCR,2026-10-15,weight_up,DLR,DIGITAL REALTY TRUST INC,12.57,12.82,2026-10-14
+DTCR,2026-10-15,weight_up,CCI,CROWN CASTLE INC,9.33,9.77,2026-10-14
+DTCR,2026-10-15,weight_down,GDS,GDS HOLDINGS LTD - ADR,4.13,3.68,2026-10-14
+DTCR,2026-10-15,weight_down,HPE,HEWLETT PACKARD ENTERPRISE,3.01,2.67,2026-10-14
+DTCR,2026-10-15,weight_down,VNET,VNET GROUP INCORPORATION,2.27,1.98,2026-10-14
+LIT,2026-10-15,weight_down,6752 JP,PANASONIC HOLDINGS CORPORATION,7.17,6.76,2026-10-14
+LIT,2026-10-15,weight_up,002371 C2,NAURA TECHNOLOGY GROUP CO-A,6.22,6.66,2026-10-14
+LIT,2026-10-15,removed,,KOREAN WON,0.12,,2026-10-14
+COPX,2026-10-15,removed,,SAUDI RIYAL,0.0,,2026-10-14
+XSD,2026-10-15,weight_down,706915105,PENGUIN SOLUTIONS INC,3.45287,3.148416,2026-10-14
+XSD,2026-10-15,weight_up,453204109,IMPINJ INC,2.74005,3.028401,2026-10-14
+XAR,2026-10-15,removed,999USDZ92,US DOLLAR,-2.3e-05,,2026-10-14
+XLU,2026-10-15,weight_down,21037T109,CONSTELLATION ENERGY,7.406161,7.0209,2026-10-14
+XLK,2026-10-15,weight_up,037833100,APPLE INC,13.879054,14.378371,2026-10-14
+XITK,2026-10-15,weight_down,25402D102,DIGITALOCEAN HOLDINGS INC,2.526172,2.239508,2026-10-14
+XITK,2026-10-15,removed,999USDZ92,US DOLLAR,-1.6e-05,,2026-10-14
+XME,2026-10-15,weight_up,759509102,RELIANCE INC,5.562757,5.821618,2026-10-14
+XME,2026-10-15,weight_up,858119100,STEEL DYNAMICS INC,5.436578,5.701315,2026-10-14
+XME,2026-10-15,weight_up,670346105,NUCOR CORP,5.351238,5.631348,2026-10-14
+QCLN,2026-10-15,weight_down,BE,Bloom Energy Corporation (Class A),10.55,10.07,2026-10-14
+SKYY,2026-10-15,weight_down,P,"Everpure, Inc. (Class A)",5.6,5.28,2026-10-14
+SKYY,2026-10-15,weight_down,DOCN,"DigitalOcean Holdings, Inc.",3.84,3.43,2026-10-14
+SKYY,2026-10-15,weight_down,CRWV,"CoreWeave, Inc. (Class A)",2.53,2.24,2026-10-14
+SMH,2026-10-15,weight_up,NVDA,NVIDIA Corporation,19.77,20.04,2026-10-14
+SMH,2026-10-15,weight_down,AMAT,"Applied Materials, Inc.",4.65,4.36,2026-10-14
+SOXX,2026-10-15,entered_top25,TLV:TSEM,Tower Semiconductor Ltd.,,1.19,2026-10-14
+SOXX,2026-10-15,left_top25,TSEM,Tower Semiconductor Ltd.,1.17,,2026-10-14
+ITA,2026-10-15,weight_down,RKLB,Rocket Lab Corporation,2.82,2.57,2026-10-14
+DFEN,2026-10-15,weight_up,GE,GE Aerospace,14.83,15.14,2026-10-14
+DFEN,2026-10-15,weight_up,RTX,RTX Corporation,11.65,11.94,2026-10-14
+DFEN,2026-10-15,entered_top25,HEI.A,HEICO Corporation,,0.96,2026-10-14
+DFEN,2026-10-15,left_top25,FTAI,FTAI Aviation Ltd.,0.95,,2026-10-14
+UFO,2026-10-15,weight_down,SPCX,Space Exploration Technologies Corp.,16.96,16.58,2026-10-14
+UFO,2026-10-15,weight_up,GRMN,Garmin Ltd.,4.82,5.1,2026-10-14
+UFO,2026-10-15,weight_down,ASTS,"AST SpaceMobile, Inc.",4.23,3.94,2026-10-14
+UFO,2026-10-15,entered_top25,TSX:MDA,MDA Space Ltd.,,3.21,2026-10-14
+UFO,2026-10-15,entered_top25,n/a,US DOLLARS,,2.96,2026-10-14
+UFO,2026-10-15,entered_top25,EPA:AIR,Airbus SE,,2.3,2026-10-14
+UFO,2026-10-15,entered_top25,TYO:9412,SKY Perfect JSAT Corporation,,1.21,2026-10-14
+UFO,2026-10-15,entered_top25,EPA:SESG,SES S.A.,,1.15,2026-10-14
+UFO,2026-10-15,left_top25,TSX: MDA,MDA Space Ltd.,3.1,,2026-10-14
+UFO,2026-10-15,left_top25,EPA: AIR,Airbus SE,2.27,,2026-10-14
+UFO,2026-10-15,left_top25,EPA: SESG,SES S.A.,1.21,,2026-10-14
+UFO,2026-10-15,left_top25,TYO: 9412,SKY Perfect JSAT Corporation,1.18,,2026-10-14
+UFO,2026-10-15,left_top25,VOYG,"Voyager Technologies, Inc.",1.07,,2026-10-14
+QTUM,2026-10-15,entered_top25,TPE:3443,Global Unichip Corp.,,2.31,2026-10-14
+QTUM,2026-10-15,entered_top25,TYO:6701,NEC Corporation,,1.54,2026-10-14
+QTUM,2026-10-15,entered_top25,TYO:6702,Fujitsu Limited,,1.5,2026-10-14
+QTUM,2026-10-15,entered_top25,BIT:REY,Reply S.p.A.,,1.46,2026-10-14
+QTUM,2026-10-15,entered_top25,TYO:6501,"Hitachi, Ltd.",,1.45,2026-10-14
+QTUM,2026-10-15,entered_top25,TPE:2357,ASUSTeK Computer Inc.,,1.41,2026-10-14
+QTUM,2026-10-15,entered_top25,TYO:9432,"NTT, Inc.",,1.4,2026-10-14
+QTUM,2026-10-15,entered_top25,AMZN,"Amazon.com, Inc.",,1.29,2026-10-14
+QTUM,2026-10-15,left_top25,TPE: 3443,Global Unichip Corp.,2.33,,2026-10-14
+QTUM,2026-10-15,left_top25,TYO: 6701,NEC Corporation,1.52,,2026-10-14
+QTUM,2026-10-15,left_top25,TYO: 6702,Fujitsu Limited,1.47,,2026-10-14
+QTUM,2026-10-15,left_top25,TPE: 2357,ASUSTeK Computer Inc.,1.42,,2026-10-14
+QTUM,2026-10-15,left_top25,BIT: REY,Reply S.p.A.,1.38,,2026-10-14
+QTUM,2026-10-15,left_top25,TYO: 6501,"Hitachi, Ltd.",1.38,,2026-10-14
+QTUM,2026-10-15,left_top25,TYO: 9432,"NTT, Inc.",1.35,,2026-10-14
+QTUM,2026-10-15,left_top25,TPE: 2454,MediaTek Inc.,1.27,,2026-10-14
+WQTM,2026-10-15,weight_up,IBM,International Business Machines Corporation,5.45,5.79,2026-10-14
+WQTM,2026-10-15,weight_down,IONQ,"IonQ, Inc.",5.68,5.21,2026-10-14
+WQTM,2026-10-15,weight_down,QNT,Quantinuum Inc.,5.53,4.89,2026-10-14
+WQTM,2026-10-15,weight_down,RGTI,"Rigetti Computing, Inc.",5.03,4.7,2026-10-14
+WQTM,2026-10-15,entered_top25,TYO:6702,Fujitsu Limited,,4.43,2026-10-14
+WQTM,2026-10-15,weight_down,QBTS,D-Wave Quantum Inc.,4.63,4.29,2026-10-14
+WQTM,2026-10-15,weight_up,GFS,GLOBALFOUNDRIES Inc.,3.7,3.97,2026-10-14
+WQTM,2026-10-15,weight_down,INFQ,"Infleqtion, Inc.",3.96,3.68,2026-10-14
+WQTM,2026-10-15,entered_top25,KRX:017670,"SK Telecom Co., Ltd.",,2.39,2026-10-14
+WQTM,2026-10-15,entered_top25,TYO:9432,"NTT, Inc.",,1.9,2026-10-14
+WQTM,2026-10-15,entered_top25,TYO:6501,"Hitachi, Ltd.",,1.81,2026-10-14
+WQTM,2026-10-15,entered_top25,TYO:6965,Hamamatsu Photonics K.K.,,1.66,2026-10-14
+WQTM,2026-10-15,entered_top25,HEL:NOKIA,Nokia Oyj,,1.64,2026-10-14
+WQTM,2026-10-15,entered_top25,ETR:IFX,Infineon Technologies AG,,1.58,2026-10-14
+WQTM,2026-10-15,entered_top25,NXPI,NXP Semiconductors N.V.,,1.55,2026-10-14
+WQTM,2026-10-15,left_top25,TYO: 6702,Fujitsu Limited,4.16,,2026-10-14
+WQTM,2026-10-15,left_top25,KRX: 017670,"SK Telecom Co., Ltd.",2.2,,2026-10-14
+WQTM,2026-10-15,left_top25,TYO: 9432,"NTT, Inc.",1.8,,2026-10-14
+WQTM,2026-10-15,left_top25,TYO: 6501,"Hitachi, Ltd.",1.67,,2026-10-14
+WQTM,2026-10-15,left_top25,TYO: 6965,Hamamatsu Photonics K.K.,1.62,,2026-10-14
+WQTM,2026-10-15,left_top25,HEL: NOKIA,Nokia Oyj,1.61,,2026-10-14
+WQTM,2026-10-15,left_top25,TSX: XNDU,Xanadu Quantum Technologies Limited,1.58,,2026-10-14
+WQTM,2026-10-15,left_top25,ETR: IFX,Infineon Technologies AG,1.55,,2026-10-14
+NLR,2026-10-15,weight_up,CEG,Constellation Energy Corporation,9.55,9.86,2026-10-14
+NLR,2026-10-15,entered_top25,HEL:FORTUM,Fortum Oyj,,7.29,2026-10-14
+NLR,2026-10-15,entered_top25,CGNWF,"CGN Power Co., Ltd.",,5.77,2026-10-14
+NLR,2026-10-15,entered_top25,TSX:NXE,NexGen Energy Ltd.,,5.36,2026-10-14
+NLR,2026-10-15,entered_top25,LON:KAP,National Atomic Company Kazatomprom JSC,,4.64,2026-10-14
+NLR,2026-10-15,weight_down,UEC,Uranium Energy Corp.,4.2,3.91,2026-10-14
+NLR,2026-10-15,entered_top25,TSX:DML,Denison Mines Corp.,,3.83,2026-10-14
+NLR,2026-10-15,entered_top25,ASX:PDN,Paladin Energy Ltd,,3.64,2026-10-14
+NLR,2026-10-15,entered_top25,KRX:052690,"KEPCO Engineering & Construction Company, Inc.",,2.76,2026-10-14
+NLR,2026-10-15,entered_top25,HKG:1164,CGN Mining Company Limited,,1.7,2026-10-14
+NLR,2026-10-15,entered_top25,ASX:SLX,Silex Systems Limited,,1.19,2026-10-14
+NLR,2026-10-15,entered_top25,ASX:DYL,Deep Yellow Limited,,0.85,2026-10-14
+NLR,2026-10-15,entered_top25,TSX:ISO,IsoEnergy Ltd.,,0.81,2026-10-14
+NLR,2026-10-15,entered_top25,ASX:BOE,Boss Energy Limited,,0.62,2026-10-14
+NLR,2026-10-15,entered_top25,TSX:URE,Ur-Energy Inc.,,0.56,2026-10-14
+NLR,2026-10-15,left_top25,HEL: FORTUM,Fortum Oyj,6.96,,2026-10-14
+NLR,2026-10-15,left_top25,HKG: 1816,"CGN Power Co., Ltd.",5.46,,2026-10-14
+NLR,2026-10-15,left_top25,TSX: NXE,NexGen Energy Ltd.,5.33,,2026-10-14
+NLR,2026-10-15,left_top25,LON: KAP,National Atomic Company Kazatomprom JSC,4.58,,2026-10-14
+NLR,2026-10-15,left_top25,TSX: DML,Denison Mines Corp.,3.84,,2026-10-14
+NLR,2026-10-15,left_top25,ASX: PDN,Paladin Energy Ltd,3.69,,2026-10-14
+NLR,2026-10-15,left_top25,KRX: 052690,"KEPCO Engineering & Construction Company, Inc.",2.98,,2026-10-14
+NLR,2026-10-15,left_top25,HKG: 1164,CGN Mining Company Limited,1.67,,2026-10-14
+NLR,2026-10-15,left_top25,ASX: SLX,Silex Systems Limited,1.26,,2026-10-14
+NLR,2026-10-15,left_top25,ASX: DYL,Deep Yellow Limited,0.91,,2026-10-14
+NLR,2026-10-15,left_top25,TSX: ISO,IsoEnergy Ltd.,0.83,,2026-10-14
+NLR,2026-10-15,left_top25,ASX: BOE,Boss Energy Limited,0.66,,2026-10-14
+NLR,2026-10-15,left_top25,TSX: URE,Ur-Energy Inc.,0.61,,2026-10-14
+USAI,2026-10-15,entered_top25,TSX:TRP,TC Energy Corporation,,7.38,2026-10-14
+USAI,2026-10-15,entered_top25,TSX:ENB,Enbridge Inc.,,7.14,2026-10-14
+USAI,2026-10-15,entered_top25,TSX:PPL,Pembina Pipeline Corporation,,3.68,2026-10-14
+USAI,2026-10-15,weight_down,NEXT,NextDecade Corporation,3.87,3.57,2026-10-14
+USAI,2026-10-15,entered_top25,TSX:KEY,Keyera Corp.,,1.95,2026-10-14
+USAI,2026-10-15,entered_top25,TSX:SOBO,South Bow Corporation,,1.48,2026-10-14
+USAI,2026-10-15,entered_top25,PAGP,"Plains GP Holdings, L.P.",,1.32,2026-10-14
+USAI,2026-10-15,left_top25,TSX: TRP,TC Energy Corporation,7.26,,2026-10-14
+USAI,2026-10-15,left_top25,TSX: ENB,Enbridge Inc.,7.04,,2026-10-14
+USAI,2026-10-15,left_top25,n/a,OTHER ASSETS AND LIABILITIES,3.81,,2026-10-14
+USAI,2026-10-15,left_top25,TSX: PPL,Pembina Pipeline Corporation,3.6,,2026-10-14
+USAI,2026-10-15,left_top25,TSX: KEY,Keyera Corp.,1.92,,2026-10-14
+USAI,2026-10-15,left_top25,TSX: SOBO,South Bow Corporation,1.45,,2026-10-14
+WGMI,2026-10-15,weight_down,CIFR,Cipher Digital Inc.,11.41,10.17,2026-10-14
+WGMI,2026-10-15,weight_up,HUT,Hut 8 Corp.,7.12,7.5,2026-10-14
+WGMI,2026-10-15,entered_top25,TSX:HIVE,HIVE Digital Technologies Ltd.,,4.55,2026-10-14
+WGMI,2026-10-15,weight_down,CHRN,ChronoScale Holdings Corporation,4.11,3.83,2026-10-14
+WGMI,2026-10-15,entered_top25,n/a,US DOLLARS,,1.7,2026-10-14
+WGMI,2026-10-15,left_top25,TSX: HIVE,HIVE Digital Technologies Ltd.,4.52,,2026-10-14
+WGMI,2026-10-15,left_top25,CAN,Canaan Inc.,0.4,,2026-10-14
+NCLD,2026-10-15,weight_up,B.0 12.03.26,United States Treasury Bill 12/03/2026,42.12,47.58,2026-10-14
+NCLD,2026-10-15,weight_up,NBIS,Nebius Group N.V.,10.11,10.98,2026-10-14
+NCLD,2026-10-15,weight_down,21873S108.TRS 090927 NM,"CoreWeave, Inc. SWAP NM",9.83,9.1,2026-10-14
+NCLD,2026-10-15,weight_down,21873S108.TRS 090827 GS,"COREWEAVE, INC.-SWAP-GOLD-L",9.45,8.75,2026-10-14
+NCLD,2026-10-15,weight_down,CIFR,Cipher Digital Inc.,2.74,2.43,2026-10-14
+LYTE,2026-10-15,weight_up,B.0 12.03.26,United States Treasury Bill 12/03/2026,36.35,40.19,2026-10-14
+LYTE,2026-10-15,weight_down,LITE,Lumentum Holdings Inc.,17.65,17.26,2026-10-14
+LYTE,2026-10-15,weight_down,COHR,Coherent Corp.,13.06,12.78,2026-10-14
+LYTE,2026-10-15,weight_down,CIEN,Ciena Corporation,13.1,12.67,2026-10-14
+LYTE,2026-10-15,weight_up,BD761B9.TRS 090827 GS,"EOPTOLINK TECHNOLOGY INC., LTD.-SWAP-GOLD-L",8.89,9.16,2026-10-14
+LYTE,2026-10-15,weight_up,3081.TT,LandMark Optoelectronics Corp,2.1,2.4,2026-10-14
+KOID,2026-10-15,entered_top25,TYO:6481,"THK Co., Ltd.",,2.21,2026-10-14
+KOID,2026-10-15,entered_top25,TYO:6268,Nabtesco Corporation,,2.19,2026-10-14
+KOID,2026-10-15,entered_top25,SHE:002979,"China Leadshine Technology Co., Ltd.",,2.19,2026-10-14
+KOID,2026-10-15,entered_top25,STO:HEXA.B,Hexagon AB (publ),,2.18,2026-10-14
+KOID,2026-10-15,entered_top25,TYO:6723,Renesas Electronics Corporation,,2.14,2026-10-14
+KOID,2026-10-15,entered_top25,NOVT,Novanta Inc.,,2.12,2026-10-14
+KOID,2026-10-15,entered_top25,MOG.A,Moog Inc.,,2.1,2026-10-14
+KOID,2026-10-15,entered_top25,HKG:9660,Horizon Robotics,,2.07,2026-10-14
+KOID,2026-10-15,entered_top25,APTV,Aptiv PLC,,2.06,2026-10-14
+KOID,2026-10-15,entered_top25,TYO:6861,Keyence Corporation,,2.06,2026-10-14
+KOID,2026-10-15,entered_top25,TPE:2049,Hiwin Technologies Corporation,,2.04,2026-10-14
+KOID,2026-10-15,entered_top25,SHA:600111,"China Northern Rare Earth (Group) High-Tech Co.,Ltd",,2.03,2026-10-14
+KOID,2026-10-15,left_top25,TYO: 6723,Renesas Electronics Corporation,2.21,,2026-10-14
+KOID,2026-10-15,left_top25,TYO: 6481,"THK Co., Ltd.",2.15,,2026-10-14
+KOID,2026-10-15,left_top25,TYO: 6268,Nabtesco Corporation,2.13,,2026-10-14
+KOID,2026-10-15,left_top25,STO: HEXA.B,Hexagon AB (publ),2.11,,2026-10-14
+KOID,2026-10-15,left_top25,SHE: 002979,"China Leadshine Technology Co., Ltd.",2.1,,2026-10-14
+KOID,2026-10-15,left_top25,MPWR,"Monolithic Power Systems, Inc.",2.07,,2026-10-14
+KOID,2026-10-15,left_top25,HKG: 9660,Horizon Robotics,2.05,,2026-10-14
+KOID,2026-10-15,left_top25,KOSDAQ: 277810,"Rainbow Robotics Co.,Ltd.",2.05,,2026-10-14
+KOID,2026-10-15,left_top25,SHE: 002472,"Zhejiang Shuanghuan Driveline Co.,Ltd.",2.05,,2026-10-14
+KOID,2026-10-15,left_top25,TPE: 2049,Hiwin Technologies Corporation,2.03,,2026-10-14
+KOID,2026-10-15,left_top25,TYO: 6324,Harmonic Drive Systems Inc.,2.03,,2026-10-14
+KOID,2026-10-15,left_top25,TYO: 6861,Keyence Corporation,2.02,,2026-10-14
+IGV,2026-10-15,weight_down,PANW,"Palo Alto Networks, Inc.",9.39,9.02,2026-10-14
+IGV,2026-10-15,entered_top25,DT,"Dynatrace, Inc.",,0.63,2026-10-14
+IGV,2026-10-15,left_top25,RBRK,"Rubrik, Inc.",0.64,,2026-10-14
+REMX,2026-10-15,entered_top25,SHA:600111,"China Northern Rare Earth (Group) High-Tech Co.,Ltd",,6.71,2026-10-14
+REMX,2026-10-15,entered_top25,ASX:LYC,Lynas Rare Earths Limited,,5.73,2026-10-14
+REMX,2026-10-15,entered_top25,ASX:PLS,PLS Group Limited,,5.47,2026-10-14
+REMX,2026-10-15,entered_top25,SHA:601958,"Jinduicheng Molybdenum Co., Ltd.",,5.2,2026-10-14
+REMX,2026-10-15,entered_top25,SHA:600549,"Xiamen Tungsten Co.,Ltd.",,4.71,2026-10-14
+REMX,2026-10-15,entered_top25,SHA:600392,"Shenghe Resources Holding Co., Ltd",,3.95,2026-10-14
+REMX,2026-10-15,entered_top25,SHA:603067,"Hubei Zhenhua Chemical Co.,Ltd.",,3.89,2026-10-14
+REMX,2026-10-15,entered_top25,ASX:ILU,Iluka Resources Limited,,3.58,2026-10-14
+REMX,2026-10-15,entered_top25,HKG:1772,"Ganfeng Lithium Group Co., Ltd.",,3.3,2026-10-14
+REMX,2026-10-15,entered_top25,ASX:LTR,Liontown Limited,,2.83,2026-10-14
+REMX,2026-10-15,entered_top25,AMS:AMG,AMG Critical Materials N.V.,,2.63,2026-10-14
+REMX,2026-10-15,entered_top25,SHA:603663,"Sanxiang Advanced Materials Co., Ltd.",,2.58,2026-10-14
+REMX,2026-10-15,entered_top25,ASX:EQR,EQ Resources Limited,,2.11,2026-10-14
+REMX,2026-10-15,entered_top25,SHA:600456,"Baoji Titanium Industry Co., Ltd.",,1.38,2026-10-14
+REMX,2026-10-15,entered_top25,TSXV:SGML,Sigma Lithium Corporation,,1.33,2026-10-14
+REMX,2026-10-15,entered_top25,EPA:ERA,ERAMET S.A.,,1.16,2026-10-14
+REMX,2026-10-15,entered_top25,ASX:CXO,Core Lithium Ltd,,1.11,2026-10-14
+REMX,2026-10-15,left_top25,SHA: 600111,"China Northern Rare Earth (Group) High-Tech Co.,Ltd",6.35,,2026-10-14
+REMX,2026-10-15,left_top25,ASX: LYC,Lynas Rare Earths Limited,5.88,,2026-10-14
+REMX,2026-10-15,left_top25,ASX: PLS,PLS Group Limited,5.86,,2026-10-14
+REMX,2026-10-15,left_top25,SHA: 601958,"Jinduicheng Molybdenum Co., Ltd.",4.99,,2026-10-14
+REMX,2026-10-15,left_top25,SHA: 600549,"Xiamen Tungsten Co.,Ltd.",4.66,,2026-10-14
+REMX,2026-10-15,left_top25,SHA: 600392,"Shenghe Resources Holding Co., Ltd",3.84,,2026-10-14
+REMX,2026-10-15,left_top25,ASX: ILU,Iluka Resources Limited,3.61,,2026-10-14
+REMX,2026-10-15,left_top25,SHA: 603067,"Hubei Zhenhua Chemical Co.,Ltd.",3.55,,2026-10-14
+REMX,2026-10-15,left_top25,HKG: 1772,"Ganfeng Lithium Group Co., Ltd.",3.34,,2026-10-14
+REMX,2026-10-15,left_top25,ASX: LTR,Liontown Limited,2.89,,2026-10-14
+REMX,2026-10-15,left_top25,AMS: AMG,AMG Critical Materials N.V.,2.68,,2026-10-14
+REMX,2026-10-15,left_top25,SHA: 603663,"Sanxiang Advanced Materials Co., Ltd.",2.5,,2026-10-14
+REMX,2026-10-15,left_top25,ASX: EQR,EQ Resources Limited,2.15,,2026-10-14
+REMX,2026-10-15,left_top25,SHA: 600456,"Baoji Titanium Industry Co., Ltd.",1.35,,2026-10-14
+REMX,2026-10-15,left_top25,TSXV: SGML,Sigma Lithium Corporation,1.32,,2026-10-14
+REMX,2026-10-15,left_top25,EPA: ERA,ERAMET S.A.,1.32,,2026-10-14
+REMX,2026-10-15,left_top25,ASX: CXO,Core Lithium Ltd,1.19,,2026-10-14
+CHAT,2026-10-15,weight_up,NVDA,NVIDIA Corporation,6.99,7.26,2026-10-14
+CHAT,2026-10-15,weight_up,GOOGL,Alphabet Inc.,5.7,5.96,2026-10-14
+CHAT,2026-10-15,entered_top25,KRX:000660,SK hynix Inc.,,3.66,2026-10-14
+CHAT,2026-10-15,entered_top25,KRX:005930,"Samsung Electronics Co., Ltd.",,2.41,2026-10-14
+CHAT,2026-10-15,entered_top25,BABA,Alibaba Group Holding Limited,,2.03,2026-10-14
+CHAT,2026-10-15,left_top25,KRX: 000660,SK hynix Inc.,3.91,,2026-10-14
+CHAT,2026-10-15,left_top25,KRX: 005930,"Samsung Electronics Co., Ltd.",2.46,,2026-10-14
+CHAT,2026-10-15,left_top25,CRWV,"CoreWeave, Inc.",2.23,,2026-10-14
+SRVR,2026-10-15,weight_up,AMT,American Tower Corporation,16.29,16.69,2026-10-14
+SRVR,2026-10-15,entered_top25,BME:CLNX,"Cellnex Telecom, S.A.",,4.55,2026-10-14
+SRVR,2026-10-15,entered_top25,HKG:0788,China Tower Corporation Limited,,2.52,2026-10-14
+SRVR,2026-10-15,entered_top25,ASX:NXT,NEXTDC Limited,,2.35,2026-10-14
+SRVR,2026-10-15,entered_top25,SGX:AJBU,Keppel DC REIT,,1.47,2026-10-14
+SRVR,2026-10-15,entered_top25,LON:HTWS,Helios Towers plc,,1.21,2026-10-14
+SRVR,2026-10-15,entered_top25,KRX:052690,"KEPCO Engineering & Construction Company, Inc.",,1.02,2026-10-14
+SRVR,2026-10-15,entered_top25,BIT:INW,Infrastrutture Wireless Italiane S.p.A.,,0.94,2026-10-14
+SRVR,2026-10-15,entered_top25,NZE:CNU,Chorus Limited,,0.88,2026-10-14
+SRVR,2026-10-15,entered_top25,LON:RR,Rolls-Royce Holdings plc,,0.83,2026-10-14
+SRVR,2026-10-15,entered_top25,TYO:7011,"Mitsubishi Heavy Industries, Ltd.",,0.74,2026-10-14
+SRVR,2026-10-15,entered_top25,KRX:000720,"Hyundai Engineering & Construction Co.,Ltd.",,0.69,2026-10-14
+SRVR,2026-10-15,left_top25,BME: CLNX,"Cellnex Telecom, S.A.",4.41,,2026-10-14
+SRVR,2026-10-15,left_top25,HKG: 0788,China Tower Corporation Limited,2.4,,2026-10-14
+SRVR,2026-10-15,left_top25,ASX: NXT,NEXTDC Limited,2.39,,2026-10-14
+SRVR,2026-10-15,left_top25,SGX: AJBU,Keppel DC REIT,1.46,,2026-10-14
+SRVR,2026-10-15,left_top25,LON: HTWS,Helios Towers plc,1.17,,2026-10-14
+SRVR,2026-10-15,left_top25,KRX: 052690,"KEPCO Engineering & Construction Company, Inc.",1.02,,2026-10-14
+SRVR,2026-10-15,left_top25,BIT: INW,Infrastrutture Wireless Italiane S.p.A.,0.9,,2026-10-14
+SRVR,2026-10-15,left_top25,NZE: CNU,Chorus Limited,0.86,,2026-10-14
+SRVR,2026-10-15,left_top25,LON: RR,Rolls-Royce Holdings plc,0.82,,2026-10-14
+SRVR,2026-10-15,left_top25,UNIT,Uniti Group Inc.,0.7,,2026-10-14
+SRVR,2026-10-15,left_top25,TYO: 7011,"Mitsubishi Heavy Industries, Ltd.",0.7,,2026-10-14
+HACK,2026-10-15,entered_top25,TYO:4704,Trend Micro Incorporated,,4.08,2026-10-14
+HACK,2026-10-15,weight_up,n/a,OTHER ASSETS AND LIABILITIES,0.02,0.91,2026-10-14
+HACK,2026-10-15,left_top25,TYO: 4704,Trend Micro Incorporated,4.04,,2026-10-14

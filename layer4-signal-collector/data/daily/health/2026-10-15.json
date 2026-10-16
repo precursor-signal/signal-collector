@@ -1,0 +1,852 @@
+{
+ "run_date_et": "2026-10-15",
+ "started_et": "2026-10-15T23:02:41-04:00",
+ "modules": [
+  "etf",
+  "feeds",
+  "sec"
+ ],
+ "sec_days": {
+  "2026-10-14": {
+   "index_rows_all": 3220,
+   "relevant_unique": 1281,
+   "forms": {
+    "form4": 737,
+    "ownership13dg": 48,
+    "f13_filers": 245,
+    "f13_holdings": 826,
+    "events8k": 68,
+    "form_d": 344,
+    "form144": 49,
+    "registrations": 10,
+    "periodic": 9
+   },
+   "form_counts_all": {
+    "424B2": 679,
+    "4": 678,
+    "D": 258,
+    "13F-HR": 243,
+    "8-K": 177,
+    "144": 102,
+    "D/A": 91,
+    "3": 88,
+    "6-K": 88,
+    "40-APP/A": 84,
+    "FWP": 73,
+    "424B3": 56,
+    "N-CEN": 56,
+    "SCHEDULE 13G/A": 48,
+    "497": 30,
+    "SCHEDULE 13D/A": 26,
+    "CORRESP": 25,
+    "UPLOAD": 25,
+    "DEFA14A": 23,
+    "485BXT": 22,
+    "EFFECT": 20,
+    "485BPOS": 18,
+    "10-Q": 17,
+    "485APOS": 14,
+    "ABS-15G": 14
+   },
+   "fetch_errors": 0,
+   "incomplete_time_budget": false,
+   "per_form_processed": {
+    "10-K": 3,
+    "10-Q": 17,
+    "13F-HR": 243,
+    "13F-HR/A": 2,
+    "144": 51,
+    "4": 296,
+    "4/A": 2,
+    "424B4": 1,
+    "6-K": 87,
+    "8-K": 172,
+    "8-K/A": 5,
+    "D": 255,
+    "D/A": 89,
+    "F-1": 1,
+    "S-1": 1,
+    "S-1/A": 7,
+    "SCHEDULE 13D": 6,
+    "SCHEDULE 13D/A": 13,
+    "SCHEDULE 13G": 6,
+    "SCHEDULE 13G/A": 24
+   }
+  },
+  "2026-10-15": {
+   "index_rows_all": 3652,
+   "relevant_unique": 1356,
+   "forms": {
+    "form4": 835,
+    "ownership13dg": 48,
+    "f13_filers": 198,
+    "f13_holdings": 439,
+    "events8k": 115,
+    "form_d": 338,
+    "form144": 102,
+    "registrations": 6,
+    "periodic": 6
+   },
+   "form_counts_all": {
+    "4": 605,
+    "424B2": 581,
+    "144": 244,
+    "8-K": 218,
+    "D": 211,
+    "13F-HR": 197,
+    "10-D": 158,
+    "D/A": 134,
+    "ABS-EE": 127,
+    "485BXT": 112,
+    "497": 103,
+    "6-K": 102,
+    "3": 100,
+    "FWP": 86,
+    "424B3": 55,
+    "485APOS": 53,
+    "CORRESP": 53,
+    "497K": 34,
+    "SCHEDULE 13G": 30,
+    "SCHEDULE 13G/A": 30,
+    "SCHEDULE 13D/A": 28,
+    "4/A": 25,
+    "UPLOAD": 22,
+    "424B5": 21,
+    "10-Q": 17
+   },
+   "fetch_errors": 0,
+   "incomplete_time_budget": false,
+   "per_form_processed": {
+    "10-K": 1,
+    "10-Q": 17,
+    "13F-HR": 197,
+    "13F-HR/A": 1,
+    "144": 122,
+    "4": 292,
+    "4/A": 11,
+    "424B4": 2,
+    "6-K": 101,
+    "8-K": 214,
+    "8-K/A": 8,
+    "D": 208,
+    "D/A": 130,
+    "F-1/A": 2,
+    "S-1": 1,
+    "S-1/A": 1,
+    "SCHEDULE 13D": 4,
+    "SCHEDULE 13D/A": 14,
+    "SCHEDULE 13G": 15,
+    "SCHEDULE 13G/A": 15
+   }
+  }
+ },
+ "skipped_done": [
+  "2026-10-09",
+  "2026-10-12",
+  "2026-10-13"
+ ],
+ "no_index": [],
+ "pending": [],
+ "universe_tickers": 774,
+ "universe_ciks": 522,
+ "feeds": {
+  "prn-all": {
+   "status": 404,
+   "error": "HTTP 404"
+  },
+  "prn-technology": {
+   "status": 200,
+   "items": 20,
+   "new": 19
+  },
+  "prn-energy": {
+   "status": 200,
+   "items": 20,
+   "new": 13
+  },
+  "prn-finserv": {
+   "status": 200,
+   "items": 20,
+   "new": 17
+  },
+  "prn-acquisitions": {
+   "status": 200,
+   "items": 20,
+   "new": 20
+  },
+  "nvidia-newsroom": {
+   "status": 200,
+   "items": 20,
+   "new": 7
+  },
+  "techcrunch": {
+   "status": 200,
+   "items": 20,
+   "new": 20
+  },
+  "techcrunch-venture": {
+   "status": 200,
+   "items": 20,
+   "new": 0
+  },
+  "spacenews": {
+   "status": 200,
+   "items": 14,
+   "new": 3
+  },
+  "dcd": {
+   "status": 200,
+   "items": 20,
+   "new": 20
+  },
+  "hpcwire": {
+   "status": 200,
+   "items": 10,
+   "new": 10
+  },
+  "siliconangle": {
+   "status": 200,
+   "items": 30,
+   "new": 29
+  },
+  "wnn": {
+   "status": 200,
+   "items": 49,
+   "new": 5
+  },
+  "utilitydive": {
+   "status": 200,
+   "items": 10,
+   "new": 8
+  },
+  "breakingdefense": {
+   "status": 200,
+   "items": 15,
+   "new": 5
+  },
+  "cnbc-top": {
+   "status": 200,
+   "items": 30,
+   "new": 30
+  },
+  "cnbc-tech": {
+   "status": 200,
+   "items": 30,
+   "new": 13
+  },
+  "techmeme": {
+   "status": 200,
+   "items": 15,
+   "new": 15
+  },
+  "sec-press": {
+   "status": 200,
+   "items": 25,
+   "new": 0
+  },
+  "war-gov": {
+   "status": 200,
+   "items": 10,
+   "new": 1
+  },
+  "gn-investors-01": {
+   "status": 200,
+   "items": 3,
+   "new": 2
+  },
+  "gn-investors-02": {
+   "status": 200,
+   "items": 11,
+   "new": 9
+  },
+  "gn-investors-03": {
+   "status": 200,
+   "items": 29,
+   "new": 28
+  },
+  "gn-investors-04": {
+   "status": 200,
+   "items": 3,
+   "new": 3
+  },
+  "gn-investors-05": {
+   "status": 200,
+   "items": 2,
+   "new": 2
+  },
+  "gn-investors-06": {
+   "status": 200,
+   "items": 14,
+   "new": 12
+  },
+  "gn-investors-07": {
+   "status": 200,
+   "items": 14,
+   "new": 8
+  },
+  "gn-investors-08": {
+   "status": 200,
+   "items": 12,
+   "new": 12
+  },
+  "gn-investors-09": {
+   "status": 200,
+   "items": 23,
+   "new": 22
+  },
+  "gn-investors-10": {
+   "status": 200,
+   "items": 4,
+   "new": 3
+  },
+  "gn-investors-11": {
+   "status": 200,
+   "items": 30,
+   "new": 26
+  },
+  "gn-investors-12": {
+   "status": 200,
+   "items": 12,
+   "new": 9
+  },
+  "gn-corp-nvidia": {
+   "status": 200,
+   "items": 27,
+   "new": 27
+  },
+  "gn-corp-others": {
+   "status": 200,
+   "items": 15,
+   "new": 10
+  },
+  "gn-gov-commerce": {
+   "status": 200,
+   "items": 2,
+   "new": 2
+  },
+  "gn-gov-war": {
+   "status": 200,
+   "items": 1,
+   "new": 1
+  },
+  "gn-gov-doe": {
+   "status": 200,
+   "items": 14,
+   "new": 5
+  },
+  "gn-filings": {
+   "status": 200,
+   "items": 42,
+   "new": 41
+  },
+  "gn-politicians": {
+   "status": 200,
+   "items": 21,
+   "new": 19
+  },
+  "gn-rounds-ai-chips": {
+   "status": 200,
+   "items": 57,
+   "new": 55
+  },
+  "gn-rounds-ai-infrastructure": {
+   "status": 200,
+   "items": 48,
+   "new": 40
+  },
+  "gn-rounds-ai-model-frameworks": {
+   "status": 200,
+   "items": 14,
+   "new": 12
+  },
+  "gn-rounds-advanced-packaging-chiplets": {
+   "status": 200,
+   "items": 9,
+   "new": 9
+  },
+  "gn-rounds-bitcoin-mining": {
+   "status": 200,
+   "items": 56,
+   "new": 56
+  },
+  "gn-rounds-cloud-computing-infrastructure": {
+   "status": 200,
+   "items": 18,
+   "new": 15
+  },
+  "gn-rounds-cooling": {
+   "status": 200,
+   "items": 4,
+   "new": 3
+  },
+  "gn-rounds-cpu-chip-design": {
+   "status": 200,
+   "items": 18,
+   "new": 16
+  },
+  "gn-rounds-critical-minerals": {
+   "status": 200,
+   "items": 49,
+   "new": 48
+  },
+  "gn-rounds-cybersecurity": {
+   "status": 200,
+   "items": 38,
+   "new": 36
+  },
+  "gn-rounds-data-center-construction-real-estate": {
+   "status": 200,
+   "items": 50,
+   "new": 39
+  },
+  "gn-rounds-defense": {
+   "status": 200,
+   "items": 31,
+   "new": 30
+  },
+  "gn-rounds-grid-electrical-infrastructure": {
+   "status": 200,
+   "items": 51,
+   "new": 47
+  },
+  "gn-rounds-memory": {
+   "status": 200,
+   "items": 30,
+   "new": 27
+  },
+  "gn-rounds-networking-optics": {
+   "status": 200,
+   "items": 1,
+   "new": 0
+  },
+  "gn-rounds-power-energy": {
+   "status": 200,
+   "items": 51,
+   "new": 40
+  },
+  "gn-rounds-quantum-computing": {
+   "status": 200,
+   "items": 58,
+   "new": 50
+  },
+  "gn-rounds-robotics-industrial-automation": {
+   "status": 200,
+   "items": 55,
+   "new": 39
+  },
+  "gn-rounds-semiconductor-capital-equipment": {
+   "status": 200,
+   "items": 9,
+   "new": 6
+  },
+  "gn-rounds-semiconductor-foundries-fabrication": {
+   "status": 200,
+   "items": 38,
+   "new": 27
+  },
+  "gn-rounds-semiconductors": {
+   "status": 200,
+   "items": 51,
+   "new": 28
+  },
+  "gn-rounds-server-level-system-architecture-datacenters": {
+   "status": 200,
+   "items": 30,
+   "new": 23
+  },
+  "gn-rounds-silicon-photonics": {
+   "status": 200,
+   "items": 26,
+   "new": 13
+  },
+  "gn-rounds-software-eda": {
+   "status": 200,
+   "items": 6,
+   "new": 5
+  },
+  "gn-rounds-space": {
+   "status": 200,
+   "items": 54,
+   "new": 36
+  },
+  "gn-rounds-testing-inspection-metrology": {
+   "status": 200,
+   "items": 36,
+   "new": 31
+  }
+ },
+ "feed_items_today": 1207,
+ "etf": {
+  "ARKK": {
+   "status": 200,
+   "holdings": 46,
+   "as_of": "10/15/2026",
+   "method": "ark_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "ARKW": {
+   "status": 200,
+   "holdings": 43,
+   "as_of": "10/06/2026",
+   "method": "ark_csv",
+   "coverage": "full",
+   "stale": true
+  },
+  "ARKQ": {
+   "status": 200,
+   "holdings": 37,
+   "as_of": "10/15/2026",
+   "method": "ark_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "ARKX": {
+   "status": 200,
+   "holdings": 33,
+   "as_of": "10/15/2026",
+   "method": "ark_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "BOTZ": {
+   "status": 200,
+   "holdings": 85,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "AIQ": {
+   "status": 200,
+   "holdings": 95,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "SHLD": {
+   "status": 200,
+   "holdings": 56,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "URA": {
+   "status": 200,
+   "holdings": 64,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "CLOU": {
+   "status": 200,
+   "holdings": 40,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "BUG": {
+   "status": 200,
+   "holdings": 32,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "DTCR": {
+   "status": 200,
+   "holdings": 28,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "LIT": {
+   "status": 200,
+   "holdings": 45,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "COPX": {
+   "status": 200,
+   "holdings": 45,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "PAVE": {
+   "status": 200,
+   "holdings": 102,
+   "as_of": "10/15/2026",
+   "method": "globalx_csv",
+   "coverage": "full",
+   "stale": false
+  },
+  "ROKT": {
+   "status": 200,
+   "holdings": 39,
+   "as_of": "14-Oct-2026",
+   "method": "ssga_xlsx",
+   "coverage": "full",
+   "stale": false
+  },
+  "XSD": {
+   "status": 200,
+   "holdings": 48,
+   "as_of": "14-Oct-2026",
+   "method": "ssga_xlsx",
+   "coverage": "full",
+   "stale": false
+  },
+  "XAR": {
+   "status": 200,
+   "holdings": 51,
+   "as_of": "14-Oct-2026",
+   "method": "ssga_xlsx",
+   "coverage": "full",
+   "stale": false
+  },
+  "XLU": {
+   "status": 200,
+   "holdings": 34,
+   "as_of": "14-Oct-2026",
+   "method": "ssga_xlsx",
+   "coverage": "full",
+   "stale": false
+  },
+  "XLK": {
+   "status": 200,
+   "holdings": 78,
+   "as_of": "14-Oct-2026",
+   "method": "ssga_xlsx",
+   "coverage": "full",
+   "stale": false
+  },
+  "XITK": {
+   "status": 200,
+   "holdings": 97,
+   "as_of": "14-Oct-2026",
+   "method": "ssga_xlsx",
+   "coverage": "full",
+   "stale": false
+  },
+  "XME": {
+   "status": 200,
+   "holdings": 40,
+   "as_of": "14-Oct-2026",
+   "method": "ssga_xlsx",
+   "coverage": "full",
+   "stale": false
+  },
+  "FTXL": {
+   "status": 200,
+   "holdings": 38,
+   "as_of": "10/14/2026",
+   "method": "firsttrust_html",
+   "coverage": "full",
+   "stale": false
+  },
+  "GRID": {
+   "status": 200,
+   "holdings": 130,
+   "as_of": "10/14/2026",
+   "method": "firsttrust_html",
+   "coverage": "full",
+   "stale": false
+  },
+  "QCLN": {
+   "status": 200,
+   "holdings": 58,
+   "as_of": "10/14/2026",
+   "method": "firsttrust_html",
+   "coverage": "full",
+   "stale": false
+  },
+  "CIBR": {
+   "status": 200,
+   "holdings": 47,
+   "as_of": "10/14/2026",
+   "method": "firsttrust_html",
+   "coverage": "full",
+   "stale": false
+  },
+  "SKYY": {
+   "status": 200,
+   "holdings": 66,
+   "as_of": "10/14/2026",
+   "method": "firsttrust_html",
+   "coverage": "full",
+   "stale": false
+  },
+  "SMH": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "SOXX": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "SOXQ": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "ITA": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "DFEN": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "UFO": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "QTUM": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "WQTM": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "NLR": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "USAI": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "WGMI": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "NCLD": {
+   "status": 200,
+   "holdings": 21,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "LYTE": {
+   "status": 200,
+   "holdings": 20,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "KOID": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "HBMX": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "IGV": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "REMX": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "CHAT": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "SRVR": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  },
+  "HACK": {
+   "status": 200,
+   "holdings": 25,
+   "as_of": "",
+   "method": "stockanalysis_html",
+   "coverage": "partial (top ~25 only)",
+   "stale": false
+  }
+ },
+ "etf_diff_rows": 264,
+ "finished_et": "2026-10-15T23:20:40-04:00",
+ "elapsed_min": 18.0
+}
