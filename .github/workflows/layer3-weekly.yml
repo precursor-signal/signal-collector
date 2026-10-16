@@ -1,9 +1,9 @@
-name: Layer 3 - weekly packet (Monday 12:30 AM ET)
+name: Layer 3 - weekly packet (Wednesday 12:00 AM ET)
 
 on:
   schedule:
-    - cron: "37 4 * * 1"    # 12:37 AM EDT Monday (US daylight time) - backup if the claude.ai kick-off routine does not fire
-    - cron: "37 5 * * 1"    # 12:37 AM EST Monday (US standard time) - the gate step lets either run between 12:00 and 1:59 AM New York time on Monday, and only once per week
+    - cron: "7 4 * * 3"    # 12:07 AM EDT Wednesday (US daylight time) - backup if the claude.ai kick-off routine does not fire
+    - cron: "7 5 * * 3"    # 12:07 AM EST Wednesday (US standard time) - the gate step lets either run between 12:00 and 1:59 AM New York time on Wednesday, and only once per week
   push:
     branches: [main]
     paths: ["layer3-signal-collector/triggers/weekly.txt"]   # kick-off from the claude.ai routine "Layer 3 - weekly packet kickoff" (same gates apply)
@@ -26,18 +26,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
-      - name: Gate - only run Monday 12:00 AM to 1:59 AM New York time, once per week
+      - name: Gate - only run Wednesday 12:00 AM to 1:59 AM New York time, once per week
         id: gate
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           H=$(TZ=America/New_York date +%H)
           W=$(TZ=America/New_York date +%u)
-          END=$(TZ=America/New_York date -d yesterday +%F)   # the Sunday that closes the week; the packet folder is named for it
+          END=$(TZ=America/New_York date -d '2 days ago' +%F)   # the Monday that closes the Tuesday-Monday window; the packet folder is named for it
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
-          elif [ "$W" != "1" ] || { [ "$H" != "00" ] && [ "$H" != "01" ]; }; then
-            echo "New York weekday $W hour $H - outside Monday 12:00-1:59 AM, skipping this trigger"
+          elif [ "$W" != "3" ] || { [ "$H" != "00" ] && [ "$H" != "01" ]; }; then
+            echo "New York weekday $W hour $H - outside Wednesday 12:00-1:59 AM, skipping this trigger"
             echo "run=false" >> "$GITHUB_OUTPUT"
           else
             SINCE=$(TZ=America/New_York date -d "yesterday 23:00" -u +%Y-%m-%dT%H:%M:%SZ)
@@ -68,7 +68,7 @@ jobs:
         env:
           SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
         run: |
-          END=$(TZ=America/New_York date -d yesterday +%F)
+          END=$(TZ=America/New_York date -d '2 days ago' +%F)
           ARGS="${{ github.event.inputs.args }}"
           case "$ARGS" in
             *--end-date*) python layer3_weekly.py $ARGS ;;
@@ -78,7 +78,7 @@ jobs:
       - name: Commit packet
         if: steps.gate.outputs.run == 'true'
         run: |
-          END=$(TZ=America/New_York date -d yesterday +%F)
+          END=$(TZ=America/New_York date -d '2 days ago' +%F)
           git config user.name "layer3-bot"
           git config user.email "layer3-bot@users.noreply.github.com"
           git add -A layer3-signal-collector/data

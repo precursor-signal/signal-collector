@@ -1,9 +1,9 @@
-name: Layer 3 - daily collector (11:30 PM ET, Mon-Fri)
+name: Layer 3 - daily collector (11:30 PM ET, every day)
 
 on:
   schedule:
-    - cron: "37 3 * * 2-6"    # 11:37 PM EDT (US daylight time), Mon-Fri evening (= Tue-Sat in UTC) - backup if the claude.ai kick-off routine does not fire
-    - cron: "37 4 * * 2-6"    # 11:37 PM EST (US standard time) - the gate step lets either run between 11:00 PM and 12:59 AM New York time, and only once per day
+    - cron: "37 3 * * *"    # 11:37 PM EDT (US daylight time), every evening - backup if the claude.ai kick-off routine does not fire
+    - cron: "37 4 * * *"    # 11:37 PM EST (US standard time) - the gate step lets either run between 11:00 PM and 12:59 AM New York time, and only once per day
   push:
     branches: [main]
     paths: ["layer3-signal-collector/triggers/daily.txt"]   # kick-off from the claude.ai routine "Layer 3 - daily collector kickoff" (same gates apply)
@@ -26,18 +26,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
-      - name: Gate - only run 11:00 PM to 12:59 AM New York time after a weekday evening, once per day (SEC builds the day's index about 10:00 PM ET)
+      - name: Gate - only run 11:00 PM to 12:59 AM New York time, once per day (SEC builds the day's index about 10:00 PM ET)
         id: gate
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           H=$(TZ=America/New_York date +%H)
           D=$(TZ=America/New_York date -d '-2 hours' +%F)   # the collection date: 11 PM and 12 AM both belong to the same evening
-          W=$(TZ=America/New_York date -d '-2 hours' +%u)
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
-          elif { [ "$H" != "23" ] && [ "$H" != "00" ]; } || [ "$W" -gt 5 ]; then
-            echo "New York hour is $H, collection weekday $W - outside 11 PM - 12:59 AM after a weekday evening, skipping this trigger"
+          elif [ "$H" != "23" ] && [ "$H" != "00" ]; then
+            echo "New York hour is $H - outside 11 PM - 12:59 AM, skipping this trigger"
             echo "run=false" >> "$GITHUB_OUTPUT"
           else
             SINCE=$(TZ=America/New_York date -d "$D 22:59" -u +%Y-%m-%dT%H:%M:%SZ)
@@ -67,10 +66,6 @@ jobs:
         working-directory: layer3-signal-collector
         run: |
           ARGS="${{ github.event.inputs.args }}"
-          # Monday's run also has to cover Saturday and Sunday news: widen the Google News window to 3 days
-          if [ "$(TZ=America/New_York date -d '-2 hours' +%u)" = "1" ]; then
-            case "$ARGS" in *--google-window*) ;; *) ARGS="$ARGS --google-window 3d" ;; esac
-          fi
           python layer3_daily.py $ARGS
 
       - name: Commit results

@@ -23,7 +23,7 @@ layer3-signal-collector/
   data/
     daily/sec/<date>/   filings.jsonl, index_summary.json, _done.json
     daily/fts/<date>.jsonl, daily/feeds/<date>.jsonl, daily/health/<date>.json
-    weekly/<Sunday>/    the packet (15 datasets, coverage.json, SUMMARY.md, packet.xlsx)
+    weekly/<Monday>/    the packet (15 datasets, coverage.json, SUMMARY.md, packet.xlsx)
     run-log.csv
 ```
 
@@ -49,9 +49,9 @@ Binding status (executed / non-binding / mixed / unstated) is read from the sent
 
 | Job | When (New York) | Started by | Writes |
 |---|---|---|---|
-| Daily collector | Mon-Fri 11:30 PM | routine 00a pushes `triggers/daily.txt` -> GitHub Action `Layer 3 - daily collector` | `data/daily/...` |
-| Weekly packet | Monday 12:30 AM | routine 00b pushes `triggers/weekly.txt` -> GitHub Action `Layer 3 - weekly packet` | `data/weekly/<Sunday>/` |
-| Routines 01-04 | Monday 1:30-4:30 AM | claude.ai routines | `research/layer 3/signal-discovery/<end-date>/` |
+| Daily collector | Every day 11:30 PM | routine 00a pushes `triggers/daily.txt` -> GitHub Action `Layer 3 - daily collector` | `data/daily/...` |
+| Weekly packet | Wednesday 12:00 AM (window Tuesday-Monday) | routine 00b pushes `triggers/weekly.txt` -> GitHub Action `Layer 3 - weekly packet` | `data/weekly/<Monday>/` |
+| Routines 01-04 | Wednesday 1:00-4:00 AM | claude.ai routines | `research/layer 3/signal-discovery/<end-date>/` |
 
 Manual run from this folder:
 
@@ -59,7 +59,7 @@ Manual run from this folder:
 python tools/build_feeds.py                 # after editing sectors.csv or the feed list
 python layer3_daily.py                      # last 3 business days of SEC + full-text + feeds
 python layer3_daily.py --only sec --date 2026-10-14 --sec-limit 25
-python layer3_weekly.py                     # window ends on the last Sunday
+python layer3_weekly.py                     # window = Tuesday-Monday ending on the last Monday
 python layer3_weekly.py --skip-slow         # no USAspending / SAM / ERCOT calls
 ```
 
