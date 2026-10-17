@@ -1,0 +1,88 @@
+name: Layer 1 - daily collector (11:45 PM ET, every day)
+
+on:
+  schedule:
+    - cron: "52 3 * * *"    # 11:52 PM EDT (US daylight time), every evening - backup if the claude.ai kick-off routine does not fire
+    - cron: "52 4 * * *"    # 11:52 PM EST (US standard time) - the gate step lets either run between 11:00 PM and 12:59 AM New York time, and only once per day
+  push:
+    branches: [main]
+    paths: ["layer1-signal-collector/triggers/daily.txt"]   # kick-off from the claude.ai routine "Layer 1 - daily collector kickoff" (same gates apply)
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "Extra script arguments, e.g. --only arxiv,hn  or  --fresh  or  --patents-budget 1"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: layer1-collector
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Gate - only run 11:00 PM to 12:59 AM New York time, once per day
+        id: gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          H=$(TZ=America/New_York date +%H)
+          D=$(TZ=America/New_York date -d '-2 hours' +%F)   # the collection date: 11 PM and 12 AM both belong to the same evening
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif [ "$H" != "23" ] && [ "$H" != "00" ]; then
+            echo "New York hour is $H - outside 11 PM - 12:59 AM, skipping this trigger"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            SINCE=$(TZ=America/New_York date -d "$D 22:59" -u +%Y-%m-%dT%H:%M:%SZ)
+            MSGS=$(gh api "repos/${{ github.repository }}/commits?since=$SINCE&per_page=50" --jq '.[].commit.message' 2>/dev/null || true)
+            if echo "$MSGS" | grep -q "^Layer 1 daily $D"; then
+              echo "Layer 1 daily for $D already collected - skipping this trigger"
+              echo "run=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "run=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: pip install openpyxl
+
+      - name: Run Layer 1 daily collector
+        if: steps.gate.outputs.run == 'true'
+        working-directory: layer1-signal-collector
+        env:
+          USPTO_ODP_API_KEY: ${{ secrets.USPTO_ODP_API_KEY }}
+        run: |
+          ARGS="${{ github.event.inputs.args }}"
+          python layer1_daily.py $ARGS
+
+      - name: Commit results
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          D=$(TZ=America/New_York date -d '-2 hours' +%F)
+          git config user.name "layer1-bot"
+          git config user.email "layer1-bot@users.noreply.github.com"
+          git add -A layer1-signal-collector/data
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "Layer 1 daily $D"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              echo "push attempt $i failed, retrying"; sleep 15
+            done
+          fi

@@ -1,0 +1,9 @@
+category,label,bottleneck_keywords
+cs.AR,Hardware Architecture,"CXL; HBM4; chiplet; advanced packaging; interconnect; memory wall; RISC-V; wafer-scale; die-to-die; CoWoS; interposer"
+cs.DC,Distributed & Parallel Computing,"multi-GPU training; scale-up fabric; scale-out network; PCIe bandwidth; GPU interconnect; inference latency; training throughput"
+physics.app-ph,Applied Physics,"silicon photonics; optical interconnect; cryogenic computing; thermal management; immersion cooling; photonic"
+quant-ph,Quantum Physics,"quantum memory; qubit fidelity; coherence time; quantum error correction"
+cs.LG,Machine Learning,"inference latency; edge inference; model efficiency; quantization bottleneck"
+eess.SP,Signal Processing,"signal integrity; RF front-end; photonic signal processing"
+cond-mat.mtrl-sci,Materials Science,"wide bandgap; GaN; SiC; novel substrate; wafer defect"
+astro-ph.IM,Astrophysics Instrumentation,"space-based compute; on-orbit processing; satellite constellation"

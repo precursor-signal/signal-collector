@@ -1,0 +1,249 @@
+{
+  "_note": "Layer 1 (physics & engineering reality) vocabulary. Built 2026-10-17 from (a) the word/phrase counts of 3,129 Layer 1 Deal-signal sections published under the retired hf-signal-framework process (counted only; that process is not used otherwise), and (b) the old Layer 1 methodology page's own named search terms (arXiv/HackerNews keyword lists, patent search strings, daily headline/stealth-launch phrases, development areas, conference calendar). Used by l1lib.SignalEngine - same mechanism as Layer 2/3's engines. Edit this file, not the scripts. Phrases are matched case-insensitively on word boundaries; entries starting with 'regex:' are Python regular expressions.",
+  "groups": {
+    "bottleneck_terms": [
+      "bottleneck", "bandwidth", "latency", "thermal", "memory wall", "interconnect",
+      "packaging", "cooling", "immersion cooling", "liquid cooling", "cryogenic",
+      "wafer-scale", "wafer scale", "throughput", "yield", "constraint", "limitation",
+      "power density", "heat dissipation", "signal integrity", "chiplet", "advanced packaging",
+      "die-to-die", "hybrid bonding", "cowos", "interposer", "fan-out", "optical interconnect",
+      "silicon photonics", "photonic", "cxl", "hbm4", "hbm", "risc-v", "neuromorphic",
+      "quantum memory", "quantum error correction", "coherence time", "qubit fidelity",
+      "edge inference", "inference latency", "training throughput", "memory bandwidth",
+      "pcie bandwidth", "gpu interconnect", "scale-up fabric", "scale-out network"
+    ],
+    "research_markers": [
+      "arxiv", "preprint", "research paper", "academic paper", "a paper", "the paper",
+      "paper cluster", "research cluster", "research team", "researchers at",
+      "a new study", "the study", "published a paper", "submitted a paper",
+      "peer-reviewed", "conference paper", "regex:(?:paper|study) (?:shows|finds|demonstrates|proposes)"
+    ],
+    "community_markers": [
+      "hacker news", "hn thread", "ask hn", "show hn", "engineer community",
+      "engineers are discussing", "engineers have been complaining", "engineering community",
+      "developers are discussing", "a thread on", "discussion thread", "forum thread",
+      "regex:engineers? (?:complain|complains|complaining|discuss|discussing|debate|debating)"
+    ],
+    "conference_terms": [
+      "hot chips", "isscc", "dac 2026", "design automation conference", "supercomputing",
+      "sc26", "sc25", "ocp summit", "open compute project", "gtc", "nvidia gtc",
+      "memcon", "flash memory summit", "small satellite conference", "smallsat",
+      "space symposium", "data center world", "black hat", "rsa conference", "def con",
+      "computex", "apec", "chiplet summit"
+    ],
+    "patent_markers": [
+      "patent", "patents", "patent filing", "patent application", "patent filed",
+      "patent granted", "patent portfolio", "assignee", "uspto", "intellectual property portfolio",
+      "filed a patent", "issued a patent", "patent pending", "new assignee",
+      "regex:patents? (?:filed|granted|issued|pending) by"
+    ],
+    "gov_rd_markers": [
+      "nasa", "darpa", "nist", "department of energy", "department of defense",
+      "national science foundation", "sbir", "sttr", "research grant", "r&d grant",
+      "r&d award", "research award", "cooperative agreement", "letter of intent",
+      "chips act", "chips and science act", "award number", "federal funding opportunity",
+      "doe grant", "arpa-e", "small business innovation research"
+    ],
+    "procurement_exclude_terms": [
+      "delivery of", "units delivered", "megawatt", "gigawatt", "mw of capacity",
+      "gw of capacity", "production order", "purchase order", "backlog of",
+      "deliver 2026", "deliver 2027", "contracted capacity", "power purchase agreement"
+    ],
+    "manufacturing_partnership_terms": [
+      "manufacturing partnership", "foundry agreement", "foundry partnership",
+      "wafer supply agreement", "fab agreement", "joint development agreement",
+      "licensing agreement", "technology license", "supply-chain partner",
+      "enablement partner", "strategic partnership", "development partner",
+      "manufacturing agreement", "process development agreement", "tape-out agreement"
+    ],
+    "funding_markers": [
+      "series a", "series b", "series c", "series d", "series e", "series f",
+      "seed round", "seed funding", "pre-seed", "funding round", "financing round",
+      "raised $", "raises $", "valuation of $", "venture capital", "led by",
+      "oversubscribed", "ipo", "goes public", "spac", "follow-on"
+    ],
+    "adoption_terms": [
+      "github stars", "star growth", "model downloads", "download trend",
+      "open-sources", "open sourced", "open-weight", "huggingface", "hugging face",
+      "weekly downloads", "monthly downloads"
+    ],
+    "usage_growth_terms": [
+      "case study", "named customer", "review volume", "widening deployment",
+      "upsized contract", "expanded deployment", "customer footprint", "new deployment",
+      "renewed contract", "design win", "deployment at scale"
+    ],
+    "spinout_terms": [
+      "spins out of", "spin out of", "spun out of", "spinning out of", "spinout", "spin-out",
+      "stealth", "stealth startup",
+      "emerges from stealth", "launches out of stealth", "new startup", "new venture",
+      "unveils", "regex:former (?:\\w+ ){0,3}(?:researchers|engineers|scientists) (?:unveil|launch|found|start)"
+    ],
+    "breakthrough_terms": [
+      "breakthrough", "achieves breakthrough in", "demonstrates for the first time",
+      "world's first", "record-setting", "first demonstration of", "proof of concept",
+      "first to demonstrate"
+    ],
+    "pedigree_institutions": [
+      "stanford", "mit", "massachusetts institute of technology", "berkeley", "caltech",
+      "carnegie mellon", "eth zurich", "oxford", "cambridge", "los alamos",
+      "sandia", "lawrence livermore", "oak ridge", "jpl", "jet propulsion laboratory",
+      "national laboratory", "imperial college london", "georgia tech", "university of michigan",
+      "university of illinois", "epfl", "tsinghua", "kaist"
+    ]
+  },
+  "quantity_regex": {
+    "stars": "\\b\\d{1,3}(?:,\\d{3})?\\+?\\s+(?:github\\s+)?stars?\\b",
+    "downloads": "\\b\\d{1,3}(?:[.,]\\d+)?\\s?(?:k|m|million|thousand)?\\+?\\s+downloads\\b",
+    "points": "\\b\\d{1,4}\\s+points\\b",
+    "money": "\\$\\s?\\d[\\d,]*(?:\\.\\d+)?\\s?(?:billion|million|thousand|bn|mm|m|b|k)?\\b",
+    "paper_count": "\\b\\d{1,3}\\s+(?:papers|preprints|publications)\\b"
+  },
+  "person_regex": "(?:\\b(?:Dr|Mr|Ms|Mrs|Prof)\\.\\s+)?\\b[A-Z][a-z]{1,}(?:\\s+[A-Z]\\.)?(?:\\s+[A-Z][a-z]+(?:-[A-Z][a-z]+)?|\\s+(?:Mc|Mac|O')[A-Z][a-z]+)\\b",
+  "person_not_names": [
+    "Inc", "Corp", "Corporation", "Company", "Group", "Holdings", "Technologies", "Technology",
+    "Systems", "Partners", "Capital", "Ventures", "Labs", "Laboratory", "Laboratories",
+    "University", "Institute", "January", "February", "March", "April", "May", "June", "July",
+    "August", "September", "October", "November", "December", "Monday", "Tuesday", "Wednesday",
+    "Thursday", "Friday", "United", "States", "New", "York", "San", "Francisco", "Silicon",
+    "Valley", "Nasdaq", "Nvidia", "Google", "Microsoft", "Amazon", "Apple", "Meta", "Intel",
+    "Tesla", "OpenAI", "Anthropic", "Quantum", "Space", "Energy", "Power", "Solutions",
+    "Services", "Global", "International", "National", "American", "Federal", "Department",
+    "Defense", "Item", "Form", "Section", "Act", "Plan", "Agreement", "Series", "Fund",
+    "Trust", "Bank", "Semiconductor", "Networks", "Industries", "Resources", "Scientific",
+    "Research", "Engineering", "Science", "Press", "Release", "Securities", "Exchange",
+    "Commission", "Hot", "Chips", "Flash", "Memory", "Summit"
+  ],
+  "combos": [
+    {
+      "id": "research_cluster",
+      "family": "research_cluster",
+      "weight": 4,
+      "need": ["research_markers", "bottleneck_terms"],
+      "note": "an arXiv/academic paper (or cluster) describing a hardware/physics bottleneck"
+    },
+    {
+      "id": "community_signal",
+      "family": "community_signal",
+      "weight": 3,
+      "need": ["community_markers", "bottleneck_terms"],
+      "note": "a HackerNews/engineer-community thread discussing a bottleneck"
+    },
+    {
+      "id": "conference_signal",
+      "family": "conference_signal",
+      "weight": 3,
+      "need": ["conference_terms", ["research_markers", "bottleneck_terms"]],
+      "note": "a tracked conference (Hot Chips, ISSCC, DAC, SC, OCP, GTC ...) plus a research/bottleneck term"
+    },
+    {
+      "id": "patent_signal",
+      "family": "patent_signal",
+      "weight": 3,
+      "need": ["patent_markers", "bottleneck_terms"],
+      "note": "a patent filing/grant tied to a tracked physics/engineering bottleneck"
+    },
+    {
+      "id": "gov_rd_signal",
+      "family": "gov_rd_signal",
+      "weight": 4,
+      "need": ["gov_rd_markers", ["research_markers", "bottleneck_terms"]],
+      "not": ["procurement_exclude_terms"],
+      "note": "a government R&D grant/award for early-stage physics/engineering work - NOT a Layer 3 procurement/capacity contract (see procurement_exclude_terms)"
+    },
+    {
+      "id": "manufacturing_partnership_signal",
+      "family": "manufacturing_partnership_signal",
+      "weight": 3,
+      "need": ["manufacturing_partnership_terms"],
+      "not": ["funding_markers"],
+      "note": "a wafer/fab/manufacturing-enablement partnership not yet a disclosed commercial order"
+    },
+    {
+      "id": "spinout_signal",
+      "family": "spinout_signal",
+      "weight": 3,
+      "need": ["spinout_terms", ["research_markers", "pedigree_institutions"]],
+      "not": ["funding_markers"],
+      "note": "a lab/university spinout carrying a research signal - cross-references Layer 2's departure_to_found row rather than duplicating the person fact"
+    },
+    {
+      "id": "breakthrough_signal",
+      "family": "research_cluster",
+      "weight": 2,
+      "need": ["breakthrough_terms", "bottleneck_terms"],
+      "note": "'achieves breakthrough in'/'world's first' wording tied to a tracked bottleneck (the daily headline-sweep pattern)"
+    },
+    {
+      "id": "usage_growth_signal",
+      "family": "usage_growth_signal",
+      "weight": 2,
+      "need": ["usage_growth_terms"],
+      "note": "customer-usage/review-volume growth signal (2026-08-27 addition in the old framework)"
+    },
+    {
+      "id": "adoption_signal_stars",
+      "family": "adoption_signal",
+      "weight": 2,
+      "need": ["@stars"],
+      "note": "an explicit GitHub star-count figure in text (daily collector also queries the GitHub API directly for star velocity - this combo catches it when quoted in prose)"
+    },
+    {
+      "id": "adoption_signal_downloads",
+      "family": "adoption_signal",
+      "weight": 2,
+      "need": ["@downloads"],
+      "note": "an explicit Hugging Face download-count figure in text"
+    }
+  ],
+  "sec_forms_collected": ["8-K", "8-K/A", "10-K", "10-Q", "20-F", "40-F"],
+  "hn_queries": [
+    "bandwidth bottleneck", "memory wall", "thermal throttling", "interconnect latency",
+    "silicon photonics", "optical interconnect", "immersion cooling", "CXL", "RISC-V",
+    "neuromorphic", "quantum memory", "wafer-scale", "chiplet packaging", "GPU interconnect",
+    "cryogenic computing"
+  ],
+  "adoption_queries": [
+    "silicon photonics", "CXL", "RISC-V accelerator", "neuromorphic", "optical interconnect",
+    "wafer-scale chip", "chiplet", "quantum memory"
+  ],
+  "fts_queries": [
+    "DARPA",
+    "\"cooperative agreement\"",
+    "\"Small Business Innovation Research\"",
+    "\"letter of intent\" \"CHIPS\"",
+    "\"spun out of\"",
+    "\"wafer supply agreement\"",
+    "\"patent portfolio\"",
+    "\"manufacturing partnership\""
+  ],
+  "exclude_noise": [
+    "stock price, news, quote", "price prediction", "option chain", "stock forecast",
+    "dividend history", "short interest", "insider selling", "insider buying",
+    "stock split", "price target", "shares of", "top stocks", "stocks to buy",
+    "webinar", "to speak at", "register now", "podcast episode", "summit agenda",
+    "licensed under", "all rights reserved", "subscribe to our newsletter"
+  ],
+  "sentence_veto": [
+    "forward-looking", "forward looking", "safe harbor", "private securities litigation",
+    "risk factors", "cautionary statement", "this press release does not constitute",
+    "about the company", "investor relations contact", "for more information, visit",
+    "subscribe to", "click here", "sign up for", "all rights reserved", "terms of use",
+    "privacy policy", "licensed under a creative commons",
+    "go deeper with", "th premium", "image credit", "related:", "read more:",
+    "continue reading", "originally published"
+  ],
+  "feed_params": {
+    "google_news_query_max_chars": 180,
+    "google_news_window": "3d",
+    "gap_seconds_min": 2.0,
+    "gap_seconds_max": 5.0
+  },
+  "thresholds": {
+    "keep_min_score": 3,
+    "stale_days": 30,
+    "very_stale_days": 90,
+    "excerpt_max_chars": 360,
+    "feed_max_age_days": 21,
+    "hn_min_points": 60
+  }
+}

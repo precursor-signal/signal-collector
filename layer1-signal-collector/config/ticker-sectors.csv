@@ -1,0 +1,775 @@
+﻿ticker,sectors
+000660.KS,Memory; AI chips; CPU / chip design; Semiconductors; Advanced Packaging & Chiplets
+000990.KS,Semiconductor foundries & fabrication
+002028.SZ,Grid & Electrical Infrastructure
+002050.SZ,Cooling
+002281.SZ,Networking & optics
+002371.SZ,Semiconductor capital equipment
+002837.SZ,Cooling
+005930.KS,Memory; Semiconductor foundries & fabrication; AI chips
+009150.KS,Advanced Packaging & Chiplets
+010120.KS,Grid & Electrical Infrastructure
+011790.KS,Advanced Packaging & Chiplets
+0522.HK,Advanced Packaging & Chiplets; Semiconductor capital equipment
+066570.KS,Cooling
+0981.HK,Semiconductor foundries & fabrication
+0992.HK,Server-level system architecture & datacenters
+103590.KS,Grid & Electrical Infrastructure
+1347.HK,Semiconductor foundries & fabrication
+1879.HK,Silicon photonics
+2049.TW,Robotics & Industrial Automation
+2308.TW,Cooling; Server-level system architecture & datacenters; Power & energy
+2317.TW,Server-level system architecture & datacenters
+2337.TW,Memory
+2344.TW,Memory
+2345.TW,Networking & optics
+2360.TW,"Testing, Inspection & Metrology"
+2376.TW,Server-level system architecture & datacenters
+2382.TW,Server-level system architecture & datacenters
+2408.TW,Memory
+2421.TW,Cooling
+2449.TW,Advanced Packaging & Chiplets
+2454.TW,CPU / chip design; AI chips; Semiconductors
+2513.HK,AI model frameworks
+2577.HK,Power & energy; Semiconductors; Critical Minerals
+267260.KS,Grid & Electrical Infrastructure
+285A,Memory
+285A.T,Memory
+298040.KS,Grid & Electrical Infrastructure
+300124.SZ,Robotics & Industrial Automation
+300223.SZ,CPU / chip design
+300308.SZ,Networking & optics; Silicon photonics
+300502.SZ,Networking & optics; Silicon photonics
+301095.SZ,Software & EDA
+301269.SZ,Software & EDA
+301308.SZ,Memory
+3017.TW,Cooling
+3037.TW,Advanced Packaging & Chiplets
+3189.TW,Advanced Packaging & Chiplets
+3231.TW,Server-level system architecture & datacenters
+3324.TWO,Cooling
+3515.TW,Server-level system architecture & datacenters
+3661.TPE,AI chips; Advanced Packaging & Chiplets; CPU / chip design
+3661.TW,AI chips; Advanced Packaging & Chiplets; CPU / chip design
+4062.T,Advanced Packaging & Chiplets
+454910.KS,Robotics & Industrial Automation
+5274.TWO,CPU / chip design
+5289.TWO,Memory
+5347.TWO,Semiconductor foundries & fabrication
+600089.SS,Grid & Electrical Infrastructure
+600406.SHA,Grid & Electrical Infrastructure
+600584.SH,Advanced Packaging & Chiplets
+600584.SHA,Advanced Packaging & Chiplets
+600584.SS,Advanced Packaging & Chiplets
+601138.SS,Server-level system architecture & datacenters
+601877.SS,Grid & Electrical Infrastructure
+603501.SS,Semiconductors
+603893.SS,AI chips; CPU / chip design
+603986.SHA,Memory; Semiconductors
+603986.SS,Memory; Semiconductors
+6082.HK,AI chips; Robotics & Industrial Automation
+6146.T,"Semiconductor capital equipment; Testing, Inspection & Metrology; Advanced Packaging & Chiplets"
+6223.TWO,"Testing, Inspection & Metrology"
+6239.TW,Advanced Packaging & Chiplets; Semiconductor foundries & fabrication
+6268.T,Robotics & Industrial Automation
+6273.T,Robotics & Industrial Automation
+6324.T,Robotics & Industrial Automation
+6383.T,Robotics & Industrial Automation
+6414.TW,Server-level system architecture & datacenters
+6481.T,Robotics & Industrial Automation
+6501.T,Grid & Electrical Infrastructure
+6503.T,Grid & Electrical Infrastructure
+6506.T,Robotics & Industrial Automation
+6510.TWO,"Testing, Inspection & Metrology"
+6515.TW,"Testing, Inspection & Metrology"
+6525.T,Semiconductor capital equipment
+6526.T,AI chips
+6533.TPE,CPU / chip design
+6533.TW,CPU / chip design
+6669.TW,Server-level system architecture & datacenters; Cooling
+6723.T,CPU / chip design; Semiconductors
+6754.T,"Testing, Inspection & Metrology"
+6770.TW,Semiconductor foundries & fabrication
+6857.T,"Testing, Inspection & Metrology; Semiconductor capital equipment; Advanced Packaging & Chiplets"
+6861.T,"Robotics & Industrial Automation; Testing, Inspection & Metrology"
+688008.SH,Memory
+688012.SS,Semiconductor capital equipment
+688018.SS,CPU / chip design
+688041.SS,AI chips; CPU / chip design
+688072.SS,Semiconductor capital equipment
+688169.SHA,Robotics & Industrial Automation
+688256.SH,AI chips
+688256.SHA,AI chips
+688256.SS,AI chips
+688521.SS,Semiconductors
+688525.SHA,Memory
+688802.SH,AI chips
+688802.SHA,AI chips
+688825.SHA,Memory
+688825.SS,Memory
+6920.T,"Testing, Inspection & Metrology; Semiconductor capital equipment"
+6954.T,Robotics & Industrial Automation
+6963.T,Semiconductors
+7012.T,Robotics & Industrial Automation; Defense
+7729.T,Semiconductor capital equipment
+7735.T,Semiconductor capital equipment; Quantum computing
+8035.T,Semiconductor capital equipment
+8046.TW,Advanced Packaging & Chiplets
+8299.TW,Memory
+8299.TWO,Memory
+9660.HK,AI chips
+9880.HK,Robotics & Industrial Automation
+9984.T,CPU / chip design
+A000990,Semiconductor foundries & fabrication
+AADX,Defense
+AAOI,Networking & optics; Silicon photonics; AI infrastructure
+AAON,Cooling; AI infrastructure
+ABAT,Critical Minerals
+ACHR,Defense
+ACLS,Semiconductor capital equipment
+ACM,Data-Center Construction & Real Estate
+ACMR,Semiconductor capital equipment; Semiconductor foundries & fabrication; Advanced Packaging & Chiplets
+ADEA,Semiconductors
+ADI,Semiconductors; AI infrastructure
+ADSK,Software & EDA
+ADTN,Networking & optics
+AEHR,"Testing, Inspection & Metrology; Semiconductor capital equipment; Semiconductors"
+AEIS,Semiconductor capital equipment; Semiconductors; AI chips
+AEP,Power & energy; Grid & Electrical Infrastructure
+AEVA,Silicon photonics; Networking & optics
+AGX,Data-Center Construction & Real Estate; Power & energy; Grid & Electrical Infrastructure
+AIFR,Semiconductor foundries & fabrication; Memory
+AIP,Software & EDA; CPU / chip design; AI chips; Advanced Packaging & Chiplets
+AIPO,Grid & Electrical Infrastructure
+AIQ,AI infrastructure; AI model frameworks; Cloud computing infrastructure; Memory; Space; Cooling; Semiconductors; Software & EDA; Semiconductor foundries & fabrication
+AIRJ,Cooling
+AIRR,Data-Center Construction & Real Estate
+AJBU.SI,Data-Center Construction & Real Estate
+AKAM,Cloud computing infrastructure; Cybersecurity
+ALAB,Networking & optics; AI chips; Memory; AI infrastructure; CPU / chip design; Semiconductors; Advanced Packaging & Chiplets; Server-level system architecture & datacenters
+ALB,Critical Minerals
+ALGM,Semiconductors; CPU / chip design; Robotics & Industrial Automation; Critical Minerals
+ALLT,Cybersecurity
+ALM,Critical Minerals
+ALMU,Silicon photonics; Advanced Packaging & Chiplets; AI chips
+ALNT,Robotics & Industrial Automation
+ALOY,Critical Minerals; Defense
+AMAT,Semiconductor capital equipment; Semiconductors; AI chips; AI infrastructure; Advanced Packaging & Chiplets
+AMBA,AI chips; CPU / chip design; Semiconductors
+AMBQ,Semiconductors
+AMD,AI chips; CPU / chip design; AI infrastructure; Semiconductors
+AME,Robotics & Industrial Automation
+AMKR,Advanced Packaging & Chiplets; AI chips; Semiconductor foundries & fabrication; Semiconductor capital equipment; AI infrastructure; Memory
+AMRC,Grid & Electrical Infrastructure
+AMSC,Grid & Electrical Infrastructure; Defense
+AMT,Data-Center Construction & Real Estate
+AMTM,Defense
+AMZN,Cloud computing infrastructure; AI infrastructure; AI model frameworks; AI chips
+ANET,Networking & optics; AI infrastructure
+AOSL,Semiconductors
+APG,Data-Center Construction & Real Estate
+APH,Networking & optics; Server-level system architecture & datacenters; Silicon photonics
+APLD,AI infrastructure; Data-Center Construction & Real Estate; Bitcoin mining; Cloud computing infrastructure; Server-level system architecture & datacenters
+AREC,Critical Minerals; Defense
+ARKQ,Defense; Space; Robotics & Industrial Automation
+ARKX,Space; Defense; AI infrastructure; Cloud computing infrastructure; Semiconductor foundries & fabrication
+ARM,CPU / chip design; AI chips; AI infrastructure
+AROC,Power & energy
+ARQQ,Quantum computing; Cybersecurity; Defense; Software & EDA
+ARRNF,Critical Minerals
+ARRY,Power & energy
+ARTY,AI chips; AI infrastructure; CPU / chip design; Memory
+ASM.AS,Semiconductor capital equipment
+ASMIY,Semiconductor capital equipment
+ASML,Semiconductor capital equipment; AI chips; Semiconductors
+ASMVY,Advanced Packaging & Chiplets; Semiconductor capital equipment
+ASRHF,Space
+ASTS,Space; Defense
+ASX,Advanced Packaging & Chiplets
+ASYS,Semiconductor capital equipment; Cooling; Semiconductors
+ATEN,Cybersecurity; Networking & optics; CPU / chip design
+ATEYY,"Semiconductor capital equipment; Testing, Inspection & Metrology; Advanced Packaging & Chiplets"
+ATI,Defense
+ATRO,Defense
+ATS,Robotics & Industrial Automation
+ATS.VI,Advanced Packaging & Chiplets
+AUR,Robotics & Industrial Automation
+AVAV,Defense; Space; Robotics & Industrial Automation
+AVEX,Defense
+AVGO,AI chips; CPU / chip design; Networking & optics; Silicon photonics; AI infrastructure; Semiconductors
+AVNW,Networking & optics
+AVPT,Cybersecurity; AI model frameworks
+AXON,Defense
+AXTI,Networking & optics; Silicon photonics
+AYI,Grid & Electrical Infrastructure
+AZZ,Grid & Electrical Infrastructure; Power & energy
+BA,Defense; Space
+BABA,Cloud computing infrastructure; AI model frameworks; AI chips
+BAH,Defense; Cybersecurity
+BB,Cybersecurity
+BBAI,AI model frameworks; Defense; AI infrastructure
+BDC,Networking & optics
+BE,Power & energy; AI infrastructure
+BEPC,Power & energy
+BESI,Semiconductor capital equipment; Advanced Packaging & Chiplets
+BESI.AS,Advanced Packaging & Chiplets; Semiconductor capital equipment; Memory
+BESIY,Advanced Packaging & Chiplets; Semiconductor capital equipment; Memory
+BIDU,AI model frameworks; Cloud computing infrastructure; AI infrastructure
+BILL,Software & EDA
+BITQ,Bitcoin mining; Cooling; AI infrastructure
+BKR,Power & energy
+BKSY,Space; Defense
+BLZE,Cloud computing infrastructure
+BOTZ,Robotics & Industrial Automation; AI infrastructure; AI model frameworks; AI chips; Semiconductors
+BOX,Cloud computing infrastructure
+BRUN,AI infrastructure
+BRZE,Software & EDA
+BSY,Software & EDA; Data-Center Construction & Real Estate
+BTBT,Bitcoin mining; AI infrastructure; Cloud computing infrastructure
+BTDR,Bitcoin mining; AI infrastructure; Cloud computing infrastructure; Data-Center Construction & Real Estate
+BTQ,Quantum computing; Cybersecurity
+BUG,Cybersecurity
+BW,Power & energy
+BWXT,Defense; Power & energy; Space
+BX,Cooling
+BXDC,Data-Center Construction & Real Estate
+BZAI,AI chips; CPU / chip design
+CACI,Defense; Cybersecurity
+CALX,Networking & optics; Grid & Electrical Infrastructure
+CAMT,"Semiconductor capital equipment; Testing, Inspection & Metrology; Advanced Packaging & Chiplets; Silicon photonics"
+CAN,Bitcoin mining
+CARR,Cooling; Data-Center Construction & Real Estate
+CAT,Power & energy
+CBRS,AI chips; AI infrastructure; AI model frameworks; CPU / chip design
+CCJ,Power & energy
+CDNS,Software & EDA; AI infrastructure; CPU / chip design; Robotics & Industrial Automation
+CDP,Data-Center Construction & Real Estate
+CDRE,Defense
+CECO,Semiconductor capital equipment
+CEG,Power & energy; AI infrastructure
+CEPL,Power & energy
+CEVA,CPU / chip design; AI chips; Semiconductors
+CGNT,Cybersecurity
+CGNX,"Robotics & Industrial Automation; Testing, Inspection & Metrology"
+CHAT,AI model frameworks; AI infrastructure; AI chips; Memory; Cloud computing infrastructure; Networking & optics; Software & EDA
+CIBR,Cybersecurity; AI model frameworks; Cloud computing infrastructure; Defense; Networking & optics; Space
+CIEN,Networking & optics; Silicon photonics; AI chips
+CIFR,Bitcoin mining; AI infrastructure; Data-Center Construction & Real Estate; Cloud computing infrastructure; Cooling
+CLBT,Cybersecurity
+CLFD,Networking & optics
+CLOU,Cloud computing infrastructure; AI infrastructure; Software & EDA
+CLS,Server-level system architecture & datacenters; Networking & optics; AI infrastructure
+CLSK,Bitcoin mining; AI infrastructure; Data-Center Construction & Real Estate
+CMI,Power & energy; AI infrastructure
+CMS,Power & energy
+CMTL,Defense
+CNP,Power & energy
+COHR,Silicon photonics; Networking & optics; AI chips
+COHU,"Testing, Inspection & Metrology; Semiconductor capital equipment; Semiconductors"
+CORZ,Bitcoin mining; AI infrastructure; Data-Center Construction & Real Estate; Cloud computing infrastructure; Server-level system architecture & datacenters
+CRDO,Networking & optics; AI chips; Silicon photonics; AI infrastructure; Data-Center Construction & Real Estate
+CRM,AI model frameworks; Cloud computing infrastructure; Software & EDA
+CRML,Critical Minerals; Defense
+CRNC,AI model frameworks
+CRNT,Networking & optics
+CRS,Defense
+CRUS,Semiconductors; AI chips; CPU / chip design
+CRWV,AI infrastructure; Cloud computing infrastructure; Server-level system architecture & datacenters
+CSCO,Networking & optics; Cybersecurity; Silicon photonics; AI infrastructure; Server-level system architecture & datacenters
+CVLT,Cybersecurity
+CVV,Semiconductor capital equipment
+CW,Defense; Power & energy
+CWEN,Power & energy
+CXM,Software & EDA
+D,Power & energy
+DAIUF,Robotics & Industrial Automation
+DCO,Defense
+DDOG,Software & EDA; AI model frameworks; Cloud computing infrastructure
+DELL,AI infrastructure; Server-level system architecture & datacenters; Data-Center Construction & Real Estate
+DFEN,Defense; Space
+DGII,Networking & optics
+DGXX,Bitcoin mining
+DINRF,Semiconductor capital equipment
+DIOD,Semiconductors; AI infrastructure; Memory
+DLR,Data-Center Construction & Real Estate; AI infrastructure; Cloud computing infrastructure; Server-level system architecture & datacenters
+DNN,Power & energy
+DOCN,Cloud computing infrastructure; AI model frameworks
+DOV,Cooling
+DPRO,Defense
+DQ,Power & energy
+DRAM,Memory; Semiconductors; AI infrastructure
+DRS,Defense; Space
+DSCSY,Semiconductor capital equipment; Advanced Packaging & Chiplets
+DT,AI model frameworks; Cloud computing infrastructure; Software & EDA
+DTCR,Data-Center Construction & Real Estate; Server-level system architecture & datacenters; AI infrastructure; Cooling; Semiconductors; Memory; Networking & optics; Space
+DTE,Power & energy; Grid & Electrical Infrastructure
+DUK,Power & energy
+DUKR,Defense
+DUOT,AI infrastructure; Server-level system architecture & datacenters
+DVN,Power & energy
+DY,Data-Center Construction & Real Estate
+ECHO,Space
+ECL,Cooling
+EGAN,Software & EDA
+ELG.DE,Semiconductors; CPU / chip design
+ELMT,Critical Minerals
+EMAT,Critical Minerals
+EME,Data-Center Construction & Real Estate; Cooling; Grid & Electrical Infrastructure
+ENPH,Power & energy
+ENS,Grid & Electrical Infrastructure; Power & energy; Data-Center Construction & Real Estate
+ENTG,Semiconductor capital equipment; Semiconductors
+EOSE,Power & energy; Grid & Electrical Infrastructure
+EQIX,Data-Center Construction & Real Estate; Cloud computing infrastructure; AI infrastructure; Server-level system architecture & datacenters
+EQT,Power & energy
+ESE,Grid & Electrical Infrastructure; Defense
+ESLT,Defense
+ESTC,Software & EDA
+ET,Power & energy
+ETN,Grid & Electrical Infrastructure; Cooling; Power & energy; Server-level system architecture & datacenters; AI infrastructure
+ETR,Power & energy; Grid & Electrical Infrastructure
+EU,Power & energy
+EUV,"Silicon photonics; Networking & optics; Semiconductor capital equipment; Semiconductors; Space; Testing, Inspection & Metrology"
+EWT,Server-level system architecture & datacenters
+EXTR,Networking & optics
+FANUY,Robotics & Industrial Automation
+FCEL,Power & energy
+FE,Grid & Electrical Infrastructure; Power & energy
+FEAM,Critical Minerals
+FEIM,Space
+FISN,Power & energy
+FIVG,Networking & optics; AI infrastructure
+FIX,Data-Center Construction & Real Estate; Cooling; Grid & Electrical Infrastructure
+FLEX,Server-level system architecture & datacenters; Cooling; Grid & Electrical Infrastructure; Power & energy
+FLNC,Power & energy; Grid & Electrical Infrastructure
+FLY,Space; Defense
+FN,Networking & optics; Silicon photonics
+FORM,"Semiconductor capital equipment; Testing, Inspection & Metrology; Memory; Advanced Packaging & Chiplets; Semiconductors"
+FOTO,Silicon photonics; Networking & optics; AI chips; Semiconductors; Space
+FPS,Grid & Electrical Infrastructure
+FRMI,Power & energy; AI infrastructure; Data-Center Construction & Real Estate
+FROG,Cybersecurity; Software & EDA; AI model frameworks
+FRSH,Software & EDA; AI model frameworks
+FRVO,Power & energy
+FSLR,Power & energy
+FSLY,Cloud computing infrastructure
+FTAI,Defense
+FTXL,"Semiconductors; AI chips; Semiconductor capital equipment; Memory; CPU / chip design; Semiconductor foundries & fabrication; Advanced Packaging & Chiplets; Networking & optics; Silicon photonics; Testing, Inspection & Metrology; AI infrastructure"
+GD,Defense
+GDS,Data-Center Construction & Real Estate; AI infrastructure; Cloud computing infrastructure; Server-level system architecture & datacenters
+GE,Defense; Semiconductors
+GEV,Power & energy; Grid & Electrical Infrastructure; AI infrastructure
+GFS,Semiconductor foundries & fabrication; Silicon photonics; AI chips; Semiconductors; AI infrastructure; CPU / chip design; Quantum computing; Advanced Packaging & Chiplets
+GGG,Robotics & Industrial Automation
+GILT,Space; Defense
+GLW,Networking & optics; AI infrastructure; Silicon photonics; Advanced Packaging & Chiplets
+GLXY,Bitcoin mining; AI infrastructure
+GMTL,Critical Minerals
+GNRC,Power & energy; AI infrastructure; Data-Center Construction & Real Estate; Grid & Electrical Infrastructure
+GOOGL,Cloud computing infrastructure; AI model frameworks; AI infrastructure; AI chips; Space
+GRID,Grid & Electrical Infrastructure; Power & energy; Cooling; AI infrastructure; Semiconductors; Data-Center Construction & Real Estate; Cybersecurity
+GRRR,Cybersecurity; AI infrastructure
+GTES,Cooling
+GTLB,Software & EDA; Cloud computing infrastructure
+GVA,Data-Center Construction & Real Estate
+GWRE,Software & EDA
+GXO,Robotics & Industrial Automation
+HACK,Cybersecurity; Defense; Cloud computing infrastructure
+HAL,Power & energy; Grid & Electrical Infrastructure
+HASI,Power & energy
+HAWK,Space; Defense
+HBMX,Memory; Semiconductor capital equipment
+HEI,Defense
+HHUSF,Semiconductor foundries & fabrication
+HII,Defense; Robotics & Industrial Automation
+HIMX,Semiconductors; Networking & optics
+HIVE,Bitcoin mining; AI infrastructure; Cloud computing infrastructure
+HLIT,Networking & optics
+HMDPF,Grid & Electrical Infrastructure
+HNHPF,Server-level system architecture & datacenters
+HON,Robotics & Industrial Automation; Quantum computing
+HONA,Defense
+HPE,Server-level system architecture & datacenters; AI infrastructure; Cloud computing infrastructure; Networking & optics
+HPS.A.TO,Grid & Electrical Infrastructure
+HQ,Quantum computing; Software & EDA
+HSAI,Robotics & Industrial Automation
+HUBB,Grid & Electrical Infrastructure; Power & energy; Data-Center Construction & Real Estate
+HUT,Bitcoin mining; AI infrastructure; Cloud computing infrastructure; Data-Center Construction & Real Estate; Server-level system architecture & datacenters
+HVAC,Cooling; AI infrastructure
+HWM,Defense; Semiconductor capital equipment
+HXL,Defense; Advanced Packaging & Chiplets
+IA,Defense
+IBIDY,Advanced Packaging & Chiplets
+IBM,Software & EDA
+ICHR,Semiconductor capital equipment
+ICLN,Power & energy; Semiconductors
+IDR,Critical Minerals
+IFNNY,CPU / chip design; Semiconductors
+IGV,Software & EDA; Cybersecurity; AI model frameworks; AI infrastructure; Cloud computing infrastructure; Semiconductors; Robotics & Industrial Automation
+IHAK,Cybersecurity; Space
+IMSR,Power & energy
+INDI,Semiconductors
+INFQ,Quantum computing; Defense
+INOD,AI model frameworks; AI infrastructure; Defense; Space
+INTC,CPU / chip design; Semiconductor foundries & fabrication; AI chips; Advanced Packaging & Chiplets; AI infrastructure; Silicon photonics; Semiconductors
+INTT,"Testing, Inspection & Metrology; Semiconductor capital equipment"
+INTU,Software & EDA
+INVE,Cybersecurity
+IONQ,Quantum computing
+IPGP,Semiconductor capital equipment; Robotics & Industrial Automation
+IPWR,Grid & Electrical Infrastructure
+IPX,Critical Minerals
+IQMX,Quantum computing
+IREN,AI infrastructure; Bitcoin mining; Cloud computing infrastructure; Server-level system architecture & datacenters; Data-Center Construction & Real Estate; Cooling
+IRM,Data-Center Construction & Real Estate; AI infrastructure; Server-level system architecture & datacenters
+ISRG,Robotics & Industrial Automation
+ITA,Defense; Space
+ITRI,Grid & Electrical Infrastructure
+J,Data-Center Construction & Real Estate
+JBL,Server-level system architecture & datacenters
+JBTM,Robotics & Industrial Automation
+JCI,Cooling
+JOBY,Defense
+KBR,Defense; Data-Center Construction & Real Estate
+KC,Cloud computing infrastructure
+KD,Cloud computing infrastructure
+KDK,Robotics & Industrial Automation
+KEEL,Bitcoin mining; AI infrastructure; Data-Center Construction & Real Estate; Server-level system architecture & datacenters
+KEYS,"Testing, Inspection & Metrology; Software & EDA"
+KGS,Power & energy
+KGX.DE,Robotics & Industrial Automation
+KIGRY,Robotics & Industrial Automation
+KLAC,"Semiconductor capital equipment; Testing, Inspection & Metrology; AI infrastructure; Semiconductors"
+KLIC,Advanced Packaging & Chiplets; Semiconductor capital equipment; Semiconductors
+KOID,"Robotics & Industrial Automation; Testing, Inspection & Metrology"
+KOKSF,Semiconductor capital equipment
+KOPN,Defense
+KRMN,Defense; Space
+KSCP,Robotics & Industrial Automation; Cybersecurity
+KTOS,Defense; Space
+KVYO,Software & EDA
+KXIAY,Memory; AI infrastructure
+LAC,Critical Minerals
+LAES,Quantum computing; Semiconductors; Cybersecurity
+LAR,Critical Minerals
+LASR,Defense; Networking & optics; Silicon photonics
+LBRT,Power & energy; Data-Center Construction & Real Estate; Grid & Electrical Infrastructure
+LDGYY,Grid & Electrical Infrastructure
+LDOS,Defense; Cybersecurity; Space
+LECO,Robotics & Industrial Automation
+LEU,Power & energy
+LFUS,Semiconductors; Grid & Electrical Infrastructure
+LHX,Defense; Space
+LII,Cooling
+LITE,Silicon photonics; Networking & optics; AI chips; AI infrastructure; Semiconductors
+LMB,Data-Center Construction & Real Estate; Cooling
+LMT,Defense
+LNVGY,Server-level system architecture & datacenters
+LOAR,Defense
+LRCX,Semiconductor capital equipment; AI chips; Semiconductors; AI infrastructure; Memory
+LSCC,Semiconductors; AI chips; CPU / chip design; AI infrastructure
+LSRCF,"Testing, Inspection & Metrology; Semiconductor capital equipment"
+LSRCY,"Semiconductor capital equipment; Testing, Inspection & Metrology"
+LTRX,Networking & optics
+LUMA,Silicon photonics; Networking & optics
+LUMN,Networking & optics; Cloud computing infrastructure
+LUNR,Space
+LWLG,Silicon photonics
+LYSCF,Critical Minerals
+LYSDY,Critical Minerals
+LYTE,Silicon photonics; Networking & optics
+MAIR,Cooling
+MARA,Bitcoin mining; AI infrastructure; Cooling
+MCHP,Semiconductors; CPU / chip design; Defense; AI chips
+MDA,Space; Defense
+MDB,Cloud computing infrastructure; Software & EDA; AI model frameworks
+META,AI infrastructure; AI model frameworks; AI chips; Cloud computing infrastructure
+METC,Critical Minerals
+MITK,Cybersecurity
+MKSI,"Semiconductor capital equipment; AI chips; Advanced Packaging & Chiplets; Testing, Inspection & Metrology"
+MLXSF,Semiconductors
+MMNNF,Cooling
+MMXGY,AI model frameworks
+MNDY,Software & EDA
+MOB,Cybersecurity; Defense; Robotics & Industrial Automation
+MOD,Cooling; Data-Center Construction & Real Estate; Server-level system architecture & datacenters
+MP,Critical Minerals; Defense
+MPWR,Semiconductors; AI chips; AI infrastructure; CPU / chip design
+MRAM,Memory; Semiconductors
+MRCY,Defense
+MRVL,AI chips; Networking & optics; Silicon photonics; CPU / chip design; Semiconductors; Server-level system architecture & datacenters; Memory; AI infrastructure; Advanced Packaging & Chiplets
+MSFT,Cloud computing infrastructure; AI infrastructure; AI model frameworks; Software & EDA
+MTRS,Cooling
+MTRS.ST,Cooling; AI infrastructure
+MTSI,Semiconductors; Silicon photonics; Networking & optics; AI chips; AI infrastructure; CPU / chip design; Defense
+MTZ,Data-Center Construction & Real Estate; Grid & Electrical Infrastructure
+MU,Memory; AI infrastructure; Semiconductors; AI chips
+MXL,Semiconductors; Networking & optics; AI infrastructure; CPU / chip design
+MYRG,Grid & Electrical Infrastructure; Data-Center Construction & Real Estate; Power & energy
+NABL,Cybersecurity
+NB,Critical Minerals
+NBIS,AI infrastructure; Cloud computing infrastructure; AI model frameworks; Server-level system architecture & datacenters
+NCLD,AI infrastructure; Cloud computing infrastructure; Bitcoin mining; Cooling; AI chips
+NEE,Power & energy
+NEO.TO,Critical Minerals
+NET,Cybersecurity; Cloud computing infrastructure
+NICE,Cybersecurity
+NKLR,Power & energy
+NLR,Power & energy; AI infrastructure; Defense
+NLST,Memory
+NN,Space; Cooling
+NNBR,Space; Cooling
+NNE,Power & energy
+NOC,Defense; Space
+NOK,Networking & optics; Silicon photonics
+NOPMF,Critical Minerals
+NOVT,Robotics & Industrial Automation
+NPWR,Power & energy
+NRG,Power & energy
+NRGV,Power & energy
+NRSDY,Semiconductors
+NTCT,Cybersecurity
+NTNX,Cloud computing infrastructure; Server-level system architecture & datacenters
+NTSK,Cybersecurity
+NUKZ,Power & energy
+NVDA,AI chips; AI infrastructure; CPU / chip design
+NVMI,"Testing, Inspection & Metrology; Semiconductor capital equipment; Advanced Packaging & Chiplets"
+NVT,Cooling; Grid & Electrical Infrastructure; AI infrastructure; Server-level system architecture & datacenters; Power & energy; Data-Center Construction & Real Estate
+NVTS,Semiconductors; AI chips; AI infrastructure; CPU / chip design
+NXE,Power & energy
+NXPI,Semiconductors; CPU / chip design
+NXT,Power & energy
+NXT.AX,Cloud computing infrastructure; Data-Center Construction & Real Estate
+NXTG,Networking & optics; Server-level system architecture & datacenters
+OKLO,Power & energy; AI infrastructure
+OMCL,Robotics & Industrial Automation
+OMRNY,Robotics & Industrial Automation
+ON,Semiconductors; AI chips; AI infrastructure; Power & energy
+ONDS,Defense; Robotics & Industrial Automation
+ONTO,"Testing, Inspection & Metrology; Semiconductor capital equipment; Advanced Packaging & Chiplets; AI chips"
+ORA,Power & energy
+ORCL,Cloud computing infrastructure; AI infrastructure; Software & EDA; AI model frameworks
+OSIS,"Testing, Inspection & Metrology; Defense"
+OSS,Server-level system architecture & datacenters
+OUST,Robotics & Industrial Automation
+OWL,Data-Center Construction & Real Estate
+P,Server-level system architecture & datacenters
+PANW,Cybersecurity
+PATH,AI model frameworks; Robotics & Industrial Automation; Software & EDA
+PAVE,Grid & Electrical Infrastructure
+PCOR,Software & EDA; Data-Center Construction & Real Estate
+PDFS,"Testing, Inspection & Metrology; Software & EDA; Semiconductor capital equipment; Semiconductor foundries & fabrication"
+PDYN,Robotics & Industrial Automation; Defense
+PEG,Power & energy
+PEGA,AI model frameworks; Software & EDA
+PENG,Server-level system architecture & datacenters; Memory; AI infrastructure; Data-Center Construction & Real Estate
+PH,Robotics & Industrial Automation; Cooling
+PICK,Critical Minerals
+PL,Space; Defense
+PLAB,Semiconductor capital equipment; Semiconductor foundries & fabrication
+PLD,Data-Center Construction & Real Estate
+PLPC,Grid & Electrical Infrastructure
+PLTR,AI infrastructure; AI model frameworks; Defense; Software & EDA; Space
+PLUG,Power & energy
+PNR,Cooling
+POET,Silicon photonics; CPU / chip design; Memory; Semiconductors
+PONY,Robotics & Industrial Automation
+POW,Grid & Electrical Infrastructure
+POWI,Semiconductors
+POWL,Grid & Electrical Infrastructure; Power & energy; Server-level system architecture & datacenters; Data-Center Construction & Real Estate
+PPA,Defense
+PPTA,Critical Minerals; Defense
+PRIM,Data-Center Construction & Real Estate; Grid & Electrical Infrastructure
+PRYMY,Grid & Electrical Infrastructure
+PSI,"Semiconductor capital equipment; Testing, Inspection & Metrology; Advanced Packaging & Chiplets; AI chips; Semiconductors; Memory; CPU / chip design; Semiconductor foundries & fabrication"
+PSN,Defense
+PSQL,Quantum computing
+PTC,Software & EDA
+PUMP,Power & energy
+PWR,Grid & Electrical Infrastructure; Data-Center Construction & Real Estate; Power & energy
+Q,Semiconductor capital equipment; Semiconductors; Advanced Packaging & Chiplets
+QANT,Quantum computing
+QBTS,Quantum computing
+QCLN,Power & energy; Semiconductors; Data-Center Construction & Real Estate; AI infrastructure; Defense; Semiconductor capital equipment; Critical Minerals
+QCOM,CPU / chip design; AI chips; Semiconductors; AI infrastructure
+QNT,Quantum computing; AI infrastructure
+QNTM,Quantum computing
+QTUM,Quantum computing; AI infrastructure; Defense; Cloud computing infrastructure; Semiconductors
+QTUP,Quantum computing
+QTWO,Software & EDA
+QUBT,Quantum computing; Silicon photonics; AI infrastructure; Networking & optics
+QUIK,CPU / chip design
+RACK,Cooling; Server-level system architecture & datacenters; AI infrastructure; Memory; Data-Center Construction & Real Estate; Semiconductors
+RBBN,Networking & optics
+RBRK,Cybersecurity; Cloud computing infrastructure
+RCAT,Defense
+RDW,Space; Defense
+REA,Critical Minerals
+REMX,Critical Minerals; Defense
+REXC,Critical Minerals; Defense
+RGAKF,"Testing, Inspection & Metrology"
+RGTI,Quantum computing; Semiconductors
+RIOT,Bitcoin mining; AI infrastructure; Cloud computing infrastructure; Cooling; Data-Center Construction & Real Estate
+RKLB,Space; Defense
+RMBS,Memory; CPU / chip design; AI chips; Semiconductors; Advanced Packaging & Chiplets; Networking & optics
+RNECY,Semiconductors; Semiconductor foundries & fabrication
+ROBO,Robotics & Industrial Automation; AI chips; AI infrastructure; Memory
+ROBT,Robotics & Industrial Automation
+ROHCY,Semiconductors
+ROK,Robotics & Industrial Automation
+ROKT,Space; Defense
+RRX,Robotics & Industrial Automation; Data-Center Construction & Real Estate
+RTX,Defense
+RUM,AI infrastructure; Cloud computing infrastructure
+RXT,Cloud computing infrastructure
+S,Cybersecurity
+SAIL,Cybersecurity
+SANM,Server-level system architecture & datacenters
+SAP,Software & EDA
+SATL,Space; Defense
+SBGSY,Cooling; Power & energy; Grid & Electrical Infrastructure
+SCRNY,Semiconductor capital equipment
+SEI,Power & energy
+SERV,Robotics & Industrial Automation
+SESMF,Semiconductor capital equipment
+SGML,Critical Minerals
+SHAZ,AI infrastructure; Cloud computing infrastructure; Server-level system architecture & datacenters
+SHECY,Semiconductor capital equipment
+SHLD,Defense; Cooling; Space
+SIDU,Space
+SIEGY,Robotics & Industrial Automation; Software & EDA
+SIFY,Cloud computing infrastructure
+SIMO,Memory; AI chips; CPU / chip design; Semiconductors
+SITM,Semiconductors; AI chips; AI infrastructure; CPU / chip design
+SKHY,Memory; AI chips; CPU / chip design; Semiconductors; Advanced Packaging & Chiplets
+SKYY,Cloud computing infrastructure; AI infrastructure; Server-level system architecture & datacenters; Cooling; Networking & optics; Semiconductors; Cybersecurity
+SLB,Power & energy
+SLI,Critical Minerals
+SLNH,Bitcoin mining; AI infrastructure; Power & energy
+SMCI,AI infrastructure; Server-level system architecture & datacenters
+SMEGF,Grid & Electrical Infrastructure
+SMERY,Grid & Electrical Infrastructure; Power & energy
+SMH,"AI chips; Semiconductors; Semiconductor capital equipment; CPU / chip design; Memory; AI infrastructure; Semiconductor foundries & fabrication; Networking & optics; Testing, Inspection & Metrology; Server-level system architecture & datacenters; Silicon photonics; Advanced Packaging & Chiplets"
+SMHN.DE,Advanced Packaging & Chiplets; Semiconductor capital equipment
+SMHX,CPU / chip design; AI chips
+SMR,Power & energy; Grid & Electrical Infrastructure
+SMTC,Networking & optics; Semiconductors; AI infrastructure
+SNDK,Memory
+SNOW,Cloud computing infrastructure; AI model frameworks; Software & EDA
+SNPS,Software & EDA; AI model frameworks; CPU / chip design
+SO,Power & energy
+SOI,CPU / chip design; Semiconductor capital equipment
+SOLS,Cooling
+SOUN,AI model frameworks
+SOXQ,Semiconductors; AI chips; Memory; Semiconductor capital equipment; Semiconductor foundries & fabrication; CPU / chip design; Networking & optics; Silicon photonics; Software & EDA
+SOXX,"Semiconductors; AI chips; Memory; Semiconductor capital equipment; CPU / chip design; Semiconductor foundries & fabrication; AI infrastructure; Advanced Packaging & Chiplets; Testing, Inspection & Metrology; Networking & optics; Silicon photonics"
+SPAI,Defense
+SPCE,Space
+SPCX,Space; AI infrastructure; Defense; AI model frameworks
+SPIR,Space; Defense
+SPXC,Grid & Electrical Infrastructure; Cooling
+SRVR,Data-Center Construction & Real Estate; AI infrastructure; Cooling; Server-level system architecture & datacenters; Cloud computing infrastructure; Semiconductors; Networking & optics; Space
+SSNLF,Memory; Semiconductor foundries & fabrication
+STEM,Power & energy; Software & EDA
+STM,Semiconductors; CPU / chip design; AI infrastructure; AI chips; Cloud computing infrastructure; Silicon photonics
+STRL,Data-Center Construction & Real Estate
+STX,Memory; AI infrastructure
+STXS,Robotics & Industrial Automation
+SVCO,Software & EDA; Robotics & Industrial Automation
+SWKS,Semiconductors
+SYM,Robotics & Industrial Automation
+SYNA,CPU / chip design; Semiconductors
+TAN,Power & energy
+TCEHY,Cloud computing infrastructure
+TDG,Defense
+TDY,"Defense; Testing, Inspection & Metrology; Robotics & Industrial Automation"
+TE,Power & energy
+TEAM,Software & EDA
+TEL,Networking & optics; Grid & Electrical Infrastructure; Server-level system architecture & datacenters
+TER,"Testing, Inspection & Metrology; Robotics & Industrial Automation; Semiconductor capital equipment; Memory; Advanced Packaging & Chiplets; AI chips"
+TH,Data-Center Construction & Real Estate; Server-level system architecture & datacenters
+THKLY,Robotics & Industrial Automation
+THNBY,"Testing, Inspection & Metrology"
+TII,Critical Minerals
+TLN,Power & energy; AI infrastructure
+TLS,Cybersecurity; Defense
+TMC,Critical Minerals
+TMQ,Critical Minerals
+TOELY,Semiconductor capital equipment
+TOST,Software & EDA
+TPC,Data-Center Construction & Real Estate
+TPE.DE,Semiconductor capital equipment
+TROX,Critical Minerals
+TSEM,Semiconductor foundries & fabrication; Silicon photonics; AI chips; Semiconductors
+TSM,Semiconductor foundries & fabrication; AI chips; Semiconductors; Advanced Packaging & Chiplets; AI infrastructure; CPU / chip design
+TSSI,Server-level system architecture & datacenters
+TT,Cooling; Data-Center Construction & Real Estate
+TTMI,Server-level system architecture & datacenters; Advanced Packaging & Chiplets; Networking & optics
+TXN,Semiconductors; CPU / chip design
+TXT,Defense
+TYL,Software & EDA
+UAMY,Critical Minerals
+UBTRF,Robotics & Industrial Automation
+UCTT,Semiconductor capital equipment; Semiconductor foundries & fabrication; Advanced Packaging & Chiplets
+UEC,Power & energy
+UFO,Space; Defense; AI infrastructure
+UFOX,Networking & optics
+UI,Networking & optics
+UMAC,Defense
+URA,Power & energy
+URG,Power & energy
+USAI,Power & energy; AI infrastructure
+USAR,Critical Minerals
+UTES,Power & energy
+UURAF,Critical Minerals; Defense
+UUUU,Critical Minerals; Power & energy
+VC,CPU / chip design
+VECO,Semiconductor capital equipment; Silicon photonics; Advanced Packaging & Chiplets
+VIAV,"Networking & optics; Testing, Inspection & Metrology; Silicon photonics"
+VICR,Semiconductors; AI infrastructure; Power & energy
+VISN,Networking & optics
+VIST,Power & energy
+VLN,Semiconductors
+VNET,Cloud computing infrastructure; Data-Center Construction & Real Estate; AI infrastructure; Server-level system architecture & datacenters
+VOLT,Grid & Electrical Infrastructure
+VOYG,Space; Defense
+VPG,Robotics & Industrial Automation
+VRNS,Cybersecurity
+VRT,Cooling; Server-level system architecture & datacenters; AI infrastructure; Grid & Electrical Infrastructure; Data-Center Construction & Real Estate; Power & energy; Cloud computing infrastructure
+VSAT,Space; Defense
+VSEC,Defense
+VSH,Semiconductors; AI infrastructure
+VST,Power & energy; AI infrastructure
+VVX,Defense; Space
+WCC,Grid & Electrical Infrastructure
+WCLD,Cloud computing infrastructure; AI infrastructure; AI model frameworks; Software & EDA
+WDC,Memory; AI infrastructure; Cloud computing infrastructure
+WGMI,Bitcoin mining; AI infrastructure; Cloud computing infrastructure; Cooling; Power & energy
+WK,Software & EDA
+WLDN,Data-Center Construction & Real Estate
+WMB,Power & energy
+WOLF,Semiconductors
+WQTM,Quantum computing; Space
+WRD,Robotics & Industrial Automation
+WULF,Bitcoin mining; AI infrastructure; Cloud computing infrastructure; Data-Center Construction & Real Estate; Server-level system architecture & datacenters
+WWD,Defense; Power & energy
+WWR,Critical Minerals
+WYFI,AI infrastructure; Cloud computing infrastructure; Bitcoin mining; Server-level system architecture & datacenters
+XAR,Defense
+XE,Power & energy
+XEL,Power & energy
+XFAB.PA,Semiconductor foundries & fabrication
+XLI,Cooling; Defense
+XLU,Power & energy
+XNDU,Quantum computing; Silicon photonics
+XPEV,Robotics & Industrial Automation
+XSD,"Semiconductors; Memory; AI chips; CPU / chip design; Semiconductor capital equipment; Advanced Packaging & Chiplets; Testing, Inspection & Metrology"
+XSW,Software & EDA
+XTL,Networking & optics
+XYL,Cooling
+YASKY,Robotics & Industrial Automation
+YSS,Space
+ZAP,Grid & Electrical Infrastructure
+ZBRA,Robotics & Industrial Automation
+ZENA,Defense; Robotics & Industrial Automation
+ZM,Software & EDA; AI model frameworks
+ZS,Cybersecurity

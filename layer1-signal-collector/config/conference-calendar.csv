@@ -1,0 +1,17 @@
+conference,topic_area,typical_month,window_start,window_end,notes
+Hot Chips,Chip architecture,August,2026-08-01,2026-08-31,annual; Stanford/Bay Area; approximate window - verify exact dates each year
+ISSCC,Chip design,February,2027-02-01,2027-02-28,IEEE International Solid-State Circuits Conference
+DAC,EDA / chip design automation,June,2027-06-01,2027-06-30,Design Automation Conference
+SC (Supercomputing),HPC / data center,November,2026-11-01,2026-11-30,SC26/SC27 - annual supercomputing conference
+OCP Summit,Open hardware / data center,October,2026-10-01,2026-10-31,Open Compute Project Summit
+GTC,AI / GPU,March,2027-03-01,2027-03-31,NVIDIA GTC - also runs a smaller fall edition
+MemCon,Memory,May,2027-05-01,2027-05-31,memory-systems conference
+Flash Memory Summit,Memory / storage,August,2026-08-01,2026-08-31,
+Small Satellite Conference,Space,August,2026-08-01,2026-08-31,Utah State University, Logan UT
+Space Symposium,Space,April,2027-04-01,2027-04-30,Colorado Springs
+Data Center World,Data center,April,2027-04-01,2027-04-30,
+Black Hat,Cybersecurity,August,2026-08-01,2026-08-31,Las Vegas
+RSA Conference,Cybersecurity,April,2027-04-01,2027-05-31,San Francisco; April/May
+DEF CON,Cybersecurity,August,2026-08-01,2026-08-31,Las Vegas
+Computex,Chips / hardware,June,2027-06-01,2027-06-30,Taipei
+APEC,Power electronics,March,2027-03-01,2027-03-31,

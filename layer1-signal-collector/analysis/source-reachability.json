@@ -1,0 +1,242 @@
+{
+ "tested_et": "2026-10-17T18:04:34-04:00",
+ "apis": [
+  {
+   "source": "arXiv API",
+   "ok": true,
+   "http": 200,
+   "sample_count": 3,
+   "error": null,
+   "elapsed_s": 0.29
+  },
+  {
+   "source": "HackerNews Algolia API",
+   "ok": true,
+   "http": 200,
+   "sample_count": 3,
+   "error": null,
+   "elapsed_s": 0.33
+  },
+  {
+   "source": "GitHub search API",
+   "ok": true,
+   "http": 200,
+   "sample_count": 3,
+   "error": null,
+   "elapsed_s": 0.37
+  },
+  {
+   "source": "Hugging Face API",
+   "ok": true,
+   "http": 200,
+   "sample_count": 3,
+   "error": null,
+   "elapsed_s": 0.14
+  },
+  {
+   "source": "Google Patents XHR (undocumented)",
+   "ok": false,
+   "http": 503,
+   "sample_count": 0,
+   "error": "HTTP 503 Google anti-bot block (\"your computer or network may be sending automated queries\") after a handful of requests in short succession - confirmed via curl, not just the Python client",
+   "elapsed_s": 5.43,
+   "verdict": "Reachable and returns real structured patent data (title, assignee, filing_date, publication_number) on a cold/first request with no auth - but bot-detection-gated at any real request rate, and more likely to be pre-flagged from a shared GitHub Actions IP range (same pattern L2/L3 saw with Cloudflare on trade-press feeds). NOT dependable as a scheduled daily/weekly collector source. Recommended: query it opportunistically/manually (routine 03, low volume, generous spacing) rather than wiring it into layer1_daily.py; pursue USPTO ODP API (free registered key) as the reliable automated path."
+  },
+  {
+   "source": "SEC full-text search (efts.sec.gov)",
+   "ok": true,
+   "http": 200,
+   "sample_count": 1,
+   "error": null,
+   "elapsed_s": 0.31
+  }
+ ],
+ "feeds": [
+  {
+   "source": "SemiAnalysis newsletter",
+   "url": "https://newsletter.semianalysis.com/archive",
+   "ok": true,
+   "http": 200,
+   "bytes": 309364,
+   "elapsed_s": 0.23
+  },
+  {
+   "source": "Datacenter Dynamics RSS",
+   "url": "https://www.datacenterdynamics.com/en/rss/",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 20,
+   "error": null,
+   "elapsed_s": 0.15
+  },
+  {
+   "source": "IEEE Spectrum RSS",
+   "url": "https://spectrum.ieee.org/feeds/feed.rss",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 30,
+   "error": null,
+   "elapsed_s": 0.57
+  },
+  {
+   "source": "SpaceNews RSS",
+   "url": "https://spacenews.com/feed/",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 10,
+   "error": null,
+   "elapsed_s": 0.14
+  },
+  {
+   "source": "SatelliteToday RSS",
+   "url": "https://www.satellitetoday.com/feed/",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 10,
+   "error": null,
+   "elapsed_s": 0.14
+  },
+  {
+   "source": "The Quantum Insider RSS",
+   "url": "https://thequantuminsider.com/feed/",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 10,
+   "error": null,
+   "elapsed_s": 0.2
+  },
+  {
+   "source": "Blocks and Files RSS",
+   "url": "https://blocksandfiles.com/feed/",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 75,
+   "error": null,
+   "elapsed_s": 1.07
+  },
+  {
+   "source": "EE Times RSS",
+   "url": "https://www.eetimes.com/feed/",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 10,
+   "error": null,
+   "elapsed_s": 0.2
+  },
+  {
+   "source": "HPCwire RSS",
+   "url": "https://www.hpcwire.com/feed/",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 10,
+   "error": null,
+   "elapsed_s": 0.33
+  },
+  {
+   "source": "Digitimes RSS",
+   "url": "https://www.digitimes.com/rss/daily.xml",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 35,
+   "error": null,
+   "elapsed_s": 0.39
+  },
+  {
+   "source": "Tom's Hardware RSS",
+   "url": "https://www.tomshardware.com/feeds/all",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 50,
+   "error": null,
+   "elapsed_s": 0.82
+  },
+  {
+   "source": "Google News RSS (sector query)",
+   "url": "https://news.google.com/rss/search?q=silicon+photonics+bottleneck",
+   "ok": true,
+   "http": 200,
+   "items_parsed": 58,
+   "error": null,
+   "elapsed_s": 0.62
+  },
+  {
+   "source": "Semiconductor Today (no working RSS path found)",
+   "url": "https://www.semiconductor-today.com/rss/news_rss.xml",
+   "ok": false,
+   "http": 404,
+   "error": "HTTP 404",
+   "elapsed_s": 0.44
+  },
+  {
+   "source": "optics.org (no working RSS path found)",
+   "url": "https://optics.org/rss/news",
+   "ok": false,
+   "http": 404,
+   "error": "HTTP 404",
+   "elapsed_s": 0.57
+  },
+  {
+   "source": "TrendForce (no working RSS path found)",
+   "url": "https://www.trendforce.com/rss",
+   "ok": false,
+   "http": 404,
+   "error": "HTTP 404",
+   "elapsed_s": 0.84
+  }
+ ],
+ "uspto_odp": {
+  "source": "USPTO Open Data Portal API (needs free USPTO_ODP_API_KEY)",
+  "ok": false,
+  "http": 0,
+  "sample_count": 0,
+  "error": "no USPTO_ODP_API_KEY set",
+  "elapsed_s": 0.0
+ },
+ "agent_covered": [
+  {
+   "source": "LinkedIn job search (login-walled for scripted clients)",
+   "url": "https://www.linkedin.com/jobs/search?keywords=silicon+photonics+engineer",
+   "http": 200,
+   "error": null,
+   "note": "200 but login-walled (sign-in prompt detected) - treat as agent-covered, not scriptable",
+   "elapsed_s": 1.04
+  },
+  {
+   "source": "G2 search (403 to scripted clients)",
+   "url": "https://www.g2.com/search?query=test",
+   "http": 403,
+   "error": "HTTP 403",
+   "note": "expected blocked/agent-covered",
+   "elapsed_s": 0.14
+  },
+  {
+   "source": "SimilarWeb (202/JS-rendered)",
+   "url": "https://www.similarweb.com/website/openai.com/",
+   "http": 202,
+   "error": null,
+   "note": "expected blocked/agent-covered",
+   "elapsed_s": 0.13
+  },
+  {
+   "source": "BuiltWith (202/JS-rendered)",
+   "url": "https://builtwith.com/openai.com",
+   "http": 202,
+   "error": null,
+   "note": "expected blocked/agent-covered",
+   "elapsed_s": 0.18
+  },
+  {
+   "source": "Reddit JSON API (403 to scripted clients)",
+   "url": "https://www.reddit.com/r/hardware/.json",
+   "http": 403,
+   "error": "HTTP 403",
+   "note": "expected blocked/agent-covered",
+   "elapsed_s": 0.14
+  }
+ ],
+ "summary": {
+  "apis_ok": "5/6",
+  "feeds_ok": "12/15",
+  "uspto_odp_needs_key": true
+ }
+}
