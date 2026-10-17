@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Reachability test for every static Layer 2 source (feeds, SEC, ATS job boards, free hiring datasets).
+"""Reachability test for every static Layer 2 source (feeds and SEC).
 
 Writes analysis/source-reachability.json and config/feed-overrides.json (feeds that fail get
 enabled=no and are left to the agent routines). Run again whenever feeds are added.
 
-Usage: python tools/test_sources.py [--only feeds|sec|ats|datasets]
+Usage: python tools/test_sources.py [--only feeds|sec]
 """
 import argparse
 import datetime as dt
@@ -18,26 +18,6 @@ sys.path.insert(0, ROOT)
 sys.path.insert(0, HERE)
 import l2lib as L  # noqa: E402
 import build_feeds as B  # noqa: E402
-
-ATS = [
-    ("greenhouse", "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs", "json", "jobs"),
-    ("greenhouse-content", "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true", "json", "jobs"),
-    ("lever", "https://api.lever.co/v0/postings/palantir?mode=json", "json", None),
-    ("ashby", "https://api.ashbyhq.com/posting-api/job-board/openai", "json", "jobs"),
-    ("workable", "https://apply.workable.com/api/v1/widget/accounts/workable", "json", "jobs"),
-    ("smartrecruiters", "https://api.smartrecruiters.com/v1/companies/bosch/postings?limit=5", "json", "content"),
-]
-
-DATASETS = [
-    ("indeed-ai-tracker", "https://raw.githubusercontent.com/hiring-lab/ai-tracker/main/README.md", "text"),
-    ("indeed-postings-index", "https://raw.githubusercontent.com/hiring-lab/job_postings_tracker/master/README.md", "text"),
-    ("revelio-rpls", "https://www.reveliolabs.com/public-labor-statistics/", "text"),
-    ("qed-c-workforce", "https://quantumconsortium.org/blog/quantum-technology-workforce-monitoring-report-3/", "text"),
-    ("linkedin-economic-graph", "https://economicgraph.linkedin.com/workforce-data/publications", "text"),
-    ("dol-oflc-performance", "https://www.dol.gov/agencies/eta/foreign-labor/performance", "text"),
-    ("bls-jolts", "https://www.bls.gov/jlt/", "text"),
-]
-
 
 def test_feeds(res, overrides):
     for fid, name, cat, url, note in B.STATIC:
@@ -97,42 +77,13 @@ def test_sec(res):
     print(f"{'OK  ' if hits is not None else 'FAIL'} SEC full-text search: status={st} hits={hits}")
 
 
-def test_ats(res):
-    for name, url, kind, key in ATS:
-        st, body, ct, err = L.fetch(url, timeout=30, retries=1)
-        r = {"status": st, "error": err}
-        if body is not None:
-            try:
-                js = json.loads(body.decode("utf-8", "ignore"))
-                n = len(js) if isinstance(js, list) else len(js.get(key, [])) if key else None
-                r["items"] = n
-                if isinstance(js, dict) and "meta" in js:
-                    r["total"] = js["meta"].get("total")
-                r["ok"] = bool(n)
-            except Exception as e:
-                r["error"] = f"bad json: {e}"
-                r["ok"] = False
-        else:
-            r["ok"] = False
-        res["ats"][name] = r
-        print(f"{'OK  ' if r['ok'] else 'FAIL'} ATS {name:20s} status={st} items={r.get('items')} {r.get('error') or ''}")
-
-
-def test_datasets(res):
-    for name, url, kind in DATASETS:
-        st, txt, err = L.fetch_text(url, timeout=30, retries=1)
-        r = {"status": st, "error": err, "bytes": len(txt) if txt else 0, "ok": bool(txt) and st == 200}
-        res["datasets"][name] = r
-        print(f"{'OK  ' if r['ok'] else 'FAIL'} DATA {name:26s} status={st} bytes={r['bytes']} {err or ''}")
-
-
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--only", choices=["feeds", "sec", "ats", "datasets"])
+    ap.add_argument("--only", choices=["feeds", "sec"])
     a = ap.parse_args()
     out_path = os.path.join(ROOT, "analysis", "source-reachability.json")
     res = L.load_json(out_path, {}) or {}
-    for k in ("feeds", "sec", "ats", "datasets"):
+    for k in ("feeds", "sec"):
         res.setdefault(k, {})
     res["tested_at_et"] = L.now_et().isoformat(timespec="seconds")
     res["tested_from"] = "workstation (re-run from GitHub Actions to confirm)"
@@ -143,10 +94,6 @@ def main():
         L.save_json(ov_path, overrides)
     if a.only in (None, "sec"):
         test_sec(res)
-    if a.only in (None, "ats"):
-        test_ats(res)
-    if a.only in (None, "datasets"):
-        test_datasets(res)
     L.save_json(out_path, res)
 
 
