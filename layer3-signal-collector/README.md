@@ -49,7 +49,7 @@ Binding status (executed / non-binding / mixed / unstated) is read from the sent
 
 | Job | When (New York) | Started by | Writes |
 |---|---|---|---|
-| Daily collector | Every day 11:30 PM | routine 00a pushes `triggers/daily.txt` -> GitHub Action `Layer 3 - daily collector` | `data/daily/...` |
+| Daily collector | Every day 11:15 PM | routine 00a pushes `triggers/daily.txt` -> GitHub Action `Layer 3 - daily collector` | `data/daily/...` |
 | Weekly packet | Wednesday 12:00 AM (window Wednesday-Tuesday) | routine 00b pushes `triggers/weekly.txt` -> GitHub Action `Layer 3 - weekly packet` | `data/weekly/<Tuesday>/` |
 | Routines 01-04 | Wednesday 1:00-4:00 AM | claude.ai routines | `research/layer 3/signal-discovery/<end-date>/` |
 

@@ -1,9 +1,9 @@
-name: Layer 3 - daily collector (11:30 PM ET, every day)
+name: Layer 3 - daily collector (11:15 PM ET, every day)
 
 on:
   schedule:
-    - cron: "37 3 * * *"    # 11:37 PM EDT (US daylight time), every evening - backup if the claude.ai kick-off routine does not fire
-    - cron: "37 4 * * *"    # 11:37 PM EST (US standard time) - the gate step lets either run between 11:00 PM and 12:59 AM New York time, and only once per day
+    - cron: "22 3 * * *"    # 11:22 PM EDT (US daylight time), every evening - backup if the claude.ai kick-off routine does not fire
+    - cron: "22 4 * * *"    # 11:22 PM EST (US standard time) - the gate step lets either run between 11:00 PM and 12:59 AM New York time, and only once per day
   push:
     branches: [main]
     paths: ["layer3-signal-collector/triggers/daily.txt"]   # kick-off from the claude.ai routine "Layer 3 - daily collector kickoff" (same gates apply)
