@@ -1,0 +1,21 @@
+{
+ "run_date_et": "2026-10-17",
+ "started_et": "2026-10-17T14:17:41-04:00",
+ "modules": [
+  "fts",
+  "sec"
+ ],
+ "skipped_done": [],
+ "no_index": [],
+ "universe_tickers": 774,
+ "universe_ciks": 522,
+ "private_watchlist": 294,
+ "fts_rows_today": 2,
+ "fts_opened": 2,
+ "finished_et": "2026-10-17T14:32:52-04:00",
+ "elapsed_min": 15.2
+}
+2026-10-14 3220 index rows; 252 written; 16 kept; errors: 0
+2026-10-15 3652 index rows; 293 written; 27 kept; errors: 0
+2026-10-16 3318 index rows; 256 written; 20 kept; errors: 0
+fts queries ok: 10 failed: {}

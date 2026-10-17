@@ -1,0 +1,3538 @@
+{
+ "positive_pages": 1125,
+ "negative_pages": 1118,
+ "positive_pages_with_score_ge_keep": 937,
+ "negative_pages_with_score_ge_keep": 116,
+ "combos": {
+  "exec_appointment": {
+   "weight": 4,
+   "pos_pages": 703,
+   "neg_pages": 24,
+   "pos_rate": 0.625,
+   "neg_rate": 0.021,
+   "precision": 0.967
+  },
+  "board_appointment": {
+   "weight": 4,
+   "pos_pages": 384,
+   "neg_pages": 26,
+   "pos_rate": 0.341,
+   "neg_rate": 0.023,
+   "precision": 0.937
+  },
+  "pedigree_hire": {
+   "weight": 4,
+   "pos_pages": 391,
+   "neg_pages": 11,
+   "pos_rate": 0.348,
+   "neg_rate": 0.01,
+   "precision": 0.973
+  },
+  "senior_departure": {
+   "weight": 4,
+   "pos_pages": 384,
+   "neg_pages": 36,
+   "pos_rate": 0.341,
+   "neg_rate": 0.032,
+   "precision": 0.914
+  },
+  "departure_to_found": {
+   "weight": 4,
+   "pos_pages": 194,
+   "neg_pages": 14,
+   "pos_rate": 0.172,
+   "neg_rate": 0.013,
+   "precision": 0.933
+  },
+  "founder_pedigree": {
+   "weight": 3,
+   "pos_pages": 133,
+   "neg_pages": 12,
+   "pos_rate": 0.118,
+   "neg_rate": 0.011,
+   "precision": 0.917
+  },
+  "technical_leader_hire": {
+   "weight": 3,
+   "pos_pages": 217,
+   "neg_pages": 3,
+   "pos_rate": 0.193,
+   "neg_rate": 0.003,
+   "precision": 0.986
+  },
+  "academic_move": {
+   "weight": 3,
+   "pos_pages": 65,
+   "neg_pages": 4,
+   "pos_rate": 0.058,
+   "neg_rate": 0.004,
+   "precision": 0.942
+  },
+  "hiring_surge": {
+   "weight": 3,
+   "pos_pages": 67,
+   "neg_pages": 17,
+   "pos_rate": 0.06,
+   "neg_rate": 0.015,
+   "precision": 0.798
+  },
+  "headcount_growth": {
+   "weight": 3,
+   "pos_pages": 1,
+   "neg_pages": 2,
+   "pos_rate": 0.001,
+   "neg_rate": 0.002,
+   "precision": 0.333
+  },
+  "facility_talent": {
+   "weight": 3,
+   "pos_pages": 11,
+   "neg_pages": 3,
+   "pos_rate": 0.01,
+   "neg_rate": 0.003,
+   "precision": 0.786
+  },
+  "team_lift": {
+   "weight": 3,
+   "pos_pages": 33,
+   "neg_pages": 1,
+   "pos_rate": 0.029,
+   "neg_rate": 0.001,
+   "precision": 0.971
+  },
+  "newly_created_role": {
+   "weight": 3,
+   "pos_pages": 90,
+   "neg_pages": 1,
+   "pos_rate": 0.08,
+   "neg_rate": 0.001,
+   "precision": 0.989
+  },
+  "pedigree_profile": {
+   "weight": 2,
+   "pos_pages": 472,
+   "neg_pages": 13,
+   "pos_rate": 0.42,
+   "neg_rate": 0.012,
+   "precision": 0.973
+  },
+  "filing_officer_change": {
+   "weight": 4,
+   "pos_pages": 85,
+   "neg_pages": 0,
+   "pos_rate": 0.076,
+   "neg_rate": 0.0,
+   "precision": 1.0
+  }
+ },
+ "phrases": [
+  {
+   "group": "hiring_terms",
+   "phrase": "talent",
+   "pos_pages": 571,
+   "neg_pages": 54,
+   "pos_rate": 0.508,
+   "precision": 0.914
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "hire",
+   "pos_pages": 558,
+   "neg_pages": 33,
+   "pos_rate": 0.496,
+   "precision": 0.944
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "president",
+   "pos_pages": 519,
+   "neg_pages": 10,
+   "pos_rate": 0.461,
+   "precision": 0.981
+  },
+  {
+   "group": "board_terms",
+   "phrase": "board",
+   "pos_pages": 517,
+   "neg_pages": 127,
+   "pos_rate": 0.46,
+   "precision": 0.803
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "ceo",
+   "pos_pages": 511,
+   "neg_pages": 95,
+   "pos_rate": 0.454,
+   "precision": 0.843
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "named",
+   "pos_pages": 437,
+   "neg_pages": 219,
+   "pos_rate": 0.388,
+   "precision": 0.666
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "joined",
+   "pos_pages": 414,
+   "neg_pages": 43,
+   "pos_rate": 0.368,
+   "precision": 0.906
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "spent",
+   "pos_pages": 400,
+   "neg_pages": 12,
+   "pos_rate": 0.356,
+   "precision": 0.971
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "engineering",
+   "pos_pages": 395,
+   "neg_pages": 69,
+   "pos_rate": 0.351,
+   "precision": 0.851
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "appointment",
+   "pos_pages": 388,
+   "neg_pages": 12,
+   "pos_rate": 0.345,
+   "precision": 0.97
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "vice president",
+   "pos_pages": 379,
+   "neg_pages": 3,
+   "pos_rate": 0.337,
+   "precision": 0.992
+  },
+  {
+   "group": "move_depart",
+   "phrase": "departure",
+   "pos_pages": 279,
+   "neg_pages": 57,
+   "pos_rate": 0.248,
+   "precision": 0.83
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "former",
+   "pos_pages": 279,
+   "neg_pages": 100,
+   "pos_rate": 0.248,
+   "precision": 0.736
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "most recently",
+   "pos_pages": 278,
+   "neg_pages": 99,
+   "pos_rate": 0.247,
+   "precision": 0.737
+  },
+  {
+   "group": "move_depart",
+   "phrase": "left",
+   "pos_pages": 277,
+   "neg_pages": 34,
+   "pos_rate": 0.246,
+   "precision": 0.891
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "previously",
+   "pos_pages": 267,
+   "neg_pages": 22,
+   "pos_rate": 0.237,
+   "precision": 0.924
+  },
+  {
+   "group": "board_terms",
+   "phrase": "the board",
+   "pos_pages": 256,
+   "neg_pages": 65,
+   "pos_rate": 0.228,
+   "precision": 0.798
+  },
+  {
+   "group": "found_launch",
+   "phrase": "founder",
+   "pos_pages": 251,
+   "neg_pages": 68,
+   "pos_rate": 0.223,
+   "precision": 0.787
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "funding",
+   "pos_pages": 219,
+   "neg_pages": 495,
+   "pos_rate": 0.195,
+   "precision": 0.307
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "joining",
+   "pos_pages": 218,
+   "neg_pages": 77,
+   "pos_rate": 0.194,
+   "precision": 0.739
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "regex:\\b(?:over|more than|nearly|almost)\\s+\\d{1,2}\\s+years",
+   "pos_pages": 202,
+   "neg_pages": 1,
+   "pos_rate": 0.18,
+   "precision": 0.995
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "hires",
+   "pos_pages": 192,
+   "neg_pages": 19,
+   "pos_rate": 0.171,
+   "precision": 0.91
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "hires",
+   "pos_pages": 192,
+   "neg_pages": 19,
+   "pos_rate": 0.171,
+   "precision": 0.91
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "years at",
+   "pos_pages": 192,
+   "neg_pages": 2,
+   "pos_rate": 0.171,
+   "precision": 0.99
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "hiring",
+   "pos_pages": 191,
+   "neg_pages": 27,
+   "pos_rate": 0.17,
+   "precision": 0.876
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "appointed",
+   "pos_pages": 187,
+   "neg_pages": 5,
+   "pos_rate": 0.166,
+   "precision": 0.974
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "to join",
+   "pos_pages": 187,
+   "neg_pages": 10,
+   "pos_rate": 0.166,
+   "precision": 0.949
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "cfo",
+   "pos_pages": 186,
+   "neg_pages": 36,
+   "pos_rate": 0.165,
+   "precision": 0.838
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "nvidia",
+   "pos_pages": 185,
+   "neg_pages": 240,
+   "pos_rate": 0.164,
+   "precision": 0.435
+  },
+  {
+   "group": "board_terms",
+   "phrase": "board of directors",
+   "pos_pages": 184,
+   "neg_pages": 5,
+   "pos_rate": 0.164,
+   "precision": 0.974
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "led by",
+   "pos_pages": 178,
+   "neg_pages": 441,
+   "pos_rate": 0.158,
+   "precision": 0.288
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "investors",
+   "pos_pages": 178,
+   "neg_pages": 333,
+   "pos_rate": 0.158,
+   "precision": 0.348
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief financial officer",
+   "pos_pages": 169,
+   "neg_pages": 2,
+   "pos_rate": 0.15,
+   "precision": 0.988
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "senior vice president",
+   "pos_pages": 163,
+   "neg_pages": 0,
+   "pos_rate": 0.145,
+   "precision": 1.0
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "valuation",
+   "pos_pages": 162,
+   "neg_pages": 819,
+   "pos_rate": 0.144,
+   "precision": 0.165
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "veteran",
+   "pos_pages": 160,
+   "neg_pages": 6,
+   "pos_rate": 0.142,
+   "precision": 0.964
+  },
+  {
+   "group": "move_depart",
+   "phrase": "leaving",
+   "pos_pages": 158,
+   "neg_pages": 24,
+   "pos_rate": 0.14,
+   "precision": 0.868
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "google",
+   "pos_pages": 149,
+   "neg_pages": 164,
+   "pos_rate": 0.132,
+   "precision": 0.476
+  },
+  {
+   "group": "move_depart",
+   "phrase": "to leave",
+   "pos_pages": 149,
+   "neg_pages": 4,
+   "pos_rate": 0.132,
+   "precision": 0.974
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "raised",
+   "pos_pages": 145,
+   "neg_pages": 506,
+   "pos_rate": 0.129,
+   "precision": 0.223
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "hired",
+   "pos_pages": 145,
+   "neg_pages": 30,
+   "pos_rate": 0.129,
+   "precision": 0.829
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chairman",
+   "pos_pages": 136,
+   "neg_pages": 8,
+   "pos_rate": 0.121,
+   "precision": 0.944
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief operating officer",
+   "pos_pages": 136,
+   "neg_pages": 6,
+   "pos_rate": 0.121,
+   "precision": 0.958
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "engineer",
+   "pos_pages": 129,
+   "neg_pages": 4,
+   "pos_rate": 0.115,
+   "precision": 0.97
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "intel",
+   "pos_pages": 127,
+   "neg_pages": 90,
+   "pos_rate": 0.113,
+   "precision": 0.585
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "executive vice president",
+   "pos_pages": 118,
+   "neg_pages": 0,
+   "pos_rate": 0.105,
+   "precision": 1.0
+  },
+  {
+   "group": "found_launch",
+   "phrase": "co-founder",
+   "pos_pages": 112,
+   "neg_pages": 30,
+   "pos_rate": 0.1,
+   "precision": 0.789
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "head of",
+   "pos_pages": 111,
+   "neg_pages": 2,
+   "pos_rate": 0.099,
+   "precision": 0.982
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "engineers",
+   "pos_pages": 111,
+   "neg_pages": 11,
+   "pos_rate": 0.099,
+   "precision": 0.91
+  },
+  {
+   "group": "board_terms",
+   "phrase": "board seat",
+   "pos_pages": 104,
+   "neg_pages": 7,
+   "pos_rate": 0.092,
+   "precision": 0.937
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief executive officer",
+   "pos_pages": 102,
+   "neg_pages": 3,
+   "pos_rate": 0.091,
+   "precision": 0.971
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "microsoft",
+   "pos_pages": 100,
+   "neg_pages": 128,
+   "pos_rate": 0.089,
+   "precision": 0.439
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "cto",
+   "pos_pages": 99,
+   "neg_pages": 8,
+   "pos_rate": 0.088,
+   "precision": 0.925
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "ipo",
+   "pos_pages": 95,
+   "neg_pages": 222,
+   "pos_rate": 0.084,
+   "precision": 0.3
+  },
+  {
+   "group": "found_launch",
+   "phrase": "to found",
+   "pos_pages": 91,
+   "neg_pages": 0,
+   "pos_rate": 0.081,
+   "precision": 1.0
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "participation from",
+   "pos_pages": 87,
+   "neg_pages": 200,
+   "pos_rate": 0.077,
+   "precision": 0.303
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "series a",
+   "pos_pages": 86,
+   "neg_pages": 285,
+   "pos_rate": 0.076,
+   "precision": 0.232
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "joins",
+   "pos_pages": 82,
+   "neg_pages": 0,
+   "pos_rate": 0.073,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "general manager",
+   "pos_pages": 82,
+   "neg_pages": 0,
+   "pos_rate": 0.073,
+   "precision": 1.0
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "acquisition of",
+   "pos_pages": 77,
+   "neg_pages": 33,
+   "pos_rate": 0.068,
+   "precision": 0.7
+  },
+  {
+   "group": "found_launch",
+   "phrase": "founding team",
+   "pos_pages": 77,
+   "neg_pages": 26,
+   "pos_rate": 0.068,
+   "precision": 0.748
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "amd",
+   "pos_pages": 76,
+   "neg_pages": 83,
+   "pos_rate": 0.068,
+   "precision": 0.478
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "seed round",
+   "pos_pages": 76,
+   "neg_pages": 150,
+   "pos_rate": 0.068,
+   "precision": 0.336
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "newly created",
+   "pos_pages": 73,
+   "neg_pages": 1,
+   "pos_rate": 0.065,
+   "precision": 0.986
+  },
+  {
+   "group": "new_role_terms",
+   "phrase": "newly created",
+   "pos_pages": 73,
+   "neg_pages": 1,
+   "pos_rate": 0.065,
+   "precision": 0.986
+  },
+  {
+   "group": "board_terms",
+   "phrase": "audit committee",
+   "pos_pages": 69,
+   "neg_pages": 0,
+   "pos_rate": 0.061,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "samsung",
+   "pos_pages": 68,
+   "neg_pages": 82,
+   "pos_rate": 0.06,
+   "precision": 0.453
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "coo",
+   "pos_pages": 66,
+   "neg_pages": 8,
+   "pos_rate": 0.059,
+   "precision": 0.892
+  },
+  {
+   "group": "board_terms",
+   "phrase": "board member",
+   "pos_pages": 65,
+   "neg_pages": 9,
+   "pos_rate": 0.058,
+   "precision": 0.878
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "svp",
+   "pos_pages": 65,
+   "neg_pages": 2,
+   "pos_rate": 0.058,
+   "precision": 0.97
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "amazon",
+   "pos_pages": 64,
+   "neg_pages": 65,
+   "pos_rate": 0.057,
+   "precision": 0.496
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief technology officer",
+   "pos_pages": 64,
+   "neg_pages": 4,
+   "pos_rate": 0.057,
+   "precision": 0.941
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "names",
+   "pos_pages": 63,
+   "neg_pages": 41,
+   "pos_rate": 0.056,
+   "precision": 0.606
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "recruiting",
+   "pos_pages": 62,
+   "neg_pages": 8,
+   "pos_rate": 0.055,
+   "precision": 0.886
+  },
+  {
+   "group": "found_launch",
+   "phrase": "co-founded",
+   "pos_pages": 61,
+   "neg_pages": 8,
+   "pos_rate": 0.054,
+   "precision": 0.884
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "vp of",
+   "pos_pages": 58,
+   "neg_pages": 2,
+   "pos_rate": 0.052,
+   "precision": 0.967
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "brings more than",
+   "pos_pages": 57,
+   "neg_pages": 0,
+   "pos_rate": 0.051,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "promoted",
+   "pos_pages": 56,
+   "neg_pages": 0,
+   "pos_rate": 0.05,
+   "precision": 1.0
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "funding round",
+   "pos_pages": 56,
+   "neg_pages": 75,
+   "pos_rate": 0.05,
+   "precision": 0.427
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief product officer",
+   "pos_pages": 54,
+   "neg_pages": 1,
+   "pos_rate": 0.048,
+   "precision": 0.982
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "recruited",
+   "pos_pages": 53,
+   "neg_pages": 8,
+   "pos_rate": 0.047,
+   "precision": 0.869
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "series b",
+   "pos_pages": 52,
+   "neg_pages": 198,
+   "pos_rate": 0.046,
+   "precision": 0.208
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "qualcomm",
+   "pos_pages": 50,
+   "neg_pages": 31,
+   "pos_rate": 0.044,
+   "precision": 0.617
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "managing director",
+   "pos_pages": 50,
+   "neg_pages": 3,
+   "pos_rate": 0.044,
+   "precision": 0.943
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "headcount",
+   "pos_pages": 50,
+   "neg_pages": 28,
+   "pos_rate": 0.044,
+   "precision": 0.641
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "formerly",
+   "pos_pages": 50,
+   "neg_pages": 12,
+   "pos_rate": 0.044,
+   "precision": 0.806
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "appointment of",
+   "pos_pages": 50,
+   "neg_pages": 1,
+   "pos_rate": 0.044,
+   "precision": 0.98
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "co-led by",
+   "pos_pages": 50,
+   "neg_pages": 154,
+   "pos_rate": 0.044,
+   "precision": 0.245
+  },
+  {
+   "group": "board_terms",
+   "phrase": "independent director",
+   "pos_pages": 49,
+   "neg_pages": 1,
+   "pos_rate": 0.044,
+   "precision": 0.98
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "aws",
+   "pos_pages": 49,
+   "neg_pages": 26,
+   "pos_rate": 0.044,
+   "precision": 0.653
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "cisco",
+   "pos_pages": 49,
+   "neg_pages": 36,
+   "pos_rate": 0.044,
+   "precision": 0.576
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "elected",
+   "pos_pages": 48,
+   "neg_pages": 2,
+   "pos_rate": 0.043,
+   "precision": 0.96
+  },
+  {
+   "group": "found_launch",
+   "phrase": "stealth",
+   "pos_pages": 48,
+   "neg_pages": 43,
+   "pos_rate": 0.043,
+   "precision": 0.527
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "joins from",
+   "pos_pages": 47,
+   "neg_pages": 0,
+   "pos_rate": 0.042,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "joined from",
+   "pos_pages": 46,
+   "neg_pages": 0,
+   "pos_rate": 0.041,
+   "precision": 1.0
+  },
+  {
+   "group": "team_lift_terms",
+   "phrase": "co-founders",
+   "pos_pages": 44,
+   "neg_pages": 6,
+   "pos_rate": 0.039,
+   "precision": 0.88
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "oracle",
+   "pos_pages": 44,
+   "neg_pages": 21,
+   "pos_rate": 0.039,
+   "precision": 0.677
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "succession",
+   "pos_pages": 44,
+   "neg_pages": 5,
+   "pos_rate": 0.039,
+   "precision": 0.898
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "broadcom",
+   "pos_pages": 43,
+   "neg_pages": 43,
+   "pos_rate": 0.038,
+   "precision": 0.5
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "architect",
+   "pos_pages": 42,
+   "neg_pages": 7,
+   "pos_rate": 0.037,
+   "precision": 0.857
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "micron",
+   "pos_pages": 41,
+   "neg_pages": 37,
+   "pos_rate": 0.036,
+   "precision": 0.526
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "tesla",
+   "pos_pages": 41,
+   "neg_pages": 38,
+   "pos_rate": 0.036,
+   "precision": 0.519
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "researcher",
+   "pos_pages": 41,
+   "neg_pages": 5,
+   "pos_rate": 0.036,
+   "precision": 0.891
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "researchers",
+   "pos_pages": 40,
+   "neg_pages": 14,
+   "pos_rate": 0.036,
+   "precision": 0.741
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "nasa",
+   "pos_pages": 40,
+   "neg_pages": 17,
+   "pos_rate": 0.036,
+   "precision": 0.702
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "cpo",
+   "pos_pages": 40,
+   "neg_pages": 22,
+   "pos_rate": 0.036,
+   "precision": 0.645
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "cadence",
+   "pos_pages": 40,
+   "neg_pages": 44,
+   "pos_rate": 0.036,
+   "precision": 0.476
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "openai",
+   "pos_pages": 39,
+   "neg_pages": 78,
+   "pos_rate": 0.035,
+   "precision": 0.333
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "spacex",
+   "pos_pages": 39,
+   "neg_pages": 30,
+   "pos_rate": 0.035,
+   "precision": 0.565
+  },
+  {
+   "group": "found_launch",
+   "phrase": "to start",
+   "pos_pages": 39,
+   "neg_pages": 4,
+   "pos_rate": 0.035,
+   "precision": 0.907
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "evp",
+   "pos_pages": 38,
+   "neg_pages": 2,
+   "pos_rate": 0.034,
+   "precision": 0.95
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "scientist",
+   "pos_pages": 37,
+   "neg_pages": 8,
+   "pos_rate": 0.033,
+   "precision": 0.822
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "decades at",
+   "pos_pages": 37,
+   "neg_pages": 0,
+   "pos_rate": 0.033,
+   "precision": 1.0
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "vice president of engineering",
+   "pos_pages": 37,
+   "neg_pages": 1,
+   "pos_rate": 0.033,
+   "precision": 0.974
+  },
+  {
+   "group": "move_depart",
+   "phrase": "departed",
+   "pos_pages": 36,
+   "neg_pages": 3,
+   "pos_rate": 0.032,
+   "precision": 0.923
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "executive chairman",
+   "pos_pages": 36,
+   "neg_pages": 1,
+   "pos_rate": 0.032,
+   "precision": 0.973
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "phd",
+   "pos_pages": 36,
+   "neg_pages": 2,
+   "pos_rate": 0.032,
+   "precision": 0.947
+  },
+  {
+   "group": "academic_terms",
+   "phrase": "phd",
+   "pos_pages": 36,
+   "neg_pages": 2,
+   "pos_rate": 0.032,
+   "precision": 0.947
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "acquired by",
+   "pos_pages": 35,
+   "neg_pages": 64,
+   "pos_rate": 0.031,
+   "precision": 0.354
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "marvell",
+   "pos_pages": 35,
+   "neg_pages": 67,
+   "pos_rate": 0.031,
+   "precision": 0.343
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "appointment as",
+   "pos_pages": 34,
+   "neg_pages": 1,
+   "pos_rate": 0.03,
+   "precision": 0.971
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief revenue officer",
+   "pos_pages": 34,
+   "neg_pages": 0,
+   "pos_rate": 0.03,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "lockheed martin",
+   "pos_pages": 34,
+   "neg_pages": 28,
+   "pos_rate": 0.03,
+   "precision": 0.548
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "newly created role",
+   "pos_pages": 34,
+   "neg_pages": 0,
+   "pos_rate": 0.03,
+   "precision": 1.0
+  },
+  {
+   "group": "filing_person_terms",
+   "phrase": "effective immediately",
+   "pos_pages": 34,
+   "neg_pages": 0,
+   "pos_rate": 0.03,
+   "precision": 1.0
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "series c",
+   "pos_pages": 34,
+   "neg_pages": 138,
+   "pos_rate": 0.03,
+   "precision": 0.198
+  },
+  {
+   "group": "move_depart",
+   "phrase": "resignation",
+   "pos_pages": 33,
+   "neg_pages": 1,
+   "pos_rate": 0.029,
+   "precision": 0.971
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief legal officer",
+   "pos_pages": 33,
+   "neg_pages": 0,
+   "pos_rate": 0.029,
+   "precision": 1.0
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "fellow",
+   "pos_pages": 33,
+   "neg_pages": 20,
+   "pos_rate": 0.029,
+   "precision": 0.623
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "ph.d",
+   "pos_pages": 33,
+   "neg_pages": 0,
+   "pos_rate": 0.029,
+   "precision": 1.0
+  },
+  {
+   "group": "academic_terms",
+   "phrase": "ph.d",
+   "pos_pages": 33,
+   "neg_pages": 0,
+   "pos_rate": 0.029,
+   "precision": 1.0
+  },
+  {
+   "group": "filing_person_terms",
+   "phrase": "item 5.02",
+   "pos_pages": 33,
+   "neg_pages": 0,
+   "pos_rate": 0.029,
+   "precision": 1.0
+  },
+  {
+   "group": "found_launch",
+   "phrase": "co-found",
+   "pos_pages": 33,
+   "neg_pages": 1,
+   "pos_rate": 0.029,
+   "precision": 0.971
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "apple",
+   "pos_pages": 32,
+   "neg_pages": 7,
+   "pos_rate": 0.028,
+   "precision": 0.821
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "anthropic",
+   "pos_pages": 32,
+   "neg_pages": 59,
+   "pos_rate": 0.028,
+   "precision": 0.352
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "google cloud",
+   "pos_pages": 31,
+   "neg_pages": 16,
+   "pos_rate": 0.028,
+   "precision": 0.66
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "siemens",
+   "pos_pages": 31,
+   "neg_pages": 25,
+   "pos_rate": 0.028,
+   "precision": 0.554
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "announced the appointment",
+   "pos_pages": 31,
+   "neg_pages": 0,
+   "pos_rate": 0.028,
+   "precision": 1.0
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "professor",
+   "pos_pages": 30,
+   "neg_pages": 2,
+   "pos_rate": 0.027,
+   "precision": 0.938
+  },
+  {
+   "group": "academic_terms",
+   "phrase": "professor",
+   "pos_pages": 30,
+   "neg_pages": 2,
+   "pos_rate": 0.027,
+   "precision": 0.938
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "dell",
+   "pos_pages": 30,
+   "neg_pages": 13,
+   "pos_rate": 0.027,
+   "precision": 0.698
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "with more than",
+   "pos_pages": 30,
+   "neg_pages": 17,
+   "pos_rate": 0.027,
+   "precision": 0.638
+  },
+  {
+   "group": "new_role_terms",
+   "phrase": "new role",
+   "pos_pages": 30,
+   "neg_pages": 3,
+   "pos_rate": 0.027,
+   "precision": 0.909
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "general counsel",
+   "pos_pages": 29,
+   "neg_pages": 0,
+   "pos_rate": 0.026,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "deepmind",
+   "pos_pages": 29,
+   "neg_pages": 43,
+   "pos_rate": 0.026,
+   "precision": 0.403
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "cio",
+   "pos_pages": 28,
+   "neg_pages": 6,
+   "pos_rate": 0.025,
+   "precision": 0.824
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "google deepmind",
+   "pos_pages": 28,
+   "neg_pages": 39,
+   "pos_rate": 0.025,
+   "precision": 0.418
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief commercial officer",
+   "pos_pages": 28,
+   "neg_pages": 0,
+   "pos_rate": 0.025,
+   "precision": 1.0
+  },
+  {
+   "group": "filing_person_terms",
+   "phrase": "form 3",
+   "pos_pages": 28,
+   "neg_pages": 0,
+   "pos_rate": 0.025,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "department of energy",
+   "pos_pages": 27,
+   "neg_pages": 21,
+   "pos_rate": 0.024,
+   "precision": 0.562
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "workforce",
+   "pos_pages": 27,
+   "neg_pages": 12,
+   "pos_rate": 0.024,
+   "precision": 0.692
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "tsmc",
+   "pos_pages": 27,
+   "neg_pages": 34,
+   "pos_rate": 0.024,
+   "precision": 0.443
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief strategy officer",
+   "pos_pages": 27,
+   "neg_pages": 0,
+   "pos_rate": 0.024,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "resigned",
+   "pos_pages": 26,
+   "neg_pages": 0,
+   "pos_rate": 0.023,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief growth officer",
+   "pos_pages": 26,
+   "neg_pages": 0,
+   "pos_rate": 0.023,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "succeeds",
+   "pos_pages": 26,
+   "neg_pages": 9,
+   "pos_rate": 0.023,
+   "precision": 0.743
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "sequoia",
+   "pos_pages": 26,
+   "neg_pages": 57,
+   "pos_rate": 0.023,
+   "precision": 0.313
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "hiring surge",
+   "pos_pages": 26,
+   "neg_pages": 3,
+   "pos_rate": 0.023,
+   "precision": 0.897
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "globalfoundries",
+   "pos_pages": 26,
+   "neg_pages": 19,
+   "pos_rate": 0.023,
+   "precision": 0.578
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "backed by",
+   "pos_pages": 25,
+   "neg_pages": 87,
+   "pos_rate": 0.022,
+   "precision": 0.223
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "department of war",
+   "pos_pages": 25,
+   "neg_pages": 20,
+   "pos_rate": 0.022,
+   "precision": 0.556
+  },
+  {
+   "group": "board_terms",
+   "phrase": "advisory board",
+   "pos_pages": 25,
+   "neg_pages": 0,
+   "pos_rate": 0.022,
+   "precision": 1.0
+  },
+  {
+   "group": "board_terms",
+   "phrase": "class i director",
+   "pos_pages": 24,
+   "neg_pages": 0,
+   "pos_rate": 0.021,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "sk hynix",
+   "pos_pages": 24,
+   "neg_pages": 29,
+   "pos_rate": 0.021,
+   "precision": 0.453
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "scale ai",
+   "pos_pages": 24,
+   "neg_pages": 10,
+   "pos_rate": 0.021,
+   "precision": 0.706
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "department of defense",
+   "pos_pages": 23,
+   "neg_pages": 10,
+   "pos_rate": 0.02,
+   "precision": 0.697
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief business officer",
+   "pos_pages": 23,
+   "neg_pages": 2,
+   "pos_rate": 0.02,
+   "precision": 0.92
+  },
+  {
+   "group": "move_depart",
+   "phrase": "stepped down",
+   "pos_pages": 23,
+   "neg_pages": 0,
+   "pos_rate": 0.02,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "career at",
+   "pos_pages": 23,
+   "neg_pages": 0,
+   "pos_rate": 0.02,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "microchip",
+   "pos_pages": 22,
+   "neg_pages": 7,
+   "pos_rate": 0.02,
+   "precision": 0.759
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "goldman sachs",
+   "pos_pages": 22,
+   "neg_pages": 68,
+   "pos_rate": 0.02,
+   "precision": 0.244
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "western digital",
+   "pos_pages": 22,
+   "neg_pages": 9,
+   "pos_rate": 0.02,
+   "precision": 0.71
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "round led",
+   "pos_pages": 22,
+   "neg_pages": 22,
+   "pos_rate": 0.02,
+   "precision": 0.5
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "financing round",
+   "pos_pages": 22,
+   "neg_pages": 23,
+   "pos_rate": 0.02,
+   "precision": 0.489
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "l3harris",
+   "pos_pages": 21,
+   "neg_pages": 7,
+   "pos_rate": 0.019,
+   "precision": 0.75
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "salesforce",
+   "pos_pages": 21,
+   "neg_pages": 14,
+   "pos_rate": 0.019,
+   "precision": 0.6
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "j.p. morgan",
+   "pos_pages": 21,
+   "neg_pages": 47,
+   "pos_rate": 0.019,
+   "precision": 0.309
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "venture capital",
+   "pos_pages": 21,
+   "neg_pages": 24,
+   "pos_rate": 0.019,
+   "precision": 0.467
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "amazon web services",
+   "pos_pages": 21,
+   "neg_pages": 2,
+   "pos_rate": 0.019,
+   "precision": 0.913
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "equinix",
+   "pos_pages": 21,
+   "neg_pages": 38,
+   "pos_rate": 0.019,
+   "precision": 0.356
+  },
+  {
+   "group": "board_terms",
+   "phrase": "joined the board",
+   "pos_pages": 21,
+   "neg_pages": 7,
+   "pos_rate": 0.019,
+   "precision": 0.75
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "darpa",
+   "pos_pages": 20,
+   "neg_pages": 16,
+   "pos_rate": 0.018,
+   "precision": 0.556
+  },
+  {
+   "group": "academic_terms",
+   "phrase": "darpa",
+   "pos_pages": 20,
+   "neg_pages": 16,
+   "pos_rate": 0.018,
+   "precision": 0.556
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "ciso",
+   "pos_pages": 20,
+   "neg_pages": 8,
+   "pos_rate": 0.018,
+   "precision": 0.714
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "applied materials",
+   "pos_pages": 20,
+   "neg_pages": 14,
+   "pos_rate": 0.018,
+   "precision": 0.588
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "oversubscribed",
+   "pos_pages": 20,
+   "neg_pages": 57,
+   "pos_rate": 0.018,
+   "precision": 0.26
+  },
+  {
+   "group": "found_launch",
+   "phrase": "founded by",
+   "pos_pages": 20,
+   "neg_pages": 35,
+   "pos_rate": 0.018,
+   "precision": 0.364
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief people officer",
+   "pos_pages": 20,
+   "neg_pages": 0,
+   "pos_rate": 0.018,
+   "precision": 1.0
+  },
+  {
+   "group": "filing_person_terms",
+   "phrase": "form 4",
+   "pos_pages": 20,
+   "neg_pages": 0,
+   "pos_rate": 0.018,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "stanford",
+   "pos_pages": 19,
+   "neg_pages": 7,
+   "pos_rate": 0.017,
+   "precision": 0.731
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "follow-on",
+   "pos_pages": 19,
+   "neg_pages": 33,
+   "pos_rate": 0.017,
+   "precision": 0.365
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief information officer",
+   "pos_pages": 19,
+   "neg_pages": 0,
+   "pos_rate": 0.017,
+   "precision": 1.0
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "recruit",
+   "pos_pages": 19,
+   "neg_pages": 0,
+   "pos_rate": 0.017,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "vmware",
+   "pos_pages": 19,
+   "neg_pages": 3,
+   "pos_rate": 0.017,
+   "precision": 0.864
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "andreessen horowitz",
+   "pos_pages": 19,
+   "neg_pages": 56,
+   "pos_rate": 0.017,
+   "precision": 0.253
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "synopsys",
+   "pos_pages": 19,
+   "neg_pages": 34,
+   "pos_rate": 0.017,
+   "precision": 0.358
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "investment from",
+   "pos_pages": 19,
+   "neg_pages": 41,
+   "pos_rate": 0.017,
+   "precision": 0.317
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "appointment to",
+   "pos_pages": 19,
+   "neg_pages": 0,
+   "pos_rate": 0.017,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief information security officer",
+   "pos_pages": 18,
+   "neg_pages": 1,
+   "pos_rate": 0.016,
+   "precision": 0.947
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief development officer",
+   "pos_pages": 18,
+   "neg_pages": 0,
+   "pos_rate": 0.016,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "raytheon",
+   "pos_pages": 18,
+   "neg_pages": 3,
+   "pos_rate": 0.016,
+   "precision": 0.857
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief marketing officer",
+   "pos_pages": 18,
+   "neg_pages": 0,
+   "pos_rate": 0.016,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "digital realty",
+   "pos_pages": 18,
+   "neg_pages": 35,
+   "pos_rate": 0.016,
+   "precision": 0.34
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "schneider electric",
+   "pos_pages": 18,
+   "neg_pages": 16,
+   "pos_rate": 0.016,
+   "precision": 0.529
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "ionq",
+   "pos_pages": 17,
+   "neg_pages": 27,
+   "pos_rate": 0.015,
+   "precision": 0.386
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief engineer",
+   "pos_pages": 17,
+   "neg_pages": 0,
+   "pos_rate": 0.015,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "has left",
+   "pos_pages": 17,
+   "neg_pages": 0,
+   "pos_rate": 0.015,
+   "precision": 1.0
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "vp of engineering",
+   "pos_pages": 16,
+   "neg_pages": 1,
+   "pos_rate": 0.014,
+   "precision": 0.941
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "succeeded",
+   "pos_pages": 16,
+   "neg_pages": 0,
+   "pos_rate": 0.014,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "tenstorrent",
+   "pos_pages": 16,
+   "neg_pages": 31,
+   "pos_rate": 0.014,
+   "precision": 0.34
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "series e",
+   "pos_pages": 16,
+   "neg_pages": 57,
+   "pos_rate": 0.014,
+   "precision": 0.219
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "asml",
+   "pos_pages": 16,
+   "neg_pages": 16,
+   "pos_rate": 0.014,
+   "precision": 0.5
+  },
+  {
+   "group": "found_launch",
+   "phrase": "new venture",
+   "pos_pages": 16,
+   "neg_pages": 0,
+   "pos_rate": 0.014,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "harvard",
+   "pos_pages": 16,
+   "neg_pages": 5,
+   "pos_rate": 0.014,
+   "precision": 0.762
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "d-wave",
+   "pos_pages": 15,
+   "neg_pages": 9,
+   "pos_rate": 0.013,
+   "precision": 0.625
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "raises",
+   "pos_pages": 15,
+   "neg_pages": 29,
+   "pos_rate": 0.013,
+   "precision": 0.341
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief scientist",
+   "pos_pages": 15,
+   "neg_pages": 3,
+   "pos_rate": 0.013,
+   "precision": 0.833
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "chief scientist",
+   "pos_pages": 15,
+   "neg_pages": 3,
+   "pos_rate": 0.013,
+   "precision": 0.833
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "spac",
+   "pos_pages": 15,
+   "neg_pages": 18,
+   "pos_rate": 0.013,
+   "precision": 0.455
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "comes from",
+   "pos_pages": 15,
+   "neg_pages": 15,
+   "pos_rate": 0.013,
+   "precision": 0.5
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "sequoia capital",
+   "pos_pages": 15,
+   "neg_pages": 39,
+   "pos_rate": 0.013,
+   "precision": 0.278
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "coreweave",
+   "pos_pages": 15,
+   "neg_pages": 47,
+   "pos_rate": 0.013,
+   "precision": 0.242
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "elected to",
+   "pos_pages": 15,
+   "neg_pages": 0,
+   "pos_rate": 0.013,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief human resources officer",
+   "pos_pages": 15,
+   "neg_pages": 0,
+   "pos_rate": 0.013,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "texas instruments",
+   "pos_pages": 14,
+   "neg_pages": 3,
+   "pos_rate": 0.012,
+   "precision": 0.824
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "national laboratory",
+   "pos_pages": 14,
+   "neg_pages": 4,
+   "pos_rate": 0.012,
+   "precision": 0.778
+  },
+  {
+   "group": "academic_terms",
+   "phrase": "national laboratory",
+   "pos_pages": 14,
+   "neg_pages": 4,
+   "pos_rate": 0.012,
+   "precision": 0.778
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "rtx",
+   "pos_pages": 14,
+   "neg_pages": 14,
+   "pos_rate": 0.012,
+   "precision": 0.5
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "series d",
+   "pos_pages": 14,
+   "neg_pages": 79,
+   "pos_rate": 0.012,
+   "precision": 0.151
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "groq",
+   "pos_pages": 14,
+   "neg_pages": 40,
+   "pos_rate": 0.012,
+   "precision": 0.259
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "veteran of",
+   "pos_pages": 14,
+   "neg_pages": 0,
+   "pos_rate": 0.012,
+   "precision": 1.0
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "open roles",
+   "pos_pages": 14,
+   "neg_pages": 2,
+   "pos_rate": 0.012,
+   "precision": 0.875
+  },
+  {
+   "group": "move_depart",
+   "phrase": "departure of",
+   "pos_pages": 14,
+   "neg_pages": 14,
+   "pos_rate": 0.012,
+   "precision": 0.5
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "cro",
+   "pos_pages": 13,
+   "neg_pages": 1,
+   "pos_rate": 0.012,
+   "precision": 0.929
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "northrop grumman",
+   "pos_pages": 13,
+   "neg_pages": 22,
+   "pos_rate": 0.012,
+   "precision": 0.371
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "mentor graphics",
+   "pos_pages": 13,
+   "neg_pages": 0,
+   "pos_rate": 0.012,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "ge vernova",
+   "pos_pages": 13,
+   "neg_pages": 15,
+   "pos_rate": 0.012,
+   "precision": 0.464
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "pre-seed",
+   "pos_pages": 13,
+   "neg_pages": 31,
+   "pos_rate": 0.012,
+   "precision": 0.295
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "leidos",
+   "pos_pages": 13,
+   "neg_pages": 7,
+   "pos_rate": 0.012,
+   "precision": 0.65
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "xilinx",
+   "pos_pages": 13,
+   "neg_pages": 5,
+   "pos_rate": 0.012,
+   "precision": 0.722
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "research scientist",
+   "pos_pages": 13,
+   "neg_pages": 1,
+   "pos_rate": 0.012,
+   "precision": 0.929
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "rigetti",
+   "pos_pages": 12,
+   "neg_pages": 14,
+   "pos_rate": 0.011,
+   "precision": 0.462
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "rocket lab",
+   "pos_pages": 12,
+   "neg_pages": 15,
+   "pos_rate": 0.011,
+   "precision": 0.444
+  },
+  {
+   "group": "board_terms",
+   "phrase": "class iii director",
+   "pos_pages": 12,
+   "neg_pages": 0,
+   "pos_rate": 0.011,
+   "precision": 1.0
+  },
+  {
+   "group": "found_launch",
+   "phrase": "regex:former (?:\\w+ ){0,3}(?:engineers|researchers|scientists|executives)",
+   "pos_pages": 12,
+   "neg_pages": 4,
+   "pos_rate": 0.011,
+   "precision": 0.75
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "psiquantum",
+   "pos_pages": 11,
+   "neg_pages": 19,
+   "pos_rate": 0.01,
+   "precision": 0.367
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "in funding",
+   "pos_pages": 11,
+   "neg_pages": 4,
+   "pos_rate": 0.01,
+   "precision": 0.733
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "juniper networks",
+   "pos_pages": 11,
+   "neg_pages": 5,
+   "pos_rate": 0.01,
+   "precision": 0.688
+  },
+  {
+   "group": "move_depart",
+   "phrase": "exits",
+   "pos_pages": 11,
+   "neg_pages": 2,
+   "pos_rate": 0.01,
+   "precision": 0.846
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "team of",
+   "pos_pages": 11,
+   "neg_pages": 0,
+   "pos_rate": 0.01,
+   "precision": 1.0
+  },
+  {
+   "group": "team_lift_terms",
+   "phrase": "team of",
+   "pos_pages": 11,
+   "neg_pages": 0,
+   "pos_rate": 0.01,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "honeywell",
+   "pos_pages": 11,
+   "neg_pages": 3,
+   "pos_rate": 0.01,
+   "precision": 0.786
+  },
+  {
+   "group": "board_terms",
+   "phrase": "class ii director",
+   "pos_pages": 11,
+   "neg_pages": 0,
+   "pos_rate": 0.01,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "analog devices",
+   "pos_pages": 11,
+   "neg_pages": 6,
+   "pos_rate": 0.01,
+   "precision": 0.647
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "new hire",
+   "pos_pages": 11,
+   "neg_pages": 1,
+   "pos_rate": 0.01,
+   "precision": 0.917
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "xai",
+   "pos_pages": 10,
+   "neg_pages": 18,
+   "pos_rate": 0.009,
+   "precision": 0.357
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "cerebras",
+   "pos_pages": 10,
+   "neg_pages": 46,
+   "pos_rate": 0.009,
+   "precision": 0.179
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "renesas",
+   "pos_pages": 10,
+   "neg_pages": 11,
+   "pos_rate": 0.009,
+   "precision": 0.476
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "has been named",
+   "pos_pages": 10,
+   "neg_pages": 7,
+   "pos_rate": 0.009,
+   "precision": 0.588
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "decades of experience",
+   "pos_pages": 10,
+   "neg_pages": 0,
+   "pos_rate": 0.009,
+   "precision": 1.0
+  },
+  {
+   "group": "board_terms",
+   "phrase": "lead independent director",
+   "pos_pages": 10,
+   "neg_pages": 1,
+   "pos_rate": 0.009,
+   "precision": 0.909
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "scientists",
+   "pos_pages": 10,
+   "neg_pages": 1,
+   "pos_rate": 0.009,
+   "precision": 0.909
+  },
+  {
+   "group": "academic_terms",
+   "phrase": "postdoctoral",
+   "pos_pages": 9,
+   "neg_pages": 0,
+   "pos_rate": 0.008,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "blue origin",
+   "pos_pages": 9,
+   "neg_pages": 6,
+   "pos_rate": 0.008,
+   "precision": 0.6
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "recruitment",
+   "pos_pages": 9,
+   "neg_pages": 1,
+   "pos_rate": 0.008,
+   "precision": 0.9
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "palantir",
+   "pos_pages": 9,
+   "neg_pages": 11,
+   "pos_rate": 0.008,
+   "precision": 0.45
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "blackstone",
+   "pos_pages": 9,
+   "neg_pages": 24,
+   "pos_rate": 0.008,
+   "precision": 0.273
+  },
+  {
+   "group": "found_launch",
+   "phrase": "to launch",
+   "pos_pages": 9,
+   "neg_pages": 0,
+   "pos_rate": 0.008,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "hewlett packard enterprise",
+   "pos_pages": 9,
+   "neg_pages": 3,
+   "pos_rate": 0.008,
+   "precision": 0.75
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "recruits",
+   "pos_pages": 9,
+   "neg_pages": 0,
+   "pos_rate": 0.008,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "jpmorgan",
+   "pos_pages": 8,
+   "neg_pages": 22,
+   "pos_rate": 0.007,
+   "precision": 0.267
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "vertiv",
+   "pos_pages": 8,
+   "neg_pages": 13,
+   "pos_rate": 0.007,
+   "precision": 0.381
+  },
+  {
+   "group": "team_lift_terms",
+   "phrase": "senior engineers",
+   "pos_pages": 8,
+   "neg_pages": 0,
+   "pos_rate": 0.007,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "infineon",
+   "pos_pages": 8,
+   "neg_pages": 6,
+   "pos_rate": 0.007,
+   "precision": 0.571
+  },
+  {
+   "group": "filing_person_terms",
+   "phrase": "employment agreement",
+   "pos_pages": 8,
+   "neg_pages": 0,
+   "pos_rate": 0.007,
+   "precision": 1.0
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "seed funding",
+   "pos_pages": 8,
+   "neg_pages": 7,
+   "pos_rate": 0.007,
+   "precision": 0.533
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "boeing",
+   "pos_pages": 8,
+   "neg_pages": 6,
+   "pos_rate": 0.007,
+   "precision": 0.571
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "abb",
+   "pos_pages": 8,
+   "neg_pages": 22,
+   "pos_rate": 0.007,
+   "precision": 0.267
+  },
+  {
+   "group": "move_depart",
+   "phrase": "stepping down",
+   "pos_pages": 8,
+   "neg_pages": 0,
+   "pos_rate": 0.007,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "boston dynamics",
+   "pos_pages": 8,
+   "neg_pages": 16,
+   "pos_rate": 0.007,
+   "precision": 0.333
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "google brain",
+   "pos_pages": 8,
+   "neg_pages": 0,
+   "pos_rate": 0.007,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief ai officer",
+   "pos_pages": 8,
+   "neg_pages": 0,
+   "pos_rate": 0.007,
+   "precision": 1.0
+  },
+  {
+   "group": "academic_terms",
+   "phrase": "research institute",
+   "pos_pages": 8,
+   "neg_pages": 1,
+   "pos_rate": 0.007,
+   "precision": 0.889
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "onsemi",
+   "pos_pages": 8,
+   "neg_pages": 5,
+   "pos_rate": 0.007,
+   "precision": 0.615
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "infleqtion",
+   "pos_pages": 7,
+   "neg_pages": 14,
+   "pos_rate": 0.006,
+   "precision": 0.333
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "cmo",
+   "pos_pages": 7,
+   "neg_pages": 1,
+   "pos_rate": 0.006,
+   "precision": 0.875
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "nxp",
+   "pos_pages": 7,
+   "neg_pages": 6,
+   "pos_rate": 0.006,
+   "precision": 0.538
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "nokia",
+   "pos_pages": 7,
+   "neg_pages": 8,
+   "pos_rate": 0.006,
+   "precision": 0.467
+  },
+  {
+   "group": "found_launch",
+   "phrase": "spinout",
+   "pos_pages": 7,
+   "neg_pages": 10,
+   "pos_rate": 0.006,
+   "precision": 0.412
+  },
+  {
+   "group": "move_depart",
+   "phrase": "retirement of",
+   "pos_pages": 7,
+   "neg_pages": 0,
+   "pos_rate": 0.006,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "promotion of",
+   "pos_pages": 7,
+   "neg_pages": 0,
+   "pos_rate": 0.006,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "planet labs",
+   "pos_pages": 7,
+   "neg_pages": 6,
+   "pos_rate": 0.006,
+   "precision": 0.538
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "principal engineer",
+   "pos_pages": 6,
+   "neg_pages": 0,
+   "pos_rate": 0.005,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "los alamos",
+   "pos_pages": 6,
+   "neg_pages": 2,
+   "pos_rate": 0.005,
+   "precision": 0.75
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "to serve as",
+   "pos_pages": 6,
+   "neg_pages": 1,
+   "pos_rate": 0.005,
+   "precision": 0.857
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "airbus",
+   "pos_pages": 6,
+   "neg_pages": 2,
+   "pos_rate": 0.005,
+   "precision": 0.75
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "maxar",
+   "pos_pages": 6,
+   "neg_pages": 1,
+   "pos_rate": 0.005,
+   "precision": 0.857
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "ericsson",
+   "pos_pages": 6,
+   "neg_pages": 9,
+   "pos_rate": 0.005,
+   "precision": 0.4
+  },
+  {
+   "group": "new_role_terms",
+   "phrase": "newly formed",
+   "pos_pages": 6,
+   "neg_pages": 3,
+   "pos_rate": 0.005,
+   "precision": 0.667
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "caltech",
+   "pos_pages": 6,
+   "neg_pages": 0,
+   "pos_rate": 0.005,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "stmicroelectronics",
+   "pos_pages": 6,
+   "neg_pages": 2,
+   "pos_rate": 0.005,
+   "precision": 0.75
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "lam research",
+   "pos_pages": 6,
+   "neg_pages": 4,
+   "pos_rate": 0.005,
+   "precision": 0.6
+  },
+  {
+   "group": "board_terms",
+   "phrase": "board and audit committee",
+   "pos_pages": 6,
+   "neg_pages": 0,
+   "pos_rate": 0.005,
+   "precision": 1.0
+  },
+  {
+   "group": "found_launch",
+   "phrase": "spun out",
+   "pos_pages": 6,
+   "neg_pages": 19,
+   "pos_rate": 0.005,
+   "precision": 0.24
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "will join",
+   "pos_pages": 6,
+   "neg_pages": 0,
+   "pos_rate": 0.005,
+   "precision": 1.0
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "job postings",
+   "pos_pages": 6,
+   "neg_pages": 0,
+   "pos_rate": 0.005,
+   "precision": 1.0
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "director of engineering",
+   "pos_pages": 6,
+   "neg_pages": 0,
+   "pos_rate": 0.005,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "berkeley",
+   "pos_pages": 6,
+   "neg_pages": 3,
+   "pos_rate": 0.005,
+   "precision": 0.667
+  },
+  {
+   "group": "found_launch",
+   "phrase": "leaving to co-found",
+   "pos_pages": 6,
+   "neg_pages": 0,
+   "pos_rate": 0.005,
+   "precision": 1.0
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "participated in",
+   "pos_pages": 5,
+   "neg_pages": 5,
+   "pos_rate": 0.004,
+   "precision": 0.5
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "facebook",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "appoints",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "quantinuum",
+   "pos_pages": 5,
+   "neg_pages": 20,
+   "pos_rate": 0.004,
+   "precision": 0.2
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "series f",
+   "pos_pages": 5,
+   "neg_pages": 22,
+   "pos_rate": 0.004,
+   "precision": 0.185
+  },
+  {
+   "group": "board_terms",
+   "phrase": "chairman of the board",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "sambanova",
+   "pos_pages": 5,
+   "neg_pages": 24,
+   "pos_rate": 0.004,
+   "precision": 0.172
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "kla corporation",
+   "pos_pages": 5,
+   "neg_pages": 6,
+   "pos_rate": 0.004,
+   "precision": 0.455
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "technology center",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "distinguished engineer",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "bosch",
+   "pos_pages": 5,
+   "neg_pages": 9,
+   "pos_rate": 0.004,
+   "precision": 0.357
+  },
+  {
+   "group": "board_terms",
+   "phrase": "elected to the board",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "filing_person_terms",
+   "phrase": "offer letter",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "takes over",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "head of ai",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "eth zurich",
+   "pos_pages": 5,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "leaves",
+   "pos_pages": 5,
+   "neg_pages": 93,
+   "pos_rate": 0.004,
+   "precision": 0.051
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief supply chain officer",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "cco",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "meta platforms",
+   "pos_pages": 4,
+   "neg_pages": 1,
+   "pos_rate": 0.004,
+   "precision": 0.8
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "program manager",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "board_terms",
+   "phrase": "board observer",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "center of excellence",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chair of the board",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "design center",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "new_role_terms",
+   "phrase": "created a new",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "tapped",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "to succeed",
+   "pos_pages": 4,
+   "neg_pages": 0,
+   "pos_rate": 0.004,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "cdo",
+   "pos_pages": 3,
+   "neg_pages": 0,
+   "pos_rate": 0.003,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "resigns",
+   "pos_pages": 3,
+   "neg_pages": 9,
+   "pos_rate": 0.003,
+   "precision": 0.25
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "mistral",
+   "pos_pages": 3,
+   "neg_pages": 9,
+   "pos_rate": 0.003,
+   "precision": 0.25
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "series g",
+   "pos_pages": 3,
+   "neg_pages": 15,
+   "pos_rate": 0.003,
+   "precision": 0.167
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "arista",
+   "pos_pages": 3,
+   "neg_pages": 5,
+   "pos_rate": 0.003,
+   "precision": 0.375
+  },
+  {
+   "group": "new_role_terms",
+   "phrase": "newly established",
+   "pos_pages": 3,
+   "neg_pages": 0,
+   "pos_rate": 0.003,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "general dynamics",
+   "pos_pages": 3,
+   "neg_pages": 10,
+   "pos_rate": 0.003,
+   "precision": 0.231
+  },
+  {
+   "group": "move_depart",
+   "phrase": "exit of",
+   "pos_pages": 3,
+   "neg_pages": 0,
+   "pos_rate": 0.003,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "waymo",
+   "pos_pages": 3,
+   "neg_pages": 0,
+   "pos_rate": 0.003,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "cambridge",
+   "pos_pages": 3,
+   "neg_pages": 4,
+   "pos_rate": 0.003,
+   "precision": 0.429
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "head of engineering",
+   "pos_pages": 3,
+   "neg_pages": 0,
+   "pos_rate": 0.003,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "ibm research",
+   "pos_pages": 3,
+   "neg_pages": 0,
+   "pos_rate": 0.003,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief architect",
+   "pos_pages": 3,
+   "neg_pages": 0,
+   "pos_rate": 0.003,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "has hired",
+   "pos_pages": 3,
+   "neg_pages": 2,
+   "pos_rate": 0.003,
+   "precision": 0.6
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "oxford",
+   "pos_pages": 3,
+   "neg_pages": 3,
+   "pos_rate": 0.003,
+   "precision": 0.5
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "poach",
+   "pos_pages": 3,
+   "neg_pages": 0,
+   "pos_rate": 0.003,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "graphcore",
+   "pos_pages": 3,
+   "neg_pages": 0,
+   "pos_rate": 0.003,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "is named",
+   "pos_pages": 2,
+   "neg_pages": 3,
+   "pos_rate": 0.002,
+   "precision": 0.4
+  },
+  {
+   "group": "board_terms",
+   "phrase": "joins the board",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "found_launch",
+   "phrase": "founded by former",
+   "pos_pages": 2,
+   "neg_pages": 10,
+   "pos_rate": 0.002,
+   "precision": 0.167
+  },
+  {
+   "group": "board_terms",
+   "phrase": "board of governors",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief digital officer",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "carnegie mellon",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "nominated",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chro",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "found_launch",
+   "phrase": "stealth startup",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "plans to hire",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "will step down",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "to step down",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "engineering hub",
+   "pos_pages": 2,
+   "neg_pages": 1,
+   "pos_rate": 0.002,
+   "precision": 0.667
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "founding engineer",
+   "pos_pages": 2,
+   "neg_pages": 1,
+   "pos_rate": 0.002,
+   "precision": 0.667
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "tech lead",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "technical lead",
+   "pos_pages": 2,
+   "neg_pages": 1,
+   "pos_rate": 0.002,
+   "precision": 0.667
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "team lead",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "retires",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "set to join",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "tencent",
+   "pos_pages": 2,
+   "neg_pages": 3,
+   "pos_rate": 0.002,
+   "precision": 0.4
+  },
+  {
+   "group": "academic_terms",
+   "phrase": "nobel",
+   "pos_pages": 2,
+   "neg_pages": 1,
+   "pos_rate": 0.002,
+   "precision": 0.667
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "research center",
+   "pos_pages": 2,
+   "neg_pages": 1,
+   "pos_rate": 0.002,
+   "precision": 0.667
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "head of research",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "hiring_terms",
+   "phrase": "open positions",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "oak ridge",
+   "pos_pages": 2,
+   "neg_pages": 1,
+   "pos_rate": 0.002,
+   "precision": 0.667
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "huawei",
+   "pos_pages": 2,
+   "neg_pages": 1,
+   "pos_rate": 0.002,
+   "precision": 0.667
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "promotes",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "steps down",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "cso",
+   "pos_pages": 2,
+   "neg_pages": 0,
+   "pos_rate": 0.002,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "jpl",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "lawrence livermore",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "board_terms",
+   "phrase": "non-executive director",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "team_lift_terms",
+   "phrase": "team members",
+   "pos_pages": 1,
+   "neg_pages": 1,
+   "pos_rate": 0.001,
+   "precision": 0.5
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "development center",
+   "pos_pages": 1,
+   "neg_pages": 1,
+   "pos_rate": 0.001,
+   "precision": 0.5
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "will serve as",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief ai scientist",
+   "pos_pages": 1,
+   "neg_pages": 3,
+   "pos_rate": 0.001,
+   "precision": 0.25
+  },
+  {
+   "group": "team_lift_terms",
+   "phrase": "entire team",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "engineering center",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "filing_person_terms",
+   "phrase": "commencing",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "alibaba",
+   "pos_pages": 1,
+   "neg_pages": 9,
+   "pos_rate": 0.001,
+   "precision": 0.1
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "clo",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "assumed the role",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "will depart",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "has named",
+   "pos_pages": 1,
+   "neg_pages": 3,
+   "pos_rate": 0.001,
+   "precision": 0.25
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief data officer",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "naming of",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "to be acquired",
+   "pos_pages": 1,
+   "neg_pages": 8,
+   "pos_rate": 0.001,
+   "precision": 0.111
+  },
+  {
+   "group": "found_launch",
+   "phrase": "cofounder",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "has joined",
+   "pos_pages": 1,
+   "neg_pages": 1,
+   "pos_rate": 0.001,
+   "precision": 0.5
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "director of research",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_markers",
+   "phrase": "prior to joining",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "board_terms",
+   "phrase": "appointed to the board",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "departs",
+   "pos_pages": 1,
+   "neg_pages": 65,
+   "pos_rate": 0.001,
+   "precision": 0.015
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "gpu architect",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "poaching",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "team_lift_terms",
+   "phrase": "senior researchers",
+   "pos_pages": 1,
+   "neg_pages": 1,
+   "pos_rate": 0.001,
+   "precision": 0.5
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief technical officer",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "r&d center",
+   "pos_pages": 1,
+   "neg_pages": 1,
+   "pos_rate": 0.001,
+   "precision": 0.5
+  },
+  {
+   "group": "funding_terms",
+   "phrase": "goes public",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "pedigree_orgs",
+   "phrase": "viasat",
+   "pos_pages": 1,
+   "neg_pages": 1,
+   "pos_rate": 0.001,
+   "precision": 0.5
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "r&d facility",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "found_launch",
+   "phrase": "new startup",
+   "pos_pages": 1,
+   "neg_pages": 1,
+   "pos_rate": 0.001,
+   "precision": 0.5
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "technical fellow",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "exec_titles",
+   "phrase": "chief scientific officer",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "move_appoint",
+   "phrase": "will succeed",
+   "pos_pages": 1,
+   "neg_pages": 1,
+   "pos_rate": 0.001,
+   "precision": 0.5
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "lead engineer",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "move_depart",
+   "phrase": "will leave",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "new campus",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "new_role_terms",
+   "phrase": "new position",
+   "pos_pages": 1,
+   "neg_pages": 5,
+   "pos_rate": 0.001,
+   "precision": 0.167
+  },
+  {
+   "group": "move_depart",
+   "phrase": "poached",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "tech_titles",
+   "phrase": "research lead",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  },
+  {
+   "group": "facility_talent_terms",
+   "phrase": "new office",
+   "pos_pages": 1,
+   "neg_pages": 0,
+   "pos_rate": 0.001,
+   "precision": 1.0
+  }
+ ]
+}
